@@ -19,7 +19,7 @@ use String::Approx qw (amatch) ;
 
 # Dieses Script modifiziert die Aufnahmeverzeichnisse von Serien im VDR nach extern vorgegeben Schemata zum Format Season Episode
 # Die Formatierung der externen .episoden dateien ist in den Beispieldateien erklärt.
-my $LastEdit = "04.10.2006";
+my $LastEdit = "05.10.2006";
 my $use = "\$ VdrRecordSE.pl [-h -s -p] [-c {ConfigDir] [-i VideoDir] [ -f {\"\%N \%S \%E \%T\"} ]
 
 -h	help : Zeige die eingebaute Hilfe an, sonst nix
