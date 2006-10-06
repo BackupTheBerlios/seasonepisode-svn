@@ -146,10 +146,9 @@ foreach my $Zeile ( @VideoList ) {
 	next if ( $time - $index_write < 2 ) ;
 
 ##### Aufnahme verzeichnis auslesen Ende
-
 		my $NSerie  ;
 		my $NEpisode ;
-		if ( $OEpisode =~ /\_\(.*/ )  { $OEpisode = $` ; }
+		if ( $OEpisode =~ /\(.*/ )  { $OEpisode = $` ; }
 #
 		## Ab hier wird spannend , wir vergleichen den Serientitel mit den Episodenlistentiteln	
 		foreach  ( sort keys %Episoden_Lists ) { 
@@ -220,11 +219,14 @@ foreach my $Zeile ( @VideoList ) {
 #					print "@OrigDir\n" ;
 					$"="/" ;
 					my $OrigDirPfad = "/@OrigDir/" ;
+					splice @OrigDir, $#OrigDir ;
+					my $OrigDirPfadRem = "/@OrigDir" ;
 					$"=" " ;
 #					print "$OrigDirPfad\n" ;
 					unless ( $opt_p ) { 
 						move ("$OrigDirPfad/" ,  "$opt_i${NSerie}/${NEpisode}/") ;
-						rmdir ("$OrigDirPfad/") ;
+#						print "$OrigDirPfadRem\n" ;
+						rmdir ("$OrigDirPfadRem") and print_mess ( "Leeres Verzeichnis $OrigDirPfadRem gelöscht\n" ) ;
 					 }
 				}
 			}
