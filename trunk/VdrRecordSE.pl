@@ -19,7 +19,7 @@ use String::Approx qw (amatch) ;
 
 # Dieses Script modifiziert die Aufnahmeverzeichnisse von Serien im VDR nach extern vorgegeben Schemata zum Format Season Episode
 # Die Formatierung der externen .episoden dateien ist in den Beispieldateien erklärt.
-my $LastEdit = "05.10.2006";
+my $LastEdit = "06.10.2006";
 my $use = "\$ VdrRecordSE.pl [-h -s -p] [-c {ConfigDir] [-i VideoDir] [ -f {\"\%N \%S \%E \%T\"} ]
 
 -h	help : Zeige die eingebaute Hilfe an, sonst nix
@@ -78,6 +78,9 @@ könnt ihr es euch schnell vom CPAN holen
 Viel Spaß
 alexanderrichter\@gmx.net
 " ;
+###debug
+my $getEPG = 1 ;
+
 
 our( $opt_s , $opt_h , $opt_i , $opt_c , $opt_p , $opt_f ) ;
 getopts("shi:c:pf:") ;
@@ -231,12 +234,144 @@ foreach my $Zeile ( @VideoList ) {
 				}
 			}
 		}
+#		print_mess ("keine vorhanden Infos gefunden für : $OSerie\n") ;
+		find_Infos_by_premiere_epg ( $Zeile , $OSerie , $OEpisode , $opt_c ) ;
+		
 }	
 unless ( $opt_p ) { system ("touch $opt_i.update")  ; }
+
+#### Funktionen
 
 sub print_mess {
 my $mess = $_[0] ;
 	 if ( $opt_s ne 1 ) {
 		print "$mess" ;
 	}
+}
+
+
+#### experimentelle Option ---> extrahiere Season Episode Infos aus dem info.vdr ( works only with premiere epg )
+
+sub find_Infos_by_premiere_epg {
+# braucht ( kompletter Pfad zur Aufnahme , Serie , Episode , Pfad_zu_den_episodes-Dateien )
+my $RecDir = $_[0] ;
+my $OSerie = $_[1] ;
+my $OEpisode = $_[2] ;
+my $Episodes = $_[3] ;
+#my $OSerie 
+### code orig :
+my ( $yes , $Sea , $Epi ) = &find_SE_infos ( $RecDir ) ;
+#print_mess ("$RecDir $yes , $Sea , $Epi\n") ;
+if ( $yes eq 1 ) {
+	unless ( durchsuche_episodes ( "${Episodes}${OSerie}.episodes" , $Sea , $Epi ) ) {
+#		print "durchsuche_episodes hat nix gefunden, cool\n" ;
+		my $OEpisode_print = $OEpisode ;
+		$OEpisode_print =~ s/\[w+\]// ;
+		$OEpisode_print =~ s/\d+\.\d+\-// ;
+		unless ( $opt_p ) {
+			erweitere_episodes ( "${Episodes}${OSerie}.episodes" , $Sea , $Epi , "nn" , $OEpisode_print )  ;
+		}
+		print_mess ( "Neuer Eintrag in ${Episodes}${OSerie}.episodes --> $Sea $Epi  nn  $OEpisode_print\n" ) ;
+	}
+}
+}
+
+
+
+
+sub erweitere_episodes {
+## erwartet ( episodes-Datei , Serie-numerisch , Episode-numerisch , Nummerierung|nn , Serientitel )
+## gibt zurück ( 1|undef )
+if ( $_[1] =~ /^\d{1}$/ ) { $_[1] = "0$_[1]" ; } # führende Null dran, wenn nötig
+if ( $_[2] =~ /^\d{1}$/ ) { $_[2] = "0$_[2]" ; } # führende Null dran, wenn nötig
+my $new = "$_[1]\t$_[2]\t$_[3]\t$_[4]" ;
+my @all ;
+open FH , "$_[0]" and @all = <FH> and close FH and chomp @all ;
+push @all , $new ;
+my @sortet = sort @all ;
+	unless ( -f "$_[0].new" ) {
+		open FHNEW , ">$_[0].new" or die "konnte nicht öffnen" ; 
+		foreach ( @sortet ) { print FHNEW "$_\n" ; }
+		close FHNEW ;
+		move ( "$_[0].new" , "$_[0]" ) ;
+	}
+return undef ;
+}
+
+
+#if ( durchsuche_episodes ( $Dir , $S , $E ) ) { print "yes\n" } ;
+#if ( defined $a ) { print "$Dir , $S , $E , $a\n" } ;
+
+## eine funktion, die in einer episodes Datei nach einem Serie Episode Muster schaut
+sub durchsuche_episodes {
+## erwartet ( episodes-Datei , suchinhalt-Serie-numerisch , suchinhalt-Episode-numerisch )
+## gibt zurück ( 1|undef )
+return undef unless ( -f $_[0] ) ;
+if ( $_[1] =~ /^\d{1}$/ ) { $_[1] = "0$_[1]" ; } # führende Null dran, wenn nötig
+if ( $_[2] =~ /^\d{1}$/ ) { $_[2] = "0$_[2]" ; } # führende Null dran, wenn nötig
+open FH , "$_[0]" or return undef ;
+ while ( my $zeile = <FH> ) {
+	if ( $zeile =~ /^$_[1]/ and $zeile =~ /^\d+\t$_[2]/ ) { return 1 }
+}
+close FH ;
+return undef ;
+}
+
+
+
+#my $Dir = $ARGV[0] ;
+#my  ( $yes , $Episoden_Lists ) ;
+#my ( $yes , $Episoden_Lists ) = &hole_episodes ( $Dir , "episodes" ) ;
+#my %Episoden_Lists = %$Episoden_Lists  ; # Kopie von der Hashreferenz, besser zu lesen
+#print "$yes  $Episoden_Lists\n" ; 
+
+#Wir holen uns einen Hash mit allen episoden Dateien
+sub hole_episodes {
+## erwartet ( Verzeichnis , Dateiendung )
+## sendet ( 1|0 , HashRef ) # key -> name der episodendatei , vallue -> Ort der Datei
+## Verzeichnis mit den Ersetzungslisten einlesen :
+#print "$_[0] , $_[1]\n" ;
+return 0 unless ( -d "$_[0]" ) ;
+my @Episoden_Dir = glob "$_[0]*$_[1]"  ;
+my %Episoden_Lists ;
+	foreach ( @Episoden_Dir ) {
+#		print "$_\n" ;
+		my $clean_Epsioden_list_name = basename ( $_ ) ;
+		$clean_Epsioden_list_name =~ s/\.episodes// ;
+		if ( not defined $Episoden_Lists{$clean_Epsioden_list_name} ) {
+			$Episoden_Lists{$clean_Epsioden_list_name} = $_ ;
+		}
+	}
+return 1 , \%Episoden_Lists ;
+}
+
+
+# ein Funktion zum herausfiltern der season episode Info aus der info.vdr Datei
+#my $Dir = $ARGV[0] ;
+
+#my ( $yes , $Sea , $Epi ) = &find_SE_infos ( $Dir ) ; 
+#if ( $yes eq 1 ) { print "$Sea\.$Epi\n" ; }
+
+# ein Funktion zum herausfiltern der season episode Info aus der info.vdr Datei bei EPG-Daten von Premiere
+sub find_SE_infos {
+# erwartet ( Directory )
+# retuniert ( 1|0 , Season , Episode )
+my @CF = split ( "/" , $_[0] ) ;
+shift @CF  ; # 1. element wegschneiden, weil split ein erstes leeres element liefert
+splice @CF , $#CF ;
+$"="/" ;
+my $newCF = "/@CF/info.vdr" ;
+$"=" " ;
+my ( $Sea , $Epi ) ;
+open INFO , "$newCF" or die "konnte $newCF nicht öffnen" ;
+	while ( my $zeile = <INFO> ) {
+		next unless ( $zeile =~ /^D\ / ) ;
+		( $Sea , $Epi ) = $zeile =~ /^D\ (\d+)\..*Folge\ (\d+)\:/ ;
+	}
+	if ( defined $Sea and defined  $Epi ) {
+		if ( $Sea =~ /^\d{1}$/ ) { $Sea = "0$Sea" ; } # führende Null dran, wenn nötig
+		if ( $Epi =~ /^\d{1}$/ ) { $Epi = "0$Epi" ; } # führende Null dran, wenn nötig
+	return 1 , $Sea , $Epi ;
+	}
+	else { return 0 , 0 , 0 }
 }
