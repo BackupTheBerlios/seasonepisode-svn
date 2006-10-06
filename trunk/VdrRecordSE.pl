@@ -222,7 +222,10 @@ foreach my $Zeile ( @VideoList ) {
 					my $OrigDirPfad = "/@OrigDir/" ;
 					$"=" " ;
 #					print "$OrigDirPfad\n" ;
-					unless ( $opt_p ) { move ("$OrigDirPfad/" ,  "$opt_i${NSerie}/${NEpisode}/") ; }
+					unless ( $opt_p ) { 
+						move ("$OrigDirPfad/" ,  "$opt_i${NSerie}/${NEpisode}/") ;
+						rmdir ("$OrigDirPfad/") ;
+					 }
 				}
 			}
 		}
