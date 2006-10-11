@@ -19,7 +19,7 @@ use String::Approx qw (amatch) ;
 
 # Dieses Script modifiziert die Aufnahmeverzeichnisse von Serien im VDR nach extern vorgegeben Schemata zum Format Season Episode
 # Die Formatierung der externen .episoden dateien ist in den Beispieldateien erklärt.
-my $LastEdit = "06.10.2006";
+my $LastEdit = "07.10.2006";
 my $use = "\$ VdrRecordSE.pl [-h -s -p] [-c {ConfigDir] [-i VideoDir] [ -f {\"\%N \%S \%E \%T\"} ]
 
 -h	help : Zeige die eingebaute Hilfe an, sonst nix
@@ -79,8 +79,7 @@ Viel Spaß
 alexanderrichter\@gmx.net
 " ;
 ###debug
-my $getEPG = 1 ;
-
+#my $getEPG = 1 ;
 
 our( $opt_s , $opt_h , $opt_i , $opt_c , $opt_p , $opt_f ) ;
 getopts("shi:c:pf:") ;
@@ -125,12 +124,11 @@ find ( \&funcfind , "$opt_i" )  ;
 
 
 sub funcfind {
-#return unless ( $File::Find::name =~ /.*rec\/index.vdr?/ ) ;
-#return unless ( $File::Find::name =~ /.*\/.*rec\/index.vdr?/ ) ;
 return unless ( $File::Find::name =~ /.*rec\/index.vdr?/ ) ;
 push ( @VideoList , $File::Find::name ) ;
 }
 
+###################################################################################################
 
 #/video/Six_Feet_Under_-_Gestorben_wird_immer/4.05-Das_ist_mein_Hund/2005-08-21.21:55.50.50.rec/ready_to_transcode.flag
 foreach my $Zeile ( @VideoList ) {
@@ -153,62 +151,57 @@ foreach my $Zeile ( @VideoList ) {
 		my $NEpisode ;
 		if ( $OEpisode =~ /\(.*/ )  { $OEpisode = $` ; }
 #
+		my $matched_by_episodes = 0 ;
 		## Ab hier wird spannend , wir vergleichen den Serientitel mit den Episodenlistentiteln	
 		foreach  ( sort keys %Episoden_Lists ) { 
-			#print "$_\n" ;
-			if ( amatch ("$OSerie" , ["30%"] , "$_")) {	
-#			print "passt : $OSerie ,$_\n" ;
-				## wenns passt, die episoden datei geöffnet
-				open ELIST , "$Episoden_Lists{$_}" or die "konnte $Episoden_Lists{$_} nicht öffnen" ;
-				while ( my $EZeile = <ELIST> ) {
-					#Season  episode fullnumber titel any_other
-					#01	1	1	Es weihnachtet schwer	Simpsons Roasting on an Open Fire	7G08
-					# überspringe kommentarzeilen oder mit führendem Leerzeichen beginnend, genauso mit nur einem return zeichen
-					next if ( $EZeile =~ /^#[^short]/ or $EZeile  =~ /^\ *\n$/ or $EZeile  =~ /^\n$/ ) ;
-					chomp $EZeile ;
-#					print "$EZeile\n" ;
-					# wenn zeile mit "short" beginnt, steht dahinter der ersetzungsname der serie
-					if ( $EZeile =~ /^#short/ ) { 
-						( $NSerie ) = $EZeile =~ /^#short\s+(.*)$/ ;
-						#print "aufgrund von short folgenden Namen gefunden : $NSerie\n" ;
-					}
-					# sonst kanns nur eine zeile mit dem Episodentitel sein, oder eben nicht passend
-					else {
-						my ( $ZahlS , $ZahlE , $ZahlN ,  $Name ) = split ( "\t" ,  $EZeile ) ;#=~ /^(\d+\.\d+)\ (.*)$/ ;
-#						print "\$Name $Name \$OEpisode $OEpisode\n" ;
-						if ( amatch ("$Name" , ["15%"] , "$OEpisode" )) {
-#						print "matching : $ZahlS , $ZahlE , $ZahlN ,  $Name $OEpisode\n" ;
-						my ( $PreName  ) = $OEpisode =~ /(\[\w+\])/ ;
-#						print "$PreName\n" ;
-						$Name =~ s /\ +/_/g ;
-						$Name =~ s /_+/_/g ;
-						my %FormatHash = (
-							'%S' => "$ZahlS" , 
-							'%E' => "$ZahlE" , 
-							'%N' => "$ZahlN" , 
-							'%T' => "$Name" ) ;
-#							print "passt : $Name <-> $OEpisode\n" ;
-						# traum wir haben das matching, also setzen wir den Namen neu
-						my $opt_f_work = $opt_f ;
-						foreach ( '%S' , '%E' , '%T' , '%N' ) {
-#							print "$_\n" ;
-							if ( $opt_f_work  =~ /$_/ ) {
-#								print "$opt_f\t" ;
-								$opt_f_work =~ s/$_/$FormatHash{$_}/ ;
-#								print "$opt_f\n" ;
-							}
-						}
-						if ( defined $PreName ) { $opt_f_work = "${PreName}${opt_f_work}" ; }
-						$NEpisode = "$opt_f_work" ;
-						# in der schleife haben wir alles 
-						last ;
-						}	
-						else { $NEpisode = "nn" } 
-					}
+#			print "foreach  \( sort keys \%Episoden_Lists $_\n" ;
+			if ( amatch ("$OSerie" , ["30%"] , "$_")) {
+				my ( $match_in_episodes , $ZahlS , $ZahlE , $ZahlN , $NSerie ) = finde_SE_in_episodes_Datei ( $Episoden_Lists{$_} , $OEpisode ) ;
+				if ( defined $match_in_episodes and $match_in_episodes eq 1 ) { 
+#					print "$match_in_episodes $ZahlS , $ZahlE , $ZahlN , $OEpisode\n" ;
+					$NEpisode = formatiere_neuen_episodennamen  ( $OEpisode , $ZahlS , $ZahlE , $ZahlN , $opt_f ) ;
+#					print "\$NEpisode $NEpisode\n" ;
+					unless ( defined $NSerie ) { $NSerie  =  ${OSerie} ; } 
+					move_old_to_new ( $OSerie , $OEpisode , $NSerie , $NEpisode , $Zeile , $opt_i , $opt_p ) ;
+					$matched_by_episodes = 1 ;
+				last ;
 				}
-				close ELIST ;
-				unless ( defined $NSerie ) { $NSerie  =  ${OSerie} ; } 
-				unless ( $NEpisode eq "nn" ) {
+			}
+		}
+		unless  ( $matched_by_episodes eq 1 ) { 
+#			print "not matched_by_episodes\n" ;
+			if ( find_Infos_by_premiere_epg ( $Zeile , $OSerie , $OEpisode , $opt_c ) ) {
+				print "matched_by_premiere_epg :-)\n" ;
+				# harter hack : ich rufe mich selbst nochmal auf :
+#				print "$0 -s -i $opt_i -c  $opt_c -f $opt_f\n" ;
+				unless ( $opt_p ) { system ("$0 -s -i $opt_i -c  $opt_c -f $opt_f") ; }
+			}	
+		}
+}
+#		print_mess ("keine vorhanden Infos gefunden für : $OSerie\n") ;
+#		find_Infos_by_premiere_epg ( $Zeile , $OSerie , $OEpisode , $opt_c ) ;
+unless ( $opt_p ) { system ("touch $opt_i.update")  ; }		
+###################################################################################################
+
+#### Ab hier nur noch Funktionen :
+
+
+			sub move_old_to_new {
+			# erwartet ( $OSerie , $OEpisode , $NSerie , $NEpisode , $Zeile , $opt_i , $opt_p )
+			# gibt zurück ()
+			### code 
+			my $OSerie = $_[0] ; 
+			my $OEpisode = $_[1] ; 
+			my $NSerie = $_[2] ;
+			my $NEpisode = $_[3] ;
+			my $Zeile = $_[4] ;
+			my $opt_i = $_[5] ;
+			my $opt_p = $_[6] ;
+
+			my @CurrFile = split ( "/" , $Zeile ) ;
+			shift @CurrFile  ; # 1. element wegschneiden, weil split ein erstest leeres element liefert
+
+#				unless ( $NEpisode eq "nn" ) {
 					print_mess ( "vorher\t: ${OSerie}\/${OEpisode}\n" ) ;
 					print_mess ( "nachher\t: ${NSerie}\/${NEpisode}\n\n" ) ;
 					unless ( $opt_p ) { mkdir ("$opt_i${NSerie}")  ; }
@@ -230,17 +223,87 @@ foreach my $Zeile ( @VideoList ) {
 						move ("$OrigDirPfad/" ,  "$opt_i${NSerie}/${NEpisode}/") ;
 #						print "$OrigDirPfadRem\n" ;
 						rmdir ("$OrigDirPfadRem") and print_mess ( "Leeres Verzeichnis $OrigDirPfadRem gelöscht\n" ) ;
+				
 					 }
-				}
+#				}
 			}
-		}
-#		print_mess ("keine vorhanden Infos gefunden für : $OSerie\n") ;
-		find_Infos_by_premiere_epg ( $Zeile , $OSerie , $OEpisode , $opt_c ) ;
-		
-}	
-unless ( $opt_p ) { system ("touch $opt_i.update")  ; }
 
-#### Funktionen
+
+
+
+			sub formatiere_neuen_episodennamen {
+			# erwartet ( $OEpisode , $ZahlS , $ZahlE , $ZahlN , $opt_f )
+			# gibt zurück ( $neuen_namen ) 
+			my $OEpisode = $_[0] ;
+			my $ZahlS = $_[1] ;
+			my $ZahlE = $_[2] ;
+			my $ZahlN = $_[3] ;
+			my $opt_f = $_[4] ;
+							
+						my ( $PreName  ) = $OEpisode =~ /(\[\w+\])/ ;
+						( my  $Name  =  $OEpisode ) =~ s/\[\w+\]// ;
+						$Name =~ s /\ +/_/g ;
+						$Name =~ s /_+/_/g ;
+						my %FormatHash = (
+							'%S' => "$ZahlS" , 
+							'%E' => "$ZahlE" , 
+							'%N' => "$ZahlN" , 
+							'%T' => "$Name" ) ;
+						my $opt_f_work = $opt_f ;
+						foreach ( '%S' , '%E' , '%T' , '%N' ) {
+#							print "$_ --> $FormatHash{$_}\n" ;
+							if ( $opt_f_work  =~ /$_/ ) {
+#								print "$opt_f\t" ;
+								$opt_f_work =~ s/$_/$FormatHash{$_}/ ;
+#								print "$opt_f_work\n" ;
+							}
+						}
+						if ( defined $PreName ) { $opt_f_work = "${PreName}${opt_f_work}" ; }
+						return  $opt_f_work ;
+		}
+
+
+
+
+
+
+			### Wir haben eine passende episodes Datei, daher kommt hier eine Funktion, die in der Episodes Datei
+			### nach dem Inhalt fandet
+			sub finde_SE_in_episodes_Datei {
+			### erwartet : ( EpisodenDatei ,  OEpisode )
+			### gibt zurück : ( 1|0 , $ZahlS , $ZahlE , $ZahlN )
+
+			my $EpisodesDatei = $_[0] ;
+			my $OEpisode = $_[1] ;
+			my $NSerie ;
+
+			open ELIST , "$EpisodesDatei" or die "konnte $EpisodesDatei nicht öffnen" ;
+				while ( my $EZeile = <ELIST> ) {
+					#Season  episode fullnumber titel any_other
+					#01	1	1	Es weihnachtet schwer	Simpsons Roasting on an Open Fire	7G08
+					# überspringe kommentarzeilen oder mit führendem Leerzeichen beginnend, genauso mit nur einem return zeichen
+					next if ( $EZeile =~ /^#[^short]/ or $EZeile  =~ /^\ *\n$/ or $EZeile  =~ /^\n$/ ) ;
+					chomp $EZeile ;
+#					print "$EZeile\n" ;
+					# wenn zeile mit "short" beginnt, steht dahinter der ersetzungsname der serie
+					if ( $EZeile =~ /^#short/ ) { 
+						( $NSerie ) = $EZeile =~ /^#short\s+(.*)$/ ;
+						#print "aufgrund von short folgenden Namen gefunden : $NSerie\n" ;
+					}
+					# sonst kanns nur eine zeile mit dem Episodentitel sein, oder eben nicht passend
+					else {
+						my ( $ZahlS , $ZahlE , $ZahlN ,  $Name ) = split ( "\t" ,  $EZeile ) ;#=~ /^(\d+\.\d+)\ (.*)$/ ;
+#						print "\$Name $Name \$OEpisode $OEpisode\n" ;
+						if ( amatch ("$Name" , ["15%"] , "$OEpisode" )) {
+#						print "matching : $ZahlS , $ZahlE , $ZahlN ,  $Name $OEpisode\n" ;
+						return 1 , $ZahlS , $ZahlE , $ZahlN , $NSerie ;
+						last ;
+						}	
+					}
+				}
+				close ELIST ;
+				return 0 ;
+			}
 
 sub print_mess {
 my $mess = $_[0] ;
@@ -254,6 +317,7 @@ my $mess = $_[0] ;
 
 sub find_Infos_by_premiere_epg {
 # braucht ( kompletter Pfad zur Aufnahme , Serie , Episode , Pfad_zu_den_episodes-Dateien )
+# gibt zurück ( 1| undef )
 my $RecDir = $_[0] ;
 my $OSerie = $_[1] ;
 my $OEpisode = $_[2] ;
@@ -272,6 +336,7 @@ if ( $yes eq 1 ) {
 			erweitere_episodes ( "${Episodes}${OSerie}.episodes" , $Sea , $Epi , "nn" , $OEpisode_print )  ;
 		}
 		print_mess ( "Neuer Eintrag in ${Episodes}${OSerie}.episodes --> $Sea $Epi  nn  $OEpisode_print\n" ) ;
+		return 1 ;
 	}
 }
 }
