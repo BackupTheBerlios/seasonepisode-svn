@@ -294,7 +294,7 @@ unless ( $opt_p ) { system ("touch $opt_i.update")  ; }
 					else {
 						my ( $ZahlS , $ZahlE , $ZahlN ,  $Name ) = split ( "\t" ,  $EZeile ) ;#=~ /^(\d+\.\d+)\ (.*)$/ ;
 #						print "\$Name $Name \$OEpisode $OEpisode\n" ;
-						if ( amatch ("$Name" , ["15%"] , "$OEpisode" )) {
+						if ( amatch ("$Name" , ["20%"] , "$OEpisode" )) {
 #						print "matching : $ZahlS , $ZahlE , $ZahlN ,  $Name $OEpisode\n" ;
 						return 1 , $ZahlS , $ZahlE , $ZahlN , $NSerie ;
 						last ;
