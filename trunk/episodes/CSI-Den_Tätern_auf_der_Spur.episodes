@@ -1,5 +1,5 @@
 #SE	EP	No.	Titel
-#short CSI_Den_Tï¿½ern_auf_der_Spur
+#short CSI_Den_Tätern_auf_der_Spur
 01	01	1	Ein starkes Team
 01	02	2	Hoher Einsatz
 01	03	3	Lebendig begraben
@@ -8,8 +8,8 @@
 01	06	6	Die Tote im Beton
 01	07	7	Im Blut vereint
 01	08	8	Der Schattenmann
-01	09	9	ï¿½er den Wolken
-01	10	10	Sex, Lgen und Larven
+01	09	9	Über den Wolken
+01	10	10	Sex, Lügen und Larven
 01	11	11	Ein eisiger Fund
 01	12	12	In der Hitze des Gefechts
 01	13	13	Die Bombe tickt
@@ -22,7 +22,7 @@
 01	20	20	Stumme Schreie
 01	21	21	Niedere Instinkte
 01	22	22	Kopflos
-01	23	23	Mit dem Rcken zur Wand
+01	23	23	Mit dem Rücken zur Wand
 02	01	24	Blutiges Testament
 02	02	25	Spurlos
 02	03	26	Unter Strom
@@ -32,7 +32,7 @@
 02	07	30	Ein zweifelhafter Zeuge
 02	08	31	Tod einer Domina
 02	09	32	Rien ne va plus
-02	10	33	Bltenzauber
+02	10	33	Blütenzauber
 02	11	34	Der Tote im Fahrstuhl
 02	12	35	Scherbenhaufen
 02	13	36	Um Haaresbreite
@@ -43,14 +43,15 @@
 02	18	41	Letzte Ausfahrt
 02	19	42	Der Psychopath
 02	20	43	Katz und Maus
-02	21	44	Falsche Fï¿½rten
+02	21	44	Falsche Fährten
 02	22	45	Tod in Miami
-02	23	46	Preis der Schï¿½heit
-03	01	47	Rache ist sï¿½03	02	48	Aus Mangel an Beweisen
+02	23	46	Preis der Schönheit
+03	01	47	Rache ist süß
+03	02	48	Aus Mangel an Beweisen
 03	03	49	Blutrausch
 03	04	50	Ein kleiner Mord
 03	05	51	Fauler Zauber
-03	06	52	Ein tï¿½licher Irrtum
+03	06	52	Ein tödlicher Irrtum
 03	07	53	Ein harter Schlag
 03	08	54	Bis auf die Knochen
 03	09	55	Spur aus Blut
@@ -65,7 +66,7 @@
 03	18	64	Das Todesfass
 03	19	65	Bei Anruf Mord
 03	20	66	Wer zuletzt lacht
-03	21	67	Tod in der Wste
+03	21	67	Tod in der Wüste
 03	22	68	Beweisnot
 03	23	69	Blutsbande
 04	01	70	Ein sauberer Schnitt 1
@@ -75,22 +76,22 @@
 04	05	74	Der pelzige Rivale
 04	06	75	Eifersucht 
 04	07	76	Gegen die Zeit
-04	08	77	Zum Sterben schï¿½
+04	08	77	Zum Sterben schön
 04	09	78	Tanz auf dem Vulkan
 04	10	79	Kinderspiele
 04	11	80	Nicht schuldig
 04	12	81	Der Saubermann
 04	13	82	Blutsauge
 04	14	83	Der dritte Mann
-04	15	84	Kaltbltig
+04	15	84	Kaltblütig
 04	16	85	Tod eines Clowns
 04	17	86	Hinter Gittern
 04	18	87	Blinde Wut
 04	19	88	Feuerteufel
 04	20	89	Sport ist Mord
-04	21	90	Achterbahn der Gefhle
+04	21	90	Achterbahn der Gefühle
 04	22	91	Falsches Spiel
-04	23	92	Die Chimï¿½e
+04	23	92	Die Chimäre
 05	03	93	Ausgebeutet
 05	04	94	Der sterbende Schwan
 05	05	95	Partnertausch
@@ -105,7 +106,7 @@
 05	14	104	Hetzjagd
 05	15	105	Baby Bruce
 05	16	106	Die Last der Liebe
-05	17	107	Zweifelhaftes Gestï¿½dnis
+05	17	107	Zweifelhaftes Geständnis
 05	18	108	Das Wunschkind
 05	19	109	Nachtschicht
 05	20	110	Gefallener Engel
