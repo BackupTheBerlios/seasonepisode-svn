@@ -18,8 +18,7 @@ use String::Approx qw (amatch) ;
 # release ?
 
 # Dieses Script modifiziert die Aufnahmeverzeichnisse von Serien im VDR nach extern vorgegeben Schemata zum Format Season Episode
-# Die Formatierung der externen .episoden dateien ist in den Beispieldateien erklärt.
-my $LastEdit = "07.10.2006";
+my $LastEdit = "12.10.2006";
 my $use = "\$ VdrRecordSE.pl [-h -s -p] [-c {ConfigDir] [-i VideoDir] [ -f {\"\%N \%S \%E \%T\"} ]
 
 -h	help : Zeige die eingebaute Hilfe an, sonst nix
@@ -129,7 +128,7 @@ push ( @VideoList , $File::Find::name ) ;
 }
 
 ###################################################################################################
-
+my $time = time ;
 #/video/Six_Feet_Under_-_Gestorben_wird_immer/4.05-Das_ist_mein_Hund/2005-08-21.21:55.50.50.rec/ready_to_transcode.flag
 foreach my $Zeile ( @VideoList ) {
 	my @CurrFile = split ( "/" , $Zeile ) ;
@@ -141,10 +140,10 @@ foreach my $Zeile ( @VideoList ) {
 	next if ( $OEpisode =~ /^\d+\.\d+\-/ ) ;
 	next if ( $OEpisode =~ /^\[\w{1,5}\]\d+\.\d+\-/ ) ;
 # 	Zeitstempel des letzten Schreibzugriffs auf die index.vdr mtime 9.Element von Stat
-	my $time = time ;
+#	my $time = time ;
 	my ( $index_write )  = ( stat ( $Zeile )) [9] ;
 # 	Aufnahmen die nicht älter als 2 Sekunden überspringen wir, die Aufnahme läuft bestimmt noch
-	next if ( $time - $index_write < 2 ) ;
+	next if ( $time - $index_write < 5 ) ;
 
 ##### Aufnahme verzeichnis auslesen Ende
 		my $NSerie  ;
@@ -153,7 +152,7 @@ foreach my $Zeile ( @VideoList ) {
 #
 		my $matched_by_episodes = 0 ;
 		## Ab hier wird spannend , wir vergleichen den Serientitel mit den Episodenlistentiteln	
-		foreach  ( sort keys %Episoden_Lists ) { 
+		foreach  ( keys %Episoden_Lists ) { 
 #			print "foreach  \( sort keys \%Episoden_Lists $_\n" ;
 			if ( amatch ("$OSerie" , ["30%"] , "$_")) {
 				my ( $match_in_episodes , $ZahlS , $ZahlE , $ZahlN , $NSerie ) = finde_SE_in_episodes_Datei ( $Episoden_Lists{$_} , $OEpisode ) ;
@@ -410,12 +409,6 @@ my %Episoden_Lists ;
 return 1 , \%Episoden_Lists ;
 }
 
-
-# ein Funktion zum herausfiltern der season episode Info aus der info.vdr Datei
-#my $Dir = $ARGV[0] ;
-
-#my ( $yes , $Sea , $Epi ) = &find_SE_infos ( $Dir ) ; 
-#if ( $yes eq 1 ) { print "$Sea\.$Epi\n" ; }
 
 # ein Funktion zum herausfiltern der season episode Info aus der info.vdr Datei bei EPG-Daten von Premiere
 sub find_SE_infos {
