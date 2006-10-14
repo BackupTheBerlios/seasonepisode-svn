@@ -1,58 +1,69 @@
-01	1	1	Mr. Monk und das Attentat
-01	2	2	Mr. Monk und das Attentat, Teil 2
-01	3	3	Mr. Monk und die Hellseherin
-01	4	4	Mr. Monk gegen die Qualle
-01	5	5	Mr. Monk auf dem Rummelplatz
-01	6	6	Mr. Monk in der Anstalt
-01	7	7	Mr. Monk und ein Milliardär auf Abwegen
-01	8	8	Mr. Monk und Monica
-01	9	9	Mr. Monk und der Marathon-Mann
-01	10	10	Mr. Monk macht Urlaub
-01	11	11	Mr. Monk und das Erdbeben
-01	12	12	Mr. Monk und Willie Nelson
-01	13	13	Mr. Monk im Flugzeug
-02	1	14	Mr. Monk geht wieder zur Schule
-02	2	15	Mr. Monk fährt nach Mexiko
-02	3	16	Mr. Monk und das Baseballfieber
-02	4	17	Mr. Monk geht in den Zirkus
-02	5	18	Mr. Monk und der älteste Mann der Welt
-02	6	19	Mr. Monk geht mit Sharona ins Theater
-02	7	20	Mr. Monk und der schlafende Verdächtige
-02	8	21	Mr. Monk, ein Playboy und viele schöne Mädchen
-02	9	22	Mr. Monk und der 12. Geschworene
-02	10	23	Mr. Monk und der Zeitungsjunge
-02	11	24	Mr. Monk, sein Bruder und drei Kuchen
-02	12	25	Mr. Monk und der Fernsehstar
-02	13	26	Mr. Monk und die entführte Großmutter
-02	14	27	Mr. Monk und die Frau des Captains
-02	15	28	Mr. Monk heiratet Sharona
-02	16	29	Mr. Monk landet im Gefängnis
-03	1	30	Mr. Monk in Manhattan
-03	2	31	Mr. Monk und der Affe
-03	3	32	Mr. Monk und der Stromausfall
-03	4	33	Mr. Monk wird gefeuert
-03	5	34	Mr. Monk hilft der Mafia
-03	6	35	Mr. Monk und Sharonas Besuch aus dem Jenseits
-03	7	36	Mr. Monk arbeitet im Supermarkt
-03	8	37	Mr. Monk spielt mit
-03	9	38	Mr. Monk kann auch anders
-03	10	39	Mr. Monk und Natalie fischen im Dunkeln
-03	11	40	Mr. Monk gegen den toten Mörder
-03	12	41	Mr. Monk muss in den Wald
-03	13	42	Mr. Monk steckt im Stau
-03	14	43	Mr. Monk in Las Vegas
-03	15	44	Mr. Monk als Wahlhelfer
-03	16	45	Mr. Monk will Vater werden
-04	1	46	Mr. Monk bekommt Konkurrenz
-04	2	47	Mr. Monk und Frankenstein
-04	3	48	Mr. Monk hütet das Bett
-04	4	49	Mr. Monk als Bürohengst
-04	5	50	Mr. Monk ist betrunken
-04	6	51	Mr. Monk und Mrs. Monk
-04	7	52	Mr. Monk und die schwarze Witwe
-04	8	53	Mr. Monk war auch mal klein
-05	1	62	Mr. Monk betritt die Modewelt
-05	2	63	Mr. Monk erinnert sich an nichts
-05	3	64	Mr. Monk und das Geheimnis einer Ehe
-05	4	65	Mr. Monk auf der Jagd nach dem verschwundenen Juwel
-05	5	66	Mr. Monk und das außerirdische Alibi
+# EPISODE SEARCH
+#
+# SEASONLIST
+# 1	1	13
+# 2	14	29
+# 3	30	45
+# 4	46	61
+# /SEASONLIST
+01	1	1	Mr. Monk und das Attentat	Mr. Monk and the Candidate (1)
+01	2	2	Mr. Monk und das Attentat, Teil 2	Mr. Monk and the Candidate (2)
+01	3	3	Mr. Monk und die Hellseherin	Mr. Monk and the Psychic
+01	4	4	Mr. Monk gegen die Qualle	Mr. Monk Meets Dale the Whale
+01	5	5	Mr. Monk auf dem Rummelplatz	Mr. Monk Goes to the Carnival
+01	6	6	Mr. Monk in der Anstalt	Mr. Monk Goes to the Asylum
+01	7	7	Mr. Monk und ein Milliardär auf Abwegen	Mr. Monk and the Billionaire Mugger
+01	8	8	Mr. Monk und Monica	Mr. Monk and the Other Woman
+01	9	9	Mr. Monk und der Marathon-Mann	Mr. Monk and the Marathon Man
+01	10	10	Mr. Monk macht Urlaub	Mr. Monk Takes a Vacation
+01	11	11	Mr. Monk und das Erdbeben	Mr. Monk and the Earthquake
+01	12	12	Mr. Monk und Willie Nelson	Mr. Monk and the Red-Headed Stranger
+01	13	13	Mr. Monk im Flugzeug	Mr. Monk and the Airplane
+02	1	14	Mr. Monk geht wieder zur Schule	Mr. Monk Goes Back to School
+02	2	15	Mr. Monk fährt nach Mexiko	Mr. Monk Goes to Mexico
+02	3	16	Mr. Monk und das Baseballfieber	Mr. Monk Goes to the Ballgame
+02	4	17	Mr. Monk geht in den Zirkus	Mr. Monk Goes to the Circus
+02	5	18	Mr. Monk und der älteste Mann der Welt	Mr. Monk and the Very, Very Old Man
+02	6	19	Mr. Monk geht mit Sharona ins Theater	Mr. Monk Goes to the Theater
+02	7	20	Mr. Monk und der schlafende Verdächtige	Mr. Monk and the Sleeping Suspect
+02	8	21	Mr. Monk, ein Playboy und viele schöne Mädchen	Mr. Monk Meets the Playboy
+02	9	22	Mr. Monk und der 12. Geschworene	Mr. Monk and the 12th Man
+02	10	23	Mr. Monk und der Zeitungsjunge	Mr. Monk and the Paperboy
+02	11	24	Mr. Monk, sein Bruder und drei Kuchen	Mr. Monk and the Three Pies
+02	12	25	Mr. Monk und der Fernsehstar	Mr. Monk and the T.V. Star
+02	13	26	Mr. Monk und die entführte Großmutter	Mr. Monk and the Missing Granny
+02	14	27	Mr. Monk und die Frau des Captains	Mr. Monk and the Captain's Wife
+02	15	28	Mr. Monk heiratet Sharona	Mr. Monk Gets Married
+02	16	29	Mr. Monk landet im Gefängnis	Mr. Monk Goes to Jail
+03	1	30	Mr. Monk in Manhattan	Mr. Monk Takes Manhattan
+03	2	31	Mr. Monk und der Affe	Mr. Monk and the Panic Room
+03	3	32	Mr. Monk und der Stromausfall	Mr. Monk and the Blackout
+03	4	33	Mr. Monk wird gefeuert	Mr. Monk Gets Fired
+03	5	34	Mr. Monk hilft der Mafia	Mr. Monk Meets the Godfather
+03	6	35	Mr. Monk und Sharonas Besuch aus dem Jenseits	Mr. Monk and the Girl Who Cried Wolf
+03	7	36	Mr. Monk arbeitet im Supermarkt	Mr. Monk and the Employee of the Month
+03	8	37	Mr. Monk spielt mit	Mr. Monk and the Game Show
+03	9	38	Mr. Monk kann auch anders	Mr. Monk Takes His Medicine
+03	10	39	Mr. Monk und Natalie fischen im Dunkeln	Mr. Monk and the Red Herring
+03	11	40	Mr. Monk gegen den toten Mörder	Mr. Monk vs. the Cobra
+03	12	41	Mr. Monk muss in den Wald	Mr. Monk Gets Cabin Fever
+03	13	42	Mr. Monk steckt im Stau	Mr. Monk Gets Stuck in Traffic
+03	14	43	Mr. Monk in Las Vegas	Mr. Monk Goes to Vegas
+03	15	44	Mr. Monk als Wahlhelfer	Mr. Monk and the Election
+03	16	45	Mr. Monk will Vater werden	Mr. Monk and the Kid
+04	1	46	Mr. Monk bekommt Konkurrenz	Mr. Monk and the Other Detective
+04	2	47	Mr. Monk und Frankenstein	Mr. Monk Goes Home Again
+04	3	48	Mr. Monk hütet das Bett	Mr. Monk Stays in Bed
+04	4	49	Mr. Monk als Bürohengst	Mr. Monk Goes to the Office
+04	5	50	Mr. Monk ist betrunken	Mr. Monk Gets Drunk
+04	6	51	Mr. Monk und Mrs. Monk	Mr. Monk and Mrs. Monk
+04	7	52	Mr. Monk und die schwarze Witwe	Mr. Monk Goes to a Wedding
+04	8	53	Mr. Monk war auch mal klein	Mr. Monk and Little Monk
+04	9	54	nn 	Mr. Monk and the Secret Santa
+04	10	55	Mr. Monk betritt die Modewelt	Mr. Monk Goes to a Fashion Show
+04	11	56	Mr. Monk erinnert sich an nichts	Mr. Monk Bumps His Head
+04	12	57	Mr. Monk und das Geheimnis einer Ehe	Mr. Monk and the Captain's Marriage
+04	13	58	Mr. Monk auf der Jagd nach dem verschwundenen Juwel	Mr. Monk and the Big Reward
+04	14	59	Mr. Monk und das außerirdische Alibi	Mr. Monk and the Astronaut
+04	15	60	Mr. Monk und der sadistische Zahnarzt	Mr. Monk Goes to the Dentist
+04	16	61	Mr. Monk als Geschworener	Mr. Monk Gets Jury Duty
