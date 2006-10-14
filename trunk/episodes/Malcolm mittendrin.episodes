@@ -1,0 +1,155 @@
+# EPISODE + 107
+#
+# SEASONLIST
+# 1	1	16
+# 2	17	41
+# 3	42	63
+# 4	65	85
+# 5	86	107
+# 6	108	129
+# 7	130	151
+# /SEASONLIST
+#
+01	1	1	Malcolm der Held	Pilot
+01	2	2	Lois sieht rot	Red dress
+01	3	3	Allein zu Haus	Home alone 4
+01	4	4	Gewissensbisse	Shame
+01	5	5	Eine fast perfekte Familie	Malcolm babysits
+01	6	6	Die Ausreisser	Sleepover
+01	7	7	Francis auf der Flucht	Francis escapes
+01	8	8	Das Begabten-Chaos	Krelboyne picnic
+01	9	9	Ohne Moos nichts los	Lois vs evil
+01	10	10	Stock-Car-Rennen	Stock-car races
+01	11	11	Der Sündenbock	Funeral
+01	12	12	Cheerleader	Cheerleader
+01	13	13	Rollerskates	Rollerskates
+01	14	14	Der Killer-Roboter	The bots and the bees
+01	15	15	Immer wieder Sonntag	Smunday
+01	16	16	Wasserspiele	Waterpark
+02	1	17	Der Verkehrsstau	Traffic jam
+02	2	18	Halloween mal anders	Halloween approximately
+02	3	19	Lois' Geburtstag	Lois's birthday
+02	4	20	Ein Essen unter Freunden	Dinner out
+02	5	21	Ein total verkorkstes Wochenende	Casino
+02	6	22	Der Erzfeind	Convention
+02	7	23	Fliegende Ratten mit Radar	Robbery
+02	8	24	Therapie	Therapy
+02	9	25	Der Sommernachtstraum	High school play
+02	10	26	Der Alpha-Idiot	The bully
+02	11	27	Die Hexe	Old mrs. old
+02	12	28	Frühlingsgefühle	Krelboyne girl
+02	13	29	Neue Nachbarn	New neighbors
+02	14	30	Midlife-Crisis	Hal quits
+02	15	31	Hilfe, Oma und Opa sind da	The grandparents
+02	16	32	Der Strafzettel	Traffic ticket
+02	17	33	Das Familien-Duell	Surgery
+02	18	34	Der Meisterkoch	Reese cooks
+02	19	35	Schulstress	Tutoring reese
+02	20	36	Bowling	Bowling
+02	21	37	Malcolm gegen Reese	Malcolm vs. reese
+02	22	38	Das Mini-Bike	Mini-bike
+02	23	39	Lügen haben kurze Beine	Carnival
+02	24	40	Großalarm	Evacuation
+02	25	41	Schwangerschaftsalarm	Flashback
+03	1	42	Ein Urlaub mit Mädchen und Fischen	Houseboat
+03	2	43	Rebellion gegen das System	Emancipation
+03	3	44	Flucht aus dem Alltag	Book club
+03	4	45	Die erste goße Liebe	Malcolm's girlfriend
+03	5	46	Tauschgeschäfte	Charity
+03	6	47	Nervenspiele	Health scare
+03	7	48	Das Weihnachts-Dilemma	Christmas
+03	8	49	Poker	Poker
+03	9	50	Die Katalog-Braut	Reese's job
+03	10	51	Basketball-Krieg	Lois's makeover
+03	11	52	Das Firmenpicknick (1)	Company picnic (1) 
+03	12	53	Das Firmenpicknick (2)	Company picnic (2) 
+03	13	54	Fahrerflucht	Reese drives
+03	14	55	Busenfreunde	Cynthia's back
+03	15	56	Das neue Familienmitglied	Hal's birthday
+03	16	57	Trainer Hal	Hal coaches
+03	17	58	Deweys Hund	Dewey's dog
+03	18	59	Wer ist der Beste?	Poker #2
+03	19	60	Beim Psychiater	Clip show
+03	20	61	Verschworene Geschworene	Jury duty
+03	21	62	Cliquenkampf	Cliques
+03	22	63	Der Affe	Monkey
+04	1	64	Ein Tag im Zoo	Zoo
+04	2	65	Alles auf Anfang	Humilithon
+04	3	66	Das Familienfest	Family reunion
+04	4	67	Dumm, aber glücklich	Stupid girl
+04	5	68	Auge um Auge	Forwards backwards
+04	6	69	Verbotene Freuden	Forbidden girlfriend
+04	7	70	Schweigen ist ungesund	Malcolm holds his tongue
+04	8	71	Männersache	Boys at ranch
+04	9	72	Babyalarm	Grandma sues
+04	10	73	Wenn Jungs Mädchen wären	If boys were girls
+04	11	74	Eine lange Fahrt	Long drive
+04	12	75	Der Rauswurf	Kicked out
+04	13	76	Der Babysitter	Stereo store
+04	14	77	Hals Freund	Hal's friend
+04	15	78	Trödel	Garage sale
+04	16	79	Akademischer Achtkampf	Academic octathalon
+04	17	80	nn	Clip Show #2
+04	18	81	Sturmfreie Bude	Reese's party
+04	19	82	Das Schachduell	Future malcolm
+04	20	83	Baby Part I	Baby (1)
+04	21	84	Baby Part II	Baby (2)
+04	22	85	(K)Ein Platz für Jamie	Day Care
+05	1	86	Las Vegas	Vegas
+05	2	87	Die Babysitter	Watching the baby
+05	3	88	Auf Wiedersehen, Kitty	Goodbye kitty
+05	4	89	Meisterkoch Reese	Thanksgiving
+05	5	90	Malcolm filmt Reese	Malcolm films reese
+05	6	91	Malcolms Job	Malcolm's job
+05	7	92	Weihnachtsbäume	Christmas trees
+05	8	93	Das Straßenfest	Block party
+05	9	94	Der Walzerkönig	Dirty magazine
+05	10	95	Der Whirlpool	Hot tub
+05	11	96	Idas Freund	Ida's boyfriend
+05	12	97	Softball	Softball
+05	13	98	Lois Schwester	Lois' sister
+05	14	99	Verliebt in eine Familie	Malcolm dates a family
+05	15	100	Reese und das Apartment	Reese's apartment
+05	16	101	Besuch im College	Malcolm visits college
+05	17	102	Der Glückspulli	Polly in the middle
+05	18	103	Der gestörte Hochbegabte	Dewey's specialclass
+05	19	104	Das Experiment	Experiment
+05	20	105	Victors zweite Familie	Victor's other family
+05	21	106	Reese bei der Army Teil 1	Reese joins the army (1) 
+05	22	107	Reese bei der Army Teil 2	Reese joins the army (2) 
+06	1	108	Reese kommt nach Hause	Reese comes home
+06	2	109	Hal und die Bodybuilder	Busey's run away
+06	3	110	Die Macht des Müllmanns	Standee
+06	4	111	Pearl Harbor	Pearl harbor
+06	5	112	Die Preisverleihung	Kitty's back
+06	6	113	Der Familienausflug	Hal's christmas gift
+06	7	114	Schlafwandler	Hal sleepwalks
+06	8	115	Der Mutter-Sohn-Krieg	Lois battles jamie
+06	9	116	Verliebt in ein Auto	Malcolm's car
+06	10	117	Die Rechte der Frauen	Billboard
+06	11	118	Deweys Oper	Dewey's opera
+06	12	119	Der Fitness-Guru	Living will
+06	13	120	Die Tiki-Stunde	Tiki lounge
+06	14	121	Mutterliebe	Ida loses a leg
+06	15	122	Der Übernachtungsgast	Chad's sleepover
+06	16	123	Das Versprechen	No motorcycles
+06	17	124	Schmetterlinge	Butterflies
+06	18	125	Idas Tanz	Ida's dance
+06	19	126	Motivator Hal	Motivational seminar
+06	20	127	Stelzen	Stilts
+06	21	128	Lehrer in Geiselhaft	Buseys takes a hostage
+06	22	129	Der Schönheitswettbewerb	Mrs. tri-county
+07	1	130	Burning Man	Burning Man
+07	2	131	Der Verräter	Health Insurance
+07	3	132	Reese gegen Stevie	Reese vs. Stevie
+07	4	133	Das Geisterhaus	Halloween
+07	5	134	Der Bienenkampf	Jessica Stays Over
+07	6	135	Der geheime Freund	Secret Boyfriend
+07	7	136	Stromausfall	Blackout
+07	8	137	Überraschungsbesuch	Army Buddy
+07	9	138	Malcolm verteidigt Reese	Malcolm Defends Reese
+07	10	139	Malcolms Geld	Malcolm's Money
+07	11	140	Reeses Braut	Bride of Ida (1)
+07	12	141	Reeses Braut	College Recruiters (2)
+07	13	142	Pfeiffersches Drüsenfieber	Mono
+07	14	143	Der perfekte Dad	Hal Grieves
