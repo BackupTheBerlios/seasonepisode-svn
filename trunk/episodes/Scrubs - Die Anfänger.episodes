@@ -1,0 +1,124 @@
+# SEASONLIST
+# 1	1	24
+# 2	25	46
+# 3	47	68
+# 4	69	93
+# 5	94	117
+# /SEASONLIST
+01	1	1	Mein erster Tag	My First Day
+01	2	2	Mein Mentor	My Mentor
+01	3	3	Mein Kunstfehler	My Best Friend's Mistake
+01	4	4	Meine Lieblingspatientin	My Old Lady
+01	5	5	Meine Vorbilder	My Two Dads
+01	6	6	Mein Pech	My Bad
+01	7	7	Mein Konkurrent	My Super Ego
+01	8	8	Meine Fünfzehn Minuten als Held	My Fifteen Minutes
+01	9	9	Mein freier Tag	My Day Off
+01	10	10	Mein Spitzname	My Nickname
+01	11	11	Mein Weihnachtswunder	My Own Personal Jesus
+01	12	12	Mein Date aus der Röhre	My Blind Date
+01	13	13	Meine zweite Chance	My Balancing Act
+01	14	14	Meine Alex	My Drug Buddy
+01	15	15	Meine Beziehung	My Bed Banter & Beyond
+01	16	16	Meine Melone	My Heavy Meddle
+01	17	17	Mein Student	My Student
+01	18	18	Mein schlimmster Fall	My Tuscaloosa Heart
+01	19	19	Mein alter Herr	My Old Man
+01	20	20	Mein Freund, der Chirurg	My Way or the Highway
+01	21	21	Mein größtes Opfer	My Sacrificial Clam
+01	22	22	Meine Zweifel	My Occurrence (1)
+01	23	23	Mein Held	My Hero (2)
+01	24	24	Mein letzter Tag	My Last Day
+02	1	25	Mein Rundumschlag	My Overkill
+02	2	26	Mein Nachtdienst	My Nightingale
+02	3	27	Mein Ticket nach Reno	My Case Study
+02	4	28	Meine große Klappe	My Big Mouth
+02	5	29	Mein Kittel	My New Coat
+02	6	30	Mein großer Bruder	My Big Brother
+02	7	31	Mein erster Schritt	My First Step
+02	8	32	Mein Pudding	My Fruit Cups
+02	9	33	Mein Glückstag	My Lucky Day
+02	10	34	Mein Monster	My Monster
+02	11	35	Meine Bettbeziehung	My Sex Buddy
+02	12	36	Meine neue alte Freundin	My New Old Friend
+02	13	37	Meine Theorie	My Philosophy
+02	14	38	Mein modernes Wissen	My Brother, My Keeper
+02	15	39	Seine Geschichte	His Story
+02	16	40	Mein Karma	My Karma
+02	17	41	Mein Coach	My Own Private Practice Guy
+02	18	42	Meine scharfe Koma-Braut	My T.C.W.
+02	19	43	Mein Größenwahn	My Kingdom
+02	20	44	Meine Interpretation	My Interpretation
+02	21	45	Mein Drama	My Drama Queen
+02	22	46	Mein Traumjob	My Dream Job
+03	1	47	Mein drittes Jahr	My Own American Girl
+03	2	48	Meine neue Ära	My Journey
+03	3	49	Mein Berater	My White Whale
+03	4	50	Mein Stolz	My Lucky Night
+03	5	51	Mein großer Fehler	My Brother, Where Art Thou?
+03	6	52	Mein Handtaschentrick	My Advice to You
+03	7	53	Meine fünfzehn Sekunden	My Fifteen Seconds
+03	8	54	Meine Kollegin	My Friend the Doctor
+03	9	55	Mein Verzicht	My Dirty Secret
+03	10	56	Meine Regeln	My Rule of Thumb
+03	11	57	Mein sauberer Abgang	My Clean Break
+03	12	58	Mein Katalysator	My Catalyst
+03	13	59	Meine Offenbarung	My Porcelain God
+03	14	60	Meine Schuld	My Screw Up
+03	15	61	Meine sexistischen Kollegen	My Tormented Mentor
+03	16	62	Mein Schmetterling	My Butterfly
+03	17	63	Meine Freundin Carla	My Moment of Un-Truth
+03	18	64	Mein Freund Turk	His Story II
+03	19	65	Meine schwierigste Wahl	My Choosiest Choice of All
+03	20	66	Mein Fehler	My Fault
+03	21	67	Meine Selbstprüfung	My Self-Examination
+03	22	68	Die Hochzeit meiner besten Freunde	My Best Friend's Wedding
+04	1	69	Meine Psychiaterin	My Old Friend's New Friend
+04	2	70	Meine Beföderung	My Office
+04	3	71	Meine Schmach	My New Game
+04	4	72	Meine Begegnung mit dem Tod	My First Kill
+04	5	73	 	Her Story
+04	6	74	 	My Cake
+04	7	75	 	My Common Enemy
+04	8	76	 	My Last Chance
+04	9	77	 	My Malpractical Decision (1)
+04	10	78	 	My Female Trouble (2)
+04	11	79	 	My Unicorn
+04	12	80	 	My Best Moment
+04	13	81	 	My Ocardial Infarction
+04	14	82	 	My Lucky Charm
+04	15	83	 	My Hypocritical Oath
+04	16	84	 	My Quarantine
+04	17	85	 	My Life in Four Cameras
+04	18	86	 	My Roommates
+04	19	87	 	My Best Laid Plans
+04	20	88	 	My Boss' Free Haircut
+04	21	89	 	My Lips Are Sealed
+04	22	90	 	My Big Move
+04	23	91	 	My Faith in Humanity
+04	24	92	 	My Drive By
+04	25	93	 	My Changing Ways
+05	1	94	 	My Intern's Eyes
+05	2	95	 	My Rite of Passage
+05	3	96	 	My Day At The Races
+05	4	97	 	My Jiggly Ball
+05	5	98	 	My New God
+05	6	99	 	My Missed Perception
+05	7	100	 	My Way Home
+05	8	101	 	My Big Bird
+05	9	102	 	My Half-Acre
+05	10	103	 	Her Story II
+05	11	104	 	My Buddy's Booty
+05	12	105	 	My Cabbage (1)
+05	13	106	 	My Five Stages (2)
+05	14	107	 	My Own Personal Hell
+05	15	108	 	My Extra Mile
+05	16	109	 	My Bright Idea
+05	17	110	 	My Chopped Liver
+05	18	111	 	My New Suit
+05	19	112	 	His Story III
+05	20	113	 	My Lunch
+05	21	114	 	My Fallen Idol
+05	22	115	 	My Déjà Vu, My Déjà Vu
+05	23	116	 	My Urologist
+05	24	117	 	My Transition (1)
