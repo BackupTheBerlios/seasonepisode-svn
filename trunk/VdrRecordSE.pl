@@ -18,7 +18,7 @@ use String::Approx qw (amatch) ;
 # release ?
 
 # Dieses Script modifiziert die Aufnahmeverzeichnisse von Serien im VDR nach extern vorgegeben Schemata zum Format Season Episode
-my $LastEdit = "12.10.2006";
+my $LastEdit = "16.10.2006";
 my $use = "\$ VdrRecordSE.pl [-h -s -p] [-c {ConfigDir] [-i VideoDir] [ -f {\"\%N \%S \%E \%T\"} ]
 
 -h	help : Zeige die eingebaute Hilfe an, sonst nix
@@ -61,7 +61,6 @@ Serien müssen dazu im Format Serie/Episode vorliegen, meint :
 
 Die Episodendateien ( textbasierende Datenbank-Dateien, die die Zuordnungen von Epsioden zu ihren Nummern enthalten ) 
 können und sollen von den Usern erweitert und korrigiert werden.
-Welches Format zu beachten ist, steht in den Beispieldateien drin.
 Was mit der Umbennenung gemeint ist, zeigt am besten das bekannte Vorher <-> Nachher Beispiel :
 
 alt :\t/video/Star_Trek:_Deep_Space_Nine/Das_Melora-Problem
@@ -277,16 +276,21 @@ unless ( $opt_p ) { system ("touch $opt_i.update")  ; }
 			my $NSerie ;
 
 			open ELIST , "$EpisodesDatei" or die "konnte $EpisodesDatei nicht öffnen" ;
+#			print "\$EpisodesDatei $EpisodesDatei\n" ;
 				while ( my $EZeile = <ELIST> ) {
 					#Season  episode fullnumber titel any_other
 					#01	1	1	Es weihnachtet schwer	Simpsons Roasting on an Open Fire	7G08
 					# überspringe kommentarzeilen oder mit führendem Leerzeichen beginnend, genauso mit nur einem return zeichen
-					next if ( $EZeile =~ /^#[^short]/ or $EZeile  =~ /^\ *\n$/ or $EZeile  =~ /^\n$/ ) ;
+					next if ( $EZeile  =~ /^\ *\n$/ or $EZeile  =~ /^\n$/ ) ;
+					next unless ( $EZeile =~ /^#\s*short/ or $EZeile =~ /^#\s*SHORT/ or $EZeile =~ /^\d+\s*\d+/ ) ; 
+					 
 					chomp $EZeile ;
-#					print "$EZeile\n" ;
+#					print "\$EZeile $EZeile\n" ;
 					# wenn zeile mit "short" beginnt, steht dahinter der ersetzungsname der serie
-					if ( $EZeile =~ /^#short/ ) { 
-						( $NSerie ) = $EZeile =~ /^#short\s+(.*)$/ ;
+					if ( $EZeile =~ /^#short/ or $EZeile =~ /^#\s*SHORT/ ) { 
+#						print " short entdeckt ...\n" ;
+						( my $dummy , $NSerie ) = $EZeile =~ /^#\s*(short|SHORT)\s*(.*)$/ ;
+						$NSerie =~ s/\s+/_/g ;
 						#print "aufgrund von short folgenden Namen gefunden : $NSerie\n" ;
 					}
 					# sonst kanns nur eine zeile mit dem Episodentitel sein, oder eben nicht passend
