@@ -1,5 +1,17 @@
-#SE	EP	No.	Titel
+# EPISODE SEARCH
+#
+# SEASONLIST
+# 1	1	23
+# 2	24	45
+# 3	46	58
+# 4	59	79
+# 5	80	100
+# 6	101	108
+# /SEASONLIST
+#
+#SE     EP      No.     Titel
 #short Crossing_Jordan
+
 01	01	1	Alles auf Anfang  
 01	02	2	Selbstjustiz  
 01	03	3	Im Labyrinth der Beweise  
@@ -90,7 +102,7 @@
 05	09	88	Totgesagt
 05	10	89	Pension des Grauens
 05	11	90	Ausser Kontrolle
-05	12	91	Schutzlos	
+05	12	91	Schutzlos
 05	13	92	Böses Erwachen
 05	14	93	Trauma
 05	15	94	Superman
