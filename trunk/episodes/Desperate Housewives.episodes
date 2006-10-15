@@ -5,50 +5,47 @@
 # 2	24	47
 # /SEASONLIST
 #
-01	1	1	Schmutzige Wäsche	Pilot
-01	2	2	Unter der Oberfläche	Ah, But Underneath
-01	3	3	Die nackte Wahrheit	Pretty Little Picture
-01	4	4	Mit allen Mitteln	Who's that Woman?
-01	5	5	Eindringlinge	Come in, Stranger
-01	6	6	Schlachtfelder	Running to Stand Still
-01	7	7	Gewinner und Verlierer	Anything You Can Do
-01	8	8	Schuldig	Guilty
-01	9	9	Das Geständnis	Suspicious Minds
-01	10	10	Versteckspiele	Come Back to Me
-01	11	11	Die grosse Suche	Move On
-01	12	12	Asche auf mein Haupt	Every Day a Little Death
-01	13	13	Ertappt!	Your Fault
-01	14	14	Liebe liegt in der Luft	Love Is in the Air (a.k.a. What I Did for Love)
-01	15	15	Lauter Lügen	Impossible
-01	16	16	Das kleine schwarze Buch	The Ladies Who Lunch
-01	17	17	Helden	There Won't Be Trumpets
-01	18	18	Mutterglück	Children Will Listen
-01	19	19	Einsame Herzen	Live Alone and Like It (a.k.a. An Unexpected Song)
-01	20	20	Frühlingsgefühle	Fear No More
-01	21	21	Das Versprechen	Sunday in the Park with George
-01	22	22	Hals über Kopf	Goodbye For Now
-01	23	23	Alles ist wunderbar	One Wonderful Day
-02	1	24	Das Leben geht weiter	Next
-02	2	25	Kontrolle ist alles	You Could Drive a Person Crazy
-02	3	26	Showtime	You'll Never Get Away From Me
-02	4	27	Die imaginäre Freundin	My Heart Belongs To Daddy
-02	5	28	Treue Gefährten	They Asked Me Why I Believe In You
-02	6	29	Ausschläge und Anträge	I Wish I Could Forget You
-02	7	30	In Flagranti	Color and Light (a.k.a. I Must Be Dreaming)
-02	8	31	Der rote Ballon	The Sun Won't Set
-02	9	32	Die Guten und die Bösen	That's Good, That's Bad
-02	10	33	Der verlorene Sohn	Coming Home (a.k.a. I've Got You Under My Skin)
-02	11	34	Nur ein Kuss	One More Kiss
-02	12	35	Alles wird gut	We're Gonna Be All Right
-02	13	36	Die Kunst des Krieges	There's Something About a War
-02	14	37	Verrückte Ideen	Silly People
-02	15	38	Ein kleiner Gefallen	Thank You So Much
-02	16	39	Der richtige Weg	There Is No Other Way
-02	17	40	Trennungen	Could I Leave You?
-02	18	41	Unwiderstehlich	Everybody Says Don't
-02	19	42	Schamlos	Don't Look at Me
-02	20	43	Verzweifelte Gebete	It Wasn't Meant to Happen
-02	21	44	Rache	I Know Things Now
-02	22	45	No One Is Alone (TBA)	No One Is Alone
-02	23	46	Remember, Part 1	Remember (1)
-02	24	47	Remember, Part 2	Remember (2)
+01	1	1	Schmutzige Wäsche
+01	2	2	Unter der Oberfläche
+01	3	3	Die nackte Wahrheit
+01	4	4	Mit allen Mitteln
+01	5	5	Eindringlinge
+01	6	6	Schlachtfelder
+01	7	7	Gewinner und Verlierer
+01	8	8	Schuldig
+01	9	9	Das Geständnis
+01	10	10	Versteckspiele
+01	11	11	Die grosse Suche
+01	12	12	Asche auf mein Haupt
+01	13	13	Ertappt!
+01	14	14	Liebe liegt in der Luft
+01	15	15	Lauter Lügen
+01	16	16	Das kleine schwarze Buch
+01	17	17	Helden
+01	18	18	Mutterglück
+01	19	19	Einsame Herzen
+01	20	20	Frühlingsgefühle
+01	21	21	Das Versprechen
+01	22	22	Hals über Kopf
+01	23	23	Alles ist wunderbar
+02	1	24	Das Leben geht weiter
+02	2	25	Kontrolle ist alles
+02	3	26	Showtime
+02	4	27	Die imaginäre Freundin
+02	5	28	Treue Gefährten
+02	6	29	Ausschläge und Anträge
+02	7	30	In Flagranti
+02	8	31	Der rote Ballon
+02	9	32	Die Guten und die Bösen
+02	10	33	Der verlorene Sohn
+02	11	34	Nur ein Kuss
+02	12	35	Alles wird gut
+02	13	36	Die Kunst des Krieges
+02	14	37	Verrückte Ideen
+02	15	38	Ein kleiner Gefallen
+02	16	39	Der richtige Weg
+02	17	40	Trennungen
+02	18	41	Unwiderstehlich
+02	19	42	Schamlos
+02	20	43	Verzweifelte Gebete
+02	21	44	Rache
