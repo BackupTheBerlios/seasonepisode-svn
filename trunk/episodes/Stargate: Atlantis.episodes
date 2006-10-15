@@ -3,57 +3,58 @@
 # 2	22	41
 # 3	42	54
 # /SEASONLIST
-01	1	1	Aufbruch in eine neue Welt, Teil 1	Rising, Part 1
-01	2	2	Aufbruch in eine neue Welt, Teil 2	Rising, Part 2
-01	3	3	Dunkle Schatten	Hide and Seek
-01	4	4	38 Minuten	Thirty-Eight Minutes
-01	5	5	Unter Verdacht	Suspicion
-01	6	6	Selbstopfer	Childhood's End
-01	7	7	Tödliche Verteidigung	Poisoning the Well
-01	8	8	Im Untergrund	Underground
-01	9	9	Zurück auf die Erde	Home
-01	10	10	Der Sturm	The Storm (1)
-01	11	11	Das Auge	The Eye (2)
-01	12	12	Der Überlebende	The Defiant One
-01	13	13	Hot Zone	Hot Zone
-01	14	14	Chaya	Sanctuary
-01	15	15	Hot Zone	Before I Sleep
-01	16	16	10.000 Jahre	The Brotherhood
-01	17	17	Bruderschaft	Letters from Pegasus
-01	18	18	Nachrichten aus der Pegasus-Galaxie	The Gift
-01	19	19	Die Gabe	Siege, Part 1
-01	20	20	Die Belagerung, Teil 1	Siege, Part 2
-01	21	21	Die Belagerung, Teil 2	The Siege (2)
-02	1	22	Die Belagerung, Teil 3	Siege, Part 3
-02	2	23	Der Eindringling	Intruder
-02	3	24	Der Läufer	Runner
-02	4	25	Duett	Duet
-02	5	26	Dreifaltigkeit	Condemned
-02	6	27	Verurteilt	Trinity
-02	7	28	Das Geheimnis der Antiker	Instinct
-02	8	29	Die Verwandlung	Conversion
-02	9	30	Aurora	Aurora
-02	10	31	Die verlorenen Männer	The Lost Boys (1)
-02	11	32	Bienenstock	The Hive (2)
-02	12	33	Offenbarung	Epiphany
-02	13	34	Kritische Masse	Critical Mass
-02	14	35	Unter Druck	Grace Under Pressure
-02	15	36	Der Turm	The Tower
-02	16	37	Der lange Abschied	The Long Goodbye
-02	17	38	Coup d'Etat	Coup d'Etat
-02	18	39	Michael	Michael
-02	19	40	Inferno	Inferno
-02	20	41	Die Verbündeten	Allies (1)
-03	1	42	 	No Man's Land (2)
-03	2	43	 	Misbegotten (3)
-03	3	44	 	Irresistible
-03	4	45	 	Sateda
-03	5	46	 	Progeny
-03	6	47	 	The Real World
-03	7	48	 	Common Ground
-03	8	49	 	McKay and Mrs. Miller
-03	9	50	 	Phantoms
-03	10	51	 	The Return, Part 1
-03	11	52	 	The Return, Part 2
-03	17	53	 	The Ark
-03	18	54	 	Submersion
+01	1	1	Aufbruch in eine neue Welt, Teil 1
+01	2	2	Aufbruch in eine neue Welt, Teil 2
+01	3	3	Dunkle Schatten
+01	4	4	38 Minuten
+01	5	5	Unter Verdacht
+01	6	6	Selbstopfer
+01	7	7	Tödliche Verteidigung
+01	8	8	Im Untergrund
+01	9	9	Zurück auf die Erde
+01	10	10	Der Sturm
+01	11	11	Das Auge
+01	12	12	Der Überlebende
+01	13	13	Hot Zone
+01	14	14	Chaya
+01	15	15	Hot Zone
+01	16	16	10.000 Jahre
+01	17	17	Bruderschaft
+01	18	18	Nachrichten aus der Pegasus-Galaxie
+01	19	19	Die Gabe
+01	20	20	Die Belagerung, Teil 1
+01	21	21	Die Belagerung, Teil 2
+02	1	22	Die Belagerung, Teil 3
+02	2	23	Der Eindringling
+02	3	24	Der Läufer
+02	4	25	Duett
+02	5	26	Dreifaltigkeit
+02	6	27	Verurteilt
+02	7	28	Das Geheimnis der Antiker
+02	8	29	Die Verwandlung
+02	9	30	Aurora
+02	10	31	Die verlorenen Männer
+02	11	32	Bienenstock
+02	12	33	Offenbarung
+02	13	34	Halluzinationen
+02	13	34	Kritische Masse
+02	14	35	Unter Druck
+02	15	36	Der Turm
+02	16	37	Der lange Abschied
+02	17	38	Coup d'Etat
+02	18	39	Michael
+02	19	40	Inferno
+02	20	41	Die Verbündeten
+03	1	42	
+03	2	43	
+03	3	44	
+03	4	45	
+03	5	46	
+03	6	47	
+03	7	48	
+03	8	49	
+03	9	50	
+03	10	51	
+03	11	52	
+03	17	53	
+03	18	54	
