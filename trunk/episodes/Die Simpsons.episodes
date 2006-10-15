@@ -1,3 +1,25 @@
+# EPISODE SEARCH
+#
+# SESAONLIST
+# 1	1	13
+# 2	14	35
+# 3	36	59
+# 4	60	81
+# 5	82	103
+# 6	104	128
+# 7	129	153
+# 8	154	178
+# 9	179	203
+# 10	204	226
+# 11	227	248
+# 12	249	269
+# 13	270	291
+# 14	292	313
+# 15	314	335
+# 16	336	356
+# 17	357	374
+# /SEASONLIST
+
 01	1	1	Es weihnachtet schwer	Simpsons Roasting on an Open Fire	7G08
 01	2	2	Bart wird ein Genie	Bart the Genius	7G02
 01	3	3	Der Versager	Homer's Odyssey	7G03
@@ -360,4 +382,5 @@
 17	4	360	Mamas kleiner Liebling
 17	5	361	Der Sicherheitssalamander
 17	6	362	Marge und der Frauen-Club
-
+17	7	363	Der italienische Bob
+17	8	364	Wer ist Homers Vater?
