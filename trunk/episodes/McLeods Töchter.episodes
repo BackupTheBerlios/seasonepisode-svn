@@ -13,194 +13,194 @@
 # 5	107	138
 # 6	139	163
 # /SEASONLIST
-
-#Season	Episode	Number	Title german	Title original
-
-# STAFFEL 1
-
-01	1	1	Willkommen daheim	Welcome home
-01	2	2	Das schwarze Schaf	Ducks on the pond
-01	3	3	Rowdies und Rodeo	Don't Mess With The Girls
-01	4	4	Wer ist der Boss?	Who's The Boss?
-01	5	5	Schweren Herzens	Taking the reins
-01	6	6	Der erste Kuss	Reality bites
-01	7	7	In Nöten	Pride and joy
-01	8	8	Lagerkoller	Stir crazy
-01	9	9	Schwein gehabt	Into the woods
-01	10	10	Erste Hilfe	Haunted
-01	11	11	Das erste Mal	Who's A Big Girl Now?
-01	12	12	Ungezähmt	Pandora's Box
-01	13	13	Schutt und Asche	Love of my life
-01	14	14	Auf frischer Tat	Dirty Pool
-01	15	15	Vorsicht Gift	If The Boot Fits...)
-01	16	16	Im Angesicht des Todes	Playing to win
-01	17	17	Der Lockvogel	Girls night out
-01	18	18	In der Klemme	More than one way
-01	19	19	Ein Italiener zum verlieben	The Italian Stallion
-01	20	20	Liebeskummer	Lover come back
-01	21	21	Ein verlockendes Angebot	Friends like these
-01	22	22	Unter Verdacht	Deep Water
-
-# STAFFEL 2
-	
-02	1	23	Die Hanf-Plantage	The Drover's Connection
-02	2	24	Das Findelkind	Through the looking glass
-02	3	25	Jagdfieber	Desperate Measures
-02	4	26	Auf dem Trockenen	The bore war
-02	5	27	Der verlorene Vater	Hello Stranger
-02	6	28	Alles im Eimer	A dry spell
-02	7	29	Drei sind einer zuviel	Three's a crowd
-02	8	30	Doppelleben	Bridle waltz
-02	9	31	Schwere Entscheidung	To have and to hold
-02	10	32	In letzter Sekunde	Home is where the heart is
-02	11	33	Mit List und Tücke	Wildfire
-02	12	34	Fuchsteufelswild	Hounded
-02	13	35	Auf großer Tour	Steer Trek
-02	14	36	Das Zuchtprogramm	Brave J
-02	15	37	Ganz oder gar nicht	You can leave your hat on
-02	16	38	Ausgetrickst	Stripped bare
-02	17	39	Schäferstündchen	Blame it on the moonlight
-02	18	40	Mit harten Bandagen	Made to be broken
-02	19	41	Falsches Spiel	Best of enemies
-02	20	42	Neuanfänge	Wind change
-02	21	43	Der Jahrmarkt	No more Mr. Nice Guy
-02	22	44	Ende mit Schrecken	Future perfect
-
-# STAFFEL 3
-	
-03	1	45	Absturz	Fairy tale, ending
-03	2	46	Heiratspläne	Better the devil you know
-03	3	47	Nur geträumt	The road home
-03	4	48	Heimliche Affären	An affair to forget
-03	5	49	Geständnisse	Put to the test
-03	6	50	Die Braut, die sich nicht traut	The wedding
-03	7	51	Frauensache	Gone to the dogs
-03	8	52	Geister der Vergangenheit	The ghost of things to come
-03	9	53	Stunde der Wahrheit	A house of cards
-03	10	54	Gerettet	Three little words
-03	11	55	Rivalinnen	Repeat offenders
-03	12	56	Väter und Söhne	Sins of the father
-03	13	57	Fest im Sattel	Jokers to the right
-03	14	58	Böser Zauber	Chain reaction
-03	15	59	Geheime Wege	The awful truth
-03	16	60	Das Licht der Welt	Seeing the light
-03	17	61	Ohne Namen	A slight interruption
-03	18	62	Ein Vater zuviel	Old beginnings
-03	19	63	Spiel mit dem Feuer	Where theres smoke
-03	20	64	Einsame Herzen	Perfect match
-03	21	65	Frauenpower	Let the best man win
-03	22	66	Das Schweigen der Kälber	Majority rules
-03	23	67	Stadtluft	The ties that bind
-03	24	68	Schwere Zeiten	One step at a time
-03	25	69	Zucht und Ordnung	Time frames
-03	26	70	Auf der Zielgeraden	Body language
-03	27	71	Die Neue	To catch a thief
-03	28	72	Der weiße Hengst	My noon, my midnight
-03	29	73	Langer Abschied	The long goodbye
-03	30	74	Gegen die Zeit	Turbulence
-
-# Die Episoden 71-74 werden in Australien noch zur Staffel 3 gezählt,
-# international wurden sie aber zu Staffel 4 gerechnet
-# - ich bleibe bei der australische Reihenfolge
-
-# STAFFEL 4
-	
-04	1	75	Buschfeuer	Out of the ashes
-04	2	76	Pokerface	Double dealing
-04	3	77	Wer ist Jack	Jack of all shades
-04	4	78	Kuhhandel	Day of reckoning
-04	5	79	Der Trinker	Great expectations
-04	6	80	Retter in der Not	Game of Chance
-04	7	81	Dammbruch	When sparks fly
-04	8	82	Alte Liebe	Show of Love
-04	9	83	Muttergefühle	Father's Day
-04	10	84	Der Brunnen	Flesh and Blood
-04	11	85	Nackt	Fool for Love
-04	12	86	Das gestohlene Vieh	Make or Break
-04	13	87	Eine zweite Chance	Second Chance
-04	14	88	Fehlstart	Call me Kate
-04	15	89	Ein verrückter Tag	Desperate and Dateless
-04	16	90	Entflammt	Magnetic Attraction
-04	17	91	Heiß begehrt	Every breath you take
-04	18	92	Seuchengefahr	My Brother's Keeper
-04	19	93	Vergiftet	Saturn return
-04	20	94	Dunkle Geschäfte	Friendly Fire
-04	21	95	Hindernisse	Secrets and Lies
-04	22	96	Verraten und verkauft	For Love or Money
-04	23	97	Tiefe Wasser	Dangerous Waters
-04	24	98	Feuerteufel	Where there's Fire
-04	25	99	Auf schwankendem Boden	Trembling on The Brink
-04	26	100	Für immer und ewig	This Moment Foward
-04	27	101	Zeit der Bewährung	Something to prove
-04	28	102	Viel Lärm um nichts	My house is your house
-04	29	103	Gestatten, McLeod	A McLeod Daughter
-04	30	104	Der Pferdeflüsterer	The things we do for love
-04	31	105	Ein schwerer Schlag	Love Interrupted
-04	32	106	Gebranntes Kind	Twice bitten
-
-# Die Episoden 101-106 werden in Australien noch zur Staffel 4 gezählt,
-# international wurden sie aber zu Staffel 5 gerechnet
-# - ich bleibe bei der australische Reihenfolge
-	
-# STAFFEL 5
-	
-05	1	107	Gemischte Gefühle	No mans land
-05	2	108	Auszeit	Little white lies
-05	3	109	Funkstille	Rules of Disengagement
-05	4	110	Letzte Rettung	Once were heroes
-05	5	111	Pocken-Alarm	Return of the black Queen
-05	6	112	Lug und Betrug	Do you read me....?
-05	7	113	Auf dem Holzweg	Talking care of business
-05	8	114	Wandertag	Old flames
-05	9	115	Blondinen bevorzugt	Body blows
-05	10	116	Schweres Erbe	Sins of the father
-05	11	117	Heiße Ware	Boy me good
-05	12	118	Unter Druck	The Pearl
-05	13	119	Am Abgrund	The prodigal daughter
-05	14	120	Alte Wunden	Love and Obsession
-05	15	121	Picknick	One long long day
-05	16	122	Böses Erwachen	Down to earth
-05	17	123	Goldrausch	Heart of gold
-05	18	124	Wurm drin!	Taking flight
-05	19	125	Mörderjagd	Make believe
-05	20	126	Sturmwarnung	Heaven and earth
-05	21	127	Versprochen ist versprochen	Moonstruck
-05	22	128	Trockenzeit	If you build it...
-05	23	129	Mutterliebe	Out of time
-05	24	130	Bittere Wahrheit	Betwixt and between
-05	25	131	Aus heiterem Himmel	Truth or dare
-05	26	132	Die Erbschaft	The King and I
-05	27	133	Entwurzelt	Intentions
-05	28	134	Gefährliche Visionen	Stranger than fiction
-05	29	135	Tragische Umstände	Twelfe and a half hours behind
-05	30	136	Jahrestag	Anniversary
-05	31	137	Das Vermächtnis	Body and Soul
-05	32	138	Feueralarm	New beginnings
-
-# STAFFEL 6
-	
-06	1	139		Lost & found
-06	2	140		Truth hurts
-06	3	141		Kiss of death
-06	4	142		Luck be a lady
-06	5	143		The real McLeod
-06	6	144		The Calling
-06	7	145		What lies beneath
-06	8	146		Where the heart is
-06	9	147		Deliver us from evil
-06	10	148		The big commitment
-06	11	149		Biting the bullet
-06	12	150		Second best
-06	13	151		The trouble with Harry
-06	14	152		The legend of Harry Ryan
-06	15	153		Second chances
-06	16	154		Secret and lies
-06	17	155		The life of Riley
-06	18	156		Wild horses
-06	19	157		The great temptation
-06	20	158		Suspicious minds
-06	21	159		Days of reckoning
-06	22	160		Scratch the surface
-06	23	161		For better or worse
-06	24	162		The eleventh hour
-06	25	163		Old wrongs
+			
+#Season	Episode	Number	Title german
+			
+# STAFFEL 1			
+			
+01	1	1	Willkommen daheim
+01	2	2	Das schwarze Schaf
+01	3	3	Rowdies und Rodeo
+01	4	4	Wer ist der Boss?
+01	5	5	Schweren Herzens
+01	6	6	Der erste Kuss
+01	7	7	In Nöten
+01	8	8	Lagerkoller
+01	9	9	Schwein gehabt
+01	10	10	Erste Hilfe
+01	11	11	Das erste Mal
+01	12	12	Ungezähmt
+01	13	13	Schutt und Asche
+01	14	14	Auf frischer Tat
+01	15	15	Vorsicht Gift
+01	16	16	Im Angesicht des Todes
+01	17	17	Der Lockvogel
+01	18	18	In der Klemme
+01	19	19	Ein Italiener zum verlieben
+01	20	20	Liebeskummer
+01	21	21	Ein verlockendes Angebot
+01	22	22	Unter Verdacht
+			
+# STAFFEL 2			
+			
+02	1	23	Die Hanf-Plantage
+02	2	24	Das Findelkind
+02	3	25	Jagdfieber
+02	4	26	Auf dem Trockenen
+02	5	27	Der verlorene Vater
+02	6	28	Alles im Eimer
+02	7	29	Drei sind einer zuviel
+02	8	30	Doppelleben
+02	9	31	Schwere Entscheidung
+02	10	32	In letzter Sekunde
+02	11	33	Mit List und Tücke
+02	12	34	Fuchsteufelswild
+02	13	35	Auf großer Tour
+02	14	36	Das Zuchtprogramm
+02	15	37	Ganz oder gar nicht
+02	16	38	Ausgetrickst
+02	17	39	Schäferstündchen
+02	18	40	Mit harten Bandagen
+02	19	41	Falsches Spiel
+02	20	42	Neuanfänge
+02	21	43	Der Jahrmarkt
+02	22	44	Ende mit Schrecken
+			
+# STAFFEL 3			
+			
+03	1	45	Absturz
+03	2	46	Heiratspläne
+03	3	47	Nur geträumt
+03	4	48	Heimliche Affären
+03	5	49	Geständnisse
+03	6	50	Die Braut, die sich nicht traut
+03	7	51	Frauensache
+03	8	52	Geister der Vergangenheit
+03	9	53	Stunde der Wahrheit
+03	10	54	Gerettet
+03	11	55	Rivalinnen
+03	12	56	Väter und Söhne
+03	13	57	Fest im Sattel
+03	14	58	Böser Zauber
+03	15	59	Geheime Wege
+03	16	60	Das Licht der Welt
+03	17	61	Ohne Namen
+03	18	62	Ein Vater zuviel
+03	19	63	Spiel mit dem Feuer
+03	20	64	Einsame Herzen
+03	21	65	Frauenpower
+03	22	66	Das Schweigen der Kälber
+03	23	67	Stadtluft
+03	24	68	Schwere Zeiten
+03	25	69	Zucht und Ordnung
+03	26	70	Auf der Zielgeraden
+03	27	71	Die Neue
+03	28	72	Der weiße Hengst
+03	29	73	Langer Abschied
+03	30	74	Gegen die Zeit
+			
+# Die Episoden 71-74 werden in Australien noch zur Staffel 3 gezählt,			
+# international wurden sie aber zu Staffel 4 gerechnet			
+# - ich bleibe bei der australische Reihenfolge			
+			
+# STAFFEL 4			
+			
+04	1	75	Buschfeuer
+04	2	76	Pokerface
+04	3	77	Wer ist Jack
+04	4	78	Kuhhandel
+04	5	79	Der Trinker
+04	6	80	Retter in der Not
+04	7	81	Dammbruch
+04	8	82	Alte Liebe
+04	9	83	Muttergefühle
+04	10	84	Der Brunnen
+04	11	85	Nackt
+04	12	86	Das gestohlene Vieh
+04	13	87	Eine zweite Chance
+04	14	88	Fehlstart
+04	15	89	Ein verrückter Tag
+04	16	90	Entflammt
+04	17	91	Heiß begehrt
+04	18	92	Seuchengefahr
+04	19	93	Vergiftet
+04	20	94	Dunkle Geschäfte
+04	21	95	Hindernisse
+04	22	96	Verraten und verkauft
+04	23	97	Tiefe Wasser
+04	24	98	Feuerteufel
+04	25	99	Auf schwankendem Boden
+04	26	100	Für immer und ewig
+04	27	101	Zeit der Bewährung
+04	28	102	Viel Lärm um nichts
+04	29	103	Gestatten, McLeod
+04	30	104	Der Pferdeflüsterer
+04	31	105	Ein schwerer Schlag
+04	32	106	Gebranntes Kind
+			
+# Die Episoden 101-106 werden in Australien noch zur Staffel 4 gezählt,			
+# international wurden sie aber zu Staffel 5 gerechnet			
+# - ich bleibe bei der australische Reihenfolge			
+			
+# STAFFEL 5			
+			
+05	1	107	Gemischte Gefühle
+05	2	108	Auszeit
+05	3	109	Funkstille
+05	4	110	Letzte Rettung
+05	5	111	Pocken-Alarm
+05	6	112	Lug und Betrug
+05	7	113	Auf dem Holzweg
+05	8	114	Wandertag
+05	9	115	Blondinen bevorzugt
+05	10	116	Schweres Erbe
+05	11	117	Heiße Ware
+05	12	118	Unter Druck
+05	13	119	Am Abgrund
+05	14	120	Alte Wunden
+05	15	121	Picknick
+05	16	122	Böses Erwachen
+05	17	123	Goldrausch
+05	18	124	Wurm drin!
+05	19	125	Mörderjagd
+05	20	126	Sturmwarnung
+05	21	127	Versprochen ist versprochen
+05	22	128	Trockenzeit
+05	23	129	Mutterliebe
+05	24	130	Bittere Wahrheit
+05	25	131	Aus heiterem Himmel
+05	26	132	Die Erbschaft
+05	27	133	Entwurzelt
+05	28	134	Gefährliche Visionen
+05	29	135	Tragische Umstände
+05	30	136	Jahrestag
+05	31	137	Das Vermächtnis
+05	32	138	Feueralarm
+			
+# STAFFEL 6			
+			
+06	1	139	
+06	2	140	
+06	3	141	
+06	4	142	
+06	5	143	
+06	6	144	
+06	7	145	
+06	8	146	
+06	9	147	
+06	10	148	
+06	11	149	
+06	12	150	
+06	13	151	
+06	14	152	
+06	15	153	
+06	16	154	
+06	17	155	
+06	18	156	
+06	19	157	
+06	20	158	
+06	21	159	
+06	22	160	
+06	23	161	
+06	24	162	
+06	25	163	

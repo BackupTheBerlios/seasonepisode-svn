@@ -4,51 +4,51 @@
 # 1	1	25
 # 2	26	49
 # /SEASONLIST
-
-01	1	1	Lost (Pilot)	Pilot: Part 1
-01	2	2	Gestrandet - Teil 2	Pilot: Part 2
-01	3	3	Tabula Rasa	Tabula Rasa
-01	4	4	Wildschweinjagd	Walkabout
-01	5	5	Das weisse Kaninchen	White Rabbit
-01	6	6	Die Höhle	House of the Rising Sun
-01	7	7	Der Nachtfalter	The Moth
-01	8	8	Der Betrüger	Confidence Man
-01	9	9	Einzelhaft	Solitary
-01	10	10	Volkszählung	Raised by Another
-01	11	11	Fährtensucher	All the Best Cowboys Have Daddy Issues
-01	12	12	Der silberne Koffer	Whatever the Case May Be
-01	13	13	Gefühl und Verstand	Hearts and Minds
-01	14	14	Eisbär	Special
-01	15	15	Heimkehr	Homecoming
-01	16	16	nn	Outlaws
-01	17	17	...In Translation	...In Translation
-01	18	18	Verfluchte Zahlen	Numbers
-01	19	19	Deux Ex Machina	Deus Ex Machina
-01	20	20	Schade nicht	Do No Harm
-01	21	21	Ein höheres Ziel	The Greater Good (a.k.a. Sides)
-01	22	22	Rastlos	Born to Run
-01	23	23	Exodus - Teil I	Exodus (1)
-01	24	24	Exodus - Teil II	Exodus (2)
-01	25	25	Exodus - Teil III	Exodus (3)
-02	1	26	Glaube und Wissenschaft	Man of Science, Man of Faith
-02	2	27	Treibholz	Adrift
-02	3	28	Orientierung	Orientation
-02	4	29	Alle hassen Hugo	Everybody Hates Hugo
-02	5	30	Gefunden	...And Found
-02	6	31	Verlassen	Abandoned
-02	7	32	Die anderen 48 Tage	The Other 48 Days
-02	8	33	Kollision	Collision
-02	9	34	Was Kate getan hat	What Kate Did
-02	10	35	Psalm 23	The 23rd Psalm
-02	11	36	Jagdgesellschaft	The Hunting Party
-02	12	37	Feuer und Wasser	Fire + Water
-02	13	38	Langer Atem	The Long Con
-02	14	39	Einer von Ihnen	One of Them
-02	15	40	Mutterschutz	Maternity Leave
-02	16	41	The Whole Truth (TBA)	The Whole Truth
-02	17	42	Verriegelt	Lockdown
-02	18	43	Dave	Dave
-02	19	44	S.O.S.	S.O.S.
-02	20	45	Zwei für unterwegs	Two for the Road
-02	21	46	nn	nn
-02	22	47	Drei Minuten	Three Minutes
+#
+01	1	1	Lost (Pilot)
+01	2	2	Gestrandet - Teil 2
+01	3	3	Tabula Rasa
+01	4	4	Wildschweinjagd
+01	5	5	Das weisse Kaninchen
+01	6	6	Die Höhle
+01	7	7	Der Nachtfalter
+01	8	8	Der Betrüger
+01	9	9	Einzelhaft
+01	10	10	Volkszählung
+01	11	11	Fährtensucher
+01	12	12	Der silberne Koffer
+01	13	13	Gefühl und Verstand
+01	14	14	Eisbär
+01	15	15	Heimkehr
+01	16	16	nn
+01	17	17	...In Translation
+01	18	18	Verfluchte Zahlen
+01	19	19	Deux Ex Machina
+01	20	20	Schade nicht
+01	21	21	Ein höheres Ziel
+01	22	22	Rastlos
+01	23	23	Exodus - Teil I
+01	24	24	Exodus - Teil II
+01	25	25	Exodus - Teil III
+02	1	26	Glaube und Wissenschaft
+02	2	27	Treibholz
+02	3	28	Orientierung
+02	4	29	Alle hassen Hugo
+02	5	30	Gefunden
+02	6	31	Verlassen
+02	7	32	Die anderen 48 Tage
+02	8	33	Kollision
+02	9	34	Was Kate getan hat
+02	10	35	Psalm 23
+02	11	36	Jagdgesellschaft
+02	12	37	Feuer und Wasser
+02	13	38	Langer Atem
+02	14	39	Einer von Ihnen
+02	15	40	Mutterschutz
+02	16	41	The Whole Truth (TBA)
+02	17	42	Verriegelt
+02	18	43	Dave
+02	19	44	S.O.S.
+02	20	45	Zwei für unterwegs
+02	21	46	nn
+02	22	47	Drei Minuten
