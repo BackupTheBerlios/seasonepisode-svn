@@ -1,0 +1,63 @@
+#
+# SEASONLIST
+# 1	1	13
+# 2	14	26
+# 3	27	39
+# 4	40	51
+# /SEASONLIST
+#
+# 1. Staffel
+01	1	1	Fisher und Söhne
+01	2	2	Der letzte Wille
+01	3	3	Der verlorene Fuß
+01	4	4	Familienbande
+01	5	5	Wie ein offenes Buch
+01	6	6	Das geheime Zimmer
+01	7	7	Zwei Brüder
+01	8	8	Die tief hängende Ampel
+01	9	9	Das Leben ist zu kurz
+01	10	10	Die Neue
+01	11	11	Der verhängnisvolle Ausflug
+01	12	12	Davids Gewissen
+01	13	13	Der Herr hat es gegeben, der Herr hat es genommen
+# 2. Staffel
+02	1	14	Am Spieltisch
+02	2	15	Brenne aus, kleine Kerze
+02	3	16	Der Plan
+02	4	17	Mr. Mossbacks Rückführung
+02	5	18	Die unsichtbare Frau
+02	6	19	Anstelle von Zorn
+02	7	20	Tante Sarahs Party
+02	8	21	Die wunderbarste Zeit des Jahres
+02	9	22	Mit den Augen eines anderen
+02	10	23	Das Geheimnis
+02	11	24	Der Lügner und die Hure
+02	12	25	Ich nehme dich
+02	13	26	Das letzte Mal
+# 3. Staffel
+03	1	27	Der Kreis schließt sich
+03	2	28	Man kann nie wissen
+03	3	29	Das innere Auge
+03	4	30	Niemand schläft
+03	5	31	Die Falle
+03	6	32	Beziehungsarbeit
+03	7	33	Zeit und Raum
+03	8	34	Tränen, Gebeine und Begehrlichkeiten
+03	9	35	Die Vernissage
+03	10	36	Alle gehen fort
+03	11	37	Der Tod macht Überstunden
+03	12	38	Dämmerung
+03	13	39	Tut mir leid, ich weiß nicht weiter
+# 4. Staffel
+04	1	40	Alles fügt sich treffend
+04	2	41	Lichtblicke
+04	3	42	Paralleles Spiel
+04	4	43	Alles Gute kommt von oben
+04	5	44	Das ist mein Hund
+04	6	45	Häusliche Dramen
+04	7	46	Die Provokation
+04	8	47	Der eine kommt, der andere geht
+04	9	48	Mörser und Stössel
+04	10	49	Asche zu Asche
+04	11	50	Der Luftschutzbunker
+04	12	51	Geteiltes Leid
