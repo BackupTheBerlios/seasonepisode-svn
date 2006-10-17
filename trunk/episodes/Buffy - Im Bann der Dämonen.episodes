@@ -1,0 +1,164 @@
+#
+# SEASONLIST
+# 1	1	12
+# 2	13	34
+# 3	35	56
+# 4	57	78
+# 5	79	100
+# 6	101	122
+# 7	123	144
+# /SEASONLIST
+#
+# SHORT Buffy
+#
+# 1. Staffel
+01	1	1	Im Zentrum des Bösen
+01	2	2	Die Zeit der Ernte
+01	3	3	Verhext
+01	4	4	Die Gottesanbeterin
+01	5	5	Ohne Buffy lebts sich länger
+01	6	6	Das Lied der Hyänen
+01	7	7	Angel  blutige Küsse
+01	8	8	Computer Dämon
+01	9	9	Buffy lässt die Puppen tanzen
+01	10	10	Die Macht der Träume
+01	11	11	Aus den Augen aus dem Sinn
+01	12	12	Das Ende der Welt
+# 2. Staffel
+02	1	13	Im Banne des Bösen
+02	2	14	Operation Cordelia
+02	3	15	Elternabend mit Hindernissen
+02	4	16	Das Geheimnis der Mumie
+02	5	17	Der Geheimbund
+02	6	18	Die Nacht der Verwandlung
+02	7	19	Todessehnsucht
+02	8	20	Das Mal des Eyghon
+02	9	21	Die Rivalin, Teil 1
+02	10	22	Das Ritual, Teil 2
+02	11	23	Ted
+02	12	24	Faule Eier
+02	13	25	Der Fluch der Zigeuner
+02	14	26	Der gefallene Engel
+02	15	27	Der Werwolfjäger
+02	16	28	Der Liebeszauber
+02	17	29	Das Jenseits lässt grüßen
+02	18	30	Der unsichtbare Tod
+02	19	31	Ein Dämon namens Liebe
+02	20	32	Das Geheimnis der Fischmonster
+02	21	33	Wendepunkt, Teil 1
+02	22	34	Spiel mit dem Feuer, Teil 2
+# 3. Staffel
+03	1	35	Gefangen in der Unterwelt
+03	2	36	Die Nacht der lebenden Toten
+03	3	37	Neue Freunde, neue Feinde
+03	4	38	Dr. Jekyll und Mr. Hyde
+03	5	39	Die Qual der Wahl
+03	6	40	Außer Rand und Band
+03	7	41	Der Handschuh von Myhnegon
+03	8	42	Liebe und andere Schwierigkeiten
+03	9	43	Was wäre, wenn...
+03	10	44	Heimsuchungen
+03	11	45	Hänsel und Gretel
+03	12	46	Die Reifeprüfung
+03	13	47	Die Nacht der lebenden Leichen
+03	14	48	Der neue Wächter
+03	15	49	Konsequenzen
+03	16	50	Doppelgängerland
+03	17	51	Gefährliche Spiele
+03	18	52	Fremde Gedanken
+03	19	53	Die Box von Gavrock
+03	20	54	Der Höllenhund
+03	21	55	Das Blut der Jägerin, Teil 1
+03	22	56	Der Tag der Vergeltung, Teil 2
+# 4. Staffel
+04	1	57	Frischlinge
+04	2	58	K)eine Menschenseele
+04	3	59	Der Stein von Amara
+04	4	60	Der Dämon der Angst
+04	5	61	Das Bier der bösen Denkungsart
+04	6	62	Wilde Herzen
+04	7	63	Die Initative
+04	8	64	Der Geist der Chumash
+04	9	65	Mein Wille geschehe
+04	10	66	Das große Schweigen
+04	11	67	Das Opfer der Drei
+04	12	68	Metamorphosen
+04	13	69	Schein und Sein
+04	14	70	Die Kampfmaschine
+04	15	71	Böses Erwachen
+04	16	72	Im Körper des Feindes
+04	17	73	Jonathan - Superstar
+04	18	74	Die Unersättlichen
+04	19	75	Abschiede
+04	20	76	Der Yoko-Faktor
+04	21	77	Das letzte Gefecht
+04	22	78	Jedem sein Alptraum
+# 5. Staffel
+05	1	79	Buffy vs. Dracula
+05	2	80	Lieb Schwesterlein mein
+05	3	81	Der doppelte Xander
+05	4	82	Die Initiative lässt grüßen
+05	5	83	Sein und Schein
+05	6	84	Familienbande
+05	7	85	Eine Lektion fürs Leben
+05	8	86	Schatten
+05	9	87	Alles Böse kommt von oben
+05	10	88	Das Ultimatum
+05	11	89	Der Hammer der Zerstörung
+05	12	90	Der Rat der Wächter
+05	13	91	Blutsbande
+05	14	92	Die liebe Liebe
+05	15	93	Auf Liebe programmiert
+05	16	94	Tod einer Mutter
+05	17	95	Gefährlicher Zauber
+05	18	96	Der Zorn der Göttin
+05	19	97	Götterdämmerung
+05	20	98	Auf der Flucht
+05	21	99	Die Last der Welt
+05	22	100	Der Preis der Freiheit
+# 6. Staffel
+06	1	101	Die Auferstehung, Teil 1
+06	2	102	Die Auferstehung, Teil 2
+06	3	103	Gruß aus der Hölle
+06	4	104	Geld und andere Sorgen
+06	5	105	Die Zeitschleife
+06	6	106	Halloween - Die Nacht der Überraschungen
+06	7	107	Noch einmal mit Gefühl
+06	8	108	Tabula Rasa
+06	9	109	Alte Feinde, neue Freunde?
+06	10	110	Der Fluch der Zauberei
+06	11	111	Verschwunden
+06	12	112	Geheimnisvolle Zutaten
+06	13	113	Manipulationen
+06	14	114	Ein verfluchter Geburtstag
+06	15	115	berraschender Besuch
+06	16	116	Höllische Hochzeit
+06	17	117	Zwei Welten
+06	18	118	Im Chaos der Gefühle
+06	19	119	Warrens Rache
+06	20	120	Wut
+06	21	121	Da waren`s nur noch zwei
+06	22	122	Der Retter, Teil 2
+# 7. Staffel
+07	1	123	Alles auf Anfang
+07	2	124	Das Monster aus der Tiefe
+07	3	125	Willows Welt
+07	4	126	Hilflos
+07	5	127	Wandlungen
+07	6	128	Liebesbeweise
+07	7	129	Gespräche mit Toten
+07	8	130	Unschuldig schuldig
+07	9	131	Boten des Bösen
+07	10	132	Wenn die Nacht beginnt
+07	11	133	Showtime
+07	12	134	Die Anwärterin
+07	13	135	Der Mörder in mir
+07	14	136	Das erste Date
+07	15	137	Das Angebot
+07	16	138	Der Geschichtenerzähler
+07	17	139	Mütter und Söhne
+07	18	140	Caleb
+07	19	141	und raus bist Du
+07	20	142	Die Quelle der Macht
+07	21	143	Das Ende der Zeit, Teil 1
+07	22	144	Das Ende der Zeit, Teil 2
