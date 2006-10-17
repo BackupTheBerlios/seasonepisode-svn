@@ -1,0 +1,102 @@
+#
+# SEASONLIST
+# 1	1	22
+# 2	23	46
+# 3	47	68
+# 4	69	90
+# /SEASONLIST
+#
+# 1. Staffel
+01	1	1	Michael Knight/Wie alles begann (I)
+01	2	2	Michael Knight/Wie alles begann (II)
+01	3	3	Tödliche Manöver
+01	4	4	Der Bandenkrieg
+01	5	5	Sammys Sensationsshow
+01	6	6	Minister auf Abwegen
+01	7	7	Die große Dürre
+01	8	8	Ein Richter spielt sein Spiel
+01	9	9	Der Doppelgänger
+01	10	10	Gangster wider Willen
+01	11	11	Das endgültige Urteil
+01	12	12	Das Gipfeltreffen
+01	13	13	Zwischen zwei Frauen
+01	14	14	Herzen aus Stein
+01	15	15	Ein mysteriöser Saboteur
+01	16	16	Geheimcode Topaz
+01	17	17	Eine Musterstadt ohne Verbrechen
+01	18	18	Die Helios-Nadel
+01	19	19	Weißer Vogel
+01	20	20	Unerwünschte Konkurrenz
+01	21	21	Computerspiele
+01	22	22	Gekidnappt
+# 2. Staffel
+02	1	23	Goliath Teil I: Goliaths Geburt
+02	2	24	Goliath Teil II: Der Kampf mit Goliath
+02	3	25	Der Erpresser
+02	4	26	Händler des Todes
+02	5	27	Blindes Vertrauen
+02	6	28	Geheimversteck Cadiz
+02	7	29	Der Fassadenkletterer
+02	8	30	Devon Miles in Nöten
+02	9	31	K.I.T.T. sitzt in der Falle
+02	10	32	Ein Ring aus Feuer
+02	11	33	Gedächtnisschwund
+02	12	34	Eine schöne Bescherung
+02	13	35	Die Schatzsuche
+02	14	36	Diamantenschmuggel
+02	15	37	Eine Kleinstadt lebt gefährlich
+02	16	38	Wettlauf mit dem Tod
+02	17	39	Schnelle Teufel
+02	18	40	Goliath kommt zurück (I)
+02	19	41	Goliath wird vernichtet (II)
+02	20	42	Gefährliches Spielzeug
+02	21	43	Goldschmuggel (I)
+02	22	44	Das Schlangenmaul (II)
+02	23	45	Ich werd' ewig dein Freund bleiben
+02	24	46	Einer spielt falsch
+# 3. Staffel
+03	1	47	Ein geheimnisvoller Roboter (I)
+03	2	48	Der chinesische Tunnel (II)
+03	3	49	Das zweite Gesicht
+03	4	50	Fahrerflucht
+03	5	51	Tödliches Kostümfest
+03	6	52	Der schwarze Teufel taucht wieder auf
+03	7	53	Viehdiebe - Der gemeine Apfel
+03	8	54	Michael fällt in Ungnade
+03	9	55	Tödliche Orchideen
+03	10	56	K.I.T.T. kriegt einen Schlag
+03	11	57	Das Chamäleon
+03	12	58	Mord nach Maß
+03	13	59	Eine Nasenlänge voraus
+03	14	60	Eine schreckliche Falle
+03	15	61	Der Konkurs
+03	16	62	Ein Neubau mit Wanzen
+03	17	63	Das 19. Loch
+03	18	64	Elliot, der Schlaukopf
+03	19	65	Shatners Komplott
+03	20	66	Michael Knight und die Zuflucht
+03	21	67	Die Waffenbörse
+03	22	68	Der Tod unter der Zirkuskuppel
+# 4. Staffel
+04	1	69	K.I.T.T.s Unfall mit Folgen (I)
+04	2	70	K.I.T.T.s Unfall mit Folgen (II)
+04	3	71	Kidnapping
+04	4	72	Die Flugzeugentführung
+04	5	73	Die heilige Grabstätte
+04	6	74	Aus Spaß wird bitterer Ernst
+04	7	75	Tödliche Bakterien
+04	8	76	Herzlichen Glückwunsch
+04	9	77	Der Tod fährt mit
+04	10	78	Knight hinter Gittern
+04	11	79	Die Bodenspekulanten
+04	12	80	Duft einer Rose
+04	13	81	Killer K.I.T.T.
+04	14	82	Wie die Axt im Walde
+04	15	83	Zauberspiele
+04	16	84	Die Boxmeisterschaft
+04	17	85	Wer anderen eine Grube gräbt
+04	18	86	Die Brandstifter
+04	19	87	Der Militärputsch
+04	20	88	Der unheimliche Mönch
+04	21	89	Der japanische Geheimbund
+04	22	90	Der geheimnisvolle Ohrclip
