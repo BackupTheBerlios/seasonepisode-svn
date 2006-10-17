@@ -1,4 +1,4 @@
-# EPISODE SEARCH
+#
 # SEASONLIST
 # 1	1	22
 # 2	23	44
@@ -8,10 +8,14 @@
 # 6	111	132
 # 7	133	154
 # 8	155	174
+# 9	175	194
+# 10	195	213
 # /SEASONLIST
 #
+# SHORT Stargate-SG1
+#
 #SE	EP	No.	Titel
-#short Stargate-SG1
+#
 01	01	1	Das Tor zum Universum - Teil 1 
 01	02	2	Das Tor zum Universum - Teil 2 
 01	03	3	Der Feind in seinem Körper 
@@ -186,3 +190,23 @@
 08	18	172	Jim 
 08	19	173	Möbius (1) 
 08	20	174	Möbius (2) 
+09	01	175	Avalon (1)
+09	02	176	Avalon (2)
+09	03	177	Die Herkunft
+09	04	178	Unsichtbare Fesseln
+09	05	179	Höhere Mächte
+09	06	180	Das Schutzschild
+09	07	181	Ex Deus Machina
+09	08	182	Babylon
+09	09	183	Der Prototyp
+09	10	184	Der apokalyptische Reiter (1)
+09	11	185	Der apokalyptische Reiter (2)
+09	12	186	Kollateralschaden
+09	13	187	Der Ripple-Effekt
+09	14	188	Die Festung
+09	15	189	Ethon
+09	16	190	Ohne Netz
+09	17	191	Die Plage
+09	18	192	Arthur's Umhang
+09	19	193	Der Kreuzzug
+09	20	194	Camelot
