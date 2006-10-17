@@ -1,0 +1,54 @@
+#
+# SEASONLIST
+# 1	1	22
+# 2	23	44
+# /SEASONLIST
+#
+# SHORT Alias
+#
+# 1. Staffel
+01	1	1	Tödliche Wahrheit
+01	2	2	Neuanfang
+01	3	3	Rivalinnen
+01	4	4	Zerrissenes Herz
+01	5	5	Doppelgänger
+01	6	6	Verdächtig
+01	7	7	Farbenblind
+01	8	8	Zeiträtsel
+01	9	9	Mea Culpa
+01	10	10	Letzte Rettung
+01	11	11	Geständnis
+01	12	12	Nadeln des Feuers, Teil 1
+01	13	13	Nadeln des Feuers, Teil 2
+01	14	14	Feindliche Übernahme
+01	15	15	Seite 47
+01	16	16	Rambaldis Prophezeiung
+01	17	17	Fragen und Antworten
+01	18	18	Maskerade
+01	19	19	Zerstörte Hoffnung
+01	20	20	Ratten
+01	21	21	Rendezvous
+01	22	22	Kreisumfang
+# 2. Staffel
+02	1	23	Wahrheit braucht Zeit
+02	2	24	Erpressung
+02	3	25	Musik aus dem Eis
+02	4	26	Bewährungsproben
+02	5	27	Projekt Weihnachten
+02	6	28	Virus
+02	7	29	Kollaboration
+02	8	30	Hafturlaub, Teil 1
+02	9	31	Hafturlaub, Teil 2
+02	10	32	Aussendienst
+02	11	33	Echelon
+02	12	34	Davongekommen
+02	13	35	Phase Eins
+02	14	36	Doppelter Agent
+02	15	37	Freier Agent
+02	16	38	Höllenfeuer
+02	17	39	Kehrtwendung
+02	18	40	Bittere Erkenntnis
+02	19	41	Endspiel
+02	20	42	Countdown
+02	21	43	Zweites Double
+02	22	44	Il Dire

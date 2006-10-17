@@ -1,0 +1,102 @@
+#
+# SEASONLIST
+# 1	1	22
+# 2	23	44
+# 3	45	66
+# 4	67	88
+# /SEASONLIST
+#
+# SHORT Angel
+#
+# 1. Staffel
+01	1	1	Licht und Schatten
+01	2	2	Einsame Herzen
+01	3	3	Der Ring von Amara
+01	4	4	Die Maschen des Dr. Meltzer
+01	5	5	Zimmer mit Aussicht
+01	6	6	Verwirrung der Gefühle
+01	7	7	Party mit Biss
+01	8	8	Liebe auf Zeit
+01	9	9	Helden wie wir
+01	10	10	Das Abschiedsgeschenk
+01	11	11	Schatten der Vergangenheit
+01	12	12	Teuflische Leidenschaften
+01	13	13	Die Frauen der Oden Tals
+01	14	14	Das Böse an sich
+01	15	15	Vaterliebe
+01	16	16	Die Gladiatoren von L. A.
+01	17	17	Für immer jung
+01	18	18	Alte Feinde
+01	19	19	Gehetzt
+01	20	20	Der Bandenkrieg
+01	21	21	Die Augen der Vanesse Brewer
+01	22	22	Duell mit dem Bösen
+# 2. Staffel
+02	1	23	Das Tribunal
+02	2	24	Das Hotel Hyperion
+02	3	25	Die Stunde des Deevak
+02	4	26	Außer Kontrolle
+02	5	27	Wiedersehen macht Feinde
+02	6	28	Angel für einen Tag
+02	7	29	Darla
+02	8	30	Das Leichentuch des Rahmon
+02	9	31	Auf Leben und Tod
+02	10	32	Die Wiedergeburt
+02	11	33	Neuanfänge
+02	12	34	Schmutziges Geld
+02	13	35	Das Ende der Zeit
+02	14	36	Die Nacht der Zombies
+02	15	37	Die Quelle des Bösen
+02	16	38	Epiphania
+02	17	39	Disharmonie
+02	18	40	Die Hand des Bösen
+02	19	41	Das Portal
+02	20	42	Gefangene der Dimension
+02	21	43	Ein Thron für Cordelia
+02	22	44	Home, Sweet Home
+# 3. Staffel
+03	1	45	Herzflattern
+03	2	46	Tödliche Visionen
+03	3	47	Meine alte Gang
+03	4	48	Der Geist des Marcus
+03	5	49	Fre(u)dlos
+03	6	50	Billy
+03	7	51	Die Prophezeiung
+03	8	52	Auf der Flucht
+03	9	53	Wiegenlied für eine Liebe
+03	10	54	Vaterfreuden
+03	11	55	Die Qual der Wahl
+03	12	56	Rätselraten
+03	13	57	Liebe und andere Schwierigkeiten
+03	14	58	Einsam, zweisam
+03	15	59	Eine Frage der Loyalität
+03	16	60	Das Tor zur Hölle
+03	17	61	Vergebung
+03	18	62	Zahltag
+03	19	63	Preis der Magie
+03	20	64	Eine neue Welt
+03	21	65	Vater und Sohn
+03	22	66	Heute und morgen
+# 4. Staffel
+04	1	67	Aus der Tiefe
+04	2	68	Die Achse der Pythia
+04	3	69	Die Bank gewinnt immer
+04	4	70	Der Hölle entgegen
+04	5	71	Vertrauter Feind
+04	6	72	Flaschendrehen
+04	7	73	Die Ankunft
+04	8	74	Das weiße Zimmer
+04	9	75	Kampf um die Sonne
+04	10	76	Das Erwachen
+04	11	77	Seelenlos
+04	12	78	Das Geheimnis der Bestie
+04	13	79	Licht in der Dunkelheit
+04	14	80	Alte Feinde
+04	15	81	Orpheus
+04	16	82	Gefährliches Spiel
+04	17	83	Die Geburt
+04	18	84	Jasmine
+04	19	85	Die magische Kugel
+04	20	86	Die Letzte ihrer Art
+04	21	87	Der Hüter des Wortes
+04	22	88	Ein verlockendes Angebot
