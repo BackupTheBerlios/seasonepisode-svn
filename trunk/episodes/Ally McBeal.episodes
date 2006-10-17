@@ -1,0 +1,125 @@
+#
+# SEASONLIST
+# 1	1	23
+# 2	24	46
+# 3	47	67
+# 4	68	90
+# 5	91	111
+# /SEASONLIST
+#
+# 1. Staffel
+01	1	1	Am Anfang war das Feuer
+01	2	2	Ganz schön peinlich
+01	3	3	Abserviert
+01	4	4	Kalt erwischt
+01	5	5	Aufstand der Hormone
+01	6	6	Frosch bleibt Frosch
+01	7	7	Wer ist hier zickig?!
+01	8	8	Revierkämpfe
+01	9	9	Rohrkrepierer
+01	10	10	Zu kurz gekommen
+01	11	11	Drei sind keiner zu viel
+01	12	12	Das Tier im Manne
+01	13	13	Bruchlandung
+01	14	14	Im Land des Lächelns
+01	15	15	Feuchte Küsse
+01	16	16	Ein unmoralisches Angebot
+01	17	17	Schwein gehabt
+01	18	18	Nahkampf
+01	19	19	Happy Birthday
+01	20	20	Das reinste Irrenhaus
+01	21	21	Volle Breitseite
+01	22	22	Kleine Hüpfer und große Sprünge
+01	23	23	Herz zu verschenken
+# 2. Staffel
+02	1	24	Fingerspitzengefühle
+02	2	25	Besonders pferdvoll
+02	3	26	Original und Fälschung
+02	4	27	It's my Party
+02	5	28	Schlag auf Schlag
+02	6	29	Gefährliche Liebschaften
+02	7	30	Leichenschmaus
+02	8	31	Schlammschlacht
+02	9	32	Danke vielmals!
+02	10	33	Das letzte Einhorn
+02	11	34	Traumtänzer
+02	12	35	Wolke Sieben
+02	13	36	Engel und Himmelsbote
+02	14	37	Liebe im Büro
+02	15	38	Krieg und Frieden
+02	16	39	Sex, Lügen und Politik
+02	17	40	Eine schweißtreibende Sache
+02	18	41	Fingerübungen
+02	19	42	Auf in den Tanz!
+02	20	43	Ausgehen, aber richtig
+02	21	44	Flügelkämpfe
+02	22	45	Zur Sache, Schätzchen
+02	23	46	Nicht von dieser Welt
+# 3. Staffel
+03	1	47	Eine klatschnasse Affäre
+03	2	48	Heiße Küsse, harte Schläge
+03	3	49	Showtime
+03	4	50	Sex und hopp
+03	5	51	Sturmfront
+03	6	52	Stunde der Wahrheit
+03	7	53	Ein dickes Ding
+03	8	54	Ihr Kinderlein kommet
+03	9	55	Echte Kerle
+03	10	56	Freunde, Feinde, Liebhaber
+03	11	57	Schwere Geschütze
+03	12	58	Zwergenaufstand
+03	13	59	Kalter Kaffee
+03	14	60	Locker aus der Hüfte
+03	15	61	In gefährlicher Mission
+03	16	62	Kurz und schmerzvoll
+03	17	63	Beinfreiheit
+03	18	64	Eine Frage der Größe
+03	19	65	E-Mail für mich
+03	20	66	Wölfin im Schafspelz
+03	21	67	Not nach Noten
+# 4. Staffel
+04	1	68	Bodycheck
+04	2	69	Pyjama für sechs
+04	3	70	Verliebte Jungs
+04	4	71	Duo im Abseits
+04	5	72	Die letzte Jungfrau
+04	6	73	Schrille Nacht
+04	7	74	Unterm Hammer
+04	8	75	Die Lametta-Krise
+04	9	76	Ticks und Tricks
+04	10	77	Akte Ex
+04	11	78	Im Schwitzkasten
+04	12	79	Damenwahl
+04	13	80	Kanzleikoller
+04	14	81	Männerliebe
+04	15	82	Knall auf Fall
+04	16	83	Tapetenwechsel
+04	17	84	Wunschlos unglücklich
+04	18	85	Kleinkram
+04	19	86	Barry ... verzweifelt gesucht
+04	20	87	Geburtstagsblues
+04	21	88	Das Summen der Drohnen
+04	22	89	Ring frei
+04	23	90	Solo für Ally
+# 5. Staffel
+05	1	91	Eine Ally zu viel
+05	2	92	Kurzer Prozess
+05	3	93	Die drei Muskeltiere
+05	4	94	Auf Tauchstation
+05	5	95	Junges Gemüse
+05	6	96	Ab auf die Couch
+05	7	97	Oh Gott, Herr Pfarrer
+05	8	98	Kuppelversuche
+05	9	99	Hausaufgaben
+05	10	100	Sturzflug
+05	11	101	Kinderüberraschung
+05	12	102	Chef-Sache
+05	13	103	Wenn Köpfe rollen ...
+05	14	104	Gute Gene, Schlechte Gene
+05	15	105	Herzschmerz
+05	16	106	Luft und Liebe * Teil 1 & 2
+05	17	107	Viva La Diva
+05	18	108	Der letzte Akt
+05	19	109	Auf Schürzenjagd
+05	20	110	Durchgeknallt
+05	21	111	Goodbye Ally
