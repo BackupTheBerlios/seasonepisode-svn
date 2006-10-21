@@ -3,8 +3,6 @@
 #
 # http://www.mcleodstoechter.de/html/episoden.html
 #
-# EPISODE SEARCH
-#
 # SEASONLIST
 # 1	1	22
 # 2	23	44
@@ -13,11 +11,10 @@
 # 5	107	138
 # 6	139	163
 # /SEASONLIST
-			
+#			
 #Season	Episode	Number	Title german
-			
-# STAFFEL 1			
-			
+#			
+# 1. Staffel			
 01	1	1	Willkommen daheim
 01	2	2	Das schwarze Schaf
 01	3	3	Rowdies und Rodeo
@@ -40,9 +37,7 @@
 01	20	20	Liebeskummer
 01	21	21	Ein verlockendes Angebot
 01	22	22	Unter Verdacht
-			
-# STAFFEL 2			
-			
+# 2. Staffel
 02	1	23	Die Hanf-Plantage
 02	2	24	Das Findelkind
 02	3	25	Jagdfieber
@@ -65,9 +60,7 @@
 02	20	42	Neuanfänge
 02	21	43	Der Jahrmarkt
 02	22	44	Ende mit Schrecken
-			
-# STAFFEL 3			
-			
+# 3. Staffel
 03	1	45	Absturz
 03	2	46	Heiratspläne
 03	3	47	Nur geträumt
@@ -98,13 +91,10 @@
 03	28	72	Der weiße Hengst
 03	29	73	Langer Abschied
 03	30	74	Gegen die Zeit
-			
 # Die Episoden 71-74 werden in Australien noch zur Staffel 3 gezählt,			
 # international wurden sie aber zu Staffel 4 gerechnet			
 # - ich bleibe bei der australische Reihenfolge			
-			
-# STAFFEL 4			
-			
+# 4. Staffel
 04	1	75	Buschfeuer
 04	2	76	Pokerface
 04	3	77	Wer ist Jack
@@ -137,13 +127,10 @@
 04	30	104	Der Pferdeflüsterer
 04	31	105	Ein schwerer Schlag
 04	32	106	Gebranntes Kind
-			
 # Die Episoden 101-106 werden in Australien noch zur Staffel 4 gezählt,			
 # international wurden sie aber zu Staffel 5 gerechnet			
 # - ich bleibe bei der australische Reihenfolge			
-			
-# STAFFEL 5			
-			
+# 5. Staffel
 05	1	107	Gemischte Gefühle
 05	2	108	Auszeit
 05	3	109	Funkstille
@@ -176,31 +163,3 @@
 05	30	136	Jahrestag
 05	31	137	Das Vermächtnis
 05	32	138	Feueralarm
-			
-# STAFFEL 6			
-			
-06	1	139	
-06	2	140	
-06	3	141	
-06	4	142	
-06	5	143	
-06	6	144	
-06	7	145	
-06	8	146	
-06	9	147	
-06	10	148	
-06	11	149	
-06	12	150	
-06	13	151	
-06	14	152	
-06	15	153	
-06	16	154	
-06	17	155	
-06	18	156	
-06	19	157	
-06	20	158	
-06	21	159	
-06	22	160	
-06	23	161	
-06	24	162	
-06	25	163	

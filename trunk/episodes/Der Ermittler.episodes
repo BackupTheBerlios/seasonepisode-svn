@@ -1,36 +1,38 @@
 # Der Ermittler
+#
 #SE	EP	No.	Titel
-#	1. Staffel (2001)
-01	01	01	Der letzte Ausweg
-01	02	02	Auge um Auge
-01	03	03	Tödliche Schuld
-01	04	04	Mord auf dem Golfplatz
-01	05	05	Zweikampf
-01	06	06	Alle für einen 
-#	2. Staffel (2002)
-02	01	07	Der letzte Anruf
-02	02	08	Väter und Söhne
-02	03	09	Das Profil des Mörders
-02	04	10	Feindliche Übernahme
-02	05	11	Schöner Tod
-02	06	12	Mädchenmord
-#	3. Staffel (2003)
-03	01	13	Die Zeugin
-03	02	14	Stadt, Land, Mord
-03	03	15	Heimlich beobachtet
-03	04	16	Der Traum vom Glück
-03	05	17	Absender unbekannt
-03	06	18	Tödliches Wiedersehen
-#	4. Staffel (2004)
+#
+# 1. Staffel (2001)
+01	1	1	Der letzte Ausweg
+01	2	2	Auge um Auge
+01	3	3	Tödliche Schuld
+01	4	4	Mord auf dem Golfplatz
+01	5	5	Zweikampf
+01	6	6	Alle für einen
+# 2. Staffel (2002)
+02	1	7	Der letzte Anruf
+02	2	8	Väter und Söhne
+02	3	9	Das Profil des Mörders
+02	4	10	Feindliche Übernahme
+02	5	11	Schöner Tod
+02	6	12	Mädchenmord
+# 3. Staffel (2003)
+03	1	13	Die Zeugin
+03	2	14	Stadt, Land, Mord
+03	3	15	Heimlich beobachtet
+03	4	16	Der Traum vom Glück
+03	5	17	Absender unbekannt
+03	6	18	Tödliches Wiedersehen
+# 4. Staffel (2004)
 04	01	19	Zerbrochene Träume
-04	02	20	Mörderisches Spiel
-04	03	21	Objekt der Begierde
-04	04	22	Familienglück
-04	05	33	Nachtschwimmer
-04	06	24	Schönheitsfehler
-#	5. Staffel (2005)
-05	01	25	Eiskalter Mord
-05	02	26	Bittere Wahrheit
-05	03	27	Zahltag
-05	04	28	Willkommen in der Hölle
-05	05	29	Gnadenlos
+04	2	20	Mörderisches Spiel
+04	3	21	Objekt der Begierde
+04	4	22	Familienglück
+04	5	33	Nachtschwimmer
+04	6	24	Schönheitsfehler
+# 5. Staffel (2005)
+05	1	25	Eiskalter Mord
+05	2	26	Bittere Wahrheit
+05	3	27	Zahltag
+05	4	28	Willkommen in der Hölle
+05	5	29	Gnadenlos
