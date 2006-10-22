@@ -1,2 +1,10 @@
-01	01	01	Pilot
-01	02	02	Alte_Bekannte
+#
+# SEASONLIST
+# 1	1	2
+# /SEASONLIST
+#
+#SE	EP	No.	Title
+#
+# 01. Staffel
+01	1	1	Pilot
+01	2	2	Alte_Bekannte

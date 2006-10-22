@@ -1,82 +1,93 @@
-# SK Kölsch
-#SE	EP	No.	Titel
-# Pilotfilm (90 Min.)
-0	01	01	Karneval des Todes
-# 1. Staffel (45 Min.)
-1	01	02	Eine brandheiße Frau
-1	02	03	Du sollst nicht stehlen
-1	03	04	Spiel mit dem Feuer
-1	04	05	Die letzte Partie
-1	05	06	Der Aap
-1	06	07	Ein Mord kommt selten allein
-1	07	08	Blutspur
-1	08	09	Endstation Köln
-1	09	10	Tod auf dem Rhein
-1	10	11	Krieg dem Kölsch
-1	11	12	Ohne Rücksicht auf Verluste
-# 2. Staffel (45 Min.)
-2	01	13	Der Schatz des Samurai
-2	02	14	Ich sehe was, was Du nicht siehst
-2	03	15	Kindertag
-2	04	16	Tour de Cologne
-2	05	17	Bock geschossen
-2	06	18	Die Queen des Swing
-2	07	19	Funkemariechen ist tot
-2	08	20	Piercing
-2	09	21	Tod eines Tänzers
-2	10	22	Der Todesengel
-2	11	23	Vätersorgen
-2	12	24	Jupps Waffe
-2	13	25	Einer ist schuld
-2	14	26	Krieg der Sterne
-2	15	27	Ruhe in Frieden
-2	16	28	Jungfrau im Wunderland
-# 3. Staffel (45 Min.)
-3	01	29	Die letzte Runde
-3	02	30	Der Veteran
-3	03	31	Pohls Liebe
-3	04	32	Gefallene Engel
-3	05	33	Wachschutz
-3	06	34	Mietersorgen
-3	07	35	Tuteltäubchen
-3	08	36	Altes Eisen
-3	09	37	In vollem Wichs
-3	10	38	Kopfgeld
-# 4. Staffel (45 Min.)
-4	01	39	Endspiel
-4	02	40	Götterdämmerung
-4	03	41	Nachtschicht
-4	04	42	Die Wunderlampe
-4	05	43	Tango Mortale
-4	06	44	Golfkrieg
-4	07	45	Der Müllbaron
-4	08	46	Leichtes Gepäck
-# 5. Staffel (45 Min.)
-5	01	47	Der Fischflüsterer
-5	02	48	Köln-Düsseldorfer
-5	03	49	Doppelspiel
-5	04	50	Ochsentour
-5	05	51	Kind oder Kegel
-5	06	52	Paparazzo
-5	07	53	Tote schweigen nicht    
-5	08	54	Von Männern und Maschinen
-5	09	55	Pack die Badehose ein
-5	10	56	CSD
-# 6. Staffel (45 Min.)
-6	01	57	Elvis lebt
-6	02	58	Von Bullen & Butlern
-6	03	59	Schmock
-6	04	60	Familienbande
-6	05	61	Das Schweigen der Männer
-6	06	62	Kunst kommt von Können
-6	07	63	Die Liebesfalle
-6	08	64	Der letzte der Hippies
-# 7. Staffel (45 Min.)
-7	01	65	Der Fan
-7	02	66	Jupps Albtraum
-7	03	67	Die längste Nacht
-7	04	68	Taxi-Mord
-7	05	69	Schnitzeljagd
-7	06	70	Notgroschen
-7	07	71	Unter Grillern
-7	08	72	Jeder gegen jeden
+#
+# SEASONLIST
+# 1	1	12
+# 2	13	28
+# 3	29	38
+# 4	39	46
+# 5	47	56
+# 6	57	64
+# 7	65	72
+# /SEASONLIST
+#
+#SE	EP	No.	Title
+#
+# 00. Staffel
+00	1	0	Karneval des Todes
+# 01. Staffel
+01	1	1	Eine brandheiße Frau
+01	2	2	Du sollst nicht stehlen
+01	3	3	Spiel mit dem Feuer
+01	4	4	Die letzte Partie
+01	5	5	Der Aap
+01	6	6	Ein Mord kommt selten allein
+01	7	7	Blutspur
+01	8	8	Endstation Köln
+01	9	9	Tod auf dem Rhein
+01	10	10	Krieg dem Kölsch
+01	11	11	Ohne Rücksicht auf Verluste
+# 02. Staffel
+02	1	12	Der Schatz des Samurai
+02	2	13	Ich sehe was, was Du nicht siehst
+02	3	14	Kindertag
+02	4	15	Tour de Cologne
+02	5	16	Bock geschossen
+02	6	17	Die Queen des Swing
+02	7	18	Funkemariechen ist tot
+02	8	19	Piercing
+02	9	20	Tod eines Tänzers
+02	10	21	Der Todesengel
+02	11	22	Vätersorgen
+02	12	23	Jupps Waffe
+02	13	24	Einer ist schuld
+02	14	25	Krieg der Sterne
+02	15	26	Ruhe in Frieden
+02	16	27	Jungfrau im Wunderland
+# 03. Staffel
+03	1	28	Die letzte Runde
+03	2	29	Der Veteran
+03	3	30	Pohls Liebe
+03	4	31	Gefallene Engel
+03	5	32	Wachschutz
+03	6	33	Mietersorgen
+03	7	34	Tuteltäubchen
+03	8	35	Altes Eisen
+03	9	36	In vollem Wichs
+03	10	37	Kopfgeld
+# 04. Staffel
+04	1	38	Endspiel
+04	2	39	Götterdämmerung
+04	3	40	Nachtschicht
+04	4	41	Die Wunderlampe
+04	5	42	Tango Mortale
+04	6	43	Golfkrieg
+04	7	44	Der Müllbaron
+04	8	45	Leichtes Gepäck
+# 05. Staffel
+05	1	46	Der Fischflüsterer
+05	2	47	Köln-Düsseldorfer
+05	3	48	Doppelspiel
+05	4	49	Ochsentour
+05	5	50	Kind oder Kegel
+05	6	51	Paparazzo
+05	7	52	Tote schweigen nicht   
+05	8	53	Von Männern und Maschinen
+05	9	54	Pack die Badehose ein
+05	10	55	CSD
+# 06. Staffel
+06	1	56	Elvis lebt
+06	2	57	Von Bullen & Butlern
+06	3	58	Schmock
+06	4	59	Familienbande
+06	5	60	Das Schweigen der Männer
+06	6	61	Kunst kommt von Können
+06	7	62	Die Liebesfalle
+06	8	63	Der letzte der Hippies
+# 07. Staffel
+07	1	64	Der Fan
+07	2	65	Jupps Albtraum
+07	3	66	Die längste Nacht
+07	4	67	Taxi-Mord
+07	5	68	Schnitzeljagd
+07	6	69	Notgroschen
+07	7	70	Unter Grillern
+07	8	71	Jeder gegen jeden

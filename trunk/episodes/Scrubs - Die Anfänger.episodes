@@ -1,14 +1,17 @@
-#			
-# SEASONLIST			
-# 1	1	24	
-# 2	25	46	
-# 3	47	68	
-# 4	69	93	
-# 5	94	117	
-# /SEASONLIST			
 #
 # SHORT Scrubs
-#			
+#
+# SEASONLIST
+# 1	1	24
+# 2	25	46
+# 3	47	68
+# 4	69	93
+# 5	94	117
+# /SEASONLIST
+#
+#SE	EP	No.	Title
+#
+# 01. Staffel
 01	1	1	Mein erster Tag
 01	2	2	Mein Mentor
 01	3	3	Mein Kunstfehler
@@ -33,6 +36,7 @@
 01	22	22	Meine Zweifel
 01	23	23	Mein Held
 01	24	24	Mein letzter Tag
+# 02. Staffel
 02	1	25	Mein Rundumschlag
 02	2	26	Mein Nachtdienst
 02	3	27	Mein Ticket nach Reno
@@ -55,6 +59,7 @@
 02	20	44	Meine Interpretation
 02	21	45	Mein Drama
 02	22	46	Mein Traumjob
+# 03. Staffel
 03	1	47	Mein drittes Jahr
 03	2	48	Meine neue Ära
 03	3	49	Mein Berater
@@ -77,52 +82,54 @@
 03	20	66	Meine wahren Gefühle
 03	21	67	Mein Rückzieher
 03	22	68	Mein bester Freund heiratet
+# 04. Staffel
 04	1	69	Meine Psychiaterin
 04	2	70	Meine Beföderung
 04	3	71	Meine Schmach
 04	4	72	Meine Begegnung mit dem Tod
-04	5	73	Ihre Geschichte 
-04	6	74	Meine Trauer 
-04	7	75	 
-04	8	76	 
-04	9	77	 
-04	10	78	 
-04	11	79	 
-04	12	80	 
-04	13	81	 
-04	14	82	 
-04	15	83	 
-04	16	84	 
-04	17	85	 
-04	18	86	 
-04	19	87	 
-04	20	88	 
-04	21	89	 
-04	22	90	 
-04	23	91	 
-04	24	92	 
-04	25	93	 
-05	1	94	 
-05	2	95	 
-05	3	96	 
-05	4	97	 
-05	5	98	 
-05	6	99	 
-05	7	100	 
-05	8	101	 
-05	9	102	 
-05	10	103	 
-05	11	104	 
-05	12	105	 
-05	13	106	 
-05	14	107	 
-05	15	108	 
-05	16	109	 
-05	17	110	 
-05	18	111	 
-05	19	112	 
-05	20	113	 
-05	21	114	 
-05	22	115	 
-05	23	116	 
-05	24	117	 
+04	5	73	Ihre Geschichte
+04	6	74	Meine Trauer
+04	7	75	n.n.
+04	8	76	n.n.
+04	9	77	n.n.
+04	10	78	n.n.
+04	11	79	n.n.
+04	12	80	n.n.
+04	13	81	n.n.
+04	14	82	n.n.
+04	15	83	n.n.
+04	16	84	n.n.
+04	17	85	n.n.
+04	18	86	n.n.
+04	19	87	n.n.
+04	20	88	n.n.
+04	21	89	n.n.
+04	22	90	n.n.
+04	23	91	n.n.
+04	24	92	n.n.
+04	25	93	n.n.
+# 05. Staffel
+05	1	94	n.n.
+05	2	95	n.n.
+05	3	96	n.n.
+05	4	97	n.n.
+05	5	98	n.n.
+05	6	99	n.n.
+05	7	100	n.n.
+05	8	101	n.n.
+05	9	102	n.n.
+05	10	103	n.n.
+05	11	104	n.n.
+05	12	105	n.n.
+05	13	106	n.n.
+05	14	107	n.n.
+05	15	108	n.n.
+05	16	109	n.n.
+05	17	110	n.n.
+05	18	111	n.n.
+05	19	112	n.n.
+05	20	113	n.n.
+05	21	114	n.n.
+05	22	115	n.n.
+05	23	116	n.n.
+05	24	117	n.n.

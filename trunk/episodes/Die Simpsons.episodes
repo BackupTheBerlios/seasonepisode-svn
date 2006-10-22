@@ -1,5 +1,5 @@
 #
-# SESAONLIST
+# SEASONLIST
 # 1	1	13
 # 2	14	35
 # 3	36	59
@@ -16,9 +16,12 @@
 # 14	292	313
 # 15	314	335
 # 16	336	356
-# 17	357	374
+# 17	357	364
 # /SEASONLIST
 #
+#SE	EP	No.	Title
+#
+# 01. Staffel
 01	1	1	Es weihnachtet schwer
 01	2	2	Bart wird ein Genie
 01	3	3	Der Versager
@@ -32,6 +35,7 @@
 01	11	11	Tauschgeschäfte und Spione
 01	12	12	Der Clown mit der Biedermaske
 01	13	13	Der Babysitter ist los
+# 02. Staffel
 02	1	14	Der Musterschüler
 02	2	15	Karriere mit Köpfchen
 02	3	16	Horror frei Haus
@@ -54,6 +58,7 @@
 02	20	33	Kampf dem Ehekrieg
 02	21	34	Drei Freunde und ein Comic-Heft
 02	22	35	Der Lebensretter
+# 03. Staffel
 03	1	36	Die Geburtstagsüberraschung
 03	2	37	Einmal Washington und zurück
 03	3	38	Ein Fluch auf Flanders
@@ -78,6 +83,7 @@
 03	22	57	Der Fahrschüler
 03	23	58	Liebe und Intrige
 03	24	59	Der vermißte Halbbruder
+# 04. Staffel
 04	1	60	Krise im Kamp Krusty
 04	2	61	Bühne frei für Marge
 04	3	62	Ein gotteslästerliches Leben
@@ -100,6 +106,7 @@
 04	20	79	Das Schlangennest
 04	21	80	Marge wird verhaftet
 04	22	81	Krusty, der TV-Star
+# 05. Staffel
 05	1	82	Homer und die Sangesbrüder
 05	2	83	Am Kap der Angst
 05	3	84	Homer an der Uni
@@ -122,6 +129,7 @@
 05	20	101	Bart packt aus
 05	21	102	Liebhaber der Lady B.
 05	22	103	Ehegeheimnisse
+# 06. Staffel
 06	1	104	Ein grausiger Verdacht
 06	2	105	Lisas Rivalin
 06	3	106	Romantik ist überall!
@@ -147,6 +155,7 @@
 06	23	126	Die Springfield Connection
 06	24	127	Auf zum Zitronenbaum
 06	25	128	Wer erschoß Mr. Burns? Teil 1
+# 07. Staffel
 07	1	129	Wer erschoß Mr. Burns? Teil 2
 07	2	130	Filmstar wider Willen
 07	3	131	Bei Simpsons stimmt was nicht!
@@ -172,6 +181,7 @@
 07	23	151	Volksabstimmung in Springfield
 07	24	152	Homer auf Tournee
 07	25	153	Ein Sommer für Lisa
+# 08. Staffel
 08	1	154	Hugo, kleine Wesen und Kang
 08	2	155	Das verlockende Angebot
 08	3	156	Auf in den Kampf!
@@ -197,6 +207,7 @@
 08	23	176	Homer hatte einen Feind
 08	24	177	Ihre Lieblings-Fernsehfamilie
 08	25	178	Lisas geheimer Krieg
+# 09. Staffel
 09	1	179	Homer und New York
 09	2	180	Alles Schwindel
 09	3	181	Die Saxophon-Geschichte
@@ -222,6 +233,7 @@
 09	23	201	König der Berge
 09	24	202	Die Kugel der Isis
 09	25	203	Die Gefahr, erwischt zu werden
+# 10. Staffel
 10	1	204	Ein Jeder kriegt sein Fett
 10	2	205	Im Schatten des Genies
 10	3	206	Bart brütet etwas aus
@@ -245,6 +257,7 @@
 10	21	224	Burns möchte geliebt werden
 10	22	225	Die Stadt der primitiven Langweiler
 10	23	226	Die Japanische Horror-Spiel-Show
+# 11. Staffel
 11	1	227	Mit Mel Gibson in Hollywood
 11	2	228	Ist alles hin, nimm Focusin!
 11	3	229	Homer als Restaurantkritiker
@@ -267,6 +280,7 @@
 11	20	246	Sie wollte schon immer Tänzerin werden
 11	21	247	Wird Marge verrückt gemacht?
 11	22	248	Hinter den Lachern
+# 12. Staffel
 12	1	249	D-D-Der G-G-Geister D-D-Dad
 12	2	250	Die Geschichte der zwei Springfields
 12	3	251	O Mein Clown Papa
@@ -288,6 +302,7 @@
 12	19	267	Wunder gibt es immer wieder
 12	20	268	Der Schwindler und seine Kinder
 12	21	269	Drei unglaubliche Geschichten
+# 13. Staffel
 13	1	270	Hex and the City
 13	2	271	Ich bin bei dir, mein Sohn
 13	3	272	Homer und Moe St. Cool
@@ -310,6 +325,7 @@
 13	20	289	L.S. - Meisterin des Doppellebens
 13	21	290	Am Anfang war die Schreiraupe
 13	22	291	Sicherheitsdienst "Springshield"
+# 14. Staffel
 14	1	292	Schickt die Klone rein
 14	2	293	It's only Rock'n'Roll
 14	3	294	Klassenkampf
@@ -332,6 +348,7 @@
 14	20	311	Stresserella über alles
 14	21	312	Auf dem Kriegspfad
 14	22	313	Moe Baby Blues
+# 15. Staffel
 15	1	314	Todesgrüsse aus Springfield
 15	2	315	Wiedersehen nach Jahren
 15	3	316	Die Perlen-Präsidentin
@@ -354,6 +371,7 @@
 15	20	333	Die erste Liebe
 15	21	334	Geächtet
 15	22	335	Der große Nachrichtenschwindel
+# 16. Staffel
 16	1	336	Vier Enthauptungen und ein Todesfall
 16	2	337	Die geheime Zutat
 16	3	338	Der Feind in meinem Bett
@@ -375,6 +393,7 @@
 16	19	354	Das Jüngste Gericht
 16	20	355	Schau heimwärts, Flanders
 16	21	356	Der Vater, der Sohn und der heilige Gaststar
+# 17. Staffel
 17	1	357	Es lebe die Seekuh!
 17	2	358	Angst essen Seele auf
 17	3	359	Milhouse aus Sand und Nebel

@@ -7,11 +7,13 @@
 # 5	89	110
 # /SEASONLIST
 #
+#SE	EP	No.	Title
+#
 # 01. Staffel
 01	1	1	Nicht von dieser Welt
 01	2	2	Häutung bei Vollmond
 01	3	3	Feuerball
-01	4	4	Ich sehe was, was Du nicht bist...18.01.2003
+01	4	4	Ich sehe was, was Du nicht bist...
 01	5	5	Schockgefroren
 01	6	6	Blinde Augen sehen mehr
 01	7	7	Zum Fressen gern
@@ -112,13 +114,13 @@
 05	10	98	Lex gegen Jonathan
 05	11	99	Zeugen der Ankunft
 05	12	100	Was ich tat, tat ich aus Liebe ...
-05	13	101	
-05	14	102	
-05	15	103	
-05	16	104	
-05	17	105	
-05	18	106	
-05	19	107	
-05	20	108	
-05	21	109	
-05	22	110	
+05	13	101	n.n.
+05	14	102	n.n.
+05	15	103	n.n.
+05	16	104	n.n.
+05	17	105	n.n.
+05	18	106	n.n.
+05	19	107	n.n.
+05	20	108	n.n.
+05	21	109	n.n.
+05	22	110	n.n.

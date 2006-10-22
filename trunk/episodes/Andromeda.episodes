@@ -7,6 +7,9 @@
 # 5	89	110
 # /SEASONLIST
 #
+#SE	EP	No.	Title
+#
+# 01. Staffel
 01	1	1	Die Lange Nacht - Teil 1
 01	2	2	Fiat Lux - Teil 2
 01	3	3	Die Erleuchtung
@@ -29,6 +32,7 @@
 01	20	20	Erzengel Gabriel
 01	21	21	Die Odysee
 01	22	22	Feinde an Bord
+# 02. Staffel
 02	1	23	Der Geist des Abyss
 02	2	24	Auf verlorenen Posten
 02	3	25	Das falsche Herz
@@ -51,6 +55,7 @@
 02	20	42	Ritter, Tod und Teufel
 02	21	43	Der Messias
 02	22	44	Der Tunnel am Ende des Lichts
+# 03. Staffel
 03	1	45	Tunnel des Bösen
 03	2	46	Scherben bringen Glück
 03	3	47	Die Undankbaren
@@ -73,28 +78,30 @@
 03	20	64	Der Patriarch
 03	21	65	Der Verräter
 03	22	66	Dragonischer Wein
+# 04. Staffel
 04	1	67	Abgrund zur Hölle
 04	2	68	Der Seher
 04	3	69	Friedhof der Schiffe
 04	4	70	Ausgespielt
 04	5	71	Göttlicher Herzschlag
-04	6	72	
+04	6	72	n.n.
 04	7	73	Bekas Rettung
 04	8	74	Befreiung. Die
-04	9	75	
-04	10	76	
-04	11	77	
-04	12	78	
-04	13	79	
+04	9	75	n.n.
+04	10	76	n.n.
+04	11	77	n.n.
+04	12	78	n.n.
+04	13	79	n.n.
 04	14	80	Die Anderen
 04	15	81	Die letzte Fahrt ins Nichts
-04	16	82	
+04	16	82	n.n.
 04	17	83	Die Brücke zwischen den Zeiten
 04	18	84	Der gordische Irrgarten
 04	19	85	Die perfekte Maschine
 04	20	86	Die Stimme des Engels
 04	21	87	Leichtes Spiel
 04	22	88	Die Hoffnung stirbt zuletzt
+# 05. Staffel
 05	1	89	Der Eindringling - Teil 1
 05	2	90	Der Eindringling - Teil 2
 05	3	91	Kabinett des Schreckens

@@ -1,38 +1,44 @@
-# SOKO Köln
-#SE	EP	No.	Titel
-# Erste Staffel (Dauer/Folge: 45 Min.)			
-1	01	01	Kölscher Klüngel
-1	02	02	Tödlicher Talk
-1	03	03	Blutige Beichte
-1	04	04	Elf Freunde sollt ihr sein
-1	05	05	Zahltag
-1	06	06	Der letzte Geburtstag
-1	07	07	Die Mädchenfalle
-1	08	08	Der tote Tourist
-1	09	09	Pizza für den Paten
-1	10	10	Die Nacht, in der Andy starb
-1	11	11	Je oller, je doller
-1	12	12	Familienbande
-1	13	13	Oliver W. - Tod eines Schülers
-1	14	14	Mietsache Mord
-1	15	15	Zwischen den Fronten
-1	16	16	Krieg der Sterne
-1	17	17	Tod am Bau
-1	18	18	Flinke Finger
-1	19	19	Frau im Fadenkreuz
-1	20	20	Blau Rot Tot
-1	21	21	Das Verhör
-# Zweite Staffel (Dauer/Folge: 45 Min.)			
-2	01	22	Gegen die Uhr
-2	02	23	Tod auf der Lula
-2	03	24	Blondes Gift
-2	04	25	Liebesgrüße aus Bombay
-2	05	26	Du bist nicht allein
-2	06	27	Bewährungsprobe
-2	07	28	Wort und Totschlag
-2	08	29	Tod auf Kredit
-2	09	30	Alles Lüge
-2	10	31	Blutiger Buddha
-2	11	32	Echte Kerle
-2	12	33	Alte Rechnungen
-2	13	34	Durch dick und dünn
+#
+# SEASONLIST
+# 1	1	21
+# 2	22	34
+# /SEASONLIST
+#
+#SE	EP	No.	Title
+#
+# 01. Staffel
+01	1	1	Kölscher Klüngel
+01	2	2	Tödlicher Talk
+01	3	3	Blutige Beichte
+01	4	4	Elf Freunde sollt ihr sein
+01	5	5	Zahltag
+01	6	6	Der letzte Geburtstag
+01	7	7	Die Mädchenfalle
+01	8	8	Der tote Tourist
+01	9	9	Pizza für den Paten
+01	10	10	Die Nacht, in der Andy starb
+01	11	11	Je oller, je doller
+01	12	12	Familienbande
+01	13	13	Oliver W. - Tod eines Schülers
+01	14	14	Mietsache Mord
+01	15	15	Zwischen den Fronten
+01	16	16	Krieg der Sterne
+01	17	17	Tod am Bau
+01	18	18	Flinke Finger
+01	19	19	Frau im Fadenkreuz
+01	20	20	Blau Rot Tot
+01	21	21	Das Verhör
+# 02. Staffel
+02	1	22	Gegen die Uhr
+02	2	23	Tod auf der Lula
+02	3	24	Blondes Gift
+02	4	25	Liebesgrüße aus Bombay
+02	5	26	Du bist nicht allein
+02	6	27	Bewährungsprobe
+02	7	28	Wort und Totschlag
+02	8	29	Tod auf Kredit
+02	9	30	Alles Lüge
+02	10	31	Blutiger Buddha
+02	11	32	Echte Kerle
+02	12	33	Alte Rechnungen
+02	13	34	Durch dick und dünn

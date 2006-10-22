@@ -1,4 +1,6 @@
 #
+# SHORT Cobra 11
+#
 # SEASONLIST
 # 1	1	9
 # 2	10	21
@@ -20,8 +22,9 @@
 # 18	146	157
 # /SEASONLIST
 #
-# SHORT Cobra 11
+#SE	EP	No.	Title
 #
+# 01. Staffel
 01	1	1	Bomben bei Kilometer 92
 01	2	2	Rote Rosen, schwarzer Tod
 01	3	3	Der neue Partner
@@ -31,7 +34,7 @@
 01	7	7	Falsches Blaulicht
 01	8	8	Der Samurai
 01	9	9	Endstation für alle
-
+# 02. Staffel
 02	1	10	Ausgesetzt
 02	2	11	Kaltblütig
 02	3	12	Shotgun
@@ -44,7 +47,7 @@
 02	10	19	Bremsversagen
 02	11	20	Rache ist süss
 02	12	21	Raubritter
-
+# 03. Staffel
 03	1	22	Sonnenkinder
 03	2	23	Tödlicher Ruhm
 03	3	24	Volleystop
@@ -63,7 +66,7 @@
 03	16	37	Die Anhalterin
 03	17	38	Der tote Zeuge
 03	18	39	Der Joker
-
+# 04. Staffel
 04	1	40	Treibstoff
 04	2	41	Tödliche Ladung
 04	3	42	Brennender Ehrgeiz
@@ -72,7 +75,7 @@
 04	6	45	Der Richter
 04	7	46	Der Tod eines Jungen
 04	8	47	Ein einsamer Sieg
-
+# 05. Staffel
 05	1	48	Höllenfahrt auf der A 4
 05	2	49	Blinde Liebe
 05	3	50	Tulpen aus Amsterdam
@@ -84,27 +87,27 @@
 05	9	56	Geheimnisvolle Macht
 05	10	57	Die Hütte am See
 05	11	58	Die schwarze Rose
-
+# 06. Staffel
 06	1	59	Verlorene Erinnerungen
 06	2	60	Janina
 06	3	61	Der Maulwurf
 06	4	62	Schachmatt
 06	5	63	Schumanns grosse Chance
-
+# 07. Staffel
 07	1	64	Todesfahrt der Linie 834
 07	2	65	Fieberträume
 07	3	66	Tod aus dem Motor
 07	4	67	Zwischen allen Stühlen
 07	5	68	Crash-Kommerz
 07	6	69	Liebe bis in den Tod
-
+# 08. Staffel
 08	1	70	Schmölders Traum
 08	2	71	Doppelter Albtraum
 08	3	72	Tina und Aysim
 08	4	73	High Speed
 08	5	74	Feindliche Brüder
 08	6	75	Die schwarze Witwe
-
+# 09. Staffel
 09	1	76	Truckstop
 09	2	77	Falsches Spiel
 09	3	78	Kurzes Glück
@@ -113,7 +116,7 @@
 09	6	81	Der Kleine
 09	7	82	Schwarze Schafe
 09	8	83	Black out
-
+# 10. Staffel
 10	1	84	Hetzjagd
 10	2	85	Tödliche Kunst
 10	3	86	Im Kreuzfeuer
@@ -123,13 +126,13 @@
 10	7	90	Vater und Sohn
 10	8	91	Die Clique
 10	9	92	Späte Rache
-
+# 11. Staffel
 11	1	93	Tod eines Reporters
 11	2	94	Ein tiefer Fall
 11	3	95	Verraten und verkauft
 11	4	96	Schatten der Vergangenheit
 11	5	97	Abschied
-
+# 12. Staffel
 12	1	98	Feuertaufe
 12	2	99	Falsche Signale
 12	3	100	Gegen die Zeit
@@ -139,7 +142,7 @@
 12	7	104	Rock'n'Roll
 12	8	105	Countdown
 12	9	106	Der Detektiv
-
+# 13. Staffel
 13	1	107	Leichte Beute
 13	2	108	Ohne Ausweg
 13	3	109	Heinrich und Paul
@@ -149,7 +152,7 @@
 13	7	113	Undercover
 13	8	114	Vertrauter Feind
 13	9	115	Die Zeugin
-
+# 14. Staffel
 14	1	116	Für immer und ewig
 14	2	117	Um jeden Preis
 14	3	118	Freunde in Not
@@ -160,7 +163,7 @@
 14	8	123	Gnadenlos
 14	9	124	Falsche Freundschaft
 14	10	125	Extrem
-
+# 15. Staffel
 15	1	126	Comeback
 15	2	127	Der Kommissar
 15	3	128	Heldentage
@@ -169,13 +172,13 @@
 15	6	131	Feindliche Übernahme
 15	7	132	Explosiv
 15	8	133	Feueralarm
-
+# 16. Staffel
 16	1	134	Autobahn
 16	2	135	Notwehr
 16	3	136	Zivilcourage
 16	4	137	Auf der Jagd
 16	5	138	Kleine Schwester
-
+# 17. Staffel
 17	1	139	Unter Verdacht
 17	2	140	Am Abgrund
 17	3	141	Fieber
@@ -183,7 +186,7 @@
 17	5	143	Kein Weg zurück
 17	6	144	Flashback
 17	7	145	Unter Feuer
-
+# 18. Staffel
 18	1	146	Vertrauenssache
 18	2	147	Volles Risiko
 18	3	148	Im Angesicht des Todes

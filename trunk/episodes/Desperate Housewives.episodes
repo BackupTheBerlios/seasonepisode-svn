@@ -1,9 +1,12 @@
 #
 # SEASONLIST
 # 1	1	23
-# 2	24	47
+# 2	24	44
 # /SEASONLIST
 #
+#SE	EP	No.	Title
+#
+# 01. Staffel
 01	1	1	Schmutzige Wäsche
 01	2	2	Unter der Oberfläche
 01	3	3	Die nackte Wahrheit
@@ -27,6 +30,7 @@
 01	21	21	Das Versprechen
 01	22	22	Hals über Kopf
 01	23	23	Alles ist wunderbar
+# 02. Staffel
 02	1	24	Das Leben geht weiter
 02	2	25	Kontrolle ist alles
 02	3	26	Showtime

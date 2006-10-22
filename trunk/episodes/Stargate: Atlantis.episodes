@@ -4,7 +4,9 @@
 # 2	21	40
 # /SEASONLIST
 #
-# 1. Staffel
+#SE	EP	No.	Title
+#
+# 01. Staffel
 01	1	1	Aufbruch in eine neue Welt, Teil 1
 01	2	2	Aufbruch in eine neue Welt, Teil 2
 01	3	3	Dunkle Schatten
@@ -25,7 +27,7 @@
 01	18	18	Die Gabe
 01	19	19	Die Belagerung, Teil 1
 01	20	20	Die Belagerung, Teil 2
-# 2. Staffel
+# 02. Staffel
 02	1	21	Die Belagerung, Teil 3
 02	2	22	Der Eindringling
 02	3	23	Dromoys

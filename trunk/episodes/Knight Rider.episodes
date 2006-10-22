@@ -6,7 +6,9 @@
 # 4	69	90
 # /SEASONLIST
 #
-# 1. Staffel
+#SE	EP	No.	Title
+#
+# 01. Staffel
 01	1	1	Michael Knight/Wie alles begann (I)
 01	2	2	Michael Knight/Wie alles begann (II)
 01	3	3	Tödliche Manöver
@@ -29,7 +31,7 @@
 01	20	20	Unerwünschte Konkurrenz
 01	21	21	Computerspiele
 01	22	22	Gekidnappt
-# 2. Staffel
+# 02. Staffel
 02	1	23	Goliath Teil I: Goliaths Geburt
 02	2	24	Goliath Teil II: Der Kampf mit Goliath
 02	3	25	Der Erpresser
@@ -54,7 +56,7 @@
 02	22	44	Das Schlangenmaul (II)
 02	23	45	Ich werd' ewig dein Freund bleiben
 02	24	46	Einer spielt falsch
-# 3. Staffel
+# 03. Staffel
 03	1	47	Ein geheimnisvoller Roboter (I)
 03	2	48	Der chinesische Tunnel (II)
 03	3	49	Das zweite Gesicht
@@ -77,7 +79,7 @@
 03	20	66	Michael Knight und die Zuflucht
 03	21	67	Die Waffenbörse
 03	22	68	Der Tod unter der Zirkuskuppel
-# 4. Staffel
+# 04. Staffel
 04	1	69	K.I.T.T.s Unfall mit Folgen (I)
 04	2	70	K.I.T.T.s Unfall mit Folgen (II)
 04	3	71	Kidnapping

@@ -3,12 +3,15 @@
 # 1	1	16
 # 2	17	41
 # 3	42	63
-# 4	65	85
+# 4	64	85
 # 5	86	107
 # 6	108	129
-# 7	130	151
+# 7	130	145
 # /SEASONLIST
 #
+#SE	EP	No.	Title
+#
+# 01. Staffel
 01	1	1	Malcolm der Held
 01	2	2	Lois sieht rot
 01	3	3	Allein zu Haus
@@ -25,6 +28,7 @@
 01	14	14	Der Killer-Roboter
 01	15	15	Immer wieder Sonntag
 01	16	16	Wasserspiele
+# 02. Staffel
 02	1	17	Der Verkehrsstau
 02	2	18	Halloween mal anders
 02	3	19	Lois' Geburtstag
@@ -50,6 +54,7 @@
 02	23	39	Lügen haben kurze Beine
 02	24	40	Großalarm
 02	25	41	Schwangerschaftsalarm
+# 03. Staffel
 03	1	42	Ein Urlaub mit Mädchen und Fischen
 03	2	43	Rebellion gegen das System
 03	3	44	Flucht aus dem Alltag
@@ -72,6 +77,7 @@
 03	20	61	Verschworene Geschworene
 03	21	62	Cliquenkampf
 03	22	63	Der Affe
+# 04. Staffel
 04	1	64	Ein Tag im Zoo
 04	2	65	Alles auf Anfang
 04	3	66	Das Familienfest
@@ -88,12 +94,13 @@
 04	14	77	Hals Freund
 04	15	78	Trödel
 04	16	79	Akademischer Achtkampf
-04	17	80	nn
+04	17	80	n.n.
 04	18	81	Sturmfreie Bude
 04	19	82	Das Schachduell
 04	20	83	Baby Part I
 04	21	84	Baby Part II
 04	22	85	(K)Ein Platz für Jamie
+# 05. Staffel
 05	1	86	Las Vegas
 05	2	87	Die Babysitter
 05	3	88	Auf Wiedersehen, Kitty
@@ -116,6 +123,7 @@
 05	20	105	Victors zweite Familie
 05	21	106	Reese bei der Army Teil 1
 05	22	107	Reese bei der Army Teil 2
+# 06. Staffel
 06	1	108	Reese kommt nach Hause
 06	2	109	Hal und die Bodybuilder
 06	3	110	Die Macht des Müllmanns
@@ -138,6 +146,7 @@
 06	20	127	Stelzen
 06	21	128	Lehrer in Geiselhaft
 06	22	129	Der Schönheitswettbewerb
+# 07. Staffel
 07	1	130	Burning Man
 07	2	131	Der Verräter
 07	3	132	Reese gegen Stevie

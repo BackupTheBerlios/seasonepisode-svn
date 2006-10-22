@@ -1,15 +1,32 @@
-# Wolffs Revier
-#SE	EP	No.	Titel
-# 1. Staffel	
-01	01	01	Mord hat Vorrang
-01	02	02	Witwe in Weiß
-01	03	03	Katharina und Kaviar
-01	04	04	Wohnungstod
-01	05	05	Geldwäscher
-01	06	06	Schnell reich, schnell tot
-01	07	07	Reicher Gigolo
-01	08	08	Schwerkraft des Mordes
-01	09	09	Verbrecher sind nicht pünktlich
+#
+# SEASONLIST
+# 1	1	16
+# 2	17	36
+# 3	37	42
+# 4	43	57
+# 5	58	71
+# 6	72	83
+# 7	84	95
+# 8	96	107
+# 9	108	122
+# 10	123	133
+# 11	134	144
+# 12	145	159
+# 13	160	171
+# /SEASONLIST
+#
+#SE	EP	No.	Title
+#
+# 01. Staffel
+01	1	1	Mord hat Vorrang
+01	2	2	Witwe in Weiß
+01	3	3	Katharina und Kaviar
+01	4	4	Wohnungstod
+01	5	5	Geldwäscher
+01	6	6	Schnell reich, schnell tot
+01	7	7	Reicher Gigolo
+01	8	8	Schwerkraft des Mordes
+01	9	9	Verbrecher sind nicht pünktlich
 01	10	10	Mord ist strafbar
 01	11	11	Notwehr
 01	12	12	Zivilcourage
@@ -17,16 +34,16 @@
 01	14	14	Knast
 01	15	15	Alte Rechnungen
 01	16	16	Die Tochter
-# 2. Staffel	
-02	01	17	Die Wölfin
-02	02	18	Poker
-02	03	19	Ich knall' dich ab
-02	04	20	Die Spinne
-02	05	21	Klassenkeile
-02	06	22	Das Wunder
-02	07	23	Rufmord
-02	08	24	Totentanz
-02	09	25	Der Dieb
+# 02. Staffel
+02	1	17	Die Wölfin
+02	2	18	Poker
+02	3	19	Ich knall' dich ab
+02	4	20	Die Spinne
+02	5	21	Klassenkeile
+02	6	22	Das Wunder
+02	7	23	Rufmord
+02	8	24	Totentanz
+02	9	25	Der Dieb
 02	10	26	Galgenfrist
 02	11	27	Ein schmutziger Job
 02	12	28	Roulette
@@ -38,149 +55,149 @@
 02	18	34	Cash
 02	19	35	Gesühnt
 02	20	36	Selbstjustiz
-# 3. Staffel	
-03	01	37	Palermo ist nah
-03	02	38	Ich hatt' einen Kameraden
-03	03	39	Mein Vater baut die Bombe
-03	04	40	Die Geisel
-03	05	41	Grauzone
-03	06	42	Love hotel
-# 4. Staffel	
-04	01	43	Todsicher
-04	02	44	Silke, sechzehn
-04	03	45	Amigos
-04	04	46	Sommersprossen
-04	05	47	Kalt ist der Abendhauch
-04	06	48	Das dritte Auge
-04	07	49	Rettungsschuß
-04	08	50	Klassenfahrt
-04	09	51	Taekwon-Do
+# 03. Staffel
+03	1	37	Palermo ist nah
+03	2	38	Ich hatt' einen Kameraden
+03	3	39	Mein Vater baut die Bombe
+03	4	40	Die Geisel
+03	5	41	Grauzone
+03	6	42	Love hotel
+# 04. Staffel
+04	1	43	Todsicher
+04	2	44	Silke, sechzehn
+04	3	45	Amigos
+04	4	46	Sommersprossen
+04	5	47	Kalt ist der Abendhauch
+04	6	48	Das dritte Auge
+04	7	49	Rettungsschuß
+04	8	50	Klassenfahrt
+04	9	51	Taekwon-Do
 04	10	52	Das Interview
 04	11	53	Tabu
 04	12	54	Mausetot
 04	13	55	Tod einer Familie
 04	14	56	Chemie der Liebe
 04	15	57	Gebrochene Herzen
-# 5. Staffel	
-05	01	58	Angeklagt: Dr. Fried
-05	02	59	Das Mädchen Marie
-05	03	60	Wo ist dein Bruder?
-05	04	61	Schattenspiel
-05	05	62	Blutspur
-05	06	63	Du sollst töten
-05	07	64	Ibrahims Ehre
-05	08	65	Der Deserteur
-05	09	66	Klinkenputzer
+# 05. Staffel
+05	1	58	Angeklagt: Dr. Fried
+05	2	59	Das Mädchen Marie
+05	3	60	Wo ist dein Bruder?
+05	4	61	Schattenspiel
+05	5	62	Blutspur
+05	6	63	Du sollst töten
+05	7	64	Ibrahims Ehre
+05	8	65	Der Deserteur
+05	9	66	Klinkenputzer
 05	10	67	Flugangst
 05	11	68	Rotlicht für Sawatzki
 05	12	69	Kopfgeld
 05	13	70	Cherchez la femme
 05	14	71	Ein wasserdichtes Alibi
-# 6. Staffel	
-06	01	72	Urlaub in den Tod
-06	02	73	Zahltag
-06	03	74	Eiskalt
-06	04	75	Wallmann kommt raus
-06	05	76	Ende einer Therapie
-06	06	77	Lebendig begraben
-06	07	78	Brubeck
-06	08	79	Der kleine Tod
-06	09	80	Auto-Crash
+# 06. Staffel
+06	1	72	Urlaub in den Tod
+06	2	73	Zahltag
+06	3	74	Eiskalt
+06	4	75	Wallmann kommt raus
+06	5	76	Ende einer Therapie
+06	6	77	Lebendig begraben
+06	7	78	Brubeck
+06	8	79	Der kleine Tod
+06	9	80	Auto-Crash
 06	10	81	Damendoppel
 06	11	82	Im Namen des Vaters
 06	12	83	Clever und tot
-# 7. Staffel	
-07	01	84	Der Heckenschütze
-07	02	85	Ein todsicherer Plan
-07	03	86	Marathon
-07	04	87	Mitten ins Herz
-07	05	88	Bauernopfer
-07	06	89	Computerspiele
-07	07	90	Die Tote an der S-Bahn
-07	08	91	Freiwild
-07	09	92	Im Visier
+# 07. Staffel
+07	1	84	Der Heckenschütze
+07	2	85	Ein todsicherer Plan
+07	3	86	Marathon
+07	4	87	Mitten ins Herz
+07	5	88	Bauernopfer
+07	6	89	Computerspiele
+07	7	90	Die Tote an der S-Bahn
+07	8	91	Freiwild
+07	9	92	Im Visier
 07	10	93	Flucht ins Verderben
 07	11	94	Ein hundsgemeiner Mord
 07	12	95	Zwei Seelen, ein Gedanke
-# 8. Staffel	
-08	01	96	Recht auf Mord
-08	02	97	Blutsbrüder
-08	03	98	Die Frau des Chemikers
-08	04	99	Tod und Auf Wiedersehen
-08	05	100	Der Killer
-08	06	101	Bangkok-Berlin
-08	07	102	Mit Satans Hilfe
-08	08	103	Der Totschläger
-08	09	104	Ich habe Sylvie Engel getötet!
+# 08. Staffel
+08	1	96	Recht auf Mord
+08	2	97	Blutsbrüder
+08	3	98	Die Frau des Chemikers
+08	4	99	Tod und Auf Wiedersehen
+08	5	100	Der Killer
+08	6	101	Bangkok-Berlin
+08	7	102	Mit Satans Hilfe
+08	8	103	Der Totschläger
+08	9	104	Ich habe Sylvie Engel getötet!
 08	10	105	Eine Mordsshow
 08	11	106	Bis daß der Tod ...
 08	12	107	Blutiger Schmuck
-# 9. Staffel	
-09	01	108	Tanz mit dem Teufel
-09	02	109	Yankee Bomber
-09	03	110	Väter
-09	04	111	Der Tod ist ein Spezialeffekt
-09	05	112	Wolffs Falle
-09	06	113	Die Zecke
-09	07	114	Querschläger 
-09	08	115	Die Kunst des Tötens
-09	09	116	Katz & Maus
+# 09. Staffel
+09	1	108	Tanz mit dem Teufel
+09	2	109	Yankee Bomber
+09	3	110	Väter
+09	4	111	Der Tod ist ein Spezialeffekt
+09	5	112	Wolffs Falle
+09	6	113	Die Zecke
+09	7	114	Querschläger 
+09	8	115	Die Kunst des Tötens
+09	9	116	Katz & Maus
 09	10	117	Blutrache
 09	11	118	Fahrstunde
 09	12	119	Tag der Abrechnung
 09	13	120	Der achte Mord
 09	14	121	Eindeutig Notwehr
 09	15	122	Die Wette
-# 10. Staffel	
-10	01	123	Jeanette
-10	02	124	Tödliche Lektion
-10	03	125	Standrecht
-10	04	126	Wildwechsel
-10	05	127	Der Wiedergutmacher
-10	06	128	Tausend kleine Helfer
-10	07	129	Rollenspiele
-10	08	130	Sport ist Mord
-10	09	131	Der Schutzengel
+# 10. Staffel
+10	1	123	Jeanette
+10	2	124	Tödliche Lektion
+10	3	125	Standrecht
+10	4	126	Wildwechsel
+10	5	127	Der Wiedergutmacher
+10	6	128	Tausend kleine Helfer
+10	7	129	Rollenspiele
+10	8	130	Sport ist Mord
+10	9	131	Der Schutzengel
 10	10	132	Ecstasy
 10	11	133	Trennungsmüll
-# 11. Staffel	
-11	01	134	Der Fall Kramer
-11	02	135	Venusfalle
-11	03	136	Tot oder lebendig
-11	04	137	Taxi zum Mond
-11	05	138	Aus Fehlern wird man klug
-11	06	139	Au Pair
-11	07	140	Im Zwielicht
-11	08	141	Die Montagsgruppe
-11	09	142	Der Dritte Mann
+# 11. Staffel
+11	1	134	Der Fall Kramer
+11	2	135	Venusfalle
+11	3	136	Tot oder lebendig
+11	4	137	Taxi zum Mond
+11	5	138	Aus Fehlern wird man klug
+11	6	139	Au Pair
+11	7	140	Im Zwielicht
+11	8	141	Die Montagsgruppe
+11	9	142	Der Dritte Mann
 11	10	143	Die Mumie
 11	11	144	Heiße Suppe
-# 12. Staffel	
-12	01	145	Traumfänger
-12	02	146	Spurlos
-12	03	147	Blind Date
-12	04	148	Jeanettes Flucht
-12	05	149	Fahrerflucht
-12	06	150	Schattenwesen
-12	07	151	Kleine Zwerge, lange Schatten
-12	08	152	Unwürdiger Zeuge
-12	09	153	Tod in Uniform
+# 12. Staffel
+12	1	145	Traumfänger
+12	2	146	Spurlos
+12	3	147	Blind Date
+12	4	148	Jeanettes Flucht
+12	5	149	Fahrerflucht
+12	6	150	Schattenwesen
+12	7	151	Kleine Zwerge, lange Schatten
+12	8	152	Unwürdiger Zeuge
+12	9	153	Tod in Uniform
 12	10	154	Die Heldin
 12	11	155	Karambolage
 12	12	156	An einem Tag im Mai
 12	13	157	Diplomatie am Ende
 12	14	158	Die Richter
 12	15	159	Amsterdam sehen und sterben
-# 13. Staffel	
-13	01	160	In eigener Sache
-13	02	161	Gebrannte Kinder
-13	03	162	Kunstschuss
-13	04	163	Wege zum Ruhm
-13	05	164	Spätfolgen
-13	06	165	Grenzgänger
-13	07	166	Der letzte Ritter
-13	08	167	Alles aus Liebe
-13	09	168	Härtetest
+# 13. Staffel
+13	1	160	In eigener Sache
+13	2	161	Gebrannte Kinder
+13	3	162	Kunstschuss
+13	4	163	Wege zum Ruhm
+13	5	164	Spätfolgen
+13	6	165	Grenzgänger
+13	7	166	Der letzte Ritter
+13	8	167	Alles aus Liebe
+13	9	168	Härtetest
 13	10	169	Herzblut
 13	11	170	Von Liebe und Hass
 13	12	171	Kurzschluss

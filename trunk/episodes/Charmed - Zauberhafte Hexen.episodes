@@ -1,4 +1,6 @@
 #
+# SHORT Charmed-Zauberhafte Hexen
+#
 # SEASONLIST
 # 1	1	22
 # 2	23	44
@@ -10,19 +12,18 @@
 # 8	157	178
 # /SEASONLIST
 #
-#SE     EP      No.     Titel
+#SE	EP	No.	Title
 #
-# SHORT Charmed-Zauberhafte Hexen
-#
-01	01	1	Das Buch der Schatten
-01	02	2	Teuflische Augen
-01	03	3	Die Formwandler
-01	04	4	Rendezvous mit einem Geist
-01	05	5	Tödliche Träume
-01	06	6	Höllenhochzeit
-01	07	7	Schwester der Nacht
-01	08	8	Der Wahrheitszauber
-01	09	9	Rückkehr aus dem Jenseits
+# 01. Staffel
+01	1	1	Das Buch der Schatten
+01	2	2	Teuflische Augen
+01	3	3	Die Formwandler
+01	4	4	Rendezvous mit einem Geist
+01	5	5	Tödliche Träume
+01	6	6	Höllenhochzeit
+01	7	7	Schwester der Nacht
+01	8	8	Der Wahrheitszauber
+01	9	9	Rückkehr aus dem Jenseits
 01	10	10	Machtlos
 01	11	11	Der Fluch der Urne
 01	12	12	Wendigo
@@ -36,15 +37,16 @@
 01	20	20	Ein Geist, zwei Schwestern
 01	21	21	Wächter der Dunkelheit
 01	22	22	Immer wieder Mittwoch
-02	01	23	Abraxas
-02	02	24	Hexenjagd
-02	03	25	Voll im Bild
-02	04	26	Pakt mit dem Teufel
-02	05	27	Einfach unwiderstehlich
-02	06	28	Der Auserwählte
-02	07	29	Die Akasha-Rollen
-02	08	30	Schrecken der Tiefe
-02	09	31	Zwischen Himmel und Hölle
+# 02. Staffel
+02	1	23	Abraxas
+02	2	24	Hexenjagd
+02	3	25	Voll im Bild
+02	4	26	Pakt mit dem Teufel
+02	5	27	Einfach unwiderstehlich
+02	6	28	Der Auserwählte
+02	7	29	Die Akasha-Rollen
+02	8	30	Schrecken der Tiefe
+02	9	31	Zwischen Himmel und Hölle
 02	10	32	Mitten ins Herz
 02	11	33	Drei Hexen und ein Baby
 02	12	34	Fieber
@@ -58,15 +60,16 @@
 02	20	42	Hexenblut
 02	21	43	Die Reiter der Apokalypse
 02	22	44	Wünsch dir was
-03	01	45	Die Verschwörung des Bösen
-03	02	46	Hexenhochzeit
-03	03	47	Von Feen und Trollen
-03	04	48	Das Zeitportal
-03	05	49	Die Dämonenfalle
-03	06	50	Die Macht der Gefühle
-03	07	51	Alle oder keine
-03	08	52	Sleuthing With the Enemy
-03	09	53	Besessen
+# 03. Staffel
+03	1	45	Die Verschwörung des Bösen
+03	2	46	Hexenhochzeit
+03	3	47	Von Feen und Trollen
+03	4	48	Das Zeitportal
+03	5	49	Die Dämonenfalle
+03	6	50	Die Macht der Gefühle
+03	7	51	Alle oder keine
+03	8	52	Sleuthing With the Enemy
+03	9	53	Besessen
 03	10	54	Wenn der Eismann kommt
 03	11	55	Gegen alle Regeln
 03	12	56	Verlorene Seelen
@@ -80,37 +83,39 @@
 03	20	64	Freund oder Feind?
 03	21	65	Die Todesfee
 03	22	66	Das Ende
-04	01	67	Die neue Macht der Drei
-04	02	68	48 Stunden
-04	03	69	Die drei Furien
-04	04	70	Der Mann mit dem Drachendolch
-04	05	71	Der Sammler
-04	06	72	Ein Prinz für Paige
-04	07	73	Hirngespinste
-04	08	74	Schwarz wie der Teufel
-04	09	75	Der Ring der Musen
+# 04. Staffel
+04	1	67	Die neue Macht der Drei
+04	2	68	48 Stunden
+04	3	69	Die drei Furien
+04	4	70	Der Mann mit dem Drachendolch
+04	5	71	Der Sammler
+04	6	72	Ein Prinz für Paige
+04	7	73	Hirngespinste
+04	8	74	Schwarz wie der Teufel
+04	9	75	Der Ring der Musen
 04	10	76	Geister der Vergangenheit
 04	11	77	Die zwölf Geschworenen
 04	12	78	Feuer
 04	13	79	Das schwarze Nichts
-04	13	80	Das fünfte Rad
-04	14	81	The Three Faces Of Phoebe
-04	15	82	Die Braut trägt Schwarz
+04	14	80	Das fünfte Rad
+04	15	81	The Three Faces Of Phoebe
+04	16	82	Die Braut trägt Schwarz
 04	17	83	Der Soldat Leo Wyatt
 04	18	84	Beiß mich
 04	19	85	Die Krönung
 04	20	86	Lang lebe die Königin
 04	21	87	Die Brut des Bösen
 04	22	88	Der Engel des Schicksals
-05	01	89	Der Ruf des Meeres, Teil 1
-05	02	90	Der Ruf des Meeres, Teil 2
-05	03	91	Und wenn sie nicht gestorben sind...
-05	04	92	Sirenengesang
-05	05	93	Superhelden
-05	06	94	Böse Augen
-05	07	95	Barbas
-05	08	96	Tödliche Visionen
-05	09	97	Unverwundbar
+# 05. Staffel
+05	1	89	Der Ruf des Meeres, Teil 1
+05	2	90	Der Ruf des Meeres, Teil 2
+05	3	91	Und wenn sie nicht gestorben sind...
+05	4	92	Sirenengesang
+05	5	93	Superhelden
+05	6	94	Böse Augen
+05	7	95	Barbas
+05	8	96	Tödliche Visionen
+05	9	97	Unverwundbar
 05	10	98	Mumienschanz
 05	11	99	Der Nexus
 05	12	100	Happy Birthday, Cole
@@ -125,15 +130,16 @@
 05	21	109	Hexentaufe
 05	22	110	Kampf der Titanen, Teil 1
 05	23	111	Kampf der Titanen, Teil 2
-06	01	112	Im Bann der Wallküren, Teil 1
-06	02	113	Im Bann der Wallküren, Teil 2
-06	03	114	Vergissmeinnicht
-06	04	115	Die Ohnmacht der Drei
-06	05	116	Tödliche Liebe
-06	06	117	Opfer der Sehnsucht
-06	07	118	Seelenqualen
-06	08	119	Piper und die Tafelrunde
-06	09	120	Kleine Monster
+# 06. Staffel
+06	1	112	Im Bann der Wallküren, Teil 1
+06	2	113	Im Bann der Wallküren, Teil 2
+06	3	114	Vergissmeinnicht
+06	4	115	Die Ohnmacht der Drei
+06	5	116	Tödliche Liebe
+06	6	117	Opfer der Sehnsucht
+06	7	118	Seelenqualen
+06	8	119	Piper und die Tafelrunde
+06	9	120	Kleine Monster
 06	10	121	Zwischen den Zeiten
 06	11	122	Witchstock
 06	12	123	Der perfekte Mann
@@ -148,15 +154,16 @@
 06	21	132	Witch Wars
 06	22	133	Gute und Böse Welt, Teil 1
 06	23	134	Gute und Böse Welt, Teil 2
-07	01	135	Blinder Zorn
-07	02	136	Nackte Tatsachen
-07	03	137	Der Rivalitätszauber
-07	04	138	Der Fluch der Piraten
-07	05	139	Todesengel
-07	06	140	Im Bann des blauen Mondes
-07	07	141	Ohne Schutzengel
-07	08	142	Der burmesische Falke
-07	09	143	Was ist mit Leo los?
+# 07. Staffel
+07	1	135	Blinder Zorn
+07	2	136	Nackte Tatsachen
+07	3	137	Der Rivalitätszauber
+07	4	138	Der Fluch der Piraten
+07	5	139	Todesengel
+07	6	140	Im Bann des blauen Mondes
+07	7	141	Ohne Schutzengel
+07	8	142	Der burmesische Falke
+07	9	143	Was ist mit Leo los?
 07	10	144	Ich sehe was, was du nicht siehst
 07	11	145	Die Hexen von nebenan
 07	12	146	Utopia erwacht
@@ -170,25 +177,26 @@
 07	20	154	Mein Freund, der Dämon
 07	21	155	Der Tod steht ihnen gut
 07	22	156	Macht oder Leben
+# 08. Staffel
 08	1	157	Totgesagte leben länger
 08	2	158	Halliwells im Wunderland
 08	3	159	Lauf, Piper, lauf
 08	4	160	Verzweifelte Haushexen
 08	5	161	Entzauberte Julie
 08	6	162	Kill Billie: Vol. 1
-08	7	163	
-08	8	164	
-08	9	165	
-08	10	166	
-08	11	167	
-08	12	168	
-08	13	169	
-08	14	170	
-08	15	171	
-08	16	172	
-08	17	173	
-08	18	174	
-08	19	175	
-08	20	176	
-08	21	177	
-08	22	178	
+08	7	163	n.n.
+08	8	164	n.n.
+08	9	165	n.n.
+08	10	166	n.n.
+08	11	167	n.n.
+08	12	168	n.n.
+08	13	169	n.n.
+08	14	170	n.n.
+08	15	171	n.n.
+08	16	172	n.n.
+08	17	173	n.n.
+08	18	174	n.n.
+08	19	175	n.n.
+08	20	176	n.n.
+08	21	177	n.n.
+08	22	178	n.n.

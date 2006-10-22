@@ -1,10 +1,13 @@
 #
-# SEASONLIST
-# 1	1	22
-# /SEASONLIST
-#
 # SHORT Bones
 #
+# SEASONLIST
+# 1	1	6
+# /SEASONLIST
+#
+#SE	EP	No.	Title
+#
+# 01. Staffel
 01	1	1	Die Frau im Teich
 01	2	2	Der Mann im Jeep
 01	3	3	Der Junge am Baum

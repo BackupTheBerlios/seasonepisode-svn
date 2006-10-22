@@ -4,10 +4,14 @@
 # 2	5	12
 # /SEASONLIST
 #
+#SE	EP	No.	Title
+#
+# 01. Staffel
 01	1	1	Zurück auf Anfang
 01	2	2	Geld stinkt nicht
 01	3	3	Des Pudels Kern
 01	4	4	New York, New York
+# 02. Staffel
 02	1	5	Müll oder Frieden
 02	2	6	Geld regiert die Welt
 02	3	7	Bittere Pillen

@@ -1,193 +1,227 @@
-# SOKO 5113
-#SE	EP	No.	Titel
-# Staffel 1			
-01	01	01	Einsatz: 22 Uhr
-01	02	02	Eine Leiche für Göttmann
-01	03	03	Die Stimme vom Recorder
-01	04	04	Eine Falle für die Dealer
-01	05	05	Der Vogel ist ausgeflogen
-01	06	06	Jagd auf Joe White
-# Staffel 2			
-02	01	07	Nobbys Tips sind die besten
-02	02	08	Überfall auf Großmarkt
-02	03	09	Die Laus im Pelz
-02	04	10	Die Spuren führen nach Süden
-02	05	11	Wiener Intermezzo
-02	06	12	Ein feiner Herr wird erpresst
-# Staffel 3			
-03	01	13	Notbremse
-03	02	14	Die Brüder Grosser
-03	03	15	Eine Scheune zum Frisieren
-03	04	16	Nobbys blaue Augen
-03	05	17	K.O.-Tropfen
-03	06	18	Bella Italia
-03	07	19	Finale ohne Ende
-# Staffel 4			
-04	01	20	Kokain (Teil 1)
-04	02	21	Kokain (Teil 2)
-04	03	22	Kokain (Teil 3)
-04	04	23	Rosis Brüder (Teil 1)
-04	05	24	Rosis Brüder (Teil 2)
-04	06	25	Blüten und Heroin
-04	07	26	Bruchlandung (Teil 1)
-04	08	27	Bruchlandung (Teil 2)
-04	09	28	Tod in Kapseln (Teil 1)
+#
+# SEASONLIST
+# 1	1	6
+# 2	7	12
+# 3	13	19
+# 4	20	32
+# 5	33	41
+# 6	42	48
+# 7	49	60
+# 8	61	74
+# 9	75	85
+# 10	86	98
+# 11	99	113
+# 12	114	128
+# 13	129	143
+# 14	144	152
+# 15	153	163
+# 16	164	182
+# 17	183	194
+# 18	195	210
+# 19	211	218
+# 20	219	235
+# 21	236	247
+# 22	248	258
+# 23	259	265
+# 24	266	274
+# 25	275	286
+# 26	287	299
+# 27	300	306
+# 28	307	318
+# 29	319	327
+# 30	328	331
+# /SEASONLIST
+#
+#SE	EP	No.	Title
+#
+# 01. Staffel
+01	1	1	Einsatz: 22 Uhr
+01	2	2	Eine Leiche für Göttmann
+01	3	3	Die Stimme vom Recorder
+01	4	4	Eine Falle für die Dealer
+01	5	5	Der Vogel ist ausgeflogen
+01	6	6	Jagd auf Joe White
+# 02. Staffel
+02	1	7	Nobbys Tips sind die besten
+02	2	8	Überfall auf Großmarkt
+02	3	9	Die Laus im Pelz
+02	4	10	Die Spuren führen nach Süden
+02	5	11	Wiener Intermezzo
+02	6	12	Ein feiner Herr wird erpresst
+# 03. Staffel
+03	1	13	Notbremse
+03	2	14	Die Brüder Grosser
+03	3	15	Eine Scheune zum Frisieren
+03	4	16	Nobbys blaue Augen
+03	5	17	K.O.-Tropfen
+03	6	18	Bella Italia
+03	7	19	Finale ohne Ende
+# 04. Staffel
+04	1	20	Kokain (Teil 1)
+04	2	21	Kokain (Teil 2)
+04	3	22	Kokain (Teil 3)
+04	4	23	Rosis Brüder (Teil 1)
+04	5	24	Rosis Brüder (Teil 2)
+04	6	25	Blüten und Heroin
+04	7	26	Bruchlandung (Teil 1)
+04	8	27	Bruchlandung (Teil 2)
+04	9	28	Tod in Kapseln (Teil 1)
 04	10	29	Tod in Kapseln (Teil 2)
 04	11	30	Knastdealer (Teil 1)
 04	12	31	Knastdealer (Teil 2)
 04	13	32	Knastdealer (Teil 3)
-# Staffel 5			
-05	01	33	Schneetreiben
-05	02	34	Die Spur führt nach Sardinien
-05	03	35	Stoff aus der Heimat
-05	04	36	An die Nadel verloren
-05	05	37	Koks und Kakao
-05	06	38	Horrortrip
-05	07	39	Tapetenwechsel
-05	08	40	Göttmann hat Angst
-05	09	41	Schutzgeld
-# Staffel 6			
-06	01	42	Blanker Haß
-06	02	43	Der feine Unterschied
-06	03	44	Herles Alleingang
-06	04	45	Goldregen
-06	05	46	Auftragsarbeit
-06	06	47	Herrenpartie
-06	07	48	Ein Mordfall für Göttmann
-# Staffel 7			
-07	01	49	Herle sieht doppelt
-07	02	50	Stille Teilhaber
-07	03	51	Sichtvermerk (Teil 1)
-07	04	52	Sichtvermerk (Teil 2)
-07	05	53	In die falsche Richtung
-07	06	54	Das Versprechen
-07	07	55	Das Duell (Teil 1)
-07	08	56	Das Duell (Teil 2)
-07	09	57	Endstation Amsterdam
+# 05. Staffel
+05	1	33	Schneetreiben
+05	2	34	Die Spur führt nach Sardinien
+05	3	35	Stoff aus der Heimat
+05	4	36	An die Nadel verloren
+05	5	37	Koks und Kakao
+05	6	38	Horrortrip
+05	7	39	Tapetenwechsel
+05	8	40	Göttmann hat Angst
+05	9	41	Schutzgeld
+# 06. Staffel
+06	1	42	Blanker Haß
+06	2	43	Der feine Unterschied
+06	3	44	Herles Alleingang
+06	4	45	Goldregen
+06	5	46	Auftragsarbeit
+06	6	47	Herrenpartie
+06	7	48	Ein Mordfall für Göttmann
+# 07. Staffel
+07	1	49	Herle sieht doppelt
+07	2	50	Stille Teilhaber
+07	3	51	Sichtvermerk (Teil 1)
+07	4	52	Sichtvermerk (Teil 2)
+07	5	53	In die falsche Richtung
+07	6	54	Das Versprechen
+07	7	55	Das Duell (Teil 1)
+07	8	56	Das Duell (Teil 2)
+07	9	57	Endstation Amsterdam
 07	10	58	Finderlohn
 07	11	59	Artistengepäck
 07	12	60	Das harte Geschäft
-# Staffel 8			
-08	01	61	Der Neue
-08	02	62	Alles Vertrauenssache
-08	03	63	Roter Hahn
-08	04	64	Mord in der Schickeria
-08	05	65	Pizza-Connection
-08	06	66	Chirurg im Schußfeld
-08	07	67	Todsichere Methode
-08	08	68	Waffennarren
-08	09	69	Der vierte Mann
+# 08. Staffel
+08	1	61	Der Neue
+08	2	62	Alles Vertrauenssache
+08	3	63	Roter Hahn
+08	4	64	Mord in der Schickeria
+08	5	65	Pizza-Connection
+08	6	66	Chirurg im Schußfeld
+08	7	67	Todsichere Methode
+08	8	68	Waffennarren
+08	9	69	Der vierte Mann
 08	10	70	Supermarkt
 08	11	71	Anna hat Angst
 08	12	72	Der Helfer
 08	13	73	Göttmann gibt nicht auf
 08	14	74	Frontenwechsel
-# Staffel 9			
-09	01	75	Lebensglück
-09	02	76	Niemand ist eiskalt
-09	03	77	Hausbesuche
-09	04	78	Auf freiem Fuß
-09	05	79	Modell San Remo
-09	06	80	Autos à la carte
-09	07	81	Der Stahlstecher
-09	08	82	Meisterschüsse
-09	09	83	Trittbrettfahrer
+# 09. Staffel
+09	1	75	Lebensglück
+09	2	76	Niemand ist eiskalt
+09	3	77	Hausbesuche
+09	4	78	Auf freiem Fuß
+09	5	79	Modell San Remo
+09	6	80	Autos à la carte
+09	7	81	Der Stahlstecher
+09	8	82	Meisterschüsse
+09	9	83	Trittbrettfahrer
 09	10	84	Eine unvergeßliche Nacht
 09	11	85	Tod aus der Retorte
-# Staffel 10			
-10	01	86	Unliebsame Konkurrenz
-10	02	87	Nichts geht mehr
-10	03	88	Ware auf Bestellung
-10	04	89	Glückskinder
-10	05	90	Chemie und ihre schmutzigen Kinder
-10	06	91	Rache
-10	07	92	Der große Bruder
-10	08	93	Kleinvieh macht auch Mist
-10	09	94	Der Profi aus Rom
+# 10. Staffel
+10	1	86	Unliebsame Konkurrenz
+10	2	87	Nichts geht mehr
+10	3	88	Ware auf Bestellung
+10	4	89	Glückskinder
+10	5	90	Chemie und ihre schmutzigen Kinder
+10	6	91	Rache
+10	7	92	Der große Bruder
+10	8	93	Kleinvieh macht auch Mist
+10	9	94	Der Profi aus Rom
 10	10	95	Ohne Gesicht
 10	11	96	Heimatabend
 10	12	97	Ware aus Fernost
 10	13	98	Tödliche Zeremonie
-# Staffel 11			
-11	01	99	Der Auftraggeber
-11	02	100	Der Knastkönig
-11	03	101	Die Qualität des Verräters
-11	04	102	Bella Bionda
-11	05	103	Vier Augen zu viel
-11	06	104	Die Vergangenheit kennt kein Ende
-11	07	105	Schmutziges Geschäft
-11	08	106	Mit letztem Einsatz
-11	09	107	Einen Zug vorraus
+# 11. Staffel
+11	1	99	Der Auftraggeber
+11	2	100	Der Knastkönig
+11	3	101	Die Qualität des Verräters
+11	4	102	Bella Bionda
+11	5	103	Vier Augen zu viel
+11	6	104	Die Vergangenheit kennt kein Ende
+11	7	105	Schmutziges Geschäft
+11	8	106	Mit letztem Einsatz
+11	9	107	Einen Zug vorraus
 11	10	108	Ein Freund zu viel
 11	11	109	Rückkehr an einen fremden Ort
 11	12	110	Die Brave
 11	13	111	Das Verhör
 11	14	112	Der alte Schatten
 11	15	113	Der synthetische Tod
-# Staffel 12			
-12	01	114	Wenn der Tod zweimal klingelt
-12	02	115	Der Verbrannte
-12	03	116	Das Komplott
-12	04	117	Der Kuß des Vaters
-12	05	118	Jedes Rennen gegen den Tod
-12	06	119	Feuer im Herz
-12	07	120	Der Schatten der Bosse
-12	08	121	Einer gegen alle
-12	09	122	Berber sterben einsam
+# 12. Staffel
+12	1	114	Wenn der Tod zweimal klingelt
+12	2	115	Der Verbrannte
+12	3	116	Das Komplott
+12	4	117	Der Kuß des Vaters
+12	5	118	Jedes Rennen gegen den Tod
+12	6	119	Feuer im Herz
+12	7	120	Der Schatten der Bosse
+12	8	121	Einer gegen alle
+12	9	122	Berber sterben einsam
 12	10	123	Eine Sache unter Freunden
 12	11	124	Das Wort eines Bullen
 12	12	125	Für ein Gramm Heroin
 12	13	126	Timmers Traum
 12	14	127	Der Leibwächter
 12	15	128	Gefühle trügen nie
-# Staffel 13			
-13	01	129	Besuch aus der Vergangenheit
-13	02	130	Die Frau des Schieberkönigs
-13	03	131	Die Mutprobe
-13	04	132	Wild und treu
-13	05	133	Die Kontaktperson
-13	06	134	Traumautos
-13	07	135	Damenwahl
-13	08	136	Waldesruh
-13	09	137	Falsches Spiel
+# 13. Staffel
+13	1	129	Besuch aus der Vergangenheit
+13	2	130	Die Frau des Schieberkönigs
+13	3	131	Die Mutprobe
+13	4	132	Wild und treu
+13	5	133	Die Kontaktperson
+13	6	134	Traumautos
+13	7	135	Damenwahl
+13	8	136	Waldesruh
+13	9	137	Falsches Spiel
 13	10	138	Der Mörder in mir
 13	11	139	Die Annonce und der Tod
 13	12	140	Eine Leiche zuviel
 13	13	141	Potemkin läßt grüßen
 13	14	142	Das Danzig-Dreieck
 13	15	143	Aus dem Gleichgewicht
-# Staffel 14			
-14	01	144	Das Lächeln des Verräters (Teil 1)
-14	02	145	Das Lächeln des Verräters (Teil 2)
-14	03	146	Der Tod der alten Dame
-14	04	147	Außer Dienst
-14	05	148	Polterabend
-14	06	149	Stahlmann
-14	07	150	Der Zeuge
-14	08	151	Geruch
-14	09	152	Ein interessanter Typ
-# Staffel 15			
-15	01	153	Durststrecke beendet
-15	02	154	Therapie
-15	03	155	Der falsche Mann
-15	04	156	Der Keltendolch
-15	05	157	Stefan
-15	06	158	Karibische Träume
-15	07	159	Letzte Hilfe
-15	08	160	Spiel mit dem Feuer
-15	09	161	Schmerzensgeld
+# 14. Staffel
+14	1	144	Das Lächeln des Verräters (Teil 1)
+14	2	145	Das Lächeln des Verräters (Teil 2)
+14	3	146	Der Tod der alten Dame
+14	4	147	Außer Dienst
+14	5	148	Polterabend
+14	6	149	Stahlmann
+14	7	150	Der Zeuge
+14	8	151	Geruch
+14	9	152	Ein interessanter Typ
+# 15. Staffel
+15	1	153	Durststrecke beendet
+15	2	154	Therapie
+15	3	155	Der falsche Mann
+15	4	156	Der Keltendolch
+15	5	157	Stefan
+15	6	158	Karibische Träume
+15	7	159	Letzte Hilfe
+15	8	160	Spiel mit dem Feuer
+15	9	161	Schmerzensgeld
 15	10	162	Vermißt
 15	11	163	Milchgesicht
-# Staffel 16			
-16	01	164	Das Ritual
-16	02	165	Verraten und verkauft
-16	03	166	Ein Koffer aus Amsterdam
-16	04	167	Sonne, Mond und Sterne
-16	05	168	Mord ohne Auftrag
-16	06	169	Schatten der Vergangenheit
-16	07	170	Ausgetrickst
-16	08	171	Tod nach Schulschluß
-16	09	172	Killing
+# 16. Staffel
+16	1	164	Das Ritual
+16	2	165	Verraten und verkauft
+16	3	166	Ein Koffer aus Amsterdam
+16	4	167	Sonne, Mond und Sterne
+16	5	168	Mord ohne Auftrag
+16	6	169	Schatten der Vergangenheit
+16	7	170	Ausgetrickst
+16	8	171	Tod nach Schulschluß
+16	9	172	Killing
 16	10	173	Blaue Sonne
 16	11	174	Kalles Kinder
 16	12	175	Offene Wunden
@@ -198,29 +232,29 @@
 16	17	180	Alle mochten Anja
 16	18	181	Eine Frage der Logik
 16	19	182	Ein klarer Fall
-# Staffel 17			
-17	01	183	Siebzigtausend
-17	02	184	Ein Mord aus Liebe
-17	03	185	Dunkler Regen
-17	04	186	Noch 36 Stunden
-17	05	187	Ein Mord wie in Palermo
-17	06	188	Tod einer Therapeutin
-17	07	189	Sonderangebot
-17	08	190	Brandmal
-17	09	191	Notwehr
+# 17. Staffel
+17	1	183	Siebzigtausend
+17	2	184	Ein Mord aus Liebe
+17	3	185	Dunkler Regen
+17	4	186	Noch 36 Stunden
+17	5	187	Ein Mord wie in Palermo
+17	6	188	Tod einer Therapeutin
+17	7	189	Sonderangebot
+17	8	190	Brandmal
+17	9	191	Notwehr
 17	10	192	Der Sündenbock
 17	11	193	Kennwort: Mord
 17	12	194	Mord im Auftrag
-# Staffel 18			
-18	01	195	Abgestürzt
-18	02	196	Bombenstimmung
-18	03	197	Schüsse aus der Dunkelheit
-18	04	198	Sophias Geheimnis
-18	05	199	Blutige Spur
-18	06	200	Abschiedsfeier
-18	07	201	Milchmädchenrechnung
-18	08	202	Amour Fou
-18	09	203	Alles aus Liebe
+# 18. Staffel
+18	1	195	Abgestürzt
+18	2	196	Bombenstimmung
+18	3	197	Schüsse aus der Dunkelheit
+18	4	198	Sophias Geheimnis
+18	5	199	Blutige Spur
+18	6	200	Abschiedsfeier
+18	7	201	Milchmädchenrechnung
+18	8	202	Amour Fou
+18	9	203	Alles aus Liebe
 18	10	204	... oder Schickl stirbt
 18	11	205	Schusters letzte Streife
 18	12	206	Tommy
@@ -228,25 +262,25 @@
 18	14	208	Rosenkavalier
 18	15	209	Das Gelübde
 18	16	210	Der Überläufer
-# Staffel 19			
-19	01	211	Auge um Auge
-19	02	212	Schuld und Sühne
-19	03	213	Lottokönig
-19	04	214	Argentinische Verlobung
-19	05	215	Tödliche Liebe
-19	06	216	Schnappschüsse
-19	07	217	Blutige Strafe
-19	08	218	Ein verpfuschtes Leben
-# Staffel 20			
-20	01	219	Mutterliebe
-20	02	220	Der Löwe ist los
-20	03	221	Todessprung
-20	04	222	Tod unter Strom
-20	05	223	Das Münchner Madl
-20	06	224	Mord mit den besten Empfehlungen
-20	07	225	Im Namen Gottes
-20	08	226	Verwischte Spuren
-20	09	227	Fauler Zauber
+# 19. Staffel
+19	1	211	Auge um Auge
+19	2	212	Schuld und Sühne
+19	3	213	Lottokönig
+19	4	214	Argentinische Verlobung
+19	5	215	Tödliche Liebe
+19	6	216	Schnappschüsse
+19	7	217	Blutige Strafe
+19	8	218	Ein verpfuschtes Leben
+# 20. Staffel
+20	1	219	Mutterliebe
+20	2	220	Der Löwe ist los
+20	3	221	Todessprung
+20	4	222	Tod unter Strom
+20	5	223	Das Münchner Madl
+20	6	224	Mord mit den besten Empfehlungen
+20	7	225	Im Namen Gottes
+20	8	226	Verwischte Spuren
+20	9	227	Fauler Zauber
 20	10	228	Die Jäger
 20	11	229	Familienangelegenheiten
 20	12	230	Eine Nummer zu groß
@@ -255,109 +289,109 @@
 20	15	233	Plötzlich und unerwartet
 20	16	234	Das Rendezvous
 20	17	235	Brudermord
-# Staffel 21			
-21	01	236	Färbers Vermächtnis
-21	02	237	Ausgesetzt
-21	03	238	Der geborene Verlierer
-21	04	239	Der Mann des Jahres
-21	05	240	Die Kunst des Alibis
-21	06	241	Menschenkenntnis
-21	07	242	Auf die Plätze ...
-21	08	243	Leichte Beute
-21	09	244	Die Eisprinzessin
+# 21. Staffel
+21	1	236	Färbers Vermächtnis
+21	2	237	Ausgesetzt
+21	3	238	Der geborene Verlierer
+21	4	239	Der Mann des Jahres
+21	5	240	Die Kunst des Alibis
+21	6	241	Menschenkenntnis
+21	7	242	Auf die Plätze ...
+21	8	243	Leichte Beute
+21	9	244	Die Eisprinzessin
 21	10	245	Gleichung mit einer Unbekannten
 21	11	246	Wer schön sein will ...
 21	12	247	Party für vier Leichen
-# Staffel 22			
-22	01	248	Ludwig der Letzte
-22	02	249	Alleingang
-22	03	250	Tot an der Fahne
-22	04	251	Besessen
-22	05	252	Schachmatt
-22	06	253	Bodenlos
-22	07	254	Eingeschlossen
-22	08	255	Pizza amore
-22	09	256	Ein mörderischer Fall
+# 22. Staffel
+22	1	248	Ludwig der Letzte
+22	2	249	Alleingang
+22	3	250	Tot an der Fahne
+22	4	251	Besessen
+22	5	252	Schachmatt
+22	6	253	Bodenlos
+22	7	254	Eingeschlossen
+22	8	255	Pizza amore
+22	9	256	Ein mörderischer Fall
 22	10	257	Nach dreißig Jahren
 22	11	258	Unter Zwang
-# Staffel 23			
-23	01	259	Handlanger
-23	02	260	Der letzte Flug
-23	03	261	La Divina
-23	04	262	Wein, Weib und Mord
-23	05	263	Henkersmahlzeit
-23	06	264	Der gute Mensch von Harlaching
-23	07	265	Endstation Floßlände
-# Staffel 24			
-24	01	266	Erschlagende Verbindung
-24	02	267	Morgen bist du ein Star
-24	03	268	Böses Erwachen
-24	04	269	Eigendynamik
-24	05	270	Die letzte Tour
-24	06	271	Bei Anruf Mord
-24	07	272	Amnesie
-24	08	273	Barbie
-24	09	274	Die Abrechnung
-# Staffel 25			
-25	01	275	Das Blutopfer
-25	02	276	Das Geheimnis von Blandford Castle
-25	03	277	Die Stimme
-25	04	278	Um jeden Preis
-25	05	279	Gegen den Strom
-25	06	280	Das letzte Wort
-25	07	281	Alles Tarnung
-25	08	282	Der letzte Schliff
-25	09	283	Seitensprünge
+# 23. Staffel
+23	1	259	Handlanger
+23	2	260	Der letzte Flug
+23	3	261	La Divina
+23	4	262	Wein, Weib und Mord
+23	5	263	Henkersmahlzeit
+23	6	264	Der gute Mensch von Harlaching
+23	7	265	Endstation Floßlände
+# 24. Staffel
+24	1	266	Erschlagende Verbindung
+24	2	267	Morgen bist du ein Star
+24	3	268	Böses Erwachen
+24	4	269	Eigendynamik
+24	5	270	Die letzte Tour
+24	6	271	Bei Anruf Mord
+24	7	272	Amnesie
+24	8	273	Barbie
+24	9	274	Die Abrechnung
+# 25. Staffel
+25	1	275	Das Blutopfer
+25	2	276	Das Geheimnis von Blandford Castle
+25	3	277	Die Stimme
+25	4	278	Um jeden Preis
+25	5	279	Gegen den Strom
+25	6	280	Das letzte Wort
+25	7	281	Alles Tarnung
+25	8	282	Der letzte Schliff
+25	9	283	Seitensprünge
 25	10	284	Andere Zeiten
 25	11	285	Der Königsmacher
 25	12	286	Match over
-# Staffel 26			
-26	01	287	Der Hammer fällt
-26	02	288	Mord vom Fass
-26	03	289	Das Mörderspiel
-26	04	290	Frühe Sünden
-26	05	291	Die Spur des Clowns
-26	06	292	Zurück in den Tod
-26	07	293	Heile Welt
-26	08	294	Die Befragung
-26	09	295	Ausgepowert
+# 26. Staffel
+26	1	287	Der Hammer fällt
+26	2	288	Mord vom Fass
+26	3	289	Das Mörderspiel
+26	4	290	Frühe Sünden
+26	5	291	Die Spur des Clowns
+26	6	292	Zurück in den Tod
+26	7	293	Heile Welt
+26	8	294	Die Befragung
+26	9	295	Ausgepowert
 26	10	296	Tödliche Pantomime
 26	11	297	Bube, Dame, Mord
 26	12	298	Auf Messers Schneide
 26	13	299	Der letzte Tanz
-# Staffel 27			
-27	01	300	Ritt in den Tod
-27	02	301	Eine Frage des Gefühls
-27	03	302	Eine feine Gesellschaft
-27	04	303	Den Tod vor Augen
-27	05	304	Durchgedreht
-27	06	305	Tot in der Presse
-27	07	306	Edwards
-# Staffel 28			
-28	01	307	Schlangenkuss
-28	02	308	Puppenspieler
-28	03	309	Kleine Tiere, große Tiere
-28	04	310	Der Meisterdetektiv
-28	05	311	Susannes Trauma
-28	06	312	Schatzräuber
-28	07	313	Mord'œuvre
-28	08	314	Heimspiel
-28	09	315	Mord im zweiten Stock
+# 27. Staffel
+27	1	300	Ritt in den Tod
+27	2	301	Eine Frage des Gefühls
+27	3	302	Eine feine Gesellschaft
+27	4	303	Den Tod vor Augen
+27	5	304	Durchgedreht
+27	6	305	Tot in der Presse
+27	7	306	Edwards
+# 28. Staffel
+28	1	307	Schlangenkuss
+28	2	308	Puppenspieler
+28	3	309	Kleine Tiere, große Tiere
+28	4	310	Der Meisterdetektiv
+28	5	311	Susannes Trauma
+28	6	312	Schatzräuber
+28	7	313	Mord'œuvre
+28	8	314	Heimspiel
+28	9	315	Mord im zweiten Stock
 28	10	316	Eine alte Rechnung
 28	11	317	Der Baulöwe
 28	12	318	Total verfahren
-# Staffel 29			
-29	01	319	Inas Rückkehr
-29	02	320	Ein ordentliches Haus
-29	03	321	Sicher ist sicher
-29	04	322	Street Art
-29	05	323	Tod eines Diebes
-29	06	324	Drei Brüder
-29	07	325	Stille Wasser
-29	08	326	Höhenflug
-29	09	327	Ein Engel stirbt
-# Staffel 30			
-30	01	328	Kaltgestellt
-30	02	329	Familiengrab
-30	03	330	Tango mortale
-30	04	331	Eine Million für Emily
+# 29. Staffel
+29	1	319	Inas Rückkehr
+29	2	320	Ein ordentliches Haus
+29	3	321	Sicher ist sicher
+29	4	322	Street Art
+29	5	323	Tod eines Diebes
+29	6	324	Drei Brüder
+29	7	325	Stille Wasser
+29	8	326	Höhenflug
+29	9	327	Ein Engel stirbt
+# 30. Staffel
+30	1	328	Kaltgestellt
+30	2	329	Familiengrab
+30	3	330	Tango mortale
+30	4	331	Eine Million für Emily

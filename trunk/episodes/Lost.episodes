@@ -1,9 +1,12 @@
 #
 # SEASONLIST
 # 1	1	25
-# 2	26	49
+# 2	26	47
 # /SEASONLIST
 #
+#SE	EP	No.	Title
+#
+# 01. Staffel
 01	1	1	Lost (Pilot)
 01	2	2	Gestrandet - Teil 2
 01	3	3	Tabula Rasa
@@ -19,7 +22,7 @@
 01	13	13	Gefühl und Verstand
 01	14	14	Eisbär
 01	15	15	Heimkehr
-01	16	16	nn
+01	16	16	n.n.
 01	17	17	...In Translation
 01	18	18	Verfluchte Zahlen
 01	19	19	Deux Ex Machina
@@ -29,6 +32,7 @@
 01	23	23	Exodus - Teil 1
 01	24	24	Exodus - Teil 2
 01	25	25	Exodus - Teil 3
+# 02. Staffel
 02	1	26	Glaube und Wissenschaft
 02	2	27	Treibholz
 02	3	28	Orientierung
@@ -49,5 +53,5 @@
 02	18	43	Dave
 02	19	44	S.O.S.
 02	20	45	Zwei für unterwegs
-02	21	46	nn
+02	21	46	n.n.
 02	22	47	Drei Minuten

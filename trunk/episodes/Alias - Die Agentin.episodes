@@ -1,12 +1,14 @@
 #
+# SHORT Alias
+#
 # SEASONLIST
 # 1	1	22
 # 2	23	44
 # /SEASONLIST
 #
-# SHORT Alias
+#SE	EP	No.	Title
 #
-# 1. Staffel
+# 01. Staffel
 01	1	1	Tödliche Wahrheit
 01	2	2	Neuanfang
 01	3	3	Rivalinnen
@@ -29,7 +31,7 @@
 01	20	20	Ratten
 01	21	21	Rendezvous
 01	22	22	Kreisumfang
-# 2. Staffel
+# 02. Staffel
 02	1	23	Wahrheit braucht Zeit
 02	2	24	Erpressung
 02	3	25	Musik aus dem Eis

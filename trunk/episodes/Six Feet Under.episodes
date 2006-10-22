@@ -6,7 +6,9 @@
 # 4	40	51
 # /SEASONLIST
 #
-# 1. Staffel
+#SE	EP	No.	Title
+#
+# 01. Staffel
 01	1	1	Fisher und Söhne
 01	2	2	Der letzte Wille
 01	3	3	Der verlorene Fuß
@@ -20,7 +22,7 @@
 01	11	11	Der verhängnisvolle Ausflug
 01	12	12	Davids Gewissen
 01	13	13	Der Herr hat es gegeben, der Herr hat es genommen
-# 2. Staffel
+# 02. Staffel
 02	1	14	Am Spieltisch
 02	2	15	Brenne aus, kleine Kerze
 02	3	16	Der Plan
@@ -34,7 +36,7 @@
 02	11	24	Der Lügner und die Hure
 02	12	25	Ich nehme dich
 02	13	26	Das letzte Mal
-# 3. Staffel
+# 03. Staffel
 03	1	27	Der Kreis schließt sich
 03	2	28	Man kann nie wissen
 03	3	29	Das innere Auge
@@ -48,7 +50,7 @@
 03	11	37	Der Tod macht Überstunden
 03	12	38	Dämmerung
 03	13	39	Tut mir leid, ich weiß nicht weiter
-# 4. Staffel
+# 04. Staffel
 04	1	40	Alles fügt sich treffend
 04	2	41	Lichtblicke
 04	3	42	Paralleles Spiel

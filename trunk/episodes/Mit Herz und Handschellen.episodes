@@ -1,24 +1,30 @@
-# Mit Herz und Handschellen
-#SE	EP	No.	Titel
-# Pilotfilm (90 Minuten)			
-0	01	01	Super
-# 1. Staffel (8 Folgen à 45 Minuten)			
-1	01	02	Eishockey
-1	02	03	Mitten ins Herz
-1	03	04	Amtsmissbrauch
-1	04	05	Ein schöner Tod
-1	05	06	Heisse Herzen
-1	06	07	Die Alpenklinik
-1	07	08	Nasi Goreng
-1	08	09	Bussi für den Mörder
-# 2. Staffel (10 Folgen à 45 Minuten)			
-2	01	10	Bombige Aussichten
-2	02	11	Leiche auf Abwegen
-2	03	12	Abgekartetes Spiel
-2	04	13	Einsame Entscheidung
-2	05	14	Wunderkinder
-2	06	15	Auge um Auge
-2	07	16	Der Kronzeuge
-2	08	17	Familienbande
-2	09	18	50 Stunden Eiszeit
-2	10	19	Bombenstimmung
+#
+# SEASONLIST
+# 1	1	9
+# 2	10	19
+# /SEASONLIST
+#
+#SE	EP	No.	Title
+#
+# 00. Staffel
+00	1	0	Super
+# 01. Staffel
+01	1	1	Eishockey
+01	2	2	Mitten ins Herz
+01	3	3	Amtsmissbrauch
+01	4	4	Ein schöner Tod
+01	5	5	Heisse Herzen
+01	6	6	Die Alpenklinik
+01	7	7	Nasi Goreng
+01	8	8	Bussi für den Mörder
+# 02. Staffel
+02	1	9	Bombige Aussichten
+02	2	10	Leiche auf Abwegen
+02	3	11	Abgekartetes Spiel
+02	4	12	Einsame Entscheidung
+02	5	13	Wunderkinder
+02	6	14	Auge um Auge
+02	7	15	Der Kronzeuge
+02	8	16	Familienbande
+02	9	17	50 Stunden Eiszeit
+02	10	18	Bombenstimmung

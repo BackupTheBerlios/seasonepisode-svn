@@ -5,6 +5,9 @@
 # 3	30	44
 # /SEASONLIST
 #
+#SE	EP	No.	Title
+#
+# 01. Staffel
 01	1	1	Pilot
 01	2	2	Mandi/Randi
 01	3	3	Nanette Babcock
@@ -18,6 +21,7 @@
 01	11	11	Montana/Sassy/Justice
 01	12	12	Antonia Ramos
 01	13	13	Escobar Gallardo
+# 02. Staffel
 02	1	14	Erica Naughton
 02	2	15	Christian Troy
 02	3	16	Manya Mabika
@@ -34,6 +38,7 @@
 02	14	27	Trudy Nye
 02	15	28	Sean McNamara
 02	16	29	Joan Rivers
+# 03. Staffel
 03	1	30	Momma Boone
 03	2	31	Kiki
 03	3	32	Derek/Alex/Gary

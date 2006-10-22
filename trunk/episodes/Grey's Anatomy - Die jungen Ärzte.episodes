@@ -1,11 +1,14 @@
 #
+# SHORT Grey's Anatomy
+#
 # SEASONLIST
 # 1	1	9
 # 2	10	36
 # /SEASONLIST
 #
-# SHORT Grey's Anatomy
+#SE	EP	No.	Title
 #
+# 01. Staffel
 01	1	1	Nur 48 Stunden
 01	2	2	Grenzen
 01	3	3	Überleben ist alles
@@ -15,6 +18,7 @@
 01	7	7	Der Selbstzerstörungsknopf
 01	8	8	Glaubensfragen
 01	9	9	Geheimnisse
+# 02. Staffel
 02	1	10	Ein sauberer Schnitt
 02	2	11	Genug ist genug
 02	3	12	Gebrochene Herzen

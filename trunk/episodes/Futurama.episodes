@@ -1,4 +1,3 @@
-# Futerama
 #
 # COMPLETE
 #
@@ -10,7 +9,9 @@
 # 5	57	72
 # /SEASONLIST
 #
-# 1.Staffel
+#SE	EP	No.	Title
+#
+# 01. Staffel
 01	1	1	Zeit und Raum 3000
 01	2	2	Sein erster Flug zum Mond
 01	3	3	Wohnungssuche in Neu-New York
@@ -24,7 +25,7 @@
 01	11	11	Das Experiment der Mars Universität
 01	12	12	Wenn Außerirdische angreifen
 01	13	13	Die Party mit Slurm McKenzie
-# 2.Staffel
+# 02. Staffel
 02	1	14	Gefühls-Chip gefällig?
 02	2	15	Brannigan, fang wieder an
 02	3	16	Getrennt von Kopf und Körper
@@ -44,7 +45,7 @@
 02	17	30	Dieses unheimliche Hupen
 02	18	31	Krieg auf Spheron Eins
 02	19	32	Die Frau, die aus der Kälte kam
-# 3.Staffel
+# 03. Staffel
 03	1	33	Im Reich der Parasiten
 03	2	34	Amazonen machen Snu Snu
 03	3	35	Bender - bis über beide Ohren
@@ -57,7 +58,7 @@
 03	10	42	Bender auf Tour
 03	11	43	Wie die Zeit vergeht
 03	12	44	Date mit einem Roboter
-# 4.Staffel
+# 04. Staffel
 04	1	45	Roswell gut - alles gut
 04	2	46	Alle Jahre wieder
 04	3	47	Geschichten von Interesse
@@ -70,7 +71,7 @@
 04	10	54	Eine Klasse für sich
 04	11	55	Das Kochduell
 04	12	56	Der letzte Trekki
-# 5.Staffel
+# 05. Staffel
 05	1	57	Die stinkende Medaille der Umweltverschmutzung
 05	2	58	Gebell aus der Steinzeit
 05	3	59	Die Wurzel allen Übels

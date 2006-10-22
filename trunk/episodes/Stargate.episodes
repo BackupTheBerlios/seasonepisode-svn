@@ -1,4 +1,6 @@
 #
+# SHORT Stargate-SG1
+#
 # SEASONLIST
 # 1	1	22
 # 2	23	44
@@ -9,196 +11,202 @@
 # 7	133	154
 # 8	155	174
 # 9	175	194
-# 10	195	213
 # /SEASONLIST
 #
-# SHORT Stargate-SG1
+#SE	EP	No.	Title
 #
-#SE	EP	No.	Titel
-#
-01	01	1	Das Tor zum Universum - Teil 1 
-01	02	2	Das Tor zum Universum - Teil 2 
-01	03	3	Der Feind in seinem Körper 
-01	04	4	Verraten und verkauft 
-01	05	5	Die Seuche 
-01	06	6	Das erste Gebot 
-01	07	7	Die Auferstehung 
-01	08	8	Die Macht der Weisen 
-01	09	9	Die Auserwählten 
-01	10	10	Im Reich des Donnergottes 
-01	11	11	Die Qualen des Tantalus 
-01	12	12	Blutsbande 
-01	13	13	Feuer und Wasser 
-01	14	14	Der Kuß der Göttin 
-01	15	15	Cassandra 
-01	16	16	Vergeltung 
-01	17	17	Enigma 
-01	18	18	Im ewigen Eis 
-01	19	19	Übermenschen 
-01	20	20	Die Invasion - Teil 1 
-01	21	21	Die Invasion - Teil 2 
-01	22	22	Die Invasion - Teil 3 
-02	01	23	Die Invasion - Kampf um die Erde 
-02	02	24	Freund oder Feind 
-02	03	25	Zerstörerin der Welten 
-02	04	26	Virtueller Alptraum 
-02	05	27	Der Sarkophag 
-02	06	28	Rückkehr des Thor 
-02	07	29	Trojanische Kugel 
-02	08	30	Der verlorene Sohn 
-02	09	31	Sha'res Rückkehr 
-02	10	32	Insekten des Todes 
-02	11	33	Die Tok'Ra - Teil 1 
-02	12	34	Die Tok'Ra - Teil 2 
-02	13	35	Geister 
-02	14	36	Das zweite Tor 
-02	15	37	Die fünfte Spezies 
-02	16	38	Das schwarze Loch 
-02	17	39	Seelenwanderung 
-02	18	40	Der Sturz des Sonnengottes 
-02	19	41	Tödliche Klänge 
-02	20	42	Neue Feinde 
+# 01. Staffel
+01	1	1	Das Tor zum Universum - Teil 1
+01	2	2	Das Tor zum Universum - Teil 2
+01	3	3	Der Feind in seinem Körper
+01	4	4	Verraten und verkauft
+01	5	5	Die Seuche
+01	6	6	Das erste Gebot
+01	7	7	Die Auferstehung
+01	8	8	Die Macht der Weisen
+01	9	9	Die Auserwählten
+01	10	10	Im Reich des Donnergottes
+01	11	11	Die Qualen des Tantalus
+01	12	12	Blutsbande
+01	13	13	Feuer und Wasser
+01	14	14	Der Kuß der Göttin
+01	15	15	Cassandra
+01	16	16	Vergeltung
+01	17	17	Enigma
+01	18	18	Im ewigen Eis
+01	19	19	Übermenschen
+01	20	20	Die Invasion - Teil 1
+01	21	21	Die Invasion - Teil 2
+01	22	22	Die Invasion - Teil 3
+# 02. Staffel
+02	1	23	Die Invasion - Kampf um die Erde
+02	2	24	Freund oder Feind
+02	3	25	Zerstörerin der Welten
+02	4	26	Virtueller Alptraum
+02	5	27	Der Sarkophag
+02	6	28	Rückkehr des Thor
+02	7	29	Trojanische Kugel
+02	8	30	Der verlorene Sohn
+02	9	31	Sha'res Rückkehr
+02	10	32	Insekten des Todes
+02	11	33	Die Tok'Ra - Teil 1
+02	12	34	Die Tok'Ra - Teil 2
+02	13	35	Geister
+02	14	36	Das zweite Tor
+02	15	37	Die fünfte Spezies
+02	16	38	Das schwarze Loch
+02	17	39	Seelenwanderung
+02	18	40	Der Sturz des Sonnengottes
+02	19	41	Tödliche Klänge
+02	20	42	Neue Feinde
 02	21	43	1969
-02	22	44	Die Höhle des Löwen - Teil 1 
-03	01	45	Die Höhle des Löwen - Teil 2 
-03	02	46	Seth 
-03	03	47	Die Saat des Verrats 
-03	04	48	Besessen 
-03	05	49	Die Lektion der Orbaner 
-03	06	50	Lebenslinien 
-03	07	51	Kopfgeldjäger 
-03	08	52	Dämonen 
-03	09	53	Regeln der Kriegsführung 
-03	10	54	Sha'res Tod 
-03	11	55	Vergangenheit und Gegenwart 
-03	12	56	Jolinars Erinnerungen 
-03	13	57	Apophis Rückkehr 
-03	14	58	Außerirdische im Vormarsch 
-03	15	59	Die Tollan-Triade 
-03	16	60	Urgo 
-03	17	61	O'Neill und Laira 
-03	18	62	O'Neill auf Abwegen 
-03	19	63	Tödlicher Verrat 
-03	20	64	Harsesis Rettung 
-03	21	65	Der Kristallschädel 
-03	22	66	Nemesis - Teil 1 
-04	01	67	Nemesis - Teil 2 
-04	02	68	Die andere Seite der Medaille 
-04	03	69	Das Vermächtnis der Ataniker 
-04	04	70	Shan´aucs Opfer 
-04	05	71	Das Gipfeltreffen 
-04	06	72	Kein Ende in Sicht 
-04	07	73	Planet des Wassers 
-04	08	74	Die Unas 
-04	09	75	Die Enkaraner 
-04	10	76	Der Planet der Eiszeit 
-04	11	77	Kein Zurück 
-04	12	78	Rettung im All 
-04	13	79	Die Rückkehr der Osiris 
-04	14	80	Die verhinderte Allianz 
-04	15	81	Kettenreaktion 
+02	22	44	Die Höhle des Löwen - Teil 1
+# 03. Staffel
+03	1	45	Die Höhle des Löwen - Teil 2
+03	2	46	Seth
+03	3	47	Die Saat des Verrats
+03	4	48	Besessen
+03	5	49	Die Lektion der Orbaner
+03	6	50	Lebenslinien
+03	7	51	Kopfgeldjäger
+03	8	52	Dämonen
+03	9	53	Regeln der Kriegsführung
+03	10	54	Sha'res Tod
+03	11	55	Vergangenheit und Gegenwart
+03	12	56	Jolinars Erinnerungen
+03	13	57	Apophis Rückkehr
+03	14	58	Außerirdische im Vormarsch
+03	15	59	Die Tollan-Triade
+03	16	60	Urgo
+03	17	61	O'Neill und Laira
+03	18	62	O'Neill auf Abwegen
+03	19	63	Tödlicher Verrat
+03	20	64	Harsesis Rettung
+03	21	65	Der Kristallschädel
+03	22	66	Nemesis - Teil 1
+# 04. Staffel
+04	1	67	Nemesis - Teil 2
+04	2	68	Die andere Seite der Medaille
+04	3	69	Das Vermächtnis der Ataniker
+04	4	70	Shan´aucs Opfer
+04	5	71	Das Gipfeltreffen
+04	6	72	Kein Ende in Sicht
+04	7	73	Planet des Wassers
+04	8	74	Die Unas
+04	9	75	Die Enkaraner
+04	10	76	Der Planet der Eiszeit
+04	11	77	Kein Zurück
+04	12	78	Rettung im All
+04	13	79	Die Rückkehr der Osiris
+04	14	80	Die verhinderte Allianz
+04	15	81	Kettenreaktion
 04	16	82	2010
-04	17	83	Unbegrenztes Wissen 
-04	18	84	Das Licht 
-04	19	85	Das Wunder 
-04	20	86	Doppelter Einsatz 
-04	21	87	Die falsche Wahl 
-04	22	88	Exodus 
-05	01	89	Todfeinde 
-05	02	90	Tealc's Prüfung 
-05	03	91	Das Opfer 
-05	04	92	Der fünfte Mann 
-05	05	93	Roter Himmel 
-05	06	94	Das Übergangsritual 
-05	07	95	Chaka 
-05	08	96	Das Tempelgrab 
-05	09	97	Der Kampf der Tolaner 
+04	17	83	Unbegrenztes Wissen
+04	18	84	Das Licht
+04	19	85	Das Wunder
+04	20	86	Doppelter Einsatz
+04	21	87	Die falsche Wahl
+04	22	88	Exodus
+# 05. Staffel
+05	1	89	Todfeinde
+05	2	90	Tealc's Prüfung
+05	3	91	Das Opfer
+05	4	92	Der fünfte Mann
+05	5	93	Roter Himmel
+05	6	94	Das Übergangsritual
+05	7	95	Chaka
+05	8	96	Das Tempelgrab
+05	9	97	Der Kampf der Tolaner
 05	10	98	2001
-05	11	99	Verzweiflungstat 
-05	12	100	Wurmloch Extrem 
-05	13	101	Bewährungsprobe 
-05	14	102	48 Stunden 
-05	15	103	Neue Zeiten 
-05	16	104	Elliots grosse Mission 
-05	17	105	Das Ende der Welt 
-05	18	106	Die Jaffa-Rebellion 
-05	19	107	Reese 
-05	20	108	Der Wächter 
-05	21	109	Die Entscheidung 
-05	22	110	Das Geheimnis der Asgard 
-06	01	111	Wiedergutmachung (1) 
-06	02	112	Wiedergutmachung (2) 
-06	03	113	Notlandung 
-06	04	114	Virus aus dem Eis 
-06	05	115	In den Händen der Goua'Uld 
-06	06	116	Am Abgrund 
-06	07	117	Ein übermächtiger Feind 
-06	08	118	Wahre Helden 
-06	09	119	Das Bündnis 
-06	10	120	Heilung 
-06	11	121	Prometheus (1) 
-06	12	122	Unnatürliche Auslese (2) 
-06	13	123	Die Unsichtbaren 
-06	14	124	Das Machtkartell 
-06	15	125	Das verlorene Paradies 
-06	16	126	Metamorphosis 
-06	17	127	Enthüllung 
-06	18	128	Gestrandet 
-06	19	129	Hilfe aus der Traumwelt 
-06	20	130	Vergangenheit 
-06	21	131	Jonas' Visionen 
-06	22	132	Der Kreis schließt sich 
-07	01	133	Alles auf eine Karte (1) 
-07	02	134	Alles auf eine Karte (2) 
-07	03	135	Der falsche Klon 
-07	04	136	Orpheus 
-07	05	137	Die Macht des Speichers 
-07	06	138	Das Rettungsboot 
-07	07	139	Die Naquadah-Mine 
-07	08	140	Space-Rennen 
-07	09	141	Avenger 2.0 
-07	10	142	Die Hak'Tyl 
-07	11	143	Evolution (1) 
-07	12	144	Evolution (2) 
-07	13	145	Grace 
-07	14	146	Kiannas Symbiont 
-07	15	147	Daniels Träume 
-07	16	148	Bote des Todes 
-07	17	149	Helden (1) 
-07	18	150	Helden (2) 
-07	19	151	Anna 
-07	20	152	Der neue Präsident 
-07	21	153	Die verlorene Stadt (1) 
-07	22	154	Die verlorene Stadt (2) 
-08	01	155	Neue Machtverhältnisse (1) 
-08	02	156	Neue Machtverhältnisse (1) 
-08	03	157	Colonel Vaselov 
-08	04	158	Stunde der Bewährung 
-08	05	159	Soren 
-08	06	160	Avatar 
-08	07	161	Affinität 
-08	08	162	Colson 
-08	09	163	Die Vertreibung 
-08	10	164	Endspiel 
-08	11	165	Gemini 
-08	12	166	Vala 
-08	13	167	König Arkhan 
-08	14	168	Konfrontation 
-08	15	169	Joe 
-08	16	170	Abrechnung (1) 
-08	17	171	Abrechnung (2) 
-08	18	172	Jim 
-08	19	173	Möbius (1) 
-08	20	174	Möbius (2) 
-09	01	175	Avalon (1)
-09	02	176	Avalon (2)
-09	03	177	Die Herkunft
-09	04	178	Unsichtbare Fesseln
-09	05	179	Höhere Mächte
-09	06	180	Das Schutzschild
-09	07	181	Ex Deus Machina
-09	08	182	Babylon
-09	09	183	Der Prototyp
+05	11	99	Verzweiflungstat
+05	12	100	Wurmloch Extrem
+05	13	101	Bewährungsprobe
+05	14	102	48 Stunden
+05	15	103	Neue Zeiten
+05	16	104	Elliots grosse Mission
+05	17	105	Das Ende der Welt
+05	18	106	Die Jaffa-Rebellion
+05	19	107	Reese
+05	20	108	Der Wächter
+05	21	109	Die Entscheidung
+05	22	110	Das Geheimnis der Asgard
+# 06. Staffel
+06	1	111	Wiedergutmachung (1)
+06	2	112	Wiedergutmachung (2)
+06	3	113	Notlandung
+06	4	114	Virus aus dem Eis
+06	5	115	In den Händen der Goua'Uld
+06	6	116	Am Abgrund
+06	7	117	Ein übermächtiger Feind
+06	8	118	Wahre Helden
+06	9	119	Das Bündnis
+06	10	120	Heilung
+06	11	121	Prometheus (1)
+06	12	122	Unnatürliche Auslese (2)
+06	13	123	Die Unsichtbaren
+06	14	124	Das Machtkartell
+06	15	125	Das verlorene Paradies
+06	16	126	Metamorphosis
+06	17	127	Enthüllung
+06	18	128	Gestrandet
+06	19	129	Hilfe aus der Traumwelt
+06	20	130	Vergangenheit
+06	21	131	Jonas' Visionen
+06	22	132	Der Kreis schließt sich
+# 07. Staffel
+07	1	133	Alles auf eine Karte (1)
+07	2	134	Alles auf eine Karte (2)
+07	3	135	Der falsche Klon
+07	4	136	Orpheus
+07	5	137	Die Macht des Speichers
+07	6	138	Das Rettungsboot
+07	7	139	Die Naquadah-Mine
+07	8	140	Space-Rennen
+07	9	141	Avenger 2.0
+07	10	142	Die Hak'Tyl
+07	11	143	Evolution (1)
+07	12	144	Evolution (2)
+07	13	145	Grace
+07	14	146	Kiannas Symbiont
+07	15	147	Daniels Träume
+07	16	148	Bote des Todes
+07	17	149	Helden (1)
+07	18	150	Helden (2)
+07	19	151	Anna
+07	20	152	Der neue Präsident
+07	21	153	Die verlorene Stadt (1)
+07	22	154	Die verlorene Stadt (2)
+# 08. Staffel
+08	1	155	Neue Machtverhältnisse (1)
+08	2	156	Neue Machtverhältnisse (1)
+08	3	157	Colonel Vaselov
+08	4	158	Stunde der Bewährung
+08	5	159	Soren
+08	6	160	Avatar
+08	7	161	Affinität
+08	8	162	Colson
+08	9	163	Die Vertreibung
+08	10	164	Endspiel
+08	11	165	Gemini
+08	12	166	Vala
+08	13	167	König Arkhan
+08	14	168	Konfrontation
+08	15	169	Joe
+08	16	170	Abrechnung (1)
+08	17	171	Abrechnung (2)
+08	18	172	Jim
+08	19	173	Möbius (1)
+08	20	174	Möbius (2)
+# 09. Staffel
+09	1	175	Avalon (1)
+09	2	176	Avalon (2)
+09	3	177	Die Herkunft
+09	4	178	Unsichtbare Fesseln
+09	5	179	Höhere Mächte
+09	6	180	Das Schutzschild
+09	7	181	Ex Deus Machina
+09	8	182	Babylon
+09	9	183	Der Prototyp
 09	10	184	Der apokalyptische Reiter (1)
 09	11	185	Der apokalyptische Reiter (2)
 09	12	186	Kollateralschaden

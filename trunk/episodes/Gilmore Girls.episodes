@@ -5,122 +5,130 @@
 # 3	44	65
 # 4	66	87
 # 5	88	109
-# 6	110	131
+# 6	110	116
 # /SEASONLIST
 #
-1	01	1	Alles auf Anfang
-1	02	2	Ein klassischer Fehlstart
-1	03	3	Familie mit Handicap
-1	04	4	Pauken und Trompeten
-1	05	5	Katzenjammer
-1	06	6	Alptraum Geburtstag
-1	07	7	Ein Kuss mit Folgen
-1	08	8	Schneechaos
-1	09	9	Kopf über in die Nacht
-1	10	10	Vergeben und Vergessen
-1	11	11	Kuss und Schluss
-1	12	12	Doppelt hält besser
-1	13	13	Concertus Interruptus
-1	14	14	Küken-Alarm
-1	15	15	Sex mit dem Ex
-1	16	16	Chaos der Gefühle
-1	17	17	Tal der Tränen
-1	18	18	Die vierte Generation
-1	19	19	Zimmerservice
-1	20	20	Drei magische Worte
-1	21	21	Alte Liebe neues Glück
-2	01	22	Der Antrag
-2	02	23	Nicht ohne meine Mutter
-2	03	24	Kalte Füße
-2	04	25	Auf und davon
-2	05	26	Ein schwerer Fall
-2	06	27	Emily in Nöten
-2	07	28	Mutprobe
-2	08	29	Zukunftsträume
-2	09	30	Romeo und Julia
-2	10	31	Schlittenfahrt
-2	11	32	Das Darlehen
-2	12	33	Vater-Tag
-2	13	34	Picknick
-2	14	35	Schlechtes Timing
-2	15	36	Trautes Heim Stress allein
-2	16	37	Rivalen
-2	17	38	Eine Hochzeit und ein Todesfall
-2	18	39	Auf ein Neues
-2	19	40	Nachhilfe
-2	20	41	Eine Frau für alle Fälle
-2	21	42	Ferngesteuert
-2	22	43	Herzschmerz
-3	01	44	Schwere Entscheidungen
-3	02	45	Gebrochene Herzen
-3	03	46	College Fieber
-3	04	47	Jugendsünden
-3	05	48	Ein verpatztes Date
-3	06	49	Faule Eier
-3	07	50	Tanzmarathon
-3	08	51	Mit List und Tücke
-3	09	52	Stress hoch vier
-3	10	53	Das Winterfest
-3	11	54	Wahrheit oder Pflicht
-3	12	55	Am Haken
-3	13	56	Babyalarm
-3	14	57	Blauäugig
-3	15	58	Auf glattem Eis
-3	16	59	Aus der Traum
-3	17	60	In Schutt und Asche
-3	18	61	Das liebe Geld
-3	19	62	Eine wilde Nacht
-3	20	63	Erben gesucht
-3	21	64	Vatertag
-3	22	65	Ein starker Abgang
-4	01	66	Überraschung
-4	02	67	Der erste Tag
-4	03	68	Partyservice
-4	04	69	Alarm Alarm
-4	05	70	Das war wohl nichts
-4	06	71	Abserviert
-4	07	72	Still gestanden
-4	08	73	Neue Freunde neue Feinde
-4	09	74	Kleine Geheimnisse
-4	10	75	Eine heimliche Affäre
-4	11	76	Der Glöckner von Stars Hollow
-4	12	77	Abgefahren
-4	13	78	In Sachen Liebe
-4	14	79	Land unter
-4	15	80	Kaufrausch
-4	16	81	Ein Trauerfall
-4	17	82	Partylaune
-4	18	83	Ach du dickes Ei
-4	19	84	Ausgetrickst
-4	20	85	Alles für die Katz
-4	21	86	Unter der Haube
-4	22	87	Das erste Mal
-5	01	88	Ohne Worte
-5	02	89	Ein Brief mit Folgen
-5	03	90	Der Kaffee danach
-5	04	91	Wahlkampf
-5	05	92	Ein Date zu Viert
-5	06	93	Tanz der Hormone
-5	07	94	Sprung ins Ungewisse
-5	08	95	Katerstimmung
-5	09	96	Auf Männerfang
-5	10	97	Die Ausreißerin
-5	11	98	Auf den Hund gekommen
-5	12	99	Süße Stunden
-5	13	100	Hochzeit in Moll
-5	14	101	Wahltag
-5	15	102	So ein Theater
-5	16	103	Dicke Luft
-5	17	104	Hin und weg
-5	18	105	Der Traum vom Haus
-5	19	106	Der Küchenspion
-5	20	107	Das perfekte Paar
-5	21	108	Kurzschluss
-5	22	109	Auszeit
-6	01	110	Funkstille
-6	02	111	Frisch gestrichen
-6	03	112	Der Schokohund
-6	04	113	Eiszeit
-6	05	114	Nachbeben
-6	06	115	Wahnsinn mit Methode
-6	07	116	Einundzwanzig
+#SE	EP	No.	Title
+#
+# 01. Staffel
+01	1	1	Alles auf Anfang
+01	2	2	Ein klassischer Fehlstart
+01	3	3	Familie mit Handicap
+01	4	4	Pauken und Trompeten
+01	5	5	Katzenjammer
+01	6	6	Alptraum Geburtstag
+01	7	7	Ein Kuss mit Folgen
+01	8	8	Schneechaos
+01	9	9	Kopf über in die Nacht
+01	10	10	Vergeben und Vergessen
+01	11	11	Kuss und Schluss
+01	12	12	Doppelt hält besser
+01	13	13	Concertus Interruptus
+01	14	14	Küken-Alarm
+01	15	15	Sex mit dem Ex
+01	16	16	Chaos der Gefühle
+01	17	17	Tal der Tränen
+01	18	18	Die vierte Generation
+01	19	19	Zimmerservice
+01	20	20	Drei magische Worte
+01	21	21	Alte Liebe neues Glück
+# 02. Staffel
+02	1	22	Der Antrag
+02	2	23	Nicht ohne meine Mutter
+02	3	24	Kalte Füße
+02	4	25	Auf und davon
+02	5	26	Ein schwerer Fall
+02	6	27	Emily in Nöten
+02	7	28	Mutprobe
+02	8	29	Zukunftsträume
+02	9	30	Romeo und Julia
+02	10	31	Schlittenfahrt
+02	11	32	Das Darlehen
+02	12	33	Vater-Tag
+02	13	34	Picknick
+02	14	35	Schlechtes Timing
+02	15	36	Trautes Heim Stress allein
+02	16	37	Rivalen
+02	17	38	Eine Hochzeit und ein Todesfall
+02	18	39	Auf ein Neues
+02	19	40	Nachhilfe
+02	20	41	Eine Frau für alle Fälle
+02	21	42	Ferngesteuert
+02	22	43	Herzschmerz
+# 03. Staffel
+03	1	44	Schwere Entscheidungen
+03	2	45	Gebrochene Herzen
+03	3	46	College Fieber
+03	4	47	Jugendsünden
+03	5	48	Ein verpatztes Date
+03	6	49	Faule Eier
+03	7	50	Tanzmarathon
+03	8	51	Mit List und Tücke
+03	9	52	Stress hoch vier
+03	10	53	Das Winterfest
+03	11	54	Wahrheit oder Pflicht
+03	12	55	Am Haken
+03	13	56	Babyalarm
+03	14	57	Blauäugig
+03	15	58	Auf glattem Eis
+03	16	59	Aus der Traum
+03	17	60	In Schutt und Asche
+03	18	61	Das liebe Geld
+03	19	62	Eine wilde Nacht
+03	20	63	Erben gesucht
+03	21	64	Vatertag
+03	22	65	Ein starker Abgang
+# 04. Staffel
+04	1	66	Überraschung
+04	2	67	Der erste Tag
+04	3	68	Partyservice
+04	4	69	Alarm Alarm
+04	5	70	Das war wohl nichts
+04	6	71	Abserviert
+04	7	72	Still gestanden
+04	8	73	Neue Freunde neue Feinde
+04	9	74	Kleine Geheimnisse
+04	10	75	Eine heimliche Affäre
+04	11	76	Der Glöckner von Stars Hollow
+04	12	77	Abgefahren
+04	13	78	In Sachen Liebe
+04	14	79	Land unter
+04	15	80	Kaufrausch
+04	16	81	Ein Trauerfall
+04	17	82	Partylaune
+04	18	83	Ach du dickes Ei
+04	19	84	Ausgetrickst
+04	20	85	Alles für die Katz
+04	21	86	Unter der Haube
+04	22	87	Das erste Mal
+# 05. Staffel
+05	1	88	Ohne Worte
+05	2	89	Ein Brief mit Folgen
+05	3	90	Der Kaffee danach
+05	4	91	Wahlkampf
+05	5	92	Ein Date zu Viert
+05	6	93	Tanz der Hormone
+05	7	94	Sprung ins Ungewisse
+05	8	95	Katerstimmung
+05	9	96	Auf Männerfang
+05	10	97	Die Ausreißerin
+05	11	98	Auf den Hund gekommen
+05	12	99	Süße Stunden
+05	13	100	Hochzeit in Moll
+05	14	101	Wahltag
+05	15	102	So ein Theater
+05	16	103	Dicke Luft
+05	17	104	Hin und weg
+05	18	105	Der Traum vom Haus
+05	19	106	Der Küchenspion
+05	20	107	Das perfekte Paar
+05	21	108	Kurzschluss
+05	22	109	Auszeit
+# 06. Staffel
+06	1	110	Funkstille
+06	2	111	Frisch gestrichen
+06	3	112	Der Schokohund
+06	4	113	Eiszeit
+06	5	114	Nachbeben
+06	6	115	Wahnsinn mit Methode
+06	7	116	Einundzwanzig

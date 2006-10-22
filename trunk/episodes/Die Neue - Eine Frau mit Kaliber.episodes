@@ -1,10 +1,14 @@
-# Die Neue - Eine Frau mit Kaliber
 #
-#SE	EP	No.	Titel
+# SEASONLIST
+# 0	1	1
+# 1	2	14
+# /SEASONLIST
 #
-# Pilotfilm
+#SE	EP	No.	Title
+#
+# 00. Staffel
 00	0	0	Jagdfieber
-# 1. Staffel
+# 01. Staffel
 01	1	1	Brennendes Geheimnis
 01	2	2	Gefährliche Spiele
 01	3	3	Die schwarze Maria

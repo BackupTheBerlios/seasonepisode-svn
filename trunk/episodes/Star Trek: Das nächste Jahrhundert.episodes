@@ -1,6 +1,8 @@
 #
 # COMPLETE
 #
+# SHORT ST-TNG
+#
 # SEASONLIST
 # 1	1	26
 # 2	27	48
@@ -11,19 +13,18 @@
 # 7	153	178
 # /SEASONLIST
 #
-#SE	EP	No.	Titel
+#SE	EP	No.	Title
 #
-# SHORT ST-TNG
-#
-01	01	1	Der Mächtige
-01	02	2	Mission Farpiont
-01	03	3	Gedanken Gift
-01	04	4	Der Ehrenkodex
-01	05	5	Der Wächter
-01	06	6	Der Reisende
-01	07	7	Die Geheimnisvolle Kraft
-01	08	8	Das Gesetz der Edo
-01	09	9	Die Schlacht von Maxia
+# 01. Staffel
+01	1	1	Der Mächtige
+01	2	2	Mission Farpiont
+01	3	3	Gedanken Gift
+01	4	4	Der Ehrenkodex
+01	5	5	Der Wächter
+01	6	6	Der Reisende
+01	7	7	Die Geheimnisvolle Kraft
+01	8	8	Das Gesetz der Edo
+01	9	9	Die Schlacht von Maxia
 01	10	10	Rikers Versuchung
 01	11	11	Die Frau seiner Träume
 01	12	12	Der große Abschied
@@ -41,15 +42,16 @@
 01	24	24	Begegnungen mit der Vergangenheit
 01	25	25	Die Verschwörung
 01	26	26	Die Neutrale Zone
-02	01	27	Das Kind
-02	02	28	Illusion oder Wiklichkeit?
-02	03	29	Sherlock Data Homes
-02	04	30	Der ungewöhnliche Captain Okona
-02	05	31	Der stumme Vermittler
-02	06	32	Das fremde Gedächtnis
-02	07	33	Die jungen Greise
-02	08	34	Der Austauschoffizier
-02	09	35	Wem gehöhrt Data?
+# 02. Staffel
+02	1	27	Das Kind
+02	2	28	Illusion oder Wiklichkeit?
+02	3	29	Sherlock Data Homes
+02	4	30	Der ungewöhnliche Captain Okona
+02	5	31	Der stumme Vermittler
+02	6	32	Das fremde Gedächtnis
+02	7	33	Die jungen Greise
+02	8	34	Der Austauschoffizier
+02	9	35	Wem gehöhrt Data?
 02	10	36	Die Tronfolgerin
 02	11	37	Die Iconia-Sonden
 02	12	38	Hotel Royal
@@ -63,15 +65,16 @@
 02	20	46	Klingonenbegegnung
 02	21	47	Galavorstellung
 02	22	48	Kraft der Träume
-03	01	49	Die Macht der Naniten
-03	02	50	Die Macht der Paragraphen
-03	03	51	Die Überlebenden auf Rana-Vier
-03	04	52	Der Gott der Mintakaner
-03	05	53	Mutterliebe
-03	06	54	Die Energie Falle
-03	07	55	Auf schmalen Grat
-03	08	56	Der Barzanhandel
-03	09	57	Yuta, die letzte ihres Clans
+# 03. Staffel
+03	1	49	Die Macht der Naniten
+03	2	50	Die Macht der Paragraphen
+03	3	51	Die Überlebenden auf Rana-Vier
+03	4	52	Der Gott der Mintakaner
+03	5	53	Mutterliebe
+03	6	54	Die Energie Falle
+03	7	55	Auf schmalen Grat
+03	8	56	Der Barzanhandel
+03	9	57	Yuta, die letzte ihres Clans
 03	10	58	Der Überläufer die Verfremdeten
 03	11	59	Die Verfemten
 03	12	60	Terror auf Rutia - Vier
@@ -89,15 +92,16 @@
 03	24	72	Die Damen Troi
 03	25	73	Wer ist John ?
 03	26	74	In den Händen der Borg
-04	01	75	Angriffsziel Erde
-04	02	76	Familienbegegnung
-04	03	77	Die ungleichen Brüder
-04	04	78	Endars Sohn
-04	05	79	Das Experiment
-04	06	80	Die Rettungsoperation
-04	07	81	Tödliche Nachfolge
-04	08	82	Gedächtnisverlust
-04	09	83	Die letzte Mission
+# 04. Staffel
+04	1	75	Angriffsziel Erde
+04	2	76	Familienbegegnung
+04	3	77	Die ungleichen Brüder
+04	4	78	Endars Sohn
+04	5	79	Das Experiment
+04	6	80	Die Rettungsoperation
+04	7	81	Tödliche Nachfolge
+04	8	82	Gedächtnisverlust
+04	9	83	Die letzte Mission
 04	10	84	Das komische Band
 04	11	85	Datas Tag
 04	12	86	Der Rachefeldzug
@@ -115,15 +119,16 @@
 04	24	98	Verräterische Signale
 04	25	99	Datas erste Liebe
 04	26	100	Der Kampf ums klingonische Reich (Teil 1)
-05	01	101	Der Kampf ums klingonische Reich (Teil 2)
-05	02	102	Darmok
-05	03	103	Fähnrich Ro
-05	04	104	Das Recht auf Leben
-05	05	105	Katastrophe auf der Enterprise
-05	06	106	Gefährliche Spielsucht
-05	07	107	Wiedervereinigung (Teil 1)
-05	08	108	Wiedervereinigung (Teil 2)
-05	09	109	Der Zeitreisende Historiker
+# 05. Staffel
+05	1	101	Der Kampf ums klingonische Reich (Teil 2)
+05	2	102	Darmok
+05	3	103	Fähnrich Ro
+05	4	104	Das Recht auf Leben
+05	5	105	Katastrophe auf der Enterprise
+05	6	106	Gefährliche Spielsucht
+05	7	107	Wiedervereinigung (Teil 1)
+05	8	108	Wiedervereinigung (Teil 2)
+05	9	109	Der Zeitreisende Historiker
 05	10	110	Die Soliton-Welle
 05	11	111	Der einzige Überlebende
 05	12	112	Geistige Gewalt
@@ -141,15 +146,16 @@
 05	24	124	So nah und doch so fern
 05	25	125	Das zweite Leben
 05	26	126	Gefahr aus dem 19 Jahrhundert (Teil 1)
-06	01	127	Gefahr aus dem 19 Jahrhundert (Teil 2)
-06	02	128	Todesangst beim Beamen
-06	03	129	Der unmaralische Friedensvermittler
-06	04	130	Besuch von der alten Enterpise
-06	05	131	In den Subraum Entführt
-06	06	132	Eine echte Q
-06	07	133	Erwachsene Kinder
-06	08	134	Eine Hanvoll Datas
-06	09	135	Datas Hyothese
+# 06. Staffel
+06	1	127	Gefahr aus dem 19 Jahrhundert (Teil 2)
+06	2	128	Todesangst beim Beamen
+06	3	129	Der unmaralische Friedensvermittler
+06	4	130	Besuch von der alten Enterpise
+06	5	131	In den Subraum Entführt
+06	6	132	Eine echte Q
+06	7	133	Erwachsene Kinder
+06	8	134	Eine Hanvoll Datas
+06	9	135	Datas Hyothese
 06	10	136	Geheime Mission auf Seltris 3 (Teil 1)
 06	11	137	Geheime Mission auf Seltris 3 (Teil 2)
 06	12	138	Das Schiff in der Flasche
@@ -167,15 +173,16 @@
 06	24	150	Riker : 2 = ?
 06	25	151	Gefangen in einem temporären Fragment
 06	26	152	Angriff der Borg (Teil 1)
-07	01	153	Angriff der Borg (Teil 2)
-07	02	154	Indoskretionen
-07	03	155	Interface
-07	04	156	Der Schachzug (Teil 1)
-07	05	157	Der Schachzug (Teil 2)
-07	06	158	Traumanalyse
-07	07	159	Ort der Finsternis
-07	08	160	Kontakte
-07	09	161	Die Raumkatastrophe
+# 07. Staffel
+07	1	153	Angriff der Borg (Teil 2)
+07	2	154	Indoskretionen
+07	3	155	Interface
+07	4	156	Der Schachzug (Teil 1)
+07	5	157	Der Schachzug (Teil 2)
+07	6	158	Traumanalyse
+07	7	159	Ort der Finsternis
+07	8	160	Kontakte
+07	9	161	Die Raumkatastrophe
 07	10	162	Soongs Vermächtnis
 07	11	163	Paralellen
 07	12	164	Das Pegasus Projekt

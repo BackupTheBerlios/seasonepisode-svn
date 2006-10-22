@@ -1,10 +1,14 @@
+#
+# SHORT Medium
+#
 # SEASONLIST
 # 1	1	16
 # 2	17	38
 # /SEASONLIST
 #
-# SHORT Medium
+#SE	EP	No.	Title
 #
+# 01. Staffel
 01	1	1	Anwältin der Toten
 01	2	2	Vision und Wahrheit
 01	3	3	Schnappschüsse im Jenseits
@@ -21,6 +25,7 @@
 01	14	14	Lebendig begraben
 01	15	15	Besessen
 01	16	16	Von Herzen Teil 1
+# 02. Staffel
 02	1	17	Von Herzen Teil 2
 02	2	18	Das Lied des Lebens
 02	3	19	Reisen durch die Zeit
@@ -29,17 +34,17 @@
 02	6	22	Betrogene Seelen
 02	7	23	Jäger
 02	8	24	Tödliche Wahl
-02	9	25	
-02	10	26	
-02	11	27	
-02	12	28	
-02	13	29	
-02	14	30	
-02	15	31	
-02	16	32	
-02	17	33	
-02	18	34	
-02	19	35	
-02	20	36	
-02	21	37	
-02	22	38	
+02	9	25	n.n.
+02	10	26	n.n.
+02	11	27	n.n.
+02	12	28	n.n.
+02	13	29	n.n.
+02	14	30	n.n.
+02	15	31	n.n.
+02	16	32	n.n.
+02	17	33	n.n.
+02	18	34	n.n.
+02	19	35	n.n.
+02	20	36	n.n.
+02	21	37	n.n.
+02	22	38	n.n.

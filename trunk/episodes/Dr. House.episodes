@@ -1,10 +1,12 @@
 #
 # SEASONLIST
 # 1	1	22
-# 2	23	46
-# 3	47	56
+# 2	23	25
 # /SEASONLIST
 #
+#SE	EP	No.	Title
+#
+# 01. Staffel
 01	1	1	Schmerzensgrenzen
 01	2	2	Falsche Geschichte
 01	3	3	Das Ende danach?
@@ -27,6 +29,7 @@
 01	20	20	Liebeshiebe
 01	21	21	Drei Beine
 01	22	22	Risiken
+# 02. Staffel
 02	1	23	Ihr, ich und Hippokrates
 02	2	24	Autopsie
 02	3	25	Irrtum

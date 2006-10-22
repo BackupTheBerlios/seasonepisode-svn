@@ -1,6 +1,8 @@
 #
 # COMPLETE
 #
+# SHORT ST-DSN
+#
 # SEASONLIST
 # 1	1	20
 # 2	21	46
@@ -11,19 +13,18 @@
 # 7	151	176
 # /SEASONLIST
 #
-#SE	EP	No.	Titel
+#SE	EP	No.	Title
 #
-# SHORT ST-DSN
-#
-01	01	1	Der Abgesandte Teil 1
-01	02	2	Der Abgesandte Teil 2
-01	03	3	Die Khon-Ma
-01	04	4	Unter Verdacht
-01	05	5	Babel Babal
-01	06	6	Tosk, der Gejagte
-01	07	7	Q - Unerwünscht
-01	08	8	Der Fall
-01	09	9	Der Parasit
+# 01. Staffel
+01	1	1	Der Abgesandte Teil 1
+01	2	2	Der Abgesandte Teil 2
+01	3	3	Die Khon-Ma
+01	4	4	Unter Verdacht
+01	5	5	Babel Babal
+01	6	6	Tosk, der Gejagte
+01	7	7	Q - Unerwünscht
+01	8	8	Der Fall
+01	9	9	Der Parasit
 01	10	10	Chula - Das Spiel
 01	11	11	Die Nachfolge
 01	12	12	Der Steinwandler
@@ -35,15 +36,16 @@
 01	18	18	Meuterei Dramatis
 01	19	19	Der undurchschaubare Marrizza
 01	20	20	Blasphemie
-02	01	21	Die Heimkehr
-02	02	22	Der Kreis
-02	03	23	Die Belagerung
-02	04	24	Der Symbiont
-02	05	25	Die Konspiration
-02	06	26	Das Melora Problem
-02	07	27	Profit oder Partner
-02	08	28	Die Ermittlung
-02	09	29	Rätselhafte Fenna
+# 02. Staffel
+02	1	21	Die Heimkehr
+02	2	22	Der Kreis
+02	3	23	Die Belagerung
+02	4	24	Der Symbiont
+02	5	25	Die Konspiration
+02	6	26	Das Melora Problem
+02	7	27	Profit oder Partner
+02	8	28	Die Ermittlung
+02	9	29	Rätselhafte Fenna
 02	10	30	Auge des Universums
 02	11	31	Rivalen
 02	12	32	Metamorphosen
@@ -61,15 +63,16 @@
 02	24	44	Die Wahl des Kai
 02	25	45	Das Tribunal
 02	26	46	Der Plan des Dominion
-03	01	47	Die Suche (Teil 1)
-03	02	48	Die Suche (Teil 2)
-03	03	49	Das Haus des Quark
-03	04	50	Equilibrium
-03	05	51	Die zweite Haut
-03	06	52	Der Ausgesetzte
-03	07	53	In der Falle
-03	08	54	Meridian
-03	09	55	Defiant
+# 03. Staffel
+03	1	47	Die Suche (Teil 1)
+03	2	48	Die Suche (Teil 2)
+03	3	49	Das Haus des Quark
+03	4	50	Equilibrium
+03	5	51	Die zweite Haut
+03	6	52	Der Ausgesetzte
+03	7	53	In der Falle
+03	8	54	Meridian
+03	9	55	Defiant
 03	10	56	Das Festival
 03	11	57	Gefangen in der Vergangenheit (Teil 1)
 03	12	58	Gefangen in der Vergangenheit (Teil 2)
@@ -87,15 +90,16 @@
 03	24	70	Shakaar
 03	25	71	Facetten
 03	26	72	Der Widersacher
-04	01	73	Der Weg des Kriegers (Teil 1)
-04	02	74	Der Weg des Kriegers (Teil 2)
-04	03	75	Der Besuch
-04	04	76	Der hypokratische Eid
-04	05	77	Indiskretion
-04	06	78	Wiedervereinigt
-04	07	79	Kleine grüne Männchen
-04	08	80	Das Wagnis
-04	09	81	Das Schwert des Kahless
+# 04. Staffel
+04	1	73	Der Weg des Kriegers (Teil 1)
+04	2	74	Der Weg des Kriegers (Teil 2)
+04	3	75	Der Besuch
+04	4	76	Der hypokratische Eid
+04	5	77	Indiskretion
+04	6	78	Wiedervereinigt
+04	7	79	Kleine grüne Männchen
+04	8	80	Das Wagnis
+04	9	81	Das Schwert des Kahless
 04	10	82	Unser Mann Bashir
 04	11	83	Die Front
 04	12	84	Das verlorene Paradies
@@ -113,15 +117,16 @@
 04	24	96	Hoffnung
 04	25	97	Quarks Schicksal
 04	26	98	Das Urteil
-05	01	99	Die Apokalypse droht
-05	02	100	Das Schiff
-05	03	101	Gefährliche Liebschaften
-05	04	102	Die Schlacht um Ajilon Prime ...
-05	05	103	Die Erpressung
-05	06	104	Immer die Last mit den Tribbles
-05	07	105	Die Reise nach Risa
-05	08	106	Die Schuld
-05	09	107	Der Aufstieg
+# 05. Staffel
+05	1	99	Die Apokalypse droht
+05	2	100	Das Schiff
+05	3	101	Gefährliche Liebschaften
+05	4	102	Die Schlacht um Ajilon Prime ...
+05	5	103	Die Erpressung
+05	6	104	Immer die Last mit den Tribbles
+05	7	105	Die Reise nach Risa
+05	8	106	Die Schuld
+05	9	107	Der Aufstieg
 05	10	108	Heilige Visionen
 05	11	109	Dunkelheit und Licht
 05	12	110	Das Baby
@@ -139,15 +144,16 @@
 05	24	122	Empok Nor
 05	25	123	Die Karte
 05	26	124	Zu den Waffen
-06	01	125	Zeit des Widerstands
-06	02	126	Entscheidungen
-06	03	127	Söhne und Töchter
-06	04	128	Hinter der Linie
-06	05	129	Ein kühner Plan
-06	06	130	Sieg oder Niederlage?
-06	07	131	Klingonische Tradition
-06	08	132	Erkenntnis
-06	09	133	Statistische Wahrscheinlichkeiten
+# 06. Staffel
+06	1	125	Zeit des Widerstands
+06	2	126	Entscheidungen
+06	3	127	Söhne und Töchter
+06	4	128	Hinter der Linie
+06	5	129	Ein kühner Plan
+06	6	130	Sieg oder Niederlage?
+06	7	131	Klingonische Tradition
+06	8	132	Erkenntnis
+06	9	133	Statistische Wahrscheinlichkeiten
 06	10	134	Der glorreiche Ferengi
 06	11	135	Das Gute und das Böse
 06	12	136	Wer trauert um Morn?
@@ -165,15 +171,16 @@
 06	24	148	Das Zeitportal
 06	25	149	Der Klang ihrer Stimme
 06	26	150	Tränen der Propheten
-07	01	151	Das Gesicht im Sand
-07	02	152	Schatten und Symbole
-07	03	153	Nachempfindung
-07	04	154	Wettkampf in der Holosuite
-07	05	155	Sarina
-07	06	156	Verrat, Glaube und gewaltiger Fluss
-07	07	157	Der Dahar-Meister
-07	08	158	Die Belagerung von AR-588
-07	09	159	Entscheidung auf Empok
+# 07. Staffel
+07	1	151	Das Gesicht im Sand
+07	2	152	Schatten und Symbole
+07	3	153	Nachempfindung
+07	4	154	Wettkampf in der Holosuite
+07	5	155	Sarina
+07	6	156	Verrat, Glaube und gewaltiger Fluss
+07	7	157	Der Dahar-Meister
+07	8	158	Die Belagerung von AR-588
+07	9	159	Entscheidung auf Empok
 07	10	160	Leben in der Holosuite
 07	11	161	Die verlorene Tochter
 07	12	162	Die Tarnvorrichtung

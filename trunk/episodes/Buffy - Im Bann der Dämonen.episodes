@@ -1,6 +1,8 @@
 #
 # COMPLETE
 #
+# SHORT Buffy
+#
 # SEASONLIST
 # 1	1	12
 # 2	13	34
@@ -11,22 +13,22 @@
 # 7	123	144
 # /SEASONLIST
 #
-# SHORT Buffy
+#SE	EP	No.	Title
 #
-# 1. Staffel
+# 01. Staffel
 01	1	1	Im Zentrum des Bösen
 01	2	2	Die Zeit der Ernte
 01	3	3	Verhext
 01	4	4	Die Gottesanbeterin
 01	5	5	Ohne Buffy lebts sich länger
 01	6	6	Das Lied der Hyänen
-01	7	7	Angel  blutige Küsse
+01	7	7	Angel blutige Küsse
 01	8	8	Computer Dämon
 01	9	9	Buffy lässt die Puppen tanzen
 01	10	10	Die Macht der Träume
 01	11	11	Aus den Augen aus dem Sinn
 01	12	12	Das Ende der Welt
-# 2. Staffel
+# 02. Staffel
 02	1	13	Im Banne des Bösen
 02	2	14	Operation Cordelia
 02	3	15	Elternabend mit Hindernissen
@@ -49,7 +51,7 @@
 02	20	32	Das Geheimnis der Fischmonster
 02	21	33	Wendepunkt, Teil 1
 02	22	34	Spiel mit dem Feuer, Teil 2
-# 3. Staffel
+# 03. Staffel
 03	1	35	Gefangen in der Unterwelt
 03	2	36	Die Nacht der lebenden Toten
 03	3	37	Neue Freunde, neue Feinde
@@ -72,7 +74,7 @@
 03	20	54	Der Höllenhund
 03	21	55	Das Blut der Jägerin, Teil 1
 03	22	56	Der Tag der Vergeltung, Teil 2
-# 4. Staffel
+# 04. Staffel
 04	1	57	Frischlinge
 04	2	58	K)eine Menschenseele
 04	3	59	Der Stein von Amara
@@ -95,7 +97,7 @@
 04	20	76	Der Yoko-Faktor
 04	21	77	Das letzte Gefecht
 04	22	78	Jedem sein Alptraum
-# 5. Staffel
+# 05. Staffel
 05	1	79	Buffy vs. Dracula
 05	2	80	Lieb Schwesterlein mein
 05	3	81	Der doppelte Xander
@@ -118,7 +120,7 @@
 05	20	98	Auf der Flucht
 05	21	99	Die Last der Welt
 05	22	100	Der Preis der Freiheit
-# 6. Staffel
+# 06. Staffel
 06	1	101	Die Auferstehung, Teil 1
 06	2	102	Die Auferstehung, Teil 2
 06	3	103	Gruß aus der Hölle
@@ -141,7 +143,7 @@
 06	20	120	Wut
 06	21	121	Da waren`s nur noch zwei
 06	22	122	Der Retter, Teil 2
-# 7. Staffel
+# 07. Staffel
 07	1	123	Alles auf Anfang
 07	2	124	Das Monster aus der Tiefe
 07	3	125	Willows Welt

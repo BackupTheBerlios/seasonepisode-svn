@@ -6,6 +6,9 @@
 # 4	46	61
 # /SEASONLIST
 #
+#SE	EP	No.	Title
+#
+# 01. Staffel
 01	1	1	Mr. Monk und das Attentat
 01	2	2	Mr. Monk und das Attentat, Teil 2
 01	3	3	Mr. Monk und die Hellseherin
@@ -19,6 +22,7 @@
 01	11	11	Mr. Monk und das Erdbeben
 01	12	12	Mr. Monk und Willie Nelson
 01	13	13	Mr. Monk im Flugzeug
+# 02. Staffel
 02	1	14	Mr. Monk geht wieder zur Schule
 02	2	15	Mr. Monk fährt nach Mexiko
 02	3	16	Mr. Monk und das Baseballfieber
@@ -35,6 +39,7 @@
 02	14	27	Mr. Monk und die Frau des Captains
 02	15	28	Mr. Monk heiratet Sharona
 02	16	29	Mr. Monk landet im Gefängnis
+# 03. Staffel
 03	1	30	Mr. Monk in Manhattan
 03	2	31	Mr. Monk und der Affe
 03	3	32	Mr. Monk und der Stromausfall
@@ -51,6 +56,7 @@
 03	14	43	Mr. Monk in Las Vegas
 03	15	44	Mr. Monk als Wahlhelfer
 03	16	45	Mr. Monk will Vater werden
+# 04. Staffel
 04	1	46	Mr. Monk bekommt Konkurrenz
 04	2	47	Mr. Monk und Frankenstein
 04	3	48	Mr. Monk hütet das Bett
@@ -59,7 +65,7 @@
 04	6	51	Mr. Monk und Mrs. Monk
 04	7	52	Mr. Monk und die schwarze Witwe
 04	8	53	Mr. Monk war auch mal klein
-04	9	54	nn 
+04	9	54	n.n.
 04	10	55	Mr. Monk betritt die Modewelt
 04	11	56	Mr. Monk erinnert sich an nichts
 04	12	57	Mr. Monk und das Geheimnis einer Ehe

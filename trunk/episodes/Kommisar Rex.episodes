@@ -1,131 +1,145 @@
-# Kommisar Rex
-#SE	EP	No.	Titel
-#1. Staffel	
-01	01	01	Endstation Wien
-01	02	02	Ein perfekter Mord
-01	03	03	Flucht in den Tod
-01	04	04	Der Tod der alten Damen
-01	05	05	Tanz auf dem Vulkan
-01	06	06	Die Tote von Schönbrunn
-01	07	07	Diagnose Mord
-01	08	08	Ein feines Haus
-01	09	09	Amok
+#
+# SEASONLIST
+# 1	1	14
+# 2	15	29
+# 3	30	41
+# 4	42	54
+# 5	55	69
+# 6	70	81
+# 7	82	91
+# 8	92	104
+# 9	105	116
+# 10	117	119
+# /SEASONLIST
+#
+#SE	EP	No.	Title
+#
+# 01. Staffel
+01	1	1	Endstation Wien
+01	2	2	Ein perfekter Mord
+01	3	3	Flucht in den Tod
+01	4	4	Der Tod der alten Damen
+01	5	5	Tanz auf dem Vulkan
+01	6	6	Die Tote von Schönbrunn
+01	7	7	Diagnose Mord
+01	8	8	Ein feines Haus
+01	9	9	Amok
 01	10	10	Der erste Preis
 01	11	11	Tödliche Teddys
 01	12	12	Bring mir den Kopf von Beethoven
 01	13	13	Unter den Straßen von Wien
-01	14	14	Schüsse auf Rex 
-#2. Staffel	
-02	01	15	Stumme Schreie
-02	02	16	Blutspuren
-02	03	17	Ein mörderischer Sommer
-02	04	18	Tödliche Verführung
-02	05	19	Der maskierte Tod
-02	06	20	Die blinde Zeugin
-02	07	21	Gefährliche Jagd
-02	08	22	Tod eines Kindes
-02	09	23	Im Zeichen des Satans
+01	14	14	Schüsse auf Rex
+# 02. Staffel
+02	1	15	Stumme Schreie
+02	2	16	Blutspuren
+02	3	17	Ein mörderischer Sommer
+02	4	18	Tödliche Verführung
+02	5	19	Der maskierte Tod
+02	6	20	Die blinde Zeugin
+02	7	21	Gefährliche Jagd
+02	8	22	Tod eines Kindes
+02	9	23	Im Zeichen des Satans
 02	10	24	Duft des Todes
 02	11	25	Entführt
 02	12	26	Tödliche Dosis
 02	13	27	Drei Sekunden bis zum Tod
 02	14	28	Über den Dächern von Wien
 02	15	29	Stockis letzter Fall
-#3. Staffel	
-03	01	30	Todesrennen
-03	02	31	Stadt in Angst
-03	03	32	Tod im Museum
-03	04	33	Mörderische Leidenschaft
-03	05	34	Annas Geheimnis
-03	06	35	Der Puppenmörder
-03	07	36	Unter Hypnose
-03	08	37	Jagd nach einer Toten
-03	09	38	Warum starb Romeo?
+# 03. Staffel
+03	1	30	Todesrennen
+03	2	31	Stadt in Angst
+03	3	32	Tod im Museum
+03	4	33	Mörderische Leidenschaft
+03	5	34	Annas Geheimnis
+03	6	35	Der Puppenmörder
+03	7	36	Unter Hypnose
+03	8	37	Jagd nach einer Toten
+03	9	38	Warum starb Romeo?
 03	10	39	Ein Engel auf vier Pfoten
 03	11	40	Mord à la carte
 03	12	41	Blutrote Rosen
-#4. Staffel	
-04	01	42	Lebendig begraben
-04	02	43	Tod eines Schülers
-04	03	44	Ein mörderischer Plan
-04	04	45	Mosers Tod
-04	05	46	Der Neue
-04	06	47	Der Mann mit den tausend Gesichtern
-04	07	48	Die Verschwörung
-04	08	49	Tödliche Leidenschaft
-04	09	50	Geraubtes Glück
+# 04. Staffel
+04	1	42	Lebendig begraben
+04	2	43	Tod eines Schülers
+04	3	44	Ein mörderischer Plan
+04	4	45	Mosers Tod
+04	5	46	Der Neue
+04	6	47	Der Mann mit den tausend Gesichtern
+04	7	48	Die Verschwörung
+04	8	49	Tödliche Leidenschaft
+04	9	50	Geraubtes Glück
 04	10	51	Rache
 04	11	52	Der Voyeur
 04	12	53	Das letzte Match
 04	13	54	Gefährlicher Auftrag
-# 5. Staffel	
-05	01	55	Gnadenlos
-05	01	55	Die Todesliste	# Alternativtitel
-05	02	56	Spurlos verschwunden
-05	02	56	Furchtbare Wahrheit	# Alternativtitel
-05	03	57	Priester in Gefahr
-05	04	58	Der Verlierer
-05	05	59	Trügerische Nähe
-05	06	60	Rex rächt sich
-05	07	61	Blinde Wut
-05	08	62	Giftgas
-05	09	63	Tödliche Geheimnisse
+# 05. Staffel
+05	1	55	Gnadenlos
+05	1	55	Die Todesliste	# alternative
+05	2	56	Spurlos verschwunden
+05	2	56	Furchtbare Wahrheit	# alternative
+05	3	57	Priester in Gefahr
+05	4	58	Der Verlierer
+05	5	59	Trügerische Nähe
+05	6	60	Rex rächt sich
+05	7	61	Blinde Wut
+05	8	62	Giftgas
+05	9	63	Tödliche Geheimnisse
 05	10	64	Das Testament
 05	11	65	Mörderisches Spielzeug
 05	12	66	Hetzjagd
 05	13	67	Sisi
-# 6. Staffel	
-06	01	68	Vollgas
-06	02	69	Kinder auf der Flucht
-06	03	70	Baby in Gefahr
-06	04	71	Telefonterror
-06	05	72	Eiskalt
-06	06	73	Brudermord
-06	07	74	Tödliches Tarot
-06	08	75	Der Vollmondmörder
-06	09	76	Ein Toter kehrt zurück
+# 06. Staffel
+06	1	68	Vollgas
+06	2	69	Kinder auf der Flucht
+06	3	70	Baby in Gefahr
+06	4	71	Telefonterror
+06	5	72	Eiskalt
+06	6	73	Brudermord
+06	7	74	Tödliches Tarot
+06	8	75	Der Vollmondmörder
+06	9	76	Ein Toter kehrt zurück
 06	10	77	Tod per Internet
 06	11	78	Jagd nach dem ewigen Leben
 06	12	79	Das Millionenpferd
-# 7. Staffel	
-07	01	80	In letzter Sekunde
-07	02	81	Die Babydealer
-07	03	82	Der schöne Tod
-07	04	83	Der Bluff
-07	05	84	Ein todsicherer Tip
-07	06	85	Tödlicher Test
-07	07	86	Besessen
-07	08	87	Das Mädchen und der Mörder
-07	09	88	Der Tod kam zweimal
+# 07. Staffel
+07	1	80	In letzter Sekunde
+07	2	81	Die Babydealer
+07	3	82	Der schöne Tod
+07	4	83	Der Bluff
+07	5	84	Ein todsicherer Tip
+07	6	85	Tödlicher Test
+07	7	86	Besessen
+07	8	87	Das Mädchen und der Mörder
+07	9	88	Der Tod kam zweimal
 07	10	89	Strahlen der Rache
-# 8. Staffel	
-08	01	90	Polizisten küsst man nicht
-08	02	91	Tricks an der Theke
-08	03	92	Senkrecht in den Tod
-08	04	93	Ein Zeuge auf vier Pfoten
-08	05	94	Wenn Kinder sterben wollen
-08	06	95	Bis zur letzten Kugel
-08	07	96	Die Taten der Toten
-08	08	97	Einer stirbt immer
-08	09	98	Blond, hübsch, tot
+# 08. Staffel
+08	1	90	Polizisten küsst man nicht
+08	2	91	Tricks an der Theke
+08	3	92	Senkrecht in den Tod
+08	4	93	Ein Zeuge auf vier Pfoten
+08	5	94	Wenn Kinder sterben wollen
+08	6	95	Bis zur letzten Kugel
+08	7	96	Die Taten der Toten
+08	8	97	Einer stirbt immer
+08	9	98	Blond, hübsch, tot
 08	10	99	Happy Birthday
 08	11	100	Verliebt in einen Mörder
 08	12	101	Berühmt um jeden Preis
 08	13	102	Der Fluch der Mumie
-# 9. Staffel	
-09	01	103	Attentat auf Rex
-09	02	104	Wofür Kinder leiden müssen
-09	03	105	Ettrichs Traube
-09	04	106	Vitamine zum Sterben
-09	05	107	Nachts im Spital
-09	06	108	Das Donaukrodil
-09	07	109	Eine Tote hinter Gittern
-09	08	110	Nina um Mitternacht
-09	09	111	Schnappschuss
+# 09. Staffel
+09	1	103	Attentat auf Rex
+09	2	104	Wofür Kinder leiden müssen
+09	3	105	Ettrichs Traube
+09	4	106	Vitamine zum Sterben
+09	5	107	Nachts im Spital
+09	6	108	Das Donaukrodil
+09	7	109	Eine Tote hinter Gittern
+09	8	110	Nina um Mitternacht
+09	9	111	Schnappschuss
 09	10	112	Die Leiche lebte noch
 09	11	113	Hexen und andere Frauen
 09	12	114	Sein letzter Sonntag
 # 10. Staffel
-10	01	115	Ein Mann ohne Gedächtnis
-10	02	116	Folge 116
-10	03	117	Doping
+10	1	115	Ein Mann ohne Gedächtnis
+10	2	116	Folge 116
+10	3	117	Doping

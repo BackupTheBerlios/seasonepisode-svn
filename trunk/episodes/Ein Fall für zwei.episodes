@@ -1,110 +1,114 @@
-# Ein Fall für zwei
-#SE	EP	No.	Titel
 #
-# 1. Folgen mit Dr. Renz (1981-1988)
+# SEASONLIST
+# 1	1	60
+# 2	61	149
+# 3	150	182
+# 4	183	242
+# /SEASONLIST
 #
-01	01	001	Die große Schwester
-01	02	002	Fuchsjagd
-01	03	003	Das Haus in Frankreich
-01	04	004	Todfreunde
-01	05	005	Der Erbe
-01	06	006	Brandstiftung
-01	07	007	Tollwut
-01	08	008	Der Jäger als Hase
-01	09	009	Kratzer im Lack
-01	10	010	Überstunden
-01	11	011	Alte Pistolen
-01	12	012	Nervenkrieg
-01	13	013	Partner
-01	14	014	Zwielicht
-01	15	015	Das Opfer
-01	16	016	Herr Pankraz, bitte!
-01	17	017	Der Zeuge
-01	18	018	Tödliches Viereck
-01	19	019	Strich durch die Rechnung
-01	20	020	Die große Wut des kleinen Paschirbe
-01	21	021	Totes Kapital
-01	22	022	Auf eigene Gefahr
-01	23	023	Elf Jahre danach
-01	24	024	Chemie eines Mordes
-01	25	025	Die verlorene Nacht
-01	26	026	Zuckerbrot und Peitsche
-01	27	027	Morgengrauen 1
-01	28	028	Morgengrauen 2
-01	29	029	Morgengrauen 3
-01	30	030	Immer Ärger mit Ado
-01	31	031	Der Versager
-01	32	032	Sechs Richtige
-01	33	033	Fluchtgeld
-01	34	034	Schwarze Zahlen
-01	35	035	Rotkäppchen
-01	36	036	Blutsbande
-01	37	037	Scheidung in Weiß
-01	38	038	Erben und Sterben 1
-01	39	039	Erben und Sterben 2
-01	40	040	Todestag
-01	41	041	Schwind paßt auf
-01	42	042	T.O.D.
-01	43	043	Todsicherer Tip
-01	44	044	Blinder Haß
-01	45	045	Countdown
-01	46	046	Fasolds Traum
-01	47	047	Zorek muß schießen
-01	48	048	Zahltag
-01	49	049	Tatzeit
-01	50	050	"Irgendwann ..."
-01	51	051	Wertloses Alibi
-01	52	052	Über den Tod hinaus ...
-01	53	053	... zum Tode verurteilt
-01	54	054	Lebenslänglich für einen Toten
-01	55	055	Ayla
-01	56	056	Kurz hinter Ankara
-01	57	057	Wer Gewalt sät
-01	58	058	Tödliche Versöhnung
-01	59	059	Die einzige Chance
-01	60	060	Caesars Beute
+#SE	EP	No.	Title
 #
-# 2. Folgen mit Dr. Frank (1988-1997)
-#
-02	01	061	Die Akte Kramm
-02	02	062	Man lebt nur einmal
-02	03	063	Alte Liebe
-02	04	064	Der Mann auf dem Foto
-02	05	065	Zyankali
-02	06	066	70000 bar
-02	07	067	Donnerstag, letzter Akt
-02	08	068	Blut
-02	09	069	Tod im Schlafsack
-02	10	070	Die Quittung
-02	11	071	Gewissensbisse
-02	12	072	Seitensprung
-02	13	073	Der Schlüssel
-02	14	074	Roter Freitag
-02	15	075	Blutige Rosen
-02	16	076	Bruderhaß
-02	17	077	Der zweite Mann
-02	18	078	Tödlicher Irrtum
-02	19	079	Bumerang
-02	20	080	Madonna
-02	21	081	Schwarze Schafe
-02	22	082	Blutiges Gold
-02	23	083	Vaterliebe
-02	24	084	Schneewalzer
-02	25	085	Schleuderkurs
-02	26	086	Kopfgeld
-02	27	087	Eiskalt
-02	28	088	Helens Geheimnisse
-02	29	089	Hannas letzte Liebe
-02	30	090	Die Sünden der Väter
-02	31	091	Blattschuß
-02	32	092	Tod frei Haus
-02	33	093	Filmriß
-02	34	094	Schweigen ist Geld
-02	35	095	Härter als Glas
-02	36	096	Todesspiel
-02	37	097	Geld verjährt nicht
-02	38	098	Lebenszeichen
-02	39	099	Scheine spielen schwarz
+# 01. Staffel
+01	1	1	Die große Schwester
+01	2	2	Fuchsjagd
+01	3	3	Das Haus in Frankreich
+01	4	4	Todfreunde
+01	5	5	Der Erbe
+01	6	6	Brandstiftung
+01	7	7	Tollwut
+01	8	8	Der Jäger als Hase
+01	9	9	Kratzer im Lack
+01	10	10	Überstunden
+01	11	11	Alte Pistolen
+01	12	12	Nervenkrieg
+01	13	13	Partner
+01	14	14	Zwielicht
+01	15	15	Das Opfer
+01	16	16	Herr Pankraz, bitte!
+01	17	17	Der Zeuge
+01	18	18	Tödliches Viereck
+01	19	19	Strich durch die Rechnung
+01	20	20	Die große Wut des kleinen Paschirbe
+01	21	21	Totes Kapital
+01	22	22	Auf eigene Gefahr
+01	23	23	Elf Jahre danach
+01	24	24	Chemie eines Mordes
+01	25	25	Die verlorene Nacht
+01	26	26	Zuckerbrot und Peitsche
+01	27	27	Morgengrauen 1
+01	28	28	Morgengrauen 2
+01	29	29	Morgengrauen 3
+01	30	30	Immer Ärger mit Ado
+01	31	31	Der Versager
+01	32	32	Sechs Richtige
+01	33	33	Fluchtgeld
+01	34	34	Schwarze Zahlen
+01	35	35	Rotkäppchen
+01	36	36	Blutsbande
+01	37	37	Scheidung in Weiß
+01	38	38	Erben und Sterben 1
+01	39	39	Erben und Sterben 2
+01	40	40	Todestag
+01	41	41	Schwind paßt auf
+01	42	42	T.O.D.
+01	43	43	Todsicherer Tip
+01	44	44	Blinder Haß
+01	45	45	Countdown
+01	46	46	Fasolds Traum
+01	47	47	Zorek muß schießen
+01	48	48	Zahltag
+01	49	49	Tatzeit
+01	50	50	"Irgendwann ..."
+01	51	51	Wertloses Alibi
+01	52	52	Über den Tod hinaus ...
+01	53	53	... zum Tode verurteilt
+01	54	54	Lebenslänglich für einen Toten
+01	55	55	Ayla
+01	56	56	Kurz hinter Ankara
+01	57	57	Wer Gewalt sät
+01	58	58	Tödliche Versöhnung
+01	59	59	Die einzige Chance
+01	60	60	Caesars Beute
+# 02. Staffel
+02	1	61	Die Akte Kramm
+02	2	62	Man lebt nur einmal
+02	3	63	Alte Liebe
+02	4	64	Der Mann auf dem Foto
+02	5	65	Zyankali
+02	6	66	70000 bar
+02	7	67	Donnerstag, letzter Akt
+02	8	68	Blut
+02	9	69	Tod im Schlafsack
+02	10	70	Die Quittung
+02	11	71	Gewissensbisse
+02	12	72	Seitensprung
+02	13	73	Der Schlüssel
+02	14	74	Roter Freitag
+02	15	75	Blutige Rosen
+02	16	76	Bruderhaß
+02	17	77	Der zweite Mann
+02	18	78	Tödlicher Irrtum
+02	19	79	Bumerang
+02	20	80	Madonna
+02	21	81	Schwarze Schafe
+02	22	82	Blutiges Gold
+02	23	83	Vaterliebe
+02	24	84	Schneewalzer
+02	25	85	Schleuderkurs
+02	26	86	Kopfgeld
+02	27	87	Eiskalt
+02	28	88	Helens Geheimnisse
+02	29	89	Hannas letzte Liebe
+02	30	90	Die Sünden der Väter
+02	31	91	Blattschuß
+02	32	92	Tod frei Haus
+02	33	93	Filmriß
+02	34	94	Schweigen ist Geld
+02	35	95	Härter als Glas
+02	36	96	Todesspiel
+02	37	97	Geld verjährt nicht
+02	38	98	Lebenszeichen
+02	39	99	Scheine spielen schwarz
 02	40	100	Käufliche Herren
 02	41	101	Gier
 02	42	102	Das Attentat
@@ -155,18 +159,16 @@
 02	87	147	Kalte Abreise
 02	88	148	Alle für einen
 02	89	149	Das Paar
-#
-# 3. Folgen mit Dr. Voss (1997-2000)
-#
-03	01	150	Tödliche Zinsen
-03	02	151	Aufs falsche Pferd gesetzt
-03	03	152	Nur eine Nacht
-03	04	153	Ende einer Täuschung
-03	05	154	Nur der Sieg zählt
-03	06	155	Die letzte Rate
-03	07	156	Unheimliche Geschäfte
-03	08	157	Rendezvous mit dem Tod
-03	09	158	Verladen und verkauft
+# 03. Staffel
+03	1	150	Tödliche Zinsen
+03	2	151	Aufs falsche Pferd gesetzt
+03	3	152	Nur eine Nacht
+03	4	153	Ende einer Täuschung
+03	5	154	Nur der Sieg zählt
+03	6	155	Die letzte Rate
+03	7	156	Unheimliche Geschäfte
+03	8	157	Rendezvous mit dem Tod
+03	9	158	Verladen und verkauft
 03	10	159	Ziel der Begierde
 03	11	160	Schlechte Karten*
 03	12	161	Falsche Partner
@@ -191,18 +193,16 @@
 03	31	180	Blutiges Pfand
 03	32	181	Gott ist mein Zeuge
 03	33	182	Morgen bist du tot
-#
-# 4. Folgen mit Dr. Lessing (2000-...)
-#
-04	01	183	Der verlorene Vater
-04	02	184	K.O.-Girls
-04	03	185	Tödliche Probe
-04	04	186	Tödliche Schnappschüsse
-04	05	187	Code Mira
-04	06	188	Tod eines Models
-04	07	189	Schulschluss
-04	08	190	Das Lachen des Buddha
-04	09	191	Verbotene Gefühle
+# 04. Staffel
+04	1	183	Der verlorene Vater
+04	2	184	K.O.-Girls
+04	3	185	Tödliche Probe
+04	4	186	Tödliche Schnappschüsse
+04	5	187	Code Mira
+04	6	188	Tod eines Models
+04	7	189	Schulschluss
+04	8	190	Das Lachen des Buddha
+04	9	191	Verbotene Gefühle
 04	10	192	Einsamer Wolf
 04	11	193	Jagdfieber
 04	12	194	Ein schändlicher Plan
@@ -213,7 +213,6 @@
 04	17	199	Mitten ins Herz
 04	18	200	Alpträume
 04	19	201	Fremde Federn
-# 2003
 04	20	202	Bremsversagen
 04	21	203	Der Mann, der zweimal starb
 04	22	204	Erics Tod
@@ -223,7 +222,6 @@
 04	26	208	Unter Freunden
 04	27	209	Doppelmord
 04	28	210	Tod der Arztfrau
-# 2004
 04	29	211	Mord aus Liebe
 04	30	212	Doppelgänger
 04	31	213	Ticket ins Jenseits
@@ -235,7 +233,6 @@
 04	37	219	Karriere um jeden Preis
 04	38	220	Tödliche Betriebsfeier
 04	39	221	Auge um Auge
-# 2005
 04	40	222	Tod im Hochhaus
 04	41	223	Romanze in Schwarz
 04	42	224	Graffiti
@@ -248,13 +245,12 @@
 04	49	231	Das gestohlene Leben
 04	50	232	Tod eines Buchhalters
 04	51	233	Großmarktfehde
-# 2006
 04	52	234	Perfekter Irrtum
 04	53	235	Doppelpaß
 04	54	236	Der Tod und das Mädchen
 04	55	237	Rollentausch
 04	56	238	Blutige Liebesgrüße
-04	47	239	Todesangst
-04	48	240	Der verlorene Sohn
-04	49	241	Ein Eiskaltes Geschäft
-04	50	242	Ewige Freundschaft
+04	57	239	Todesangst
+04	58	240	Der verlorene Sohn
+04	59	241	Ein Eiskaltes Geschäft
+04	60	242	Ewige Freundschaft
