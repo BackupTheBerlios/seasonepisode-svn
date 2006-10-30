@@ -1,0 +1,75 @@
+#
+# SEASONLIST
+# 1	1	9
+# 2	10	22
+# 3	23	35
+# 4	36	48
+# 5	49	59
+# /SEASONLIST
+#
+#SE	EP	No.	Title
+#
+# 01. Staffel
+01	1	1	Der Einbruch
+01	2	2	Eine gewisse Chemie
+01	3	3	Die Liste
+01	4	4	Villa Massimo
+01	5	5	Der Schnappschuss
+01	6	6	Der Babyschreck
+01	7	7	Der erste Kuss
+01	8	8	Eisen macht glücklich
+01	9	9	Eine verhängnisvolle Affäre
+# 02. Staffel
+02	1	10	Alles wird anders - Teil 1
+02	2	11	Alles wird anders - Teil 2
+02	3	12	Seelenverwandte
+02	4	13	Der große Wurf
+02	5	14	Bleib', wie du bist!
+02	6	15	Sterben in Köln
+02	7	16	Der perfekte Mann
+02	8	17	Glückskekse
+02	9	18	Freunde und Lover
+02	10	19	Der Besuch der alten Dame
+02	11	20	Das Experiment
+02	12	21	Die Parkplatz-Pleite
+02	13	22	Oberstufenblues
+# 03. Staffel
+03	1	23	Herzensbrecher
+03	2	24	Wieder allein
+03	3	25	Neue Nachbarn
+03	4	26	Das Coming Out
+03	5	27	Rebellen
+03	6	28	Tortur d'Amour
+03	7	29	Nicht von schlechten Eltern
+03	8	30	Modeopfer
+03	9	31	Die Avocadokrise
+03	10	32	Blinde Flecken
+03	11	33	Die Landpartie
+03	12	34	Familiengeheimnisse
+03	13	35	Nacht in Flammen
+# 04. Staffel
+04	1	36	Die Recyclinglüge
+04	2	37	Die Geburtstagsüberraschung
+04	3	38	Therapie zwecklos
+04	4	39	Taubenjagd
+04	5	40	Modellversuch
+04	6	41	Bambi
+04	7	42	Fehlstart
+04	8	43	Die Dunkelkammer
+04	9	44	Reden ist silber
+04	10	45	Afrika
+04	11	46	Niko
+04	12	47	Hausbesuch
+04	13	48	Berlin, Berlin
+# 05. Staffel
+05	1	49	Dick im Geschäft
+05	2	50	Ich will nicht wissen, was du vor fünf Jahren getan hast
+05	3	51	Nachtwache
+05	4	52	Sex, Lügen und DVD
+05	5	53	Familienbande
+05	6	54	Das Dream-Team
+05	7	55	Claudia und Basti
+05	8	56	Der Date Doktor
+05	9	57	Niko, der Lügner
+05	10	58	Der Hochzeitstag
+05	11	59	Haus über Kopf
