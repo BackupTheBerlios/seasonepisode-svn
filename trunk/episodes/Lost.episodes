@@ -1,17 +1,17 @@
 #
 # SEASONLIST
 # 1	1	25
-# 2	26	47
+# 2	26	49
 # /SEASONLIST
 #
 #SE	EP	No.	Title
 #
 # 01. Staffel
-01	1	1	Lost (Pilot)
-01	2	2	Gestrandet - Teil 2
+01	1	1	Gestrandet, Teil 1
+01	2	2	Gestrandet, Teil 2
 01	3	3	Tabula Rasa
 01	4	4	Wildschweinjagd
-01	5	5	Das weisse Kaninchen
+01	5	5	Das weiße Kaninchen
 01	6	6	Die Höhle
 01	7	7	Der Nachtfalter
 01	8	8	Der Betrüger
@@ -22,16 +22,16 @@
 01	13	13	Gefühl und Verstand
 01	14	14	Eisbär
 01	15	15	Heimkehr
-01	16	16	n.n.
+01	16	16	Outlaws
 01	17	17	...In Translation
 01	18	18	Verfluchte Zahlen
 01	19	19	Deux Ex Machina
 01	20	20	Schade nicht
 01	21	21	Ein höheres Ziel
 01	22	22	Rastlos
-01	23	23	Exodus - Teil 1
-01	24	24	Exodus - Teil 2
-01	25	25	Exodus - Teil 3
+01	23	23	Exodus, Teil 1
+01	24	24	Exodus, Teil 2
+01	25	25	Exodus, Teil 3
 # 02. Staffel
 02	1	26	Glaube und Wissenschaft
 02	2	27	Treibholz
@@ -48,10 +48,12 @@
 02	13	38	Langer Atem
 02	14	39	Einer von Ihnen
 02	15	40	Mutterschutz
-02	16	41	The Whole Truth (TBA)
+02	16	41	Die ganze Wahrheit
 02	17	42	Verriegelt
 02	18	43	Dave
 02	19	44	S.O.S.
 02	20	45	Zwei für unterwegs
-02	21	46	n.n.
+02	21	46	?
 02	22	47	Drei Minuten
+02	23	48	Zusammen leben - Alleine Sterben, Teil 1
+02	24	49	Zusammen leben - Alleine Sterben, Teil 2
