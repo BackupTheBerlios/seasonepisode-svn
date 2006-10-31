@@ -29,7 +29,7 @@
 01	12	12	Wendigo
 01	13	13	Liebe ist die stärkste Macht
 01	14	14	Nachricht von Max
-01	15	15	Wer hat Angst vorm schwarzen Mann ?
+01	15	15	Wer hat Angst vorm schwarzen Mann?
 01	16	16	Man stirbt nur dreimal
 01	17	17	Zurück in die Vergangenheit
 01	18	18	Wenn das Böse erwacht
@@ -68,13 +68,13 @@
 03	5	49	Die Dämonenfalle
 03	6	50	Die Macht der Gefühle
 03	7	51	Alle oder keine
-03	8	52	Sleuthing With the Enemy
+03	8	52	Balthasar
 03	9	53	Besessen
 03	10	54	Wenn der Eismann kommt
 03	11	55	Gegen alle Regeln
 03	12	56	Verlorene Seelen
 03	13	57	Das Böse in mir
-03	14	58	The Good, the Bad and the Cursed
+03	14	58	Stadt der Geister
 03	15	59	Trauung mit Hindernissen
 03	16	60	Der Tod siegt immer
 03	17	61	Aller guten Dinge sind neun
@@ -97,9 +97,9 @@
 04	11	77	Die zwölf Geschworenen
 04	12	78	Feuer
 04	13	79	Das schwarze Nichts
-04	14	80	Das fünfte Rad
-04	15	81	The Three Faces Of Phoebe
-04	16	82	Die Braut trägt Schwarz
+04	14	80	Die Frage aller Fragen
+04	15	81	Die Braut trägt Schwarz
+04	16	82	Das fünfte Rad
 04	17	83	Der Soldat Leo Wyatt
 04	18	84	Beiß mich
 04	19	85	Die Krönung
@@ -146,11 +146,11 @@
 06	13	124	Schlechtes Karma
 06	14	125	Die Kopflosen Drei
 06	15	126	Bezaubernde Phoebe
-06	16	127	The Courtship of Wyatt?s Father
+06	16	127	Piper und Leo
 06	17	128	Klassentreffen
 06	18	129	Die Spinne
 06	19	130	Das Tribunal
-06	20	131	A Wrong Day?s Journey into Right
+06	20	131	Magische Männer
 06	21	132	Witch Wars
 06	22	133	Gute und Böse Welt, Teil 1
 06	23	134	Gute und Böse Welt, Teil 2
@@ -184,11 +184,11 @@
 08	4	160	Verzweifelte Haushexen
 08	5	161	Entzauberte Julie
 08	6	162	Kill Billie: Vol. 1
-08	7	163	n.n.
-08	8	164	n.n.
-08	9	165	n.n.
-08	10	166	n.n.
-08	11	167	n.n.
+08	7	163	Bitte lächeln
+08	8	164	Yin und Yang
+08	9	165	Blutsbande
+08	10	166	Vaya Con Leos
+08	11	167	Billies Killer-Eltern
 08	12	168	n.n.
 08	13	169	n.n.
 08	14	170	n.n.
