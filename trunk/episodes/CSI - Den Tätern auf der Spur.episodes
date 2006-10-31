@@ -7,6 +7,7 @@
 # 3	47	69
 # 4	70	92
 # 5	93	115
+# 6	116	139
 # /SEASONLIST
 #
 #SE	EP	No.	Title
@@ -131,3 +132,6 @@
 05	21	113	Auf Eis
 05	22	114	Grabesstille (1)
 05	23	115	Grabesstille (2)
+# 06. Staffel
+06	1	116	Feuer und Flamme
+06	2	117	Spiel mit dem Tod
