@@ -3,7 +3,7 @@
 ##########################################################################
 #
 #
-$Version = "0.1.1";
+$Version = "0.1.2";
 #
 # Date:    2006-11-01
 #
@@ -28,7 +28,7 @@ my %Config = (InFile => "", OutFile => "", Force => 0, Debug => 0, man => 0, hel
 my @EpisodesFile;
 
 Getopt::Long::Configure ("bundling_override");
-GetOptions (\%Config,   'InFile|i=s', 'OutFile|o=s', 'Force|f!', 'Debug|d!', 'help|h|?', 'quiet|q!', 'man', 'version');
+GetOptions (\%Config,   'InFile|i=s', 'OutFile|o=s', 'Force|f!', 'Debug|d!', 'help|h|?', 'quiet|q:+', 'man', 'version');
 
 if ( $Config{version} )				{ print ($0." Version ".$Version."\n"); exit; }
 pod2usage(-exitstatus => 0, -verbose => 2)	if ( $Config{man} );
@@ -61,8 +61,7 @@ my $errors = $warnings = 0;
 
 foreach ( @Files ) {
   $InFile = $_;
-  $errors = 0;
-  $warnings = 0;
+  $errors = $warnings = $infos = 0;
   my @Msg = ();
 
   open (FILE, "<".$InFile) || die("Error opening ".$InFile);
@@ -146,8 +145,8 @@ foreach ( @Files ) {
         $LineField{Miscellaneous} = "\t".$LineField{Miscellaneous} if ( $LineField{Miscellaneous} );
         push(@Data, sprintf("%02i\t%i\t%i\t%s%s", $LineField{Season}, $LineField{Episode}, $i, $LineField{Subtitle}, $LineField{Miscellaneous}));
       } else {
-        $errors++;
-        push(@Msg, sprintf ("%s %3i: Syntax error: Please check the line, especially the season and episode numbering!\n", $InFile, $linenumber));
+        $errors++ unless $Config{quiet} >= 3;
+        push(@Msg, sprintf ("%s %3i: Syntax error: Please check the line, especially the season and episode numbering!\n", $InFile, $linenumber)) unless $Config{quiet} >= 3;
       }
     } elsif ( $Line =~ /^#\s*SHORT(TITLE)?\s*(.*?)\s*$/i && ! $i ) {
       my $short = $2;
@@ -162,24 +161,24 @@ foreach ( @Files ) {
       push(@Keywords, "#");
       push(@Keywords, "# COMPLETE");
     } elsif ( $Line =~ /^#\s*SE\tEP/ ) {
-      $warnings++;
-      push(@Msg, sprintf ("%s %3i: Warning: Skipping not needed line.\n", $InFile, $linenumber)) if ! $Config{quiet};
-    } elsif ( $Line =~ /^#\s*(\d+.*staffel|staffel.*\d+)\s*\S*$/i && ! $i ) {
-      $warnings++;
-      push(@Msg, sprintf ("%s %3i: Warning: Skipping not needed line.\n", $InFile, $linenumber)) if ! $Config{quiet};
+      $infos++ if ! $Config{quiet};
+      push(@Msg, sprintf ("%s %3i: Info: Skipping not needed line.\n", $InFile, $linenumber)) if ! $Config{quiet};
+    } elsif ( $Line =~ /^#\s*(\d+.*staffel|staffel.*\d+)\s*\S*$/i ) {
+      $infos++ if ! $Config{quiet};
+      push(@Msg, sprintf ("%s %3i: Info: Skipping not needed line.\n", $InFile, $linenumber)) if ! $Config{quiet};
     } elsif ( $Line =~ /^#.+/ && ! $i ) {
       $emptyline = 0;
       push(@Comments, $Line);
     } elsif ( $Line =~ /^\s*$/ && ! $i ) {
-      $emptyline = 0;
-      $warnings++;
-      push(@Msg, sprintf ("%s %3i: Warning: Skipping not needed line.\n", $InFile, $linenumber)) if ! $Config{quiet};
+      $infos++ if ! $Config{quiet} && $emptyline;
+      push(@Msg, sprintf ("%s %3i: Info: Skipping not needed empty line.\n", $InFile, $linenumber)) if ! $Config{quiet} && $emptyline;
+      $emptyline++;
     } elsif ( $Line =~ /^$/ && ! $emptyline && ! $i ) {
       push(@Data, $Line);
-      $emptyline = 1;
+      $emptyline++;
     } elsif ( $i ) {
-      $warnings++;
-      push(@Msg, sprintf ("%s %3i: Warning: Skipping unknown line.\n", $InFile, $linenumber)) if ! $Config{quiet};
+      $warnings++ unless $Config{quiet} >= 2;
+      push(@Msg, sprintf ("%s %3i: Warning: Skipping unknown line.\n", $InFile, $linenumber)) unless $Config{quiet} >= 2;
     }
     %LastLineField = %LineField;
   }	
@@ -207,12 +206,20 @@ foreach ( @Files ) {
   foreach(@Msg) { print STDERR $_ }
 
   if ( $errors ) {
-    printf STDERR ("File %s not accepted: %i errors and %i warnings.\n", $InFile, $errors, $warnings);
+    printf STDERR ("File %s not accepted: %i errors, %i warnings, %i infos.\n", $InFile, $errors, $warnings, $infos) unless $Config{quiet} >= 3;
   } elsif ( $warnings ) {
-    printf STDERR ("File %s accepted: %i warnings.\n", $InFile, $warnings) if ! $Config{quiet};
+    printf STDERR ("File %s accepted: %i warnings, %i infos.\n", $InFile, $warnings, $infos) unless $Config{quiet} >= 2;
+  } elsif ( $infos ) {
+    printf STDERR ("File %s accepted: %i infos.\n", $InFile, $infos) unless $Config{quiet} >= 1;
   } else {
-    printf STDERR ("File %s accepted\n", $InFile) if ! $Config{quiet};
+    printf STDERR ("File %s accepted\n", $InFile) unless $Config{quiet} >= 3;
   }
+}
+
+if ( $Config{InFile} && -f $Config{InFile} && $errors ) {
+  exit 2;
+} else {
+  exit 0;
 }
 
 __END__
@@ -235,7 +242,9 @@ VDREplistChecker.pl -i=<> -o=<> [options...]
       -i			Input file or path
       -o			Output file or path
       -f			Force overwriting existing output files
-      -q			dont't print warnings
+      -q			Dont't print infos
+      -qq			Don't print infos, warnings
+      -qqq			Don't print infos, warnings, errors
       
 =head1 OPTIONS
 
@@ -276,7 +285,7 @@ The episode files can be found there:
 
 Overview:
 
-L<http://svn.berlios.de/wsvn/seasonepisode/trunk/episodes/>
+C<http://svn.berlios.de/wsvn/seasonepisode/trunk/episodes/>
 
 Download:
 
