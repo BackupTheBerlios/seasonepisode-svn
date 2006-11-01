@@ -203,7 +203,11 @@ foreach ( @Files ) {
     foreach(@Output) { print $_ }
   }
 
+  print STDERR "\n" if ( ! $OutFile );
+
   foreach(@Msg) { print STDERR $_ }
+
+  print STDERR "\n" if ( scalar @Msg > 0 );
 
   if ( $errors ) {
     printf STDERR ("File not accepted: %s; %i errors, %i warnings, %i infos.\n", $InFile, $errors, $warnings, $infos) unless $Config{quiet} >= 3;
@@ -218,6 +222,8 @@ foreach ( @Files ) {
 
 if ( $Config{InFile} && -f $Config{InFile} && $errors ) {
   exit 2;
+} elsif ( $Config{InFile} && -f $Config{InFile} && $warnings ) {
+  exit 3;
 } else {
   exit 0;
 }
