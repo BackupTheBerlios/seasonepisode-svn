@@ -212,7 +212,7 @@ foreach ( @Files ) {
   } elsif ( $infos ) {
     printf STDERR ("File accepted: %s; %i infos.\n", $InFile, $infos) unless $Config{quiet} >= 1;
   } else {
-    printf STDERR ("File accepted: %s.\n", $InFile) unless $Config{quiet} >= 3;
+    printf STDERR ("File accepted: %s\n", $InFile) unless $Config{quiet} >= 3;
   }
 }
 
