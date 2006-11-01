@@ -146,7 +146,7 @@ foreach ( @Files ) {
         push(@Data, sprintf("%02i\t%i\t%i\t%s%s", $LineField{Season}, $LineField{Episode}, $i, $LineField{Subtitle}, $LineField{Miscellaneous}));
       } else {
         $errors++ unless $Config{quiet} >= 3;
-        push(@Msg, sprintf ("%s %3i: Syntax error: Please check the line, especially the season and episode numbering!\n", $InFile, $linenumber)) unless $Config{quiet} >= 3;
+        push(@Msg, sprintf ("%s:%i: Syntax error: Please check the line, especially the season and episode numbering!\n", $InFile, $linenumber)) unless $Config{quiet} >= 3;
       }
     } elsif ( $Line =~ /^#\s*SHORT(TITLE)?\s*(.*?)\s*$/i && ! $i ) {
       my $short = $2;
@@ -162,23 +162,23 @@ foreach ( @Files ) {
       push(@Keywords, "# COMPLETE");
     } elsif ( $Line =~ /^#\s*SE\tEP/ ) {
       $infos++ if ! $Config{quiet};
-      push(@Msg, sprintf ("%s %3i: Info: Skipping not needed line.\n", $InFile, $linenumber)) if ! $Config{quiet};
+      push(@Msg, sprintf ("%s:%i: Info: Skipping not needed line.\n", $InFile, $linenumber)) if ! $Config{quiet};
     } elsif ( $Line =~ /^#\s*(\d+.*staffel|staffel.*\d+)\s*\S*$/i ) {
       $infos++ if ! $Config{quiet};
-      push(@Msg, sprintf ("%s %3i: Info: Skipping not needed line.\n", $InFile, $linenumber)) if ! $Config{quiet};
+      push(@Msg, sprintf ("%s:%i: Info: Skipping not needed line.\n", $InFile, $linenumber)) if ! $Config{quiet};
     } elsif ( $Line =~ /^#.+/ && ! $i ) {
       $emptyline = 0;
       push(@Comments, $Line);
     } elsif ( $Line =~ /^\s*$/ && ! $i ) {
       $infos++ if ! $Config{quiet} && $emptyline;
-      push(@Msg, sprintf ("%s %3i: Info: Skipping not needed empty line.\n", $InFile, $linenumber)) if ! $Config{quiet} && $emptyline;
+      push(@Msg, sprintf ("%s:%i: Info: Skipping not needed empty line.\n", $InFile, $linenumber)) if ! $Config{quiet} && $emptyline;
       $emptyline++;
     } elsif ( $Line =~ /^$/ && ! $emptyline && ! $i ) {
       push(@Data, $Line);
       $emptyline++;
     } elsif ( $i ) {
       $warnings++ unless $Config{quiet} >= 2;
-      push(@Msg, sprintf ("%s %3i: Warning: Skipping unknown line.\n", $InFile, $linenumber)) unless $Config{quiet} >= 2;
+      push(@Msg, sprintf ("%s:%i: Warning: Skipping unknown line.\n", $InFile, $linenumber)) unless $Config{quiet} >= 2;
     }
     %LastLineField = %LineField;
   }	
