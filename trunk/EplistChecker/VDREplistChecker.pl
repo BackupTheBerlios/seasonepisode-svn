@@ -3,9 +3,9 @@
 ##########################################################################
 #
 #
-$Version = "0.1.0";
+$Version = "0.1.1";
 #
-# Date:    2006-10-22
+# Date:    2006-11-01
 #
 # Author: Mike Constabel <vejoun @ vdrportal . de>
 #                        <vejoun @ toppoint . de>
@@ -24,11 +24,11 @@ use warnings;
 
 ###########
 
-my %Config = (InFile => "", OutFile => "", Force => 0, Debug => 0);
+my %Config = (InFile => "", OutFile => "", Force => 0, Debug => 0, man => 0, help => 0, quiet => 0);
 my @EpisodesFile;
 
 Getopt::Long::Configure ("bundling_override");
-GetOptions (\%Config,   'InFile|i=s', 'OutFile|o=s', 'Force|f!', 'Debug|d!', 'help|h|?', 'man', 'version');
+GetOptions (\%Config,   'InFile|i=s', 'OutFile|o=s', 'Force|f!', 'Debug|d!', 'help|h|?', 'quiet|q!', 'man', 'version');
 
 if ( $Config{version} )				{ print ($0." Version ".$Version."\n"); exit; }
 pod2usage(-exitstatus => 0, -verbose => 2)	if ( $Config{man} );
@@ -57,11 +57,13 @@ if ( $Config{InFile} =~ /\/$/ && -d $Config{InFile} ) {
 }
 
 my $InFile = $OutFile = "";
-my $error = 0;
+my $errors = $warnings = 0;
 
 foreach ( @Files ) {
   $InFile = $_;
-  $error = 0;
+  $errors = 0;
+  $warnings = 0;
+  my @Msg = ();
 
   open (FILE, "<".$InFile) || die("Error opening ".$InFile);
   @EpisodesFile = <FILE>;
@@ -83,35 +85,6 @@ foreach ( @Files ) {
   my @SeasonList;
   my $Season = $Stop = 0;
 
-  if ( ! $Seasonlist ) {
-
-    push(@SeasonList, "#");
-    push(@SeasonList, "# SEASONLIST");
-
-    foreach( @EpisodesFile ) {
-      chomp;
-      $Line = $_;
-
-      if ( $Line =~ /^\s*(\d+)\s*(\d+)\s*(\d+)\s*(.*?)\s*$/ ) {
-        %LineField = ( Season => $1, Episode => $2, EpisodeOverAll => $3, Subtitle => $4 );
-      
-        $i++;
-
-        if ( ($LineField{Season} + 0) != $tmp && $tmp ) {
-          push(@SeasonList, "# ".($tmp + 0)."\t".($i - $Stop)."\t".($i - 1));
-          $tmp = $LineField{Season};
-          $Stop = 1;
-        } else {
-          $tmp = $LineField{Season} if ! $tmp;
-          $Stop++;
-        }
-      }
-    }	
-    $i++;
-    push(@SeasonList, "# ".($tmp + 0)."\t".($i - $Stop)."\t".($i - 1));
-    push(@SeasonList, "# /SEASONLIST");
-  }
-
   $Seasonlist		= 0;
   $i = $linenumber	= 0;
   $firstline		= 1;
@@ -120,6 +93,9 @@ foreach ( @Files ) {
   my @Comments		= ();
   my @Keywords		= ();
   my %LastLineField	= ();
+
+  push(@SeasonList, "#");
+  push(@SeasonList, "# SEASONLIST");
 
   foreach( @EpisodesFile ) {
     chomp;
@@ -132,7 +108,7 @@ foreach ( @Files ) {
     if ( $Line =~ /^#\s*\/SEASONLIST/ ) { $Seasonlist = 0; next; }
     next if $Seasonlist;
 
-    if ( $Line =~ /^\s*(\d+)\s*\t\s*(\d+)\s*\t\s*(\d+)\s*\t\s*(.*?)\s*\t\s*(.*?)\s*$/ || $Line =~ /^\s*(\d+)\s*\t\s*(\d+)\s*\t\s*(\d+)\s*\t\s*(.*?)\s*$/  || $Line =~ /^\s*(\d+)\s*\t\s*(\d+)\s*\t\s*(\d+)\s*$/ ) {
+    if ( $Line =~ /^\s*(\d+)\s*\t\s*(\d+)\s*\t\s*(\d+)\s*\t\s*(.*?)\s*\t\s*(.*?)\s*$/ || $Line =~ /^\s*(\d+)\s*\t\s*(\d+)\s*\t\s*(\d+)\s*\t\s*(.*?)\s*$/ || $Line =~ /^\s*(\d+)\s*\t\s*(\d+)\s*\t\s*(\d+)\s*$/ ) {
       %LineField = ( Season => $1+0, Episode => $2+0, EpisodeOverAll => $3+0, Subtitle => ( defined $4 && $4 ) ? $4 : "n.n.", Miscellaneous => ( defined $5 && $5 ) ? $5 : "");
 
       $LineField{Subtitle} =~ s/^\s*nn\s*$/n\.n\./;
@@ -143,6 +119,15 @@ foreach ( @Files ) {
       $alternative = 1 if ( $LineField{Miscellaneous} =~ /^\s*#\s*alternative\s*$/ );
 
       $i++ if (! $alternative && $LineField{Season});
+
+      if ( ($LineField{Season} + 0) != $tmp && $tmp ) {
+        push(@SeasonList, "# ".($tmp + 0)."\t".($i - $Stop)."\t".($i - 1));
+        $tmp = $LineField{Season};
+        $Stop = 1;
+      } else {
+        $tmp = $LineField{Season} if ! $tmp;
+        $Stop++;
+      }
 
       if ( ( $LineField{Season} > $LastLineField{Season} && $LineField{Episode} == 1 ) ||
            ( $LineField{Season} == $LastLineField{Season} && $LineField{Episode} == $LastLineField{Episode}+1 ) ||
@@ -161,10 +146,8 @@ foreach ( @Files ) {
         $LineField{Miscellaneous} = "\t".$LineField{Miscellaneous} if ( $LineField{Miscellaneous} );
         push(@Data, sprintf("%02i\t%i\t%i\t%s%s", $LineField{Season}, $LineField{Episode}, $i, $LineField{Subtitle}, $LineField{Miscellaneous}));
       } else {
-        printf STDERR ("%s %3i: Syntax error: %s\n", $InFile, $linenumber, $Line);
-        printf STDERR ("  --> Please check the line, especially the season and episode numbering!\n");
-        $error = 1;
-        last;
+        $errors++;
+        push(@Msg, sprintf ("%s %3i: Syntax error: Please check the line, especially the season and episode numbering!\n", $InFile, $linenumber));
       }
     } elsif ( $Line =~ /^#\s*SHORT(TITLE)?\s*(.*?)\s*$/i && ! $i ) {
       my $short = $2;
@@ -179,22 +162,31 @@ foreach ( @Files ) {
       push(@Keywords, "#");
       push(@Keywords, "# COMPLETE");
     } elsif ( $Line =~ /^#\s*SE\tEP/ ) {
+      $warnings++;
+      push(@Msg, sprintf ("%s %3i: Warning: Skipping not needed line.\n", $InFile, $linenumber)) if ! $Config{quiet};
     } elsif ( $Line =~ /^#\s*(\d+.*staffel|staffel.*\d+)\s*\S*$/i && ! $i ) {
+      $warnings++;
+      push(@Msg, sprintf ("%s %3i: Warning: Skipping not needed line.\n", $InFile, $linenumber)) if ! $Config{quiet};
     } elsif ( $Line =~ /^#.+/ && ! $i ) {
       $emptyline = 0;
       push(@Comments, $Line);
     } elsif ( $Line =~ /^\s*$/ && ! $i ) {
       $emptyline = 0;
+      $warnings++;
+      push(@Msg, sprintf ("%s %3i: Warning: Skipping not needed line.\n", $InFile, $linenumber)) if ! $Config{quiet};
     } elsif ( $Line =~ /^$/ && ! $emptyline && ! $i ) {
       push(@Data, $Line);
       $emptyline = 1;
     } elsif ( $i ) {
-      printf STDERR ("%s %i: Skip unknown line.\n", $InFile, $linenumber) if $Config{Debug};
+      $warnings++;
+      push(@Msg, sprintf ("%s %3i: Warning: Skipping unknown line.\n", $InFile, $linenumber)) if ! $Config{quiet};
     }
     %LastLineField = %LineField;
   }	
 
-  next if $error;
+  $i++;
+  push(@SeasonList, "# ".($tmp + 0)."\t".($i - $Stop)."\t".($i - 1));
+  push(@SeasonList, "# /SEASONLIST");
 
   my @VARS = (\@Keywords, \@Comments, \@SeasonList, \@Data);
   my @Output = ();
@@ -203,12 +195,23 @@ foreach ( @Files ) {
       push(@Output, $_."\n");
     }
   }
-  if ( $OutFile && ( ! -s $OutFile || $Config{Force} ) ) {
+
+  if ( ! $errors && $OutFile && ( ! -s $OutFile || $Config{Force} ) ) {
     open(FILE, ">".$OutFile) || die("Cannot open output file ".$OutFile);
     foreach(@Output) { print FILE $_ }
     close FILE;
-  } else {
+  } elsif ( ! $errors ) {
     foreach(@Output) { print $_ }
+  }
+
+  foreach(@Msg) { print STDERR $_ }
+
+  if ( $errors ) {
+    printf STDERR ("File %s not accepted: %i errors and %i warnings.\n", $InFile, $errors, $warnings);
+  } elsif ( $warnings ) {
+    printf STDERR ("File %s accepted: %i warnings.\n", $InFile, $warnings) if ! $Config{quiet};
+  } else {
+    printf STDERR ("File %s accepted\n", $InFile) if ! $Config{quiet};
   }
 }
 
@@ -232,7 +235,7 @@ VDREplistChecker.pl -i=<> -o=<> [options...]
       -i			Input file or path
       -o			Output file or path
       -f			Force overwriting existing output files
-      -d			Print more to STDERR
+      -q			dont't print warnings
       
 =head1 OPTIONS
 
