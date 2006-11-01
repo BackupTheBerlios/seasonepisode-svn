@@ -173,8 +173,11 @@ foreach ( @Files ) {
       $infos++ if ! $Config{quiet} && $emptyline;
       push(@Msg, sprintf ("%s:%i: Info: Skipping not needed empty line.\n", $InFile, $linenumber)) if ! $Config{quiet} && $emptyline;
       $emptyline++;
-    } elsif ( $Line =~ /^$/ && ! $emptyline && ! $i ) {
+    } elsif ( $Line =~ /^$/ && ! $emptyline ) {
       push(@Data, $Line);
+      $emptyline++;
+    } elsif ( $Line =~ /^$/ && $emptyline ) {
+      #push(@Data, $Line);
       $emptyline++;
     } elsif ( $i ) {
       $warnings++ unless $Config{quiet} >= 2;
