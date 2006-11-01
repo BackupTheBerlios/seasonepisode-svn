@@ -206,13 +206,13 @@ foreach ( @Files ) {
   foreach(@Msg) { print STDERR $_ }
 
   if ( $errors ) {
-    printf STDERR ("File %s not accepted: %i errors, %i warnings, %i infos.\n", $InFile, $errors, $warnings, $infos) unless $Config{quiet} >= 3;
+    printf STDERR ("File not accepted: %s; %i errors, %i warnings, %i infos.\n", $InFile, $errors, $warnings, $infos) unless $Config{quiet} >= 3;
   } elsif ( $warnings ) {
-    printf STDERR ("File %s accepted: %i warnings, %i infos.\n", $InFile, $warnings, $infos) unless $Config{quiet} >= 2;
+    printf STDERR ("File accepted: %s; %i warnings, %i infos.\n", $InFile, $warnings, $infos) unless $Config{quiet} >= 2;
   } elsif ( $infos ) {
-    printf STDERR ("File %s accepted: %i infos.\n", $InFile, $infos) unless $Config{quiet} >= 1;
+    printf STDERR ("File accepted: %s; %i infos.\n", $InFile, $infos) unless $Config{quiet} >= 1;
   } else {
-    printf STDERR ("File %s accepted\n", $InFile) unless $Config{quiet} >= 3;
+    printf STDERR ("File accepted: %s.\n", $InFile) unless $Config{quiet} >= 3;
   }
 }
 
