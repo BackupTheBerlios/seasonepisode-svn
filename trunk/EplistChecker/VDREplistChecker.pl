@@ -3,9 +3,9 @@
 ##########################################################################
 #
 #
-$Version = "0.1.2";
+$Version = "0.1.3";
 #
-# Date:    2006-11-01
+# Date:    2006-11-04
 #
 # Author: Mike Constabel <vejoun @ vdrportal . de>
 #                        <vejoun @ toppoint . de>
@@ -71,6 +71,8 @@ foreach ( @Files ) {
   if ( $Config{OutFile} =~ /\/$/ && -d $Config{OutFile} ) {
     my ($filename, $directories, $suffix) = fileparse($InFile, qr/\.[^.]*/);
     $OutFile = $Config{OutFile}.$filename.$suffix;
+  } elsif ( $Config{OutFile} ) {
+    $OutFile = $Config{OutFile};
   }
 
   if ( $OutFile && -s $OutFile && ! $Config{Force} ) {
