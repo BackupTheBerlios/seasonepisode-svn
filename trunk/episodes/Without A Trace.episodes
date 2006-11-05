@@ -1,0 +1,82 @@
+#
+# SEASONLIST
+# 1	1	23
+# 2	24	47
+# 3	48	70
+# /SEASONLIST
+#
+#SE	EP	No.	Title
+#
+# 01. Staffel
+01	1	1	Das brave Mädchen
+01	2	2	Das Geburtstagskind
+01	3	3	Lügen und Geheimnisse
+01	4	4	Endstation New York
+01	5	5	Verdächtig
+01	6	6	Zwei Leben
+01	7	7	Mutterliebe
+01	8	8	Little Big Man
+01	9	9	In Extremis
+01	10	10	Mitternachtssonne
+01	11	11	In einer kleinen Stadt
+01	12	12	Der letzte Ausweg
+01	13	13	Der Fall Collins
+01	14	14	Ein eiskalter Plan
+01	15	15	Die Entführung der Braut
+01	16	16	Schatten der Vergangenheit
+01	17	17	Kam Li
+01	18	18	Die Quelle
+01	19	19	Ein Sieg für die Menschheit
+01	20	20	Der Champ
+01	21	21	Alte Wunden
+01	22	22	Der lange Abschied (1)
+01	23	23	Der lange Abschied (2)
+# 02. Staffel
+02	1	24	In kalter Absicht
+02	2	25	... und vergib uns unsere Schuld
+02	3	26	Lebenslügen
+02	4	27	Das Wunderkind
+02	5	28	In seiner Hand
+02	6	29	Eine ehrenwerte Stadt
+02	7	30	Um jeden Preis
+02	8	31	Schutt und Asche
+02	9	32	Die falsche Tochter
+02	10	33	Verbotene Liebe
+02	11	34	Schmutziger Regen
+02	12	35	Fremde Stimmen
+02	13	36	Eine geregelte Entführung
+02	14	37	Das Komplott
+02	15	38	Gnadenlos
+02	16	39	Tempel der Absolution
+02	17	40	Der einsame Held
+02	18	41	Späte Rache
+02	19	42	Doppelgänger
+02	20	43	Zeit zu sterben
+02	21	44	Der Vater
+02	22	45	Ende der Spielzeit
+02	23	46	Die Adoption
+02	24	47	Ein sicheres Versteck
+# 03. Staffel
+03	1	48	Im Dunkel der Angst
+03	2	49	Die Legion des Kreuzes
+03	3	50	Von einem anderen Stern
+03	4	51	Eine unglückliche Familie
+03	5	52	Die amerikanische Göttin
+03	6	53	Pakt mit dem Teufel (1)
+03	7	54	Pakt mit dem Teufel (2)
+03	8	55	Bruderliebe
+03	9	56	Schatten der Vergangenheit
+03	10	57	Malone gegen Malone
+03	11	58	Reifeprüfung
+03	12	59	Kain und Abel
+03	13	60	Der erste Verdacht
+03	14	61	Tödliche Spiele
+03	15	62	Partygirl
+03	16	63	Der gejagte Vater
+03	17	64	Mädchenhandel
+03	18	65	Verwandlungen
+03	19	66	n.n.
+03	20	67	n.n.
+03	21	68	n.n.
+03	22	69	n.n.
+03	23	70	n.n.
