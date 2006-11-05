@@ -3,9 +3,9 @@
 ##########################################################################
 #
 #
-$Version = "0.1.3";
+$Version = "0.1.4";
 #
-# Date:    2006-11-04
+# Date:    2006-11-05
 #
 # Author: Mike Constabel <vejoun @ vdrportal . de>
 #                        <vejoun @ toppoint . de>
@@ -108,11 +108,11 @@ foreach ( @Files ) {
     if ( $Line =~ /^#\s*SEASONLIST/ ) { $Seasonlist = 1; next; }
     if ( $Line =~ /^#\s*\/SEASONLIST/ ) { $Seasonlist = 0; next; }
     next if $Seasonlist;
+    my $spacer = '(\t|~|\ {3,})';
+    if ( $Line =~ /^\s*(\d+)\s*${spacer}\s*(\d+)\s*${spacer}\s*(\d+)\s*${spacer}\s*(.*?)\s*${spacer}\s*(.*?)\s*$/ || $Line =~ /^\s*(\d+)\s*${spacer}\s*(\d+)\s*${spacer}\s*(\d+)\s*${spacer}\s*(.*?)\s*$/ || $Line =~ /^\s*(\d+)\s*${spacer}\s*(\d+)\s*${spacer}\s*(\d+)\s*$/ ) {
+      %LineField = ( Season => $1+0, Episode => $3+0, EpisodeOverAll => $5+0, Subtitle => ( defined $7 && $7 ) ? $7 : "n.n.", Miscellaneous => ( defined $9 && $9 ) ? $9 : "");
 
-    if ( $Line =~ /^\s*(\d+)\s*\t\s*(\d+)\s*\t\s*(\d+)\s*\t\s*(.*?)\s*\t\s*(.*?)\s*$/ || $Line =~ /^\s*(\d+)\s*\t\s*(\d+)\s*\t\s*(\d+)\s*\t\s*(.*?)\s*$/ || $Line =~ /^\s*(\d+)\s*\t\s*(\d+)\s*\t\s*(\d+)\s*$/ ) {
-      %LineField = ( Season => $1+0, Episode => $2+0, EpisodeOverAll => $3+0, Subtitle => ( defined $4 && $4 ) ? $4 : "n.n.", Miscellaneous => ( defined $5 && $5 ) ? $5 : "");
-
-      $LineField{Subtitle} =~ s/^\s*nn\s*$/n\.n\./;
+      $LineField{Subtitle} =~ s/^\s*n\.?n\.?\s*$/n\.n\./;
       $LineField{Subtitle} =~ s/ +/ /g;
       
       %LastLineField = %LineField if $firstline;
