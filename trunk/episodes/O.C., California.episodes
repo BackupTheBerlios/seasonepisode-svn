@@ -1,0 +1,88 @@
+#
+# SEASONLIST
+# 1	1	27
+# 2	28	51
+# 3	52	76
+# /SEASONLIST
+#
+#SE	EP	No.	Title
+#
+# 01. Staffel
+01	1	1	Fremde Welten
+01	2	2	Das Musterhaus
+01	3	3	Glücksspiele
+01	4	4	Das Debüt
+01	5	5	Außenseiter
+01	6	6	Die neue Freundin
+01	7	7	Tijuana
+01	8	8	Der Test
+01	9	9	Höhenangst
+01	10	10	Traumpaare
+01	11	11	Rückkehr nach Chino
+01	12	12	Das Geheimnis
+01	13	13	Das beste Weihnukkah aller Zeiten
+01	14	14	Countdown
+01	15	15	Neue Freundschaften
+01	16	16	Falsches Spiel
+01	17	17	Rivalen
+01	18	18	Die Wahrheit
+01	19	19	Gebrochene Herzen
+01	20	20	Irrungen und Wirrungen
+01	21	21	Abschied
+01	22	22	Hollywood
+01	23	23	Eine böse Überraschung
+01	24	24	Der Antrag
+01	25	25	Die Verlobungsfeier
+01	26	26	Viva Las Vegas
+01	27	27	Die Entscheidung
+# 02. Staffel
+02	1	28	Kein Weg zurück
+02	2	29	Das Wiedersehen
+02	3	30	Alles wird anders
+02	4	31	Die neue Ära
+02	5	32	Wer mit wem?
+02	6	33	Das Weihnukkah-Debakel
+02	7	34	Familienbande
+02	8	35	Die Kunst des Lügens
+02	9	36	Der Ex-Faktor
+02	10	37	Komplizen
+02	11	38	Die zweite Chance
+02	12	39	Der Club der einsamen Herzen
+02	13	40	Enthüllungen
+02	14	41	Regen
+02	15	42	Eingesperrt
+02	16	43	Feuer
+02	17	44	Bruderliebe
+02	18	45	Lockere Geschäfte
+02	19	46	Die Überraschungsparty
+02	20	47	Der Deal
+02	21	48	Kleine und grosse Sünden
+02	22	49	Der Showdown
+02	23	50	Die Qual der Wahl
+02	24	51	Ausser Kontrolle
+# 03. Staffel
+03	1	52	Plan B
+03	2	53	Ende und Anfang
+03	3	54	Das Testament
+03	4	55	Die neue Schule
+03	5	56	Summers Trick
+03	6	57	Hohe Wellen
+03	7	58	Volchoks Revanche
+03	8	59	Erste Wahl: Berkely
+03	9	60	Konkurrenten
+03	10	61	Die Weihnukkah-Bar-Mitzwakkah
+03	11	62	Die letzte Chance
+03	12	63	Schwestern
+03	13	64	Am Scheideweg
+03	14	65	Cliffhanger
+03	15	66	Abschied am Strand
+03	16	67	Unterwegs
+03	17	68	Endlich erwachsen
+03	18	69	Kamasutra für Anfänger
+03	19	70	Der andere Ryan
+03	20	71	Was die Zukunft bringt
+03	21	72	Der Schmerz
+03	22	73	Alte Bekannte
+03	23	74	Der Abschlussball
+03	24	75	Der Mann des Jahres
+03	25	76	Goodbye, Harbor
