@@ -17,49 +17,49 @@
 #
 # 01. Staffel
 01	1	1	Der Mächtige
-01	2	2	Mission Farpiont
-01	3	3	Gedanken Gift
+01	2	2	Mission Farpoint
+01	3	3	Gedankengift
 01	4	4	Der Ehrenkodex
 01	5	5	Der Wächter
 01	6	6	Der Reisende
-01	7	7	Die Geheimnisvolle Kraft
+01	7	7	Die geheimnisvolle Kraft
 01	8	8	Das Gesetz der Edo
 01	9	9	Die Schlacht von Maxia
 01	10	10	Rikers Versuchung
 01	11	11	Die Frau seiner Träume
 01	12	12	Der große Abschied
 01	13	13	Das Dublikat
-01	14	14	Planet Angel
+01	14	14	Planet Angel One
 01	15	15	11001001
 01	16	16	Die Entscheidung des Admirals
-01	17	17	Die Sorge der Alseaner
+01	17	17	Die Sorge der Aldeaner
 01	18	18	Ein Planet wehrt sich
 01	19	19	Prüfungen
 01	20	20	Worfs Brüder
 01	21	21	Die Waffenhändler
 01	22	22	Die Seuche
 01	23	23	Die schwarze Seele
-01	24	24	Begegnungen mit der Vergangenheit
+01	24	24	Begegnung mit der Vergangenheit
 01	25	25	Die Verschwörung
-01	26	26	Die Neutrale Zone
+01	26	26	Die neutrale Zone
 # 02. Staffel
 02	1	27	Das Kind
 02	2	28	Illusion oder Wiklichkeit?
-02	3	29	Sherlock Data Homes
+02	3	29	Sherlock Data Holmes
 02	4	30	Der ungewöhnliche Captain Okona
 02	5	31	Der stumme Vermittler
 02	6	32	Das fremde Gedächtnis
 02	7	33	Die jungen Greise
 02	8	34	Der Austauschoffizier
-02	9	35	Wem gehöhrt Data?
-02	10	36	Die Tronfolgerin
+02	9	35	Wem gehört Data?
+02	10	36	Die Thronfolgerin
 02	11	37	Die Iconia-Sonden
-02	12	38	Hotel Royal
+02	12	38	Hotel Royale
 02	13	39	Die Zukunst schweigt
 02	14	40	Rikers Vater
 02	15	41	Brieffreunde
 02	16	42	Zeitsprung mit Q
-02	17	43	Das Herz des Captains
+02	17	43	Das Herz eines Captains
 02	18	44	Der Planet der Klone
 02	19	45	Andere Sterne, andere Sitten
 02	20	46	Klingonenbegegnung
@@ -71,14 +71,14 @@
 03	3	51	Die Überlebenden auf Rana-Vier
 03	4	52	Der Gott der Mintakaner
 03	5	53	Mutterliebe
-03	6	54	Die Energie Falle
-03	7	55	Auf schmalen Grat
+03	6	54	Die Energiefalle
+03	7	55	Auf schmalem Grat
 03	8	56	Der Barzanhandel
-03	9	57	Yuta, die letzte ihres Clans
+03	9	57	Yuta, die Letzte ihres Clans
 03	10	58	Der Überläufer die Verfremdeten
 03	11	59	Die Verfemten
-03	12	60	Terror auf Rutia - Vier
-03	13	61	Noch einmal
+03	12	60	Terror auf Rutia IV
+03	13	61	Noch einmal Q
 03	14	62	Riker unter Verdacht
 03	15	63	Die alte Enterprise
 03	16	64	Datas Nachkomme
@@ -88,9 +88,9 @@
 03	20	68	Der Telepath
 03	21	69	Der schüchterne Reginald
 03	22	70	Der Sammler
-03	23	71	Botschafter
+03	23	71	Botschafter Sarek
 03	24	72	Die Damen Troi
-03	25	73	Wer ist John ?
+03	25	73	Wer ist John?
 03	26	74	In den Händen der Borg
 # 04. Staffel
 04	1	75	Angriffsziel Erde
@@ -115,19 +115,19 @@
 04	20	94	Gefangen in der Vergangenheit
 04	21	95	Das Standgericht
 04	22	96	Die Auflösung
-04	23	97	Odanm, der Sonderbotschafter
+04	23	97	Odan, der Sonderbotschafter
 04	24	98	Verräterische Signale
 04	25	99	Datas erste Liebe
-04	26	100	Der Kampf ums klingonische Reich (Teil 1)
+04	26	100	Kampf ums klingonische Reich (1)
 # 05. Staffel
-05	1	101	Der Kampf ums klingonische Reich (Teil 2)
+05	1	101	Kampf um das klingonische Reich (2)
 05	2	102	Darmok
 05	3	103	Fähnrich Ro
 05	4	104	Das Recht auf Leben
 05	5	105	Katastrophe auf der Enterprise
 05	6	106	Gefährliche Spielsucht
-05	7	107	Wiedervereinigung (Teil 1)
-05	8	108	Wiedervereinigung (Teil 2)
+05	7	107	Wiedervereinigung? (1)
+05	8	108	Wiedervereinigung? (2)
 05	9	109	Der Zeitreisende Historiker
 05	10	110	Die Soliton-Welle
 05	11	111	Der einzige Überlebende
@@ -145,26 +145,26 @@
 05	23	123	Ich bin Hugh
 05	24	124	So nah und doch so fern
 05	25	125	Das zweite Leben
-05	26	126	Gefahr aus dem 19 Jahrhundert (Teil 1)
+05	26	126	Gefahr aus dem 19. Jahrhundert (1)
 # 06. Staffel
-06	1	127	Gefahr aus dem 19 Jahrhundert (Teil 2)
+06	1	127	Gefahr aus dem 19. Jahrhundert (2)
 06	2	128	Todesangst beim Beamen
-06	3	129	Der unmaralische Friedensvermittler
+06	3	129	Der unmoralische Friedensvermittler
 06	4	130	Besuch von der alten Enterpise
-06	5	131	In den Subraum Entführt
+06	5	131	In den Subraum entführt
 06	6	132	Eine echte Q
 06	7	133	Erwachsene Kinder
-06	8	134	Eine Hanvoll Datas
+06	8	134	Eine Handvoll Datas
 06	9	135	Datas Hyothese
-06	10	136	Geheime Mission auf Seltris 3 (Teil 1)
-06	11	137	Geheime Mission auf Seltris 3 (Teil 2)
+06	10	136	Geheime Mission auf Seltris Drei (1)
+06	11	137	Geheime Mission auf Seltris Drei (2)
 06	12	138	Das Schiff in der Flasche
 06	13	139	Aquiel
 06	14	140	Das Gesicht des Feindes
-06	15	141	Willkommen im Leben nach dem Tode
-06	16	142	Der Moment der Erkenntnis (Teil 1)
-06	17	143	Der Moment der Erkenntnis (Teil 2)
-06	18	144	In der Hand von Terrorristen
+06	15	141	Willkommen im Leben nach dem Tod
+06	16	142	Der Moment der Erkenntnis (1)
+06	17	143	Der Moment der Erkenntnis (2)
+06	18	144	In der Hand von Terroristen
 06	19	145	Der Feuersturm
 06	20	146	Das fehlende Fragment
 06	21	147	Phantasie oder Wirklichkeit
@@ -172,31 +172,31 @@
 06	23	149	Das rechtmäßige Erbe
 06	24	150	Riker : 2 = ?
 06	25	151	Gefangen in einem temporären Fragment
-06	26	152	Angriff der Borg (Teil 1)
+06	26	152	Angriff der Borg (1)
 # 07. Staffel
-07	1	153	Angriff der Borg (Teil 2)
-07	2	154	Indoskretionen
-07	3	155	Interface
-07	4	156	Der Schachzug (Teil 1)
-07	5	157	Der Schachzug (Teil 2)
-07	6	158	Traumanalyse
+07	1	153	Angriff der Borg (2)
+07	2	154	Indiskretionen
+07	3	155	Das Interface
+07	4	156	Der Schachzug (1)
+07	5	157	Der Schachzug (2)
+07	6	158	Traumanalysen
 07	7	159	Ort der Finsternis
 07	8	160	Kontakte
-07	9	161	Die Raumkatastrophe
+07	9	161	Raumkatastrophe
 07	10	162	Soongs Vermächtnis
-07	11	163	Paralellen
-07	12	164	Das Pegasus Projekt
+07	11	163	Parallelen
+07	12	164	Das Pegasus-Projekt
 07	13	165	Die oberste Direktive
 07	14	166	Ronin
-07	15	167	Beförderung
+07	15	167	Beförderungen
 07	16	168	Radioaktiv
 07	17	169	Der Komet
-07	18	170	Der Fall Utopia Planetia
+07	18	170	Der Fall Utopia Planitia
 07	19	171	Genesis
-07	20	172	Das Ende der Reise
+07	20	172	Am Ende der Reise
 07	21	173	Ritus des Aufsteigens
 07	22	174	Boks Vergeltung
 07	23	175	Neue Intelligenz
 07	24	176	Die Rückkehr von Ro Laren
-07	25	177	Gestern, heute, morgen (Teil 1)
-07	26	178	Gestern, heute, morgen (Teil 2)
+07	25	177	Gestern, Heute, Morgen (1)
+07	26	178	Gestern, Heute, Morgen (2)
