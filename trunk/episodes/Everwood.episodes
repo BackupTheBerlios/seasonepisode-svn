@@ -1,0 +1,79 @@
+#
+# SEASONLIST
+# 1	1	23
+# 2	24	45
+# 3	46	67
+# /SEASONLIST
+#
+#SE	EP	No.	Title
+#
+# 01. Staffel
+01	1	1	Der schönste Ort der Welt
+01	2	2	Der große Dr. Brown
+01	3	3	Die Leihmutter
+01	4	4	Die Kussbrücke
+01	5	5	Ein Reh im Wohnzimmer
+01	6	6	Das Psychomobil
+01	7	7	Schuld und Sühne
+01	8	8	Bis dass der Tod uns scheidet
+01	9	9	Überraschender Besuch
+01	10	10	Bright in Lebensgefahr
+01	11	11	Das Thanksgiving Dinner
+01	12	12	Marihuana im Blumenladen
+01	13	13	Die Hauptrolle
+01	14	14	Colin der Zweite
+01	15	15	Abenteuer im Schnee
+01	16	16	Valentinstag
+01	17	17	Mord in Everwood
+01	18	18	Die Enthüllung
+01	19	19	Das Wunder von Everwood
+01	20	20	Aliens über Everwood
+01	21	21	Schwanger und Verlassen
+01	22	22	Nackte Angst
+01	23	23	Collins Abschied
+# 02. Staffel
+02	1	24	Das Versprechen
+02	2	25	Gute Noten, schlechte Noten
+02	3	26	Lindas Rückkehr
+02	4	27	Der Babysitter
+02	5	28	Die eifersüchtige Tochter
+02	6	29	Blinder Glaube
+02	7	30	Explosion in der Mine
+02	8	31	Der Hellseher
+02	9	32	Wie im Film
+02	10	33	Traurige Feiertage
+02	11	34	Wer hält sein Versprechen?
+02	12	35	Alles unter Kontrolle
+02	13	36	Vergiss mein nicht
+02	14	37	Das erste Mal
+02	15	38	Das Wort mit L
+02	16	39	Überdosis
+02	17	40	Getrennt!
+02	18	41	Letzte Blicke
+02	19	42	Das Geheimnis
+02	20	43	Schwere Entscheidungen
+02	21	44	Zukunftspläne
+02	22	45	Das Ende eines Tages
+# 03. Staffel
+03	1	46	Ephrams Rückkehr
+03	2	47	Geheimnisse
+03	3	48	Späte Erkenntnis
+03	4	49	Peinliche Fragen
+03	5	50	Zungenspiele
+03	6	51	Phase drei
+03	7	52	Vergebliche Liebesmüh'
+03	8	53	Kalte Tränen
+03	9	54	Liebesgeflüster
+03	10	55	Schlechtes Gewissen
+03	11	56	Innerlich zerrissen
+03	12	57	Von Frau zu Frau
+03	13	58	Ein perfekter Tag
+03	14	59	Lebe dein Leben
+03	15	60	Turbulente Zeiten
+03	16	61	Ein Date zu Viert
+03	17	62	Bittere Wahrheit
+03	18	63	Auf der Suche
+03	19	64	Zerplatzte Träume
+03	20	65	Schreckliche Gewissheit
+03	21	66	Aufbruch
+03	22	67	Wo dein Herz schlägt
