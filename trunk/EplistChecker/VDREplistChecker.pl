@@ -180,7 +180,7 @@ foreach ( @Files ) {
       push(@Msg, sprintf ("%s:%i: Info: Skipping not needed empty line.\n", $InFile, $linenumber)) if ! $Config{quiet} && $emptyline;
       $emptyline++;
     } elsif ( $Line =~ /^$/ && ! $emptyline ) {
-      push(@Data, $Line);
+      #push(@Data, $Line);
       $emptyline++;
     } elsif ( $Line =~ /^$/ && $emptyline ) {
       #push(@Data, $Line);
