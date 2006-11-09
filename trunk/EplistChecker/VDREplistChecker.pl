@@ -3,7 +3,7 @@
 ##########################################################################
 #
 #
-$Version = "0.1.5";
+$Version = "0.1.6";
 #
 # Date:    2006-11-09
 #
@@ -24,11 +24,11 @@ use warnings;
 
 ###########
 
-my %Config = (InFile => "", OutFile => "", Force => 0, Debug => 0, man => 0, help => 0, quiet => 0);
+my %Config = (InFile => "", OutFile => "", Force => 0, Debug => 0, man => 0, help => 0, quiet => 0, max => 0);
 my @EpisodesFile;
 
 Getopt::Long::Configure ("bundling_override");
-GetOptions (\%Config,   'InFile|i=s', 'OutFile|o=s', 'Force|f!', 'Debug|d!', 'help|h|?', 'quiet|q:+', 'man', 'version');
+GetOptions (\%Config,   'InFile|i=s', 'OutFile|o=s', 'Force|f!', 'Debug|d!', 'help|h|?', 'quiet|q:+', 'man', 'version', 'max|n=i');
 
 if ( $Config{version} )				{ print ($0." Version ".$Version."\n"); exit; }
 pod2usage(-exitstatus => 0, -verbose => 2)	if ( $Config{man} );
@@ -108,8 +108,8 @@ foreach ( @Files ) {
 
     if ( $Line =~ /^#\s*SEASONLIST/ ) { $Seasonlist = 1; next; }
     if ( $Line =~ /^#\s*\/SEASONLIST/ ) { $Seasonlist = 0; next; }
-    if ( $Seasonlist && $Line =~ /^#\s*(\d+)\s*\t\s*\d+\s*\t\s*(\d+)\s*$/ ) {
-      %maxep = ( season => $1 + 0, episode => $2 +0 );
+    if ( $Seasonlist && $Line =~ /^#\s*(\d+)\s*\t\s*(\d+)\s*\t\s*(\d+)\s*$/ ) {
+      %maxep = ( season => $1 + 0, start => $2 + 0, stop => $3 + 0, max => $3-$2+1 );
     }
     next if $Seasonlist;
     my $spacer = '(\t|~|\ {3,})';
@@ -192,16 +192,22 @@ foreach ( @Files ) {
     %LastLineField = %LineField;
   }	
 
-  if ( $LineField{Season} == $maxep{season} && $maxep{episode} > $LineField{Episode} ) {
+  if ( $Config{max} ) {
     my $k;
-    for ( $k = $LineField{Episode} +1; $k <= $maxep{episode}; $k++ ) {
+    for ( $k = $LineField{Episode} +1; $k <= $Config{max}; $k++ ) {
+      $i++;
+      push(@Data, sprintf("%02i\t%i\t%i\t%s", $LineField{Season}, $k, $i, "n.n."));
+    }
+  } elsif ( $LineField{Season} == $maxep{season} && $maxep{max} > $LineField{Episode} ) {
+    my $k;
+    for ( $k = $LineField{Episode} +1; $k <= $maxep{max}; $k++ ) {
       $i++;
       push(@Data, sprintf("%02i\t%i\t%i\t%s", $LineField{Season}, $k, $i, "n.n."));
     }
   }
 
   $i++;
-  push(@SeasonList, "# ".($tmp + 0)."\t".($i - ($maxep{episode} ? $maxep{episode} : $Stop))."\t".($i - 1));
+  push(@SeasonList, "# ".($tmp + 0)."\t".($i - ($Config{max} ? $Config{max} : ($maxep{max} ? $maxep{max} : $Stop)))."\t".($i - 1));
   push(@SeasonList, "# /SEASONLIST");
 
   my @VARS = (\@Keywords, \@Comments, \@SeasonList, \@Data);
@@ -268,6 +274,7 @@ VDREplistChecker.pl -i=<> -o=<> [options...]
       -q			Dont't print infos
       -qq			Don't print infos, warnings
       -qqq			Don't print infos, warnings, errors
+      -n | --max		Number of episodes in last season in list
       
 =head1 OPTIONS
 
