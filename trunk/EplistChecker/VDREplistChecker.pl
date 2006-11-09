@@ -3,9 +3,9 @@
 ##########################################################################
 #
 #
-$Version = "0.1.4";
+$Version = "0.1.5";
 #
-# Date:    2006-11-05
+# Date:    2006-11-09
 #
 # Author: Mike Constabel <vejoun @ vdrportal . de>
 #                        <vejoun @ toppoint . de>
@@ -90,6 +90,7 @@ foreach ( @Files ) {
   $i = $linenumber	= 0;
   $firstline		= 1;
   $alternative		= 0;
+  my %maxep		= ();
   my @Data		= ();
   my @Comments		= ();
   my @Keywords		= ();
@@ -107,6 +108,9 @@ foreach ( @Files ) {
 
     if ( $Line =~ /^#\s*SEASONLIST/ ) { $Seasonlist = 1; next; }
     if ( $Line =~ /^#\s*\/SEASONLIST/ ) { $Seasonlist = 0; next; }
+    if ( $Seasonlist && $Line =~ /^#\s*(\d+)\s*\t\s*\d+\s*\t\s*(\d+)\s*$/ ) {
+      %maxep = ( season => $1 + 0, episode => $2 +0 );
+    }
     next if $Seasonlist;
     my $spacer = '(\t|~|\ {3,})';
     if ( $Line =~ /^\s*(\d+)\s*${spacer}\s*(\d+)\s*${spacer}\s*(\d+)\s*${spacer}\s*(.*?)\s*${spacer}\s*(.*?)\s*$/ || $Line =~ /^\s*(\d+)\s*${spacer}\s*(\d+)\s*${spacer}\s*(\d+)\s*${spacer}\s*(.*?)\s*$/ || $Line =~ /^\s*(\d+)\s*${spacer}\s*(\d+)\s*${spacer}\s*(\d+)\s*$/ ) {
@@ -188,8 +192,16 @@ foreach ( @Files ) {
     %LastLineField = %LineField;
   }	
 
+  if ( $LineField{Season} == $maxep{season} && $maxep{episode} > $LineField{Episode} ) {
+    my $k;
+    for ( $k = $LineField{Episode} +1; $k <= $maxep{episode}; $k++ ) {
+      $i++;
+      push(@Data, sprintf("%02i\t%i\t%i\t%s", $LineField{Season}, $k, $i, "n.n."));
+    }
+  }
+
   $i++;
-  push(@SeasonList, "# ".($tmp + 0)."\t".($i - $Stop)."\t".($i - 1));
+  push(@SeasonList, "# ".($tmp + 0)."\t".($i - ($maxep{episode} ? $maxep{episode} : $Stop))."\t".($i - 1));
   push(@SeasonList, "# /SEASONLIST");
 
   my @VARS = (\@Keywords, \@Comments, \@SeasonList, \@Data);
