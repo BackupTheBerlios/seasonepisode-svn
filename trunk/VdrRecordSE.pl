@@ -18,7 +18,7 @@ use String::Approx qw (amatch) ;
 # release ?
 
 # Dieses Script modifiziert die Aufnahmeverzeichnisse von Serien im VDR nach extern vorgegeben Schemata zum Format Season Episode
-my $LastEdit = "16.10.2006";
+my $LastEdit = "14.11.2006";
 my $use = "\$ VdrRecordSE.pl [-h -s -p] [-c {ConfigDir] [-i VideoDir] [ -f {\"\%N \%S \%E \%T\"} ]
 
 -h	help : Zeige die eingebaute Hilfe an, sonst nix
@@ -155,6 +155,7 @@ foreach my $Zeile ( @VideoList ) {
 #			print "foreach  \( sort keys \%Episoden_Lists $_\n" ;
 			if ( amatch ("$OSerie" , ["30%"] , "$_")) {
 				my ( $match_in_episodes , $ZahlS , $ZahlE , $ZahlN , $NSerie ) = finde_SE_in_episodes_Datei ( $Episoden_Lists{$_} , $OEpisode ) ;
+#				print "$match_in_episodes , $ZahlS , $ZahlE , $ZahlN , $NSerie\n" ;
 				if ( defined $match_in_episodes and $match_in_episodes eq 1 ) { 
 #					print "$match_in_episodes $ZahlS , $ZahlE , $ZahlN , $OEpisode\n" ;
 					$NEpisode = formatiere_neuen_episodennamen  ( $OEpisode , $ZahlS , $ZahlE , $ZahlN , $opt_f ) ;
@@ -237,7 +238,8 @@ unless ( $opt_p ) { system ("touch $opt_i.update")  ; }
 			my $ZahlE = $_[2] ;
 			my $ZahlN = $_[3] ;
 			my $opt_f = $_[4] ;
-							
+						if ( $ZahlS =~ /^\d{1}$/ ) { $ZahlS = "0$ZahlS" ; } # führende Null dran, wenn nötig
+						if ( $ZahlE =~ /^\d{1}$/ ) { $ZahlE = "0$ZahlE" ; } # führende Null dran, wenn nötig					
 						my ( $PreName  ) = $OEpisode =~ /(\[\w+\])/ ;
 						( my  $Name  =  $OEpisode ) =~ s/\[\w+\]// ;
 						$Name =~ s /\ +/_/g ;
