@@ -1,0 +1,74 @@
+#
+# SEASONLIST
+# 1	1	6
+# 2	7	13
+# 3	14	21
+# 4	22	28
+# 5	29	36
+# 6	37	49
+# 7	50	54
+# /SEASONLIST
+#
+#SE	EP	No.	Title
+#
+# 01. Staffel
+01	1	1	Das Dreieck des Todes
+01	2	2	Die Nacht, in der ein Toter stirbt
+01	3	3	Der süße Tod
+01	4	4	Denn sie wissen, was sie tun
+01	5	5	Wenn sich zwei Monde kreuzen
+01	6	6	Wenn das Böse erwacht
+# 02. Staffel
+02	1	7	Die Fliegen, die Maden, der Tod
+02	2	8	Denn die Rache ist mein
+02	3	9	Schwebende Engel
+02	4	10	Schlag auf Schlag
+02	5	11	Die Bank, die Liebe, der Tod
+02	6	12	Töte den Feind deines Feindes
+02	7	13	Unter die Haut
+# 03. Staffel
+03	1	14	Der Tod des weißen Ritters
+03	2	15	Ein Mann kommt zurück
+03	3	16	Die Erpressung
+03	4	17	Familienbande
+03	5	18	Der vierte Mann
+03	6	19	Der Weg zur Hölle
+03	7	20	Drei Jahre und eine Nacht
+03	8	21	Das letzte Bild
+# 04. Staffel
+04	1	22	Der heilige Krieg
+04	2	23	Ein Kinderspiel
+04	3	24	Tod eines Stars
+04	4	25	Das Duell
+04	5	26	Die Entführung
+04	6	27	Im Netz
+04	7	28	Manche, sagt man, sind verdammt
+# 05. Staffel
+05	1	29	Der Tag, an dem ein Vogel vom Himmel fiel
+05	2	30	Der Preis der Wahrheit
+05	3	31	Die Kugel im Lauf der Dinge
+05	4	32	Das Klassentreffen
+05	5	33	Die Show geht weiter
+05	6	34	Im Schatten stirbt man nicht
+05	7	35	Der Fluch des letzten Königs
+05	8	36	Haut aus Eisen
+# 06. Staffel
+06	1	37	Ich hasse meine Mutter
+06	2	38	Der grüne Diamant
+06	3	39	Der Fluch der verlorenen Schätze
+06	4	40	Die sich nach Liebe sehnen
+06	5	41	Das weiße Rauschen
+06	6	42	Anatomie des Herzens
+06	7	43	Bitter im Abgang
+06	8	44	Der vergessene Tod
+06	9	45	Die Jungs aus Dahlem
+06	10	46	Brennende Gier
+06	11	47	Der Albtraum
+06	12	48	Die Frösche, die Kinder, der Tod
+06	13	49	Sandkastenliebe
+# 07. Staffel
+07	1	50	Die Sensationsreporterin
+07	2	51	Lügner leben länger
+07	3	52	Die Tote aus dem Moor
+07	4	53	Das Rad des Lebens
+07	5	54	Die Frau ohne Gewissen
