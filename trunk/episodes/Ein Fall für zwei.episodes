@@ -3,7 +3,7 @@
 # 1	1	60
 # 2	61	149
 # 3	150	182
-# 4	183	242
+# 4	183	244
 # /SEASONLIST
 #
 #SE	EP	No.	Title
@@ -58,10 +58,10 @@
 01	47	47	Zorek muß schießen
 01	48	48	Zahltag
 01	49	49	Tatzeit
-01	50	50	"Irgendwann ..."
+01	50	50	"Irgendwann ..."
 01	51	51	Wertloses Alibi
-01	52	52	Über den Tod hinaus ...
-01	53	53	... zum Tode verurteilt
+01	52	52	Über den Tod hinaus ...
+01	53	53	... zum Tode verurteilt
 01	54	54	Lebenslänglich für einen Toten
 01	55	55	Ayla
 01	56	56	Kurz hinter Ankara
@@ -254,3 +254,5 @@
 04	58	240	Der verlorene Sohn
 04	59	241	Ein Eiskaltes Geschäft
 04	60	242	Ewige Freundschaft
+04	61	243	Das Lachen des Buddha
+04	62	244	Doppelgänger
