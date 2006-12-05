@@ -1,0 +1,124 @@
+#
+# SEASONLIST
+# 1	1	12
+# 2	13	22
+# 3	23	28
+# 4	29	40
+# 5	41	60
+# 6	61	71
+# 7	72	84
+# 8	85	91
+# 9	92	100
+# /SEASONLIST
+#
+#SE	EP	No.	Title
+#
+# 01. Staffel
+01	1	1	Flucht nach Fahrplan
+01	2	2	Taximorde
+01	3	3	Brandnarben
+01	4	4	Bombenspiel
+01	5	5	Wilde Triebe
+01	6	6	Bennis Entführung
+01	7	7	Abschied für immer
+01	8	8	Todesflug
+01	9	9	Liebesdienste
+01	10	10	Tod im Internat
+01	11	11	Der letzte Blues
+01	12	12	Börsenfieber
+# 02. Staffel
+02	1	13	Der Lockvogel
+02	2	14	Irrwege
+02	3	15	Dickes Blut
+02	4	16	Alte Freunde
+02	5	17	Mädchen
+02	6	18	Echte Profis
+02	7	19	Eine Liebe von Jan
+02	8	20	Schuld und Sühne
+02	9	21	Doppelleben
+02	10	22	Sport ist Mord
+# 03. Staffel
+03	1	23	Liebeswahn
+03	2	24	Der Musenkuss
+03	3	25	Einsame Herzen
+03	4	26	Verliebt in einen Lehrer
+03	5	27	Der Hellseher
+03	6	28	Tödliche Kurse
+# 04. Staffel
+04	1	29	Verhängnisvolle Heimkehr
+04	2	30	Toten schenkt man nichts
+04	3	31	Seitensprung
+04	4	32	Die Liebesfalle
+04	5	33	Tod einer Diva
+04	6	34	Die Witwe
+04	7	35	Unter Asphalt
+04	8	36	Crash
+04	9	37	Die blinde Zeugin
+04	10	38	Gute Nachbarn
+04	11	39	Mord ist sein Hobby
+04	12	40	Das Duell
+# 05. Staffel
+05	1	41	Der böse Blick
+05	2	42	Die Millionärin
+05	3	43	Tödliche Falle
+05	4	44	Das Geheimnis der Braut
+05	5	45	Benni und die Detektive
+05	6	46	Außer Kontrolle
+05	7	47	Auf der Flucht
+05	8	48	Engel der Nacht
+05	9	49	Notwehr
+05	10	50	Sansibsar
+05	11	51	Heiße Ware
+05	12	52	Sein letztes Date
+05	13	53	Herrenrunde
+05	14	54	Grenzverkehr
+05	15	55	Durchgebrannt
+05	16	56	Der Auftragsmord
+05	17	57	Das Phantom
+05	18	58	Die Schlangengrube
+05	19	59	Speed
+05	20	60	Der unsichtbare Tod
+# 06. Staffel
+06	1	61	Die Tote aus Riga
+06	2	62	Homejacking
+06	3	63	Bücherwahn
+06	4	64	Risiken und Nebenwirkungen
+06	5	65	Vaterliebe
+06	6	66	Die Polizistin
+06	7	67	Vermisst
+06	8	68	Topstar gesucht!
+06	9	69	Florida
+06	10	70	Made in China
+06	11	71	Abgetaucht
+# 07. Staffel
+07	1	72	Nervenkitzel
+07	2	73	Die Aufsteiger
+07	3	74	Liebe und Tod in Moskau
+07	4	75	Schatzsuche
+07	5	76	Musikalisches Opfer
+07	6	77	Rufmord
+07	7	78	Der menschliche Faktor
+07	8	79	Vier Zeugen und ein Todesfall
+07	9	80	Eine glückliche Familie
+07	10	81	Der Japaner
+07	11	82	Die weiße Frau
+07	12	83	Die Moorleiche
+07	13	84	Totengräber
+# 08. Staffel
+08	1	85	Ehrliche Leute
+08	2	86	Auf eigene Rechnung
+08	3	87	Anonym
+08	4	88	Das Mädchen auf dem Schwebebalken
+08	5	89	Hundeleben
+08	6	90	Ausbruch
+08	7	91	Vollgas
+# 09. Staffel
+09	1	92	Die verschwundene Leiche
+09	2	93	Katzenfutter
+09	3	94	Seelenwanderung
+09	4	95	Die Tote aus Riga
+09	5	96	Mein Freund
+09	6	97	Psycho
+09	7	98	Voll Stoff
+09	8	99	Lügen und Geheimnisse
+09	9	100	Spiel auf Zeit
