@@ -1,0 +1,18 @@
+#
+# SEASONLIST
+# 1	1	4
+# 2	5	8
+# /SEASONLIST
+#
+#SE	EP	No.	Title
+#
+# 01. Staffel
+01	1	1	Codename: Sisyphus
+01	2	2	Codename: Skylla
+01	3	3	Codename: Ares
+01	4	4	Codename: Hades
+# 02. Staffel
+02	1	5	Codename: Kronos
+02	2	6	Codename: Agamemnon
+02	3	7	Codename: Tantalus
+02	4	8	Codename: Keres
