@@ -1,9 +1,12 @@
 #
+# COMPLETE
+#
 # SEASONLIST
 # 1	1	13
 # 2	14	26
 # 3	27	39
 # 4	40	51
+# 5	52	63
 # /SEASONLIST
 #
 #SE	EP	No.	Title
@@ -63,3 +66,16 @@
 04	10	49	Asche zu Asche
 04	11	50	Der Luftschutzbunker
 04	12	51	Geteiltes Leid
+# 05. Staffel
+05	1	52	Ein Anstrich weißer Farbe
+05	2	53	Ich tanze nur für mich
+05	3	54	Halte meine Hand
+05	4	55	Wie die Zeit vergeht
+05	5	56	Pfirsichkompott
+05	6	57	Ein Regenbogen voller Gründe
+05	7	58	Stille Andacht
+05	8	59	Zukunftspläne
+05	9	60	Zwischen den Welten
+05	10	61	Allein
+05	11	62	Rauschen
+05	12	63	Alle Warten
