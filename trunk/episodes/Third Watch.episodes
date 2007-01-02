@@ -1,0 +1,126 @@
+#
+# SEASONLIST
+# 1	1	22
+# 2	23	44
+# 3	45	66
+# 4	67	88
+# 5	89	110
+# /SEASONLIST
+#
+#SE	EP	No.	Title
+#
+# 01. Staffel
+01	1	1	Der erste Tag
+01	2	2	Bewährungsproben
+01	3	3	Nasser Tod
+01	4	4	Tage wie dieser
+01	5	5	Bandenkrieg
+01	6	6	Gewissensbisse
+01	7	7	Zwischen Leben und Tod
+01	8	8	Thanksgiving
+01	9	9	Schiefe Bahn
+01	10	10	Verschüttet
+01	11	11	Wut und Trauer
+01	12	12	Unter Null
+01	13	13	Bruderbande
+01	14	14	Gebrochene Herzen
+01	15	15	Ein verhängnisvoller Irrtum
+01	16	16	Wer Gewalt sät...
+01	17	17	17/I Bitterer Nachgeschmack
+01	18	18	Spiel des Lebens
+01	19	19	Vermisst!
+01	20	20	Der Feuerteufel
+01	21	21	In der Falle
+01	22	22	Retter in der Not
+# 02. Staffel
+02	1	23	Lebendig begraben
+02	2	24	Eine schwere Entscheidung
+02	3	25	Treibjagd
+02	4	26	Schatten der Vergangenheit
+02	5	27	Wiederbelebungsversuche
+02	6	28	Steinschlag
+02	7	29	Geisterstunde
+02	8	30	Im Teufelskreis
+02	9	31	Lichterloh
+02	10	32	Jugendsünden
+02	11	33	Der Heckenschütze
+02	12	34	Schlagabtausch
+02	13	35	Unter Verdacht
+02	14	36	Gefangen im Dunkeln
+02	15	37	Schattenboxen
+02	16	38	Ausgezählt
+02	17	39	Gefühlssache
+02	18	40	Flammengrab
+02	19	41	Überdosis
+02	20	42	Traumjob mit Hindernissen
+02	21	43	Nahaufnahme
+02	22	44	Amok
+# 03. Staffel
+03	1	45	Die Nacht davor
+03	2	46	Ausnahmezustand
+03	3	47	Herz auf Abwegen
+03	4	48	Die Auszeichnung
+03	5	49	Aussage gegen Aussage
+03	6	50	Am Abgrund
+03	7	51	Chaos
+03	8	52	Vorsicht Kamera!
+03	9	53	Schlafende Hunde
+03	10	54	Rutschpartie
+03	11	55	Der Scharfschütze
+03	12	56	Kaltfront
+03	13	57	Russisches Roulette (1)
+03	14	58	Russisches Roulette (2)
+03	15	59	Vater wider Willen
+03	16	60	Panik
+03	17	61	Offene Wunden
+03	18	62	In der Klemme
+03	19	63	Vermisst
+03	20	64	Traurige Gewissheit
+03	21	65	Der große Stromausfall
+03	22	66	n.n.
+# 04. Staffel
+04	1	67	n.n.
+04	2	68	n.n.
+04	3	69	n.n.
+04	4	70	n.n.
+04	5	71	n.n.
+04	6	72	n.n.
+04	7	73	n.n.
+04	8	74	n.n.
+04	9	75	n.n.
+04	10	76	n.n.
+04	11	77	n.n.
+04	12	78	n.n.
+04	13	79	n.n.
+04	14	80	n.n.
+04	15	81	n.n.
+04	16	82	n.n.
+04	17	83	n.n.
+04	18	84	n.n.
+04	19	85	n.n.
+04	20	86	n.n.
+04	21	87	n.n.
+04	22	88	n.n.
+# 05. Staffel
+05	1	89	n.n.
+05	2	90	n.n.
+05	3	91	n.n.
+05	4	92	n.n.
+05	5	93	n.n.
+05	6	94	n.n.
+05	7	95	n.n.
+05	8	96	n.n.
+05	9	97	n.n.
+05	10	98	n.n.
+05	11	99	n.n.
+05	12	100	n.n.
+05	13	101	n.n.
+05	14	102	n.n.
+05	15	103	n.n.
+05	16	104	n.n.
+05	17	105	n.n.
+05	18	106	n.n.
+05	19	107	n.n.
+05	20	108	n.n.
+05	21	109	n.n.
+05	22	110	n.n.
