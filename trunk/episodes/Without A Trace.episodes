@@ -3,6 +3,7 @@
 # 1	1	23
 # 2	24	47
 # 3	48	70
+# 4	72	94
 # /SEASONLIST
 #
 #SE	EP	No.	Title
@@ -75,8 +76,33 @@
 03	16	63	Der gejagte Vater
 03	17	64	Mädchenhandel
 03	18	65	Verwandlungen
-03	19	66	n.n.
-03	20	67	n.n.
-03	21	68	n.n.
-03	22	69	n.n.
-03	23	70	n.n.
+03	19	66	Hokus Pokus
+03	20	67	Der schwarze Mann
+03	21	68	Auf Bewährung
+03	22	69	Spiegel der Seele
+03	23	70	Schmutziges Spiel
+# 04. Staffel
+04	1	71	Showdown
+04	2	72	In Sicherheit
+04	3	73	Schmutzige Absichten
+04	4	74	Blackout
+04	5	75	Ehrenpflichten
+04	6	76	Tag der Toten
+04	7	77	Verletzte Seelen
+04	8	78	Nacht der Wahrheit
+04	9	79	Freier Fall
+04	10	80	Tiefe Dunkelheit
+04	11	81	Tödliche Beichte
+04	12	82	Patient X
+04	13	83	Wut
+04	14	84	n.n.
+04	15	85	Der Fremde
+04	16	86	n.n.
+04	17	87	Angstzustände
+04	18	88	n.n.
+04	19	89	n.n.
+04	20	90	n.n.
+04	21	91	n.n.
+04	22	92	n.n.
+04	23	93	n.n.
+04	24	94	n.n.
