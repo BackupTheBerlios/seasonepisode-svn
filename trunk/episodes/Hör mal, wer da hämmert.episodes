@@ -1,0 +1,225 @@
+#
+# SEASONLIST
+# 1	1	24
+# 2	25	49
+# 3	50	74
+# 4	75	99
+# 5	100	125
+# 6	126	150
+# 7	151	175
+# 8	176	203
+# /SEASONLIST
+#
+#SE	EP	No.	Title
+#
+# 01. Staffel
+01	1	1	Das Heimwerker-As
+01	2	2	Klein und verstossen
+01	3	3	Das große Spiel
+01	4	4	Eifersucht am Nachmittag
+01	5	5	Schlängeleien
+01	6	6	Tischmanieren
+01	7	7	Macho-Festival
+01	8	8	Rächer aus dem All
+01	9	9	Wirbel am Whirlpool
+01	10	10	Die Frau im Haus ...
+01	11	11	Die Putzmänner
+01	12	12	Die Rückkehr vom toten Weihnachtsmann
+01	13	13	Frauenpower
+01	14	14	Auch Machos werden älter
+01	15	15	Brett vorm Kopf
+01	16	16	Der Geschenke-Stress
+01	17	17	Der Guru
+01	18	18	Der Camping-King
+01	19	19	Die Pechsträhne
+01	20	20	Typisch Frau
+01	21	21	Der Garagenkrieg
+01	22	22	Frauen und Poker
+01	23	23	Al, der Aufreißer
+01	24	24	Die neue Anlage
+# 02. Staffel
+02	1	25	Die Überraschung
+02	2	26	Wahre Männer
+02	3	27	Einmal Mann, immer Mann
+02	4	28	Schwellende Muskeln
+02	5	29	Heimspiel
+02	6	30	Halloween
+02	7	31	Der Umzug
+02	8	32	Die Zeiten ändern sich
+02	9	33	Das Testament
+02	10	34	Der Holzschnüffler
+02	11	35	Der Hausmann
+02	12	36	Sammeln für einen guten Zweck
+02	13	37	Ein Schrank mit Raffinesse
+02	14	38	Jill will es wissen
+02	15	39	Gegensätze ziehen sich an
+02	16	40	Tanzstunde mit Hindernissen
+02	17	41	Umleitung
+02	18	42	Der Specht
+02	19	43	Aggressionen
+02	20	44	Ein genialer Plan
+02	21	45	Schwiegermutter-Alarm!
+02	22	46	Ein peinliches Wiedersehen
+02	23	47	Muttertag
+02	24	48	Springt er an?
+02	25	49	Das große Rennen
+# 03. Staffel
+03	1	50	Grüße vom Klapperstorch
+03	2	51	Liebeshorror
+03	3	52	Die Witzfigur
+03	4	53	Die Nervensäge
+03	5	54	Tim trauert
+03	6	55	Reingelegt! aka "Liebeshorror"
+03	7	56	Der Idealgatte
+03	8	57	Schrottwerkzeug
+03	9	58	Die Wertanlage
+03	10	59	Die Weihnachtsphotokarte
+03	11	60	Das Klassentreffen
+03	12	61	Oh, du schreckliche Weihnachten!
+03	13	62	Die Herausforderung
+03	14	63	Träume sind Schäume
+03	15	64	Eisfischen
+03	16	65	Wie sag' ich's meinem Opa?
+03	17	66	Der Zimmerwechsel
+03	18	67	Teamgeist
+03	19	68	Viele Köche verderben den Brei
+03	20	69	Bilanz einer Ehe
+03	21	70	Geldprobleme
+03	22	71	Verschaukelt
+03	23	72	Einsichten
+03	24	73	Der Computer-Casanova
+03	25	74	Das große Rennen II
+# 04. Staffel
+04	1	75	Komplexe
+04	2	76	Ein läppischer Kratzer
+04	3	77	Tims Geburtstag
+04	4	78	Das Sorgenkind
+04	5	79	Männer wie wir
+04	6	80	Geld stinkt nicht
+04	7	81	Das pensionierte Idol
+04	8	82	Vorsicht Kamera
+04	9	83	Rivalitäten
+04	10	84	Der Ruf der Ferne
+04	11	85	Das Schneemobil
+04	12	86	Ehekrach unterm Christbaum
+04	13	87	Brads neuer Job
+04	14	88	Aus neu macht alt
+04	15	89	Football-Fieber
+04	16	90	Al und die Frauen
+04	17	91	Tim, der Partykiller
+04	18	92	'Tool Time' läßt es krachen
+04	19	93	Die nackte Wahrheit
+04	20	94	Die Uniprüfung
+04	21	95	Das fidele Gefängnis
+04	22	96	Pleiten, Pech und Pannen Teil 1 & 2
+04	23	97	Geschwisterliebe
+04	24	98	Das Messer
+04	25	99	Abgeschminkt
+# 05. Staffel
+05	1	100	Action vor dem Traualtar
+05	2	101	Ein echter Freund
+05	3	102	Seelenverwandte
+05	4	103	Jills Überraschungsparty
+05	5	104	Guter Rat ist teuer
+05	6	105	Der Fernsehpreis
+05	7	106	Mit den Waffen der Frauen
+05	8	107	Zimmer ohne Aussicht
+05	9	108	Das Karaoke-Chaos
+05	10	109	Der Ehrendoktor
+05	11	110	Tims Mutter
+05	12	111	Die Elfenparade
+05	13	112	Bruderherz
+05	14	113	Ein Bett für harte Männer
+05	15	114	Der Kindheitstraum
+05	16	115	Familienplanung
+05	17	116	Angst vorm Fliegen
+05	18	117	Zwei wie Pech und Schwefel
+05	19	118	Eine steile Sache
+05	20	119	Die Marionettenfrau
+05	21	120	Ein verrückter Haarschnitt
+05	22	121	Eine Pille fuer Randy
+05	23	122	Tim und das Theater
+05	24	123	Späte Liebe
+05	25	124	Schlaflose Nächte
+05	26	125	Man spielt nicht mit dem Feuer
+# 06. Staffel
+06	1	126	Stürmische See
+06	2	127	Macht der Gewohnheit
+06	3	128	Workshop für zwei
+06	4	129	Brennende Herzen
+06	5	130	Der grosse Regisseur
+06	6	131	Das ist mein Auto!
+06	7	132	Wer zuletzt lacht ...
+06	8	133	Geliebte Schwestern
+06	9	134	Der Autokönig des Jahres
+06	10	135	Ein Herz aus Gold
+06	11	136	Brad macht Karriere
+06	12	137	Ein Haus voller Erinnerungen
+06	13	138	Flirten macht blind
+06	14	139	Karate Kid kehrt zurück
+06	15	140	'Tool Time' total
+06	16	141	Aus heiterem Himmel
+06	17	142	Der Außenseiter
+06	18	143	Hochzeit hin, Hochzeit her
+06	19	144	Das automatisierte Haus
+06	20	145	Der verhängisvolle Unfall
+06	21	146	Schadenfreude
+06	22	147	Aus Kindern werden Leute
+06	23	148	Der Sandwich-Tick
+06	24	149	Ein Colonel tritt ab
+06	25	150	Liebe und Eifersucht
+# 07. Staffel
+07	1	151	Midlife-Crisis
+07	2	152	Im Namen der Wahrheit
+07	3	153	Tim im Arbeitsrausch
+07	4	154	Wunderkind Brad
+07	5	155	In Angst und Schrecken
+07	6	156	Wilsons Nichte
+07	7	157	Heimliche Leidenschaft
+07	8	158	Der ungläubige Sohn
+07	9	159	Thanksgiving einmal anders
+07	10	160	Lohn der Angst
+07	11	161	Strahlende Weihnacht
+07	12	162	Zurück im College
+07	13	163	Brads neue Freundin
+07	14	164	Der perfekte Mieter
+07	15	165	Vater werden ist nicht schwer?
+07	16	166	Brad auf Abwegen
+07	17	167	Szenen einer Ehe
+07	18	168	Die Schöne und der Bär
+07	19	169	Willow verzweifelt gesucht
+07	20	170	Reporterkampf
+07	21	171	Bruderzwist
+07	22	172	Glaub es oder glaub es nicht
+07	23	173	Das Nachtfahrverbot
+07	24	174	n.n.
+07	25	175	n.n.
+# 08. Staffel
+08	1	176	Der Raftingtrip
+08	2	177	Der Nestflüchter
+08	3	178	Familienbande
+08	4	179	Fußball ist unser Leben
+08	5	180	n.n.
+08	6	181	n.n.
+08	7	182	Eine kleine Affäre
+08	8	183	Tims erstes Auto
+08	9	184	Hollywood ruft
+08	10	185	Zwei Töchter für Tim
+08	11	186	Ein Fest der Liebe?
+08	12	187	Die Zwillingskrise
+08	13	188	Die Donut-Detektive
+08	14	189	Die Schreibblockade
+08	15	190	Ein Sportlerschicksal
+08	16	191	Videokunst
+08	17	192	Tims Traumfrau
+08	18	193	Schock für Jill Teil 1
+08	19	194	Schock für Jill Teil 2
+08	20	195	Das Gewächshaus
+08	21	196	Heimwerker-Hotline
+08	22	197	Eine haarige Sache
+08	23	198	Brads große Chance
+08	24	199	Das große Fressen
+08	25	200	Abschied vom Heimwerkerkönig Teil 1
+08	26	201	Abschied vom Heimwerkerkönig Teil 2
+08	27	202	n.n.
+08	28	203	n.n.
