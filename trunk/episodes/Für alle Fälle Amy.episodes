@@ -1,0 +1,156 @@
+#
+# SEASONLIST
+# 1	1	23
+# 2	24	45
+# 3	46	69
+# 4	70	93
+# 5	94	116
+# 6	117	138
+# /SEASONLIST
+#
+#SE	EP	No.	Title
+#
+# 01. Staffel
+01	1	1	Neuanfang
+01	2	2	Bewährungsproben
+01	3	3	Mit aller Macht
+01	4	4	Eine schwere Entscheidung
+01	5	5	Trennungen
+01	6	6	Hexenjagd
+01	7	7	Impartial Bias
+01	8	8	Um Haaresbreite
+01	9	9	Ein turbulentes Wochenende
+01	10	10	Trautes Heim
+01	11	11	Ein schwerer Verdacht
+01	12	12	Mit vollem Einsatz
+01	13	13	Die Geburtstagsparty
+01	14	14	Annäherungen
+01	15	15	Fremde Welten
+01	16	16	Schlaflose Stunden
+01	17	17	Schattenseiten
+01	18	18	Geldnöte
+01	19	19	Eine ehrenwerte Stadt
+01	20	20	Glaubenssache
+01	21	21	Gray gegen Gray
+01	22	22	Für immer und ewig
+01	23	23	Geballte Ladung
+# 02. Staffel
+02	1	24	Intoleranz
+02	2	25	Kleine Kinder - große Kinder
+02	3	26	Selbstzweifel
+02	4	27	Krieg und Frieden
+02	5	28	Außer Kontrolle
+02	6	29	Hochzeitsglocken
+02	7	30	Nackte Tatsachen
+02	8	31	Hausgeburt
+02	9	32	Auf Teufel komm raus
+02	10	33	Der Eisregen
+02	11	34	Hundstage
+02	12	35	Plötzlich und unerwartet
+02	13	36	Kinderkrieg
+02	14	37	Entscheidung aus Liebe
+02	15	38	Der Karriere-Test
+02	16	39	Dunkle Wolken
+02	17	40	Kindheitserinnerungen
+02	18	41	Vergebung mit Hindernissen
+02	19	42	Anspruch und Wirklichkeit
+02	20	43	Hausarrest
+02	21	44	Missbraucht
+02	22	45	Am Abgrund
+# 03. Staffel
+03	1	46	Unter Druck
+03	2	47	Spurlos verschwunden
+03	3	48	Am Scheideweg
+03	4	49	Auf Messers Schneide
+03	5	50	Mit Wort und Tat
+03	6	51	Die Versöhnung
+03	7	52	Der Beichtvater
+03	8	53	Mutproben
+03	9	54	Knochenarbeit
+03	10	55	Dünne Luft
+03	11	56	In Bedrängnis
+03	12	57	Am längeren Hebel
+03	13	58	Am seidenen Faden
+03	14	59	Date oder nicht Date
+03	15	60	Blauer Dunst
+03	16	61	Funkstille
+03	17	62	Schuldlos schuldig
+03	18	63	Das Jahrestreffen
+03	19	64	Männergeschichten
+03	20	65	Nackte Ansichten
+03	21	66	Der Anfall
+03	22	67	Nichts geht mehr
+03	23	68	Ausnahmezustand
+03	24	69	Unter Beschuss
+# 04. Staffel
+04	1	70	Mit neuer Kraft
+04	2	71	Drohungen
+04	3	72	Der lange Weg nach Hause
+04	4	73	Eiszeit
+04	5	74	Aus Mangel an Beweisen
+04	6	75	Verbotene Liebe
+04	7	76	Gefahr in Verzug
+04	8	77	Entscheidung bei Nacht
+04	9	78	Der Aufschub
+04	10	79	Auf Schritt und Tritt
+04	11	80	Verschollen
+04	12	81	Die gute alte Zeit
+04	13	82	Auf Leben und Tod
+04	14	83	Der Sündenfall
+04	15	84	Freund oder Feind?
+04	16	85	Anzüglichkeiten
+04	17	86	Der Meineid
+04	18	87	Überdosis
+04	19	88	Mogelpackung
+04	20	89	Nachricht vom Tod
+04	21	90	Ein gewichtiger Fall
+04	22	91	Schulfrei
+04	23	92	In guten wie in schlechten Tagen
+04	24	93	Anfang und Ende
+# 05. Staffel
+05	1	94	Der erste Tag
+05	2	95	Zurück ins Leben
+05	3	96	Die einzige Zeugin
+05	4	97	Glück im Unglück
+05	5	98	Selbstverteidigung
+05	6	99	In letzter Sekunde
+05	7	100	Gegen den Strom
+05	8	101	Entscheidung des Herzens
+05	9	102	Eine andere Welt
+05	10	103	Macho in Nöten
+05	11	104	Ein missglücktes Date
+05	12	105	Es liegt was in der Luft
+05	13	106	Vater wider Willen
+05	14	107	Blues im Blut
+05	15	108	Der erste Kuss
+05	16	109	Aus und vorbei
+05	17	110	Not am Mann
+05	18	111	Streithähne
+05	19	112	Power-Dating
+05	20	113	Überraschungen
+05	21	114	Null Toleranz
+05	22	115	Der Ausreißer
+05	23	116	Eine zweite Chance
+# 06. Staffel
+06	1	117	Vermisst
+06	2	118	Neue Wege
+06	3	119	Eltern gesucht!
+06	4	120	Angebandelt
+06	5	121	Die Feuertaufe
+06	6	122	Bange Stunden
+06	7	123	Notfälle
+06	8	124	Späte Einsichten
+06	9	125	Herzinfarkt
+06	10	126	Freudige Erwartung
+06	11	127	Sorgenkinder
+06	12	128	Für und Wider
+06	13	129	Das Traumhaus
+06	14	130	Wut und Verzweiflung
+06	15	131	Beziehungskrise
+06	16	132	Papierkrieg
+06	17	133	Positiv
+06	18	134	Hinter Gittern
+06	19	135	Zerschlagene Gefühle
+06	20	136	Aussage gegen Aussage
+06	21	137	Starke Zweifel
+06	22	138	Abschied für immer
