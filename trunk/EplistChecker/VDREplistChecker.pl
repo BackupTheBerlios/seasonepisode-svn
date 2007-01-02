@@ -3,9 +3,9 @@
 ##########################################################################
 #
 #
-$Version = "0.1.6";
+$Version = "0.1.7";
 #
-# Date:    2006-11-09
+# Date:    2007-01-02
 #
 # Author: Mike Constabel <vejoun @ vdrportal . de>
 #                        <vejoun @ toppoint . de>
@@ -24,15 +24,25 @@ use warnings;
 
 ###########
 
-my %Config = (InFile => "", OutFile => "", Force => 0, Debug => 0, man => 0, help => 0, quiet => 0, max => 0);
+my %Config = (InFile => "", OutFile => "", InOutFile => "", Force => 0, Debug => 0, man => 0, help => 0, quiet => 0, max => 0);
 my @EpisodesFile;
 
 Getopt::Long::Configure ("bundling_override");
-GetOptions (\%Config,   'InFile|i=s', 'OutFile|o=s', 'Force|f!', 'Debug|d!', 'help|h|?', 'quiet|q:+', 'man', 'version', 'max|n=i');
+GetOptions (\%Config,   'InFile|i:s', 'OutFile|o:s', 'InOutFile|io:s', 'Force|f!', 'Debug|d!', 'help|h|?', 'quiet|q:+', 'man', 'version', 'max|n=i');
+
+unless ( ($Config{InFile} && $Config{OutFile}) || $Config{InOutFile} ) {
+  pod2usage(1);
+}
 
 if ( $Config{version} )				{ print ($0." Version ".$Version."\n"); exit; }
-pod2usage(-exitstatus => 0, -verbose => 2)	if ( $Config{man} );
-pod2usage(1)					if ( $Config{help} || ! $Config{InFile} );
+
+pod2usage(-exitstatus => 0, -verbose => 2)	if $Config{man};
+pod2usage(1)					if $Config{help};
+
+if ( $Config{InOutFile} ) {
+  $Config{InFile}	= $Config{InOutFile};
+  $Config{OutFile}	= $Config{InOutFile};
+}
 
 if ( -d $Config{InFile} && $Config{InFile} !~ /\/$/ ) {
   $Config{InFile} .= "/";
@@ -270,6 +280,12 @@ VDREplistChecker.pl -i=<> -o=<> [options...]
 
       -i			Input file or path
       -o			Output file or path
+      
+      OR
+      
+      -io			InOut File or path, the output overwrite the
+                                input file
+
       -f			Force overwriting existing output files
       -q			Dont't print infos
       -qq			Don't print infos, warnings
