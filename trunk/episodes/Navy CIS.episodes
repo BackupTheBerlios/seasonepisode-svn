@@ -1,0 +1,82 @@
+#
+# SEASONLIST
+# 1	1	23
+# 2	24	46
+# 3	47	70
+# /SEASONLIST
+#
+#SE	EP	No.	Title
+#
+# 01. Staffel
+01	1	1	Air Force One
+01	2	2	Sprung in den Tod
+01	3	3	Seadog
+01	4	4	Die Unsterblichen
+01	5	5	Der Fluch der Mumie
+01	6	6	Speed
+01	7	7	Unter Wasser
+01	8	8	Schlimmer als der Tod
+01	9	9	Anruf von einem Toten
+01	10	10	Lebendig begraben
+01	11	11	Wintersonne
+01	12	12	Ein Bein in West Virginia
+01	13	13	Todesschüsse
+01	14	14	Der gute Samariter
+01	15	15	Der Colonel
+01	16	16	Alptraum im Keller
+01	17	17	Fünf Musketiere
+01	18	18	Falsche Fährten
+01	19	19	Wenn Tote sprechen
+01	20	20	Willkommen in der Hölle
+01	21	21	Verbotene Waffen
+01	22	22	Abgestürzt
+01	23	23	Der Terrorist
+# 02. Staffel
+02	1	24	Unsichtbar
+02	2	25	Die perfekte Frau
+02	3	26	Auge um Auge
+02	4	27	Neptuns Zeichen
+02	5	28	Der Maulwurf
+02	6	29	Schatten der Angst
+02	7	30	Der Held von Iwo Jima
+02	8	31	Herzenssachen
+02	9	32	Leere Augen
+02	10	33	Flucht in Ketten
+02	11	34	Ein Mann für unlösbare Fälle
+02	12	35	Doppeltes Spiel
+02	13	36	Blutiges Puzzle
+02	14	37	Die Zeugin
+02	15	38	Männer und Frauen
+02	16	39	Wege zum Ruhm
+02	17	40	Blau wie Kobalt
+02	18	41	Bikini Girl
+02	19	42	Stimmen
+02	20	43	Die rote Zelle
+02	21	44	Mit allen Ehren
+02	22	45	Todeskuss
+02	23	46	Die Rückkehr
+# 03. Staffel
+03	1	47	Das Duell - (1)
+03	2	48	Das Duell - (2)
+03	3	49	Der Mann in der Todeszelle
+03	4	50	Sarg aus Eisen
+03	5	51	Rollentausch
+03	6	52	Voyeure im Netz
+03	7	53	Projekt
+03	8	54	Goldherz
+03	9	55	In der Falle
+03	10	56	Drei Kugeln
+03	11	57	Boot Camp Babes
+03	12	58	Die Spur des Geldes
+03	13	59	Ein langer Sonntag
+03	14	60	Schläfer
+03	15	61	Kopfsache
+03	16	62	Familiengeheimnis
+03	17	63	Bärenjäger
+03	18	64	Der letzte Sonnenuntergang
+03	19	65	Tot im Eis
+03	20	66	Das Leck
+03	21	67	Typisch Montag
+03	22	68	Brüder
+03	23	69	Fünfzehn Jahre
+03	24	70	Semper Fi

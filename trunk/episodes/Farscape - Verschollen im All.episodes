@@ -1,0 +1,103 @@
+#
+# SEASONLIST
+# 1	1	22
+# 2	23	44
+# 3	45	67
+# 4	68	89
+# /SEASONLIST
+#
+#SE	EP	No.	Title
+#
+# 01. Staffel
+01	1	1	Premiere
+01	2	2	Ich, E.T. und die anderen
+01	3	3	Das Leben soll nicht enden
+01	4	4	Der rote Kristall
+01	5	5	Gefährliche Besucher an Bord
+01	6	6	n.n.
+01	7	7	Begegnung auf der Zelbinion
+01	8	8	Der Magier und die Gladiatoren
+01	9	9	Der DNS-verrückte Wissenschaftler
+01	10	10	Geheimnisvolle Moya
+01	11	11	Das Wurmloch ist an allem schuld
+01	12	12	Die dunklen Impulse
+01	13	13	Ein Phänomen, genannt Flax
+01	14	14	Das Wunder von Acquara
+01	15	15	Durka, der Schreckliche
+01	16	16	Die Suche nach der freundlichen Welt
+01	17	17	Ein Jenseits von Raum und Zeit?
+01	18	18	Die Jagd nach dem Flucht-Virus
+01	19	19	In den Tiefen des Bewußtseins
+01	20	20	n.n.
+01	21	21	n.n.
+01	22	22	Täuschungsmanöver ohne Ende
+# 02. Staffel
+02	1	23	Verfolgt von Angst und Furcht
+02	2	24	Machtkampf um Talyn
+02	3	25	Das Ritual der Erneuerung
+02	4	26	Der Stein der Todgeweihten
+02	5	27	Im Licht der fünf Pulsare
+02	6	28	Das Fenster in die Zeit
+02	7	29	So wie wir wohl nicht waren
+02	8	30	Budong - Kreatur des Grauens
+02	9	31	SOS - Sie sind außer sich
+02	10	32	Intrigen, Macht und Mörder - Teil 1
+02	11	33	Intrigen, Macht und Mörder - Teil 2
+02	12	34	Intrigen, Macht und Mörder - Teil 3
+02	13	35	Meine drei Crichtons
+02	14	36	n.n.
+02	15	37	Nochmal fall' ich nicht drauf rein
+02	16	38	Das Bild in deinem Medaillon
+02	17	39	Die Wahrheit und der Sündenbock
+02	18	40	Ein 'Clockwork Nebari'
+02	19	41	Kanonen, Lügner und Moneten - Teil 1
+02	20	42	Kanonen, Lügner und Moneten - Teil 2
+02	21	43	Kanonen, Lügner und Moneten - Teil 3
+02	22	44	Stirb, was mich sonst töten würde
+# 03. Staffel
+03	1	45	Die Phase der Tode
+03	2	46	Unter den Zwillingssonnen von Qell
+03	3	47	n.n.
+03	4	48	Die selbst beigebrachten Wunden - Teil 2
+03	5	49	Ein Riß in der Zeit
+03	6	50	Friß mich oder stirb
+03	7	51	Talyns Flucht - Aeryns Schicksal
+03	8	52	Das unheimliche, grünäugige Monster
+03	9	53	Einer muß verlieren
+03	10	54	Rätsel der Relativität
+03	11	55	Inkubator - Ort seiner Herkunft
+03	12	56	In der Korona des Sirenensterns
+03	13	57	n.n.
+03	14	58	n.n.
+03	15	59	n.n.
+03	16	60	Die Geschichte mit dem Racheengel
+03	17	61	Dort unten auf Valldon
+03	18	62	Crichton ist tot - Es lebe Crichton
+03	19	63	Der Anfang vom Ende
+03	20	64	n.n.
+03	21	65	n.n.
+03	22	66	Norantis Zukunftsvision
+03	23	67	n.n.
+# 04. Staffel
+04	1	68	n.n.
+04	2	69	n.n.
+04	3	70	n.n.
+04	4	71	n.n.
+04	5	72	n.n.
+04	6	73	n.n.
+04	7	74	n.n.
+04	8	75	n.n.
+04	9	76	n.n.
+04	10	77	n.n.
+04	11	78	n.n.
+04	12	79	n.n.
+04	13	80	n.n.
+04	14	81	n.n.
+04	15	82	n.n.
+04	16	83	n.n.
+04	17	84	n.n.
+04	18	85	n.n.
+04	19	86	n.n.
+04	20	87	n.n.
+04	21	88	n.n.
+04	22	89	n.n.

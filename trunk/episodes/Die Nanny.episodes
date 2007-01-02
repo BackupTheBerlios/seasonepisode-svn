@@ -1,0 +1,166 @@
+#
+# COMPLETE
+#
+# SEASONLIST
+# 1	1	22
+# 2	23	48
+# 3	49	75
+# 4	76	101
+# 5	102	124
+# 6	125	146
+# /SEASONLIST
+#
+#SE	EP	No.	Title
+#
+# 01. Staffel
+01	1	1	Das neue Kindermädchen
+01	2	2	Viel Rauch um nichts
+01	3	3	Vom Kindermädchen zum Snop
+01	4	4	Drei sind einer zuviel
+01	5	5	Ein tierischer Ausflug im Zoo
+01	6	6	Verkehrte Welt
+01	7	7	Die eingebildete Freundin
+01	8	8	Eine schöne Bescherung
+01	9	9	Privatgeschäfte
+01	10	10	Nachhilfe in Sachen Kindermädchen
+01	11	11	Die gruftige Affäre
+01	12	12	Bretter, die die Welt bedeuten
+01	13	13	Maggie, das Fotomodell
+01	14	14	Doppelmoral
+01	15	15	Abgründe
+01	16	16	Abgeschleppt
+01	17	17	Die geplatzte Hochzeit
+01	18	18	Kritikerschelte
+01	19	19	Die Turnlehrerin
+01	20	20	Wenn der Vater mit der Tochter
+01	21	21	Alte Liebe rostet nicht
+01	22	22	Muttertag
+# 02. Staffel
+02	1	23	Frans Doppelgängerin
+02	2	24	Schulfreunde
+02	3	25	Eine heiße Nacht
+02	4	26	Ein reicher Freund
+02	5	27	Es gibt was zu feiern
+02	6	28	Fran und das Baby
+02	7	29	Kein Star ist geboren
+02	8	30	Der Müllmann
+02	9	31	Auf Männerfang
+02	10	32	Der Weinkeller
+02	11	33	Der Kinderstar
+02	12	34	Krach und Versöhnung
+02	13	35	Ein Riesenskandal
+02	14	36	Das große Geheimnis
+02	15	37	Ein toller Begleiter
+02	16	38	Das Turnier in Atlantic City
+02	17	39	Das Testament
+02	18	40	Der graue Panther
+02	19	41	Unter Schwestern
+02	20	42	Ein geplatztes Geschäft
+02	21	43	Ein verantwortungsvoller Job
+02	22	44	Serenade zu viert
+02	23	45	Der Kuss-Wettbewerb
+02	24	46	Fran im falschen Bett
+02	25	47	Die Perücken-Krise
+02	26	48	Viel Lärm um nichts
+# 03. Staffel
+03	1	49	Das Phantom Lenny
+03	2	50	Wissen ist Macht
+03	3	51	Diamantenfieber
+03	4	52	Die Familienschlacht
+03	5	53	Das Apartment
+03	6	54	Im Kaufrausch
+03	7	55	Damenwahl
+03	8	56	Fran hinter Gittern
+03	9	57	Der Antrag
+03	10	58	Dann eben ohne Mann
+03	11	59	Fran in Hollywood
+03	12	60	Die verlorene Unschuld
+03	13	61	Allein mit der Mafia
+03	14	62	Ein Weihnachtsmärchen
+03	15	63	Die Aufführung
+03	16	64	Auf und davon
+03	17	65	Die Ehe-Krise
+03	18	66	Falsche Freunde
+03	19	67	Der heimliche Bewunderer
+03	20	68	Zeigt her eure Füße
+03	21	69	Wo sind die Perlen?
+03	22	70	Die Hexe
+03	23	71	Maxwell und die Midlife Crisis
+03	24	72	Mit Gott auf du und du
+03	25	73	Der Charmebolzen
+03	26	74	Der blinde Passagier
+03	27	75	Pariser Nachtleben
+# 04. Staffel
+04	1	76	Die Sache mit der Sache
+04	2	77	Jung und leidenschaftlich
+04	3	78	Krieg am Wühltisch
+04	4	79	Die beste Nanny Amerikas
+04	5	80	Eine Fine Familienaffaire
+04	6	81	Joan hat was, was Fran nicht hat
+04	7	82	Der schwangere Hund
+04	8	83	Maxwells wilder Bruder
+04	9	84	Frans Tattoo
+04	10	85	Rund ums Auto
+04	11	86	Vom Hurricane verweht
+04	12	87	Entzweite Trauergemeinde
+04	13	88	Der Traumprinz
+04	14	89	Ein Leben ohne Männer ist nicht lebenswert
+04	15	90	Totale Geschmacksverirrungen
+04	16	91	Stop! Oder meine Nanny schießt!
+04	17	92	Oh Schreckschraube!
+04	18	93	Eins, zwei, drei - wer hat die Laus?
+04	19	94	Reich geboren?
+04	20	95	Affäre nach Wunsch
+04	21	96	Barfuß durch die Eifersucht
+04	22	97	Das ganze Leben ist ein Song
+04	23	98	Die unglaubliche Versteigerung der verrückten Miss Fine
+04	24	99	Fran reich und schön im Schatten der Leidenschaft
+04	25	100	Hochzeitsfieber
+04	26	101	Stirbt Niles?
+# 05. Staffel
+05	1	102	Am Morgen danach...
+05	2	103	Mein Date mit Elton John
+05	3	104	Fran x 2 = $
+05	4	105	Tausche Gangster gegen Hund
+05	5	106	Akte Niles
+05	6	107	Chevy Chase will alles!
+05	7	108	Mutter gesucht
+05	8	109	Wetterfee Fran
+05	9	110	Heirate niemals eine Jüngere!
+05	10	111	Liebesgrüße aus Flushing
+05	11	112	Allergieschock!
+05	12	113	Unter der Sonne des Schönheitsmakels
+05	13	114	Nennen Sie mich Fran!
+05	14	115	Nicht ohne meine Nanny
+05	15	116	Willst Du ..?
+05	16	117	Verliebt, verlobt, verängstigt
+05	17	118	Coolio ... Superstar?
+05	18	119	Die dunkle Seite der Romantik
+05	19	120	Der Fleisch gewordene Fehltritt
+05	20	121	Der Ehevertrag
+05	21	122	Marla Maples, Ex-Ex-Freundin?
+05	22	123	Kalte Füße - (1)
+05	23	124	Zu zweit vorm Altar - (2)
+# 06. Staffel
+06	1	125	Overboard - Eine Nanny fällt ins Wasser!
+06	2	126	Der kleine, leise Tod
+06	3	127	Einmal Nanny, immer Nanny
+06	4	128	Die Eltern der Ex-Braut
+06	5	129	Ein Sexgott stieg vom Olymp
+06	6	130	Schwangerschaft: Positiv!
+06	7	131	Wie wär's mit Schlomo Sheffield?
+06	8	132	Wie man schwanger wird, ohne Whoopi Goldberg um ein Autogramm zu bitten
+06	9	133	Skiparty bei Präsident Clinton
+06	10	134	Verloren im Schneesturm
+06	11	135	Sylvia liebt dich
+06	12	136	Im Spiegel ist die Zukunft nicht immer rosarot
+06	13	137	Wo Herman Munster aufs College ging ...
+06	14	138	Kalifornien, wir kommen!
+06	15	139	Sylvia, ein Ehemann ... und 'ne heiße Affäre!
+06	16	140	Liebe nach Drehbuch
+06	17	141	Babies aus Plastik
+06	18	142	Yettas Briefe
+06	19	143	Woman in love
+06	20	144	Affäre in blond
+06	21	145	Die glücklichste Fran der Welt - (1)
+06	22	146	Die glücklichste Fran der Welt - (2)
