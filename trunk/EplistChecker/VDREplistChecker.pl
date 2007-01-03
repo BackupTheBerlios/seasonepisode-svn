@@ -3,9 +3,9 @@
 ##########################################################################
 #
 #
-$Version = "0.1.7";
+$Version = "0.1.8";
 #
-# Date:    2007-01-02
+# Date:    2007-01-03
 #
 # Author: Mike Constabel <vejoun @ vdrportal . de>
 #                        <vejoun @ toppoint . de>
@@ -30,7 +30,7 @@ my @EpisodesFile;
 Getopt::Long::Configure ("bundling_override");
 GetOptions (\%Config,   'InFile|i:s', 'OutFile|o:s', 'InOutFile|io:s', 'Force|f!', 'Debug|d!', 'help|h|?', 'quiet|q:+', 'man', 'version', 'max|n=i');
 
-unless ( ($Config{InFile} && $Config{OutFile}) || $Config{InOutFile} ) {
+unless ( $Config{InFile} || $Config{InOutFile} ) {
   pod2usage(1);
 }
 
@@ -74,7 +74,8 @@ foreach ( @Files ) {
   $errors = $warnings = $infos = 0;
   my @Msg = ();
 
-  open (FILE, "<".$InFile) || die("Error opening ".$InFile);
+  sysopen(FILE, $InFile, O_RDONLY) || die("Cannot open input file ".$InFile);
+  flock(FILE, LOCK_SH);
   @EpisodesFile = <FILE>;
   close FILE;
 
@@ -122,9 +123,12 @@ foreach ( @Files ) {
       %maxep = ( season => $1 + 0, start => $2 + 0, stop => $3 + 0, max => $3-$2+1 );
     }
     next if $Seasonlist;
-    my $spacer = '(\t|~|\ {3,})';
-    if ( $Line =~ /^\s*(\d+)\s*${spacer}\s*(\d+)\s*${spacer}\s*(\d+)\s*${spacer}\s*(.*?)\s*${spacer}\s*(.*?)\s*$/ || $Line =~ /^\s*(\d+)\s*${spacer}\s*(\d+)\s*${spacer}\s*(\d+)\s*${spacer}\s*(.*?)\s*$/ || $Line =~ /^\s*(\d+)\s*${spacer}\s*(\d+)\s*${spacer}\s*(\d+)\s*$/ ) {
-      %LineField = ( Season => $1+0, Episode => $3+0, EpisodeOverAll => $5+0, Subtitle => ( defined $7 && $7 ) ? $7 : "n.n.", Miscellaneous => ( defined $9 && $9 ) ? $9 : "");
+    my $spacer1 = '(?:\t|~|\ {1,})';
+    my $spacer2 = '(?:\t|~|\ {3,})';
+    if ( $Line =~ /^\s*(\d+)\s*${spacer1}\s*(\d+)\s*${spacer1}\s*(\d+)\s*${spacer1}\s*(.*?)\s*${spacer2}\s*(.*?)\s*$/ ||
+         $Line =~ /^\s*(\d+)\s*${spacer1}\s*(\d+)\s*${spacer1}\s*(\d+)\s*${spacer1}\s*(.*?)\s*$/ ||
+         $Line =~ /^\s*(\d+)\s*${spacer1}\s*(\d+)\s*${spacer1}\s*(\d+)\s*$/ ) {
+      %LineField = ( Season => $1+0, Episode => $2+0, EpisodeOverAll => $3+0, Subtitle => ( defined $4 && $4 ) ? $4 : "n.n.", Miscellaneous => ( defined $5 && $5 ) ? $5 : "");
 
       $LineField{Subtitle} =~ s/^\s*n\.?n\.?\s*$/n\.n\./;
       $LineField{Subtitle} =~ s/ +/ /g;
@@ -229,7 +233,8 @@ foreach ( @Files ) {
   }
 
   if ( ! $errors && $OutFile && ( ! -s $OutFile || $Config{Force} ) ) {
-    open(FILE, ">".$OutFile) || die("Cannot open output file ".$OutFile);
+    sysopen(FILE, $OutFile, O_RDWR | O_TRUNC | O_CREAT, 0644) || die("Cannot open output file ".$OutFile);
+    flock(FILE, LOCK_EX);
     foreach(@Output) { print FILE $_ }
     close FILE;
   } elsif ( ! $errors ) {
@@ -285,12 +290,14 @@ VDREplistChecker.pl -i=<> -o=<> [options...]
       
       -io			InOut File or path, the output overwrite the
                                 input file
+ Optional:
 
       -f			Force overwriting existing output files
       -q			Dont't print infos
       -qq			Don't print infos, warnings
       -qqq			Don't print infos, warnings, errors
-      -n | --max		Number of episodes in last season in list
+      -n | --max		Number of episodes in the last season,
+                                this fill up the list with "n.n."
       
 =head1 OPTIONS
 
