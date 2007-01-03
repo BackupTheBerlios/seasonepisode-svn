@@ -3,7 +3,7 @@
 ##########################################################################
 #
 #
-$Version = "0.1.8";
+$Version = "0.1.9";
 #
 # Date:    2007-01-03
 #
@@ -20,6 +20,7 @@ $Version = "0.1.8";
 use Getopt::Long;
 use Pod::Usage;
 use File::Basename;
+use Fcntl qw(:DEFAULT :flock);
 use warnings;
 
 ###########
@@ -28,7 +29,7 @@ my %Config = (InFile => "", OutFile => "", InOutFile => "", Force => 0, Debug =>
 my @EpisodesFile;
 
 Getopt::Long::Configure ("bundling_override");
-GetOptions (\%Config,   'InFile|i:s', 'OutFile|o:s', 'InOutFile|io:s', 'Force|f!', 'Debug|d!', 'help|h|?', 'quiet|q:+', 'man', 'version', 'max|n=i');
+GetOptions (\%Config,   'InFile|i:s', 'OutFile|o:s', 'InOutFile|io:s', 'Force|f!', 'Debug|d!', 'help|h|?', 'quiet|q:+', 'man', 'version', 'max|n:i');
 
 unless ( $Config{InFile} || $Config{InOutFile} ) {
   pod2usage(1);
@@ -101,7 +102,7 @@ foreach ( @Files ) {
   $i = $linenumber	= 0;
   $firstline		= 1;
   $alternative		= 0;
-  my %maxep		= ();
+  my %maxep		= ( season => 0, max => 0 );
   my @Data		= ();
   my @Comments		= ();
   my @Keywords		= ();
@@ -212,7 +213,7 @@ foreach ( @Files ) {
       $i++;
       push(@Data, sprintf("%02i\t%i\t%i\t%s", $LineField{Season}, $k, $i, "n.n."));
     }
-  } elsif ( $LineField{Season} == $maxep{season} && $maxep{max} > $LineField{Episode} ) {
+  } elsif ( $maxep{season} && $maxep{max} && $LineField{Season} == $maxep{season} && $maxep{max} > $LineField{Episode} ) {
     my $k;
     for ( $k = $LineField{Episode} +1; $k <= $maxep{max}; $k++ ) {
       $i++;
