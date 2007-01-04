@@ -1,0 +1,91 @@
+#
+# SEASONLIST
+# 1	1	7
+# 2	8	28
+# 3	29	50
+# 4	51	77
+# /SEASONLIST
+#
+#SE	EP	No.	Title
+#
+# 01. Staffel
+01	1	1	Der großzügige Wohlfahrtsscheck
+01	2	2	Der verhängnisvolle Autounfall
+01	3	3	Stewies erster Geburtstag
+01	4	4	Die Zeitmaschine
+01	5	5	Der Held von nebenan
+01	6	6	Nie mehr Pfadfinder
+01	7	7	Das Leben des Brian
+# 02. Staffel
+02	1	8	Stinkreich
+02	2	9	Heiliger Bimbam
+02	3	10	Der letzte Knall
+02	4	11	Hundeliebe
+02	5	12	Kohle ohne Ende
+02	6	13	Der Sensemann
+02	7	14	Der König ist tot
+02	8	15	Die Frau in Peter
+02	9	16	Todgesund
+02	10	17	Die Schlammschlacht
+02	11	18	Knallbunt
+02	12	19	Helden auf Sendung
+02	13	20	Friede sei mit dir
+02	14	21	Peters dritter Frühling
+02	15	22	Stewie macht Ernst
+02	16	23	Mord ohne Auftrag
+02	17	24	Club der Schönen
+02	18	25	Petoria
+02	19	26	Schlagzeilen
+02	20	27	Im Rausch der Musik
+02	21	28	Der Leihvater
+# 03. Staffel
+03	1	29	Der schmale weiße Grat
+03	2	30	Brian goes to Hollywood
+03	3	31	Mr. Griffin geht nach Washington
+03	4	32	Die Briten kommen
+03	5	33	Und den Größten hat...
+03	6	34	Der Tod lebt
+03	7	35	Lois, die Kampfmaschine
+03	8	36	Wenn Frauen küssen müssen
+03	9	37	Der schwarze Ritter
+03	10	38	Der dicke Mann und das Meer
+03	11	39	Zeugung verhindert
+03	12	40	n.n.
+03	13	41	Scharfe Köter
+03	14	42	Der schwarze Peter
+03	15	43	Die Joe Swanson Story
+03	16	44	Ein besonders missglücktes Weihnachten
+03	17	45	Das Schwalbennest
+03	18	46	Nackt durch's Leben
+03	19	47	Eifersucht und Superkleber
+03	20	48	Stewie, Brian und die Welt
+03	21	49	Family Guy Fan-Post
+03	22	50	n.n.
+# 04. Staffel
+04	1	51	n.n.
+04	2	52	n.n.
+04	3	53	n.n.
+04	4	54	n.n.
+04	5	55	n.n.
+04	6	56	n.n.
+04	7	57	n.n.
+04	8	58	n.n.
+04	9	59	n.n.
+04	10	60	n.n.
+04	11	61	n.n.
+04	12	62	n.n.
+04	13	63	n.n.
+04	14	64	n.n.
+04	15	65	n.n.
+04	16	66	n.n.
+04	17	67	n.n.
+04	18	68	n.n.
+04	19	69	n.n.
+04	20	70	n.n.
+04	21	71	n.n.
+04	22	72	n.n.
+04	23	73	n.n.
+04	24	74	n.n.
+04	25	75	n.n.
+04	26	76	n.n.
+04	27	77	n.n.
