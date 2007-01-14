@@ -1,0 +1,281 @@
+#
+# SHORT M.A.S.H.
+#
+# SEASONLIST
+# 1	1	24
+# 2	25	48
+# 3	49	72
+# 4	73	96
+# 5	97	120
+# 6	121	144
+# 7	145	169
+# 8	170	194
+# 9	195	214
+# 10	215	235
+# 11	236	251
+# /SEASONLIST
+#
+#SE	EP	No.	Title
+#
+# 01. Staffel
+01	1	1	Mobiles Armee Schirurgie Hospital
+01	2	2	Angebot, Nachfrage und Prestige
+01	3	3	David und Goliath in Korea
+01	4	4	Das total verrückte Feldlazarett
+01	5	5	Angebot, Über alles geliebte Sklavin
+01	6	6	Kennen Sie Chirurgen in Uniform
+01	7	7	Hilfe, einen Psychiator bitte
+01	8	8	Mein lieber, lieber John
+01	9	9	Ach Henry, komm doch wieder
+01	10	10	Der Dieb will nur das Beste
+01	11	11	Eine richtige, schöne Gelbsucht
+01	12	12	Lieber Papa, mir geht es gut
+01	13	13	Ein Aufstand für Edwina
+01	14	14	Noch so eine Liebesgeschichte
+01	15	15	Nun danket alle Tuttle
+01	16	16	Nur Leben in die Bude!
+01	17	17	Hörst du die Kugel?
+01	18	18	Und alles splitternackt
+01	19	19	Jeder friert für sich allein
+01	20	20	Ein Blindgänger hat's in sich
+01	21	21	Hier bitte mal absaugen
+01	22	22	Gier, Angst und nochmal Gier
+01	23	23	Unter der Hand gesagt
+01	24	24	Für Manches nicht gut genug
+# 02. Staffel
+02	1	25	Zerstritten stehen wir zusammen
+02	2	26	Das ist Fünf-Uhr-Charlie
+02	3	27	Der wöchentliche Radarbericht
+02	4	28	Das Ding mit Tai-Dong
+02	5	29	Zur lustigen Latrine
+02	6	30	Alle lieben Kim
+02	7	31	Immer einen Schritt voraus
+02	8	32	Wirklich, katastrophale Zustände
+02	9	33	Blut hat nur eine Farbe
+02	10	34	Die unter Beschuß liegen
+02	11	35	Schwester Freund und prima Kerl
+02	12	36	Sie brauchen einen Inkubator
+02	13	37	Sex, Spiele und Anderes
+02	14	38	Hot Lips in Hochform
+02	15	39	Aber nur für Offiziere
+02	16	40	Affäre Nancy und Henry
+02	17	41	Alles für ein Paar Stiefel
+02	18	42	Er hat die größte Nase
+02	19	43	Andere Leute sind auch Menschen
+02	20	44	Spenden macht schwindelig
+02	21	45	Alle unter einer Decke
+02	22	46	Der werfe den ersten Stein
+02	23	47	Der Radar von der Post
+02	24	48	Der gemeinsame Geheimdienst
+# 03. Staffel
+03	1	49	Bauch rein-Brust raus
+03	2	50	Meuterei im Billigfilm
+03	3	51	Muttertag in Seoul
+03	4	52	Im Einsatz an der Front
+03	5	53	Ernst, aber nicht hoffnungslos
+03	6	54	Frühling allerorten
+03	7	55	Die Routineuntersuchung
+03	8	56	Das ist unerlaubte Chirurgie
+03	9	57	Alkoholoker, nicht anonym
+03	10	58	Nichts gegen Schwestern
+03	11	59	Rippchen aus Chicago
+03	12	60	Der Soldat und sein Hymne
+03	13	61	Die richtige Behandlung
+03	14	62	Freiheit für das Osterlämmchen
+03	15	63	Bombardiert und ausgeflippt
+03	16	64	Ab und zu ausflippen
+03	17	65	Seine erste Transplantation
+03	18	66	Kriegsgericht und Hausarrest
+03	19	67	Mein Lieblingsoffizier
+03	20	68	Eine ganz natürliche Sache
+03	21	69	Die ganz besondere Ehre
+03	22	70	Und wieder Zahltag
+03	23	71	Penicilin und Folter
+03	24	72	Die letzte Party, Henry
+# 04. Staffel
+04	1	73	Trapper ist weg/Hunnicut ante Portas
+04	2	74	Ich bin Colonel Potter
+04	3	75	Guter Schuß, Margaret
+04	4	76	Tote lügen nie
+04	5	77	Kimbels Koreanisches Cafe
+04	6	78	Frank und der Feind
+04	7	79	Meine liebste Mildred
+04	8	80	Kaiserschnitt und Orden
+04	9	81	Quo Vadis, Chandler
+04	10	82	Dieses Briefeschreiben
+04	11	83	Die Einheimischen abtasten
+04	12	84	Soldat des Monats
+04	13	85	Ein altes, schönes Stück
+04	14	86	Heute: Heimatgeschichten
+04	15	87	Verrückt nach Tomatensaft
+04	16	88	Hurra wir sind noch da
+04	17	89	Die Laster des Frank B
+04	18	90	Hawkeyes Gehirnerschütterung
+04	19	91	Sein Hobby Müll
+04	20	92	Meuterei und Schlimmeres
+04	21	93	Der ewig lächelnde Jack
+04	22	94	Das letzte Wiedersehen
+04	23	95	Die Chinesen kommen
+04	24	96	Das Interview der Woche
+# 05. Staffel
+05	1	97	Feind im Anmarsch/Freund auf Rückmarsch
+05	2	98	Hot Lips verlobt sich
+05	3	99	Vorsicht meine Augen
+05	4	100	Mein Gott, Lieutnant
+05	5	101	Unsere guten Schwestern
+05	6	102	Sie bekommt ein Kind
+05	7	103	Lieber Sigmund
+05	8	104	Die Bewährungsprobe
+05	9	105	Dr Paik, tut mir Leid
+05	10	106	Stirb, oder ich schieße
+05	11	107	Das Pferd des Colonels
+05	12	108	Alles über Aberglauben
+05	13	109	Der Schlafwandler
+05	14	110	Amüsante Anekdoten
+05	15	111	In Teufels Küche
+05	16	112	Kriminelle Dummheit
+05	17	113	Viel Glück, Billy
+05	18	114	Allzu Menschliches
+05	19	115	Es sieht böse aus
+05	20	116	Leibarzt gesucht
+05	21	117	Wenn der Film reißt
+05	22	118	Verdammte Souvenirs
+05	23	119	Allgemeiner Notstand
+05	24	120	Margaret's Hochzeit
+# 06. Staffel
+06	1	121	Frank ist frei/Der neue Feind
+06	2	122	Orden für Radar
+06	3	123	Wer zuletzt lacht
+06	4	124	Infantiler Wahnsinn
+06	5	125	Die Winchester-Tonbänder
+06	6	126	Und der Mörder ist
+06	7	127	Liebe im Krieg
+06	8	128	Bei Geld hört's auf
+06	9	129	Tätowierung a'la Radar
+06	10	130	Die eigene Olympiade
+06	11	131	Was Feingefühl bewirkt
+06	12	132	Die beiden Abenteurer
+06	13	133	Immer nur lächeln
+06	14	134	Der Kaufmann von Korea
+06	15	135	Mit erhobener Nase
+06	16	136	Not macht erfinderisch
+06	17	137	Jeder hat seine Methode
+06	18	138	Musik ist Medizin
+06	19	139	Der Schwangerschaftstest
+06	20	140	Schwere Familienkrisen
+06	21	141	Gib Gas, Sophie
+06	22	142	Potters Rückzug
+06	23	143	Die schnellste Maus Koreas
+06	24	144	Eine alte List
+# 07. Staffel
+07	1	145	Die Kommandantensoße
+07	2	146	Alles nur Nullen
+07	3	147	Eine letzte Liebe
+07	4	148	Unser Bestes (Teil 1 & 2)
+07	5	149	Hilfe durch Hypnose
+07	6	150	Alle mögens kühl
+07	7	151	In vornehmen Kreisen
+07	8	152	Held des fernen Ostens
+07	9	153	Klingers Kälteschock
+07	10	154	Genug des Irrsinns
+07	11	155	Der hilfreiche Spion
+07	12	156	Des Ganoven Ehrenwort
+07	13	157	Nektar der Rache
+07	14	158	Es geschehen Wunder
+07	15	159	Merkwürdige Patienten
+07	16	160	Inga gibt zu denken
+07	17	161	Dein Pferd und du
+07	18	162	Ernie's Pizza Inferno
+07	19	163	Radar hat ein Mädchen
+07	20	164	Die mutigen Helden
+07	21	165	Spionagering enttarnt
+07	22	166	Der rettende Blinddarm
+07	23	167	Eine Nacht in Rosieland
+07	24	168	Varianten der Liebe
+07	25	169	Ein gigantisches Fest
+# 08. Staffel
+08	1	170	Ehe- und Gaumenfreuden
+08	2	171	Die rote Gefahr
+08	3	172	Zu allem bereit
+08	4	173	Leb' wohl Radar (Teil1)
+08	5	174	Leb' wohl Radar (Teil2)
+08	6	175	Krank vor Heimweh
+08	7	176	Es war der Priester
+08	8	177	Wundersame Wege
+08	9	178	Wer, was, wann, wo?
+08	10	179	War's der Truthan
+08	11	180	Um Leben und Tod
+08	12	181	Machen Sie Witze?
+08	13	182	Bescheidenheit ist, wenn
+08	14	183	Solo oder Team?
+08	15	184	Wohin mit dem Baby?
+08	16	185	Gin,Scotch und Cognac
+08	17	186	Heile dich selbst
+08	18	187	Alte Kameraden
+08	19	188	Hebt die Moral
+08	20	189	Siamesische Chirurgen
+08	21	190	Alibabas Freudenhaus
+08	22	191	Schlafen und Träumen
+08	23	192	Held und Heldin
+08	24	193	Soll und Nichthaben
+08	25	194	April macht was er will
+# 09. Staffel
+09	1	195	Feind spielt mit
+09	2	196	Kleine Brieffreunde
+09	3	197	Bakterien und Beton
+09	4	198	Die nackte Kuh
+09	5	199	Man lebt-man ist tot
+09	6	200	Notieren Sie, Max!
+09	7	201	Auf die Army!
+09	8	202	Ein göttlicher Segen
+09	9	203	Der große Reinfall
+09	10	204	Operation Freundschaft
+09	11	205	Bei Hitze, nicht schlafen
+09	12	206	Kühne Träume
+09	13	207	Doch nicht prostituieren
+09	14	208	Harmonika und Hochzeitstag
+09	15	209	Zuviel des Guten
+09	16	210	Mit unangenehmer Wirkung
+09	17	211	Gesundheit Hawkeye
+09	18	212	Weiter so, Hochwürden
+09	19	213	Ein fabelhafter Gedanke
+09	20	214	Die härteste Realität
+# 10. Staffel
+10	1	215	Die Showbiz-Leute
+10	2	216	Lüge und Betrug
+10	3	217	Gerüchte ufern aus
+10	4	218	Lieber Harry Truman
+10	5	219	Es ist Pokerzeit
+10	6	220	Der wilde Streik
+10	7	221	Eine Welle des Verbrechens (Teil 1)
+10	8	222	Eine Welle des Verbrechens (Teil 2)
+10	9	223	Diener und Herren
+10	10	224	Niemand weiß wohin
+10	11	225	Die Geburtstagskinder
+10	12	226	Der Krieg ruft
+10	13	227	Sünder sucht Zuflucht
+10	14	228	Der Zahn muß rauß!
+10	15	229	Die Ruhe in Person
+10	16	230	Hawk's letzter Wille
+10	17	231	Im Namen der Männlichkeit
+10	18	232	Ein jeder ein Held
+10	19	233	Das blaue Wunder
+10	20	234	Sumpfratten unter sich
+10	21	235	Die blöde Ziegenstory
+# 11. Staffel
+11	1	236	Das kostbare Mauerblümchen
+11	2	237	Überirdische Geschichten
+11	3	238	Ein Schuß Propaganda
+11	4	239	Flair, Stil und Fantasie
+11	5	240	Nur der Himmel weiß
+11	6	241	Die Monroe kommt!
+11	7	242	Mildreds Handschrift
+11	8	243	Klinger nimmt die Pille
+11	9	244	Das Rennen des Jahres
+11	10	245	Höherer Besuch
+11	11	246	Vulgäre Gewohnheiten
+11	12	247	Zuwenig der Worte
+11	13	248	Wozu hat man Freunde?
+11	14	249	Bestechung und Erpressung
+11	15	250	Die Zeitkapsel
+11	16	251	Mach's gut, leb wohl und Amen
