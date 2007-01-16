@@ -1,0 +1,67 @@
+#
+# SEASONLIST
+# 1	1	18
+# 2	19	36
+# 3	37	55
+# /SEASONLIST
+#
+#SE	EP	No.	Title
+#
+# 01. Staffel
+01	1	1	Für immer vereint
+01	2	2	Eine von uns
+01	3	3	Insomnia
+01	4	4	Der Fall Crenshaw
+01	5	5	Spurlos
+01	6	6	Cosa Nostra
+01	7	7	Ein zweites Leben
+01	8	8	Die Braut aus dem Katalog
+01	9	9	Siebzehn Jahre
+01	10	10	Der Todeskandidat
+01	11	11	Mord in der Wildnis
+01	12	12	Victoria
+01	13	13	Die Rückkehr des Killers
+01	14	14	Die Militärakademie
+01	15	15	Die Wunderdroge
+01	16	16	Undercover
+01	17	17	Paranoia
+01	18	18	Entscheidungen
+# 02. Staffel
+02	1	19	Die Neue
+02	2	20	One Night Stand
+02	3	21	Erpressung
+02	4	22	Auferstehung
+02	5	23	Jagd auf Charlie
+02	6	24	Tod im Central Park
+02	7	25	Trautes Heim
+02	8	26	Der schwarze Mann
+02	9	27	Menschenschmuggel
+02	10	28	Der Popstar
+02	11	29	Mr. Nobody
+02	12	30	Der große Unbekannte (1)
+02	13	31	Der große Unbekannte (2)
+02	14	32	Der Rachefeldzug
+02	15	33	Der Mann ohne Namen
+02	16	34	Der letzte Ausweg
+02	17	35	Sieben Frauen
+02	18	36	Killervirus
+# 03. Staffel
+03	1	37	Das Wunschkind (1)
+03	2	38	Das Wunschkind (2)
+03	3	39	Der Buchhalter
+03	4	40	Flucht ohne Ausweg
+03	5	41	Sünden von gestern
+03	6	42	Der Traummann
+03	7	43	Countdown
+03	8	44	Eiskalt
+03	9	45	Der Kriegsverbrecher
+03	10	46	Verurteilt
+03	11	47	Schüsse in der High School
+03	12	48	Familiensache
+03	13	49	Drei Stunden
+03	14	50	Terroristen
+03	15	51	Die Studentin
+03	16	52	Tödliche Schönheit
+03	17	53	Verwirrspiel
+03	18	54	Verbrannte Tarnung
+03	19	55	Der Feuerball

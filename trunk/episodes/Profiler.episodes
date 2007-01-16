@@ -1,0 +1,98 @@
+#
+# SEASONLIST
+# 1	1	22
+# 2	23	42
+# 3	43	64
+# 4	65	84
+# /SEASONLIST
+#
+#SE	EP	No.	Title
+#
+# 01. Staffel
+01	1	1	Der Alptraum kehrt zurück
+01	2	2	Der Feuerteufel
+01	3	3	Wahnsinn mit Methode
+01	4	4	Der Puppenmörder
+01	5	5	Explosive Mischung
+01	6	6	Ich töte, was du liebst
+01	7	7	Sonnenwende
+01	8	8	Der Todeskandidat
+01	9	9	Zauberlehrling
+01	10	10	Todesstille
+01	11	11	Doppelgänger
+01	12	12	Alte Meister
+01	13	13	Unter Kontrolle
+01	14	14	Gefallene Engel (1)
+01	15	15	Gefallene Engel (2)
+01	16	16	Auge um Auge
+01	17	17	Entführt!
+01	18	18	Der Highway Killer
+01	19	19	Das Mörderspiel
+01	20	20	Das Lächeln des Todes
+01	21	21	Verwandte Seelen (1)
+01	22	22	Verwandte Seelen (2)
+# 02. Staffel
+02	1	23	Kaltgestellt
+02	2	24	Außer Kontrolle
+02	3	25	Gemeinsame Sache
+02	4	26	Feuerwerk
+02	5	27	Im Namen des Richters
+02	6	28	Alte Bekannte
+02	7	29	Um Haaresbreite
+02	8	30	Erbsünde
+02	9	31	Schwere Geburt
+02	10	32	Der Todesengel
+02	11	33	Familienbande
+02	12	34	Im Zeichen des Schützen
+02	13	35	Blut und Spiele
+02	14	36	Alle fünf Minuten
+02	15	37	Mit dem Rücken zur Wand
+02	16	38	Der Fan
+02	17	39	Saat der Gewalt
+02	18	40	Die Schöne und das Biest
+02	19	41	Die Wurzel alles Bösen (1)
+02	20	42	Die Wurzel alles Bösen (2)
+# 03. Staffel
+03	1	43	Von Angesicht zu Angesicht
+03	2	44	Im neunten Monat
+03	3	45	Um ein Haar
+03	4	46	Die Gezeichneten
+03	5	47	Stück für Stück
+03	6	48	Schau mich nicht an
+03	7	49	Der Leichensammler
+03	8	50	Der Blutsbruder
+03	9	51	Gestohlene Kindheit
+03	10	52	Schachmatt
+03	11	53	Ein ganz normaler Held
+03	12	54	Böses Blut
+03	13	55	Der Model-Killer
+03	14	56	Ferngesteuert
+03	15	57	Bonnie und Clyde
+03	16	58	Flammenopfer
+03	17	59	Endlose Stunden
+03	18	60	Kleine Fische
+03	19	61	Operation Kolibri
+03	20	62	Endspiel (1)
+03	21	63	Endspiel (2)
+03	22	64	Mörderische Beziehungen
+# 04. Staffel
+04	1	65	Die letzte Schlacht (1)
+04	2	66	Die letzte Schlacht (2)
+04	3	67	Der Saubermann
+04	4	68	Treibgut
+04	5	69	Alles aus Liebe
+04	6	70	Denn sie wissen nicht, was sie tun
+04	7	71	Der Madonnenmörder
+04	8	72	Zug um Zug
+04	9	73	Das Versprechen
+04	10	74	Doppeltes Spiel
+04	11	75	Auf eigene Faust
+04	12	76	Wolf im Schafspelz
+04	13	77	Proteus
+04	14	78	Mord im Paradies
+04	15	79	Der Mäusekönig
+04	16	80	Blutzoll
+04	17	81	Mea Culpa
+04	18	82	Pianissimo
+04	19	83	Nichts geht mehr
+04	20	84	Blondes Gift

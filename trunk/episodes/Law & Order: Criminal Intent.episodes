@@ -1,0 +1,139 @@
+#
+# SEASONLIST
+# 1	1	22
+# 2	23	45
+# 3	46	66
+# 4	67	89
+# 5	90	111
+# 6	112	121
+# /SEASONLIST
+#
+#SE	EP	No.	Title
+#
+# 01. Staffel
+01	1	1	Eiskalte Spur
+01	2	2	Meisterwerk
+01	3	3	Verraten und verkauft
+01	4	4	Ein heiliges Geheimnis
+01	5	5	Vielweiberei
+01	6	6	Fette Beute
+01	7	7	Todesengel
+01	8	8	Machtkampf
+01	9	9	Spurlos
+01	10	10	Todesfalle
+01	11	11	Im Namen des Herren
+01	12	12	Geisteskrank
+01	13	13	Der Insider
+01	14	14	Zahltag
+01	15	15	Hingerichtet
+01	16	16	Das Phantom
+01	17	17	Die Handschrift des Killers
+01	18	18	Die Leiche im Keller
+01	19	19	Kopflos
+01	20	20	Die Abrechnung
+01	21	21	Tödliche Zweifel.
+01	22	22	Unter Druck
+# 02. Staffel
+02	1	23	Die sechste Plage
+02	2	24	Tödlicher Ehrgeiz
+02	3	25	Falsches Spiel
+02	4	26	Eine Leiche im Keller
+02	5	27	Die Kunst des Mordens
+02	6	28	Tödliche Dosis
+02	7	29	Die Nanny
+02	8	30	Das Attentat
+02	9	31	Im falschen Glauben
+02	10	32	Der Guru
+02	11	33	Doppelleben
+02	12	34	Die Botox-Tote
+02	13	35	Auge um Auge
+02	14	36	Ohne Skrupel
+02	15	37	Tödliche Neugier
+02	16	38	Mord auf Bestellung
+02	17	39	Eiskalt
+02	18	40	Die Krieger
+02	19	41	Kurzschluss
+02	20	42	Hoher Einsatz
+02	21	43	Die Sippe
+02	22	44	Niedere Instinkte
+02	23	45	Die Drahtzieherin
+# 03. Staffel
+03	1	46	Hinterrücks
+03	2	47	Blauäugig
+03	3	48	Das Medium
+03	4	49	Der Schein trügt
+03	5	50	Schwarz auf weiß
+03	6	51	Undercover
+03	7	52	Hasserfüllt
+03	8	53	Süßer Stoff
+03	9	54	Die Waisenknaben
+03	10	55	Blutiges Spiel
+03	11	56	Tod in Harlem
+03	12	57	Außer Atem
+03	13	58	Hochexplosiv
+03	14	59	Sein letzter Trip
+03	15	60	Auf der Couch
+03	16	61	Der Heilige
+03	17	62	Koma
+03	18	63	Das Trojanische Pferd
+03	19	64	Mafiosi
+03	20	65	Totenwache
+03	21	66	Die Millionenbeute
+# 04. Staffel
+04	1	67	Seine letzte Sendung
+04	2	68	Atelier des Todes
+04	3	69	Der Kannibale
+04	4	70	Tödliche Geliebte
+04	5	71	Lösegold
+04	6	72	Tödlicher Abstieg
+04	7	73	Der Tyrann
+04	8	74	Der Meisterdieb
+04	9	75	Genie und Wahnsinn
+04	10	76	In Gottes Namen
+04	11	77	Verfolgungswahn
+04	12	78	Club der Vampire
+04	13	79	Hinter Gittern
+04	14	80	Der Playboy
+04	15	81	Mord a la Carte
+04	16	82	Auf Herz und Nieren
+04	17	83	Gefesselt
+04	18	84	Blutsbande
+04	19	85	Fluch der Schönheit
+04	20	86	Letzter Ausweg
+04	21	87	Ein tödlicher Antrag
+04	22	88	Die Spur des Bären
+04	23	89	Kurzer Prozess
+# 05. Staffel
+05	1	90	Die Hormonfalle
+05	2	91	Die Rabenmutter
+05	3	92	Lebenszeichen
+05	4	93	Verwechslungsopfer
+05	5	94	Die Büßerin
+05	6	95	n.n.
+05	7	96	n.n.
+05	8	97	Kurzsichtig
+05	9	98	Verrückt vor Angst
+05	10	99	Das Kuckuckskind
+05	11	100	Blondinen bevorzugt
+05	12	101	Freier Fall
+05	13	102	Familiengeheimnis
+05	14	103	n.n.
+05	15	104	n.n.
+05	16	105	n.n.
+05	17	106	n.n.
+05	18	107	n.n.
+05	19	108	n.n.
+05	20	109	n.n.
+05	21	110	n.n.
+05	22	111	n.n.
+# 06. Staffel
+06	1	112	n.n.
+06	2	113	n.n.
+06	3	114	n.n.
+06	4	115	n.n.
+06	5	116	n.n.
+06	6	117	n.n.
+06	7	118	n.n.
+06	8	119	n.n.
+06	9	120	n.n.
+06	10	121	n.n.
