@@ -3,9 +3,9 @@
 ##########################################################################
 #
 #
-$Version = "0.1.9";
+$Version = "0.1.10";
 #
-# Date:    2007-01-03
+# Date:    2007-01-16
 #
 # Author: Mike Constabel <vejoun @ vdrportal . de>
 #                        <vejoun @ toppoint . de>
@@ -181,7 +181,7 @@ foreach ( @Files ) {
       $emptyline = 0;
       push(@Keywords, "#");
       push(@Keywords, "# COMPLETE");
-    } elsif ( $Line =~ /^#\s*SE\tEP/ ) {
+    } elsif ( $Line =~ /^#\s*SE\s*EP/ ) {
       $infos++ if ! $Config{quiet};
       push(@Msg, sprintf ("%s:%i: Info: Skipping not needed line.\n", $InFile, $linenumber)) if ! $Config{quiet};
     } elsif ( $Line =~ /^#\s*(\d+.*staffel|staffel.*\d+)\s*\S*$/i ) {
