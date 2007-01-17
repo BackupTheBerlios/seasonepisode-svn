@@ -1,13 +1,11 @@
 #
-# SHORT CSI-Den Tätern auf der Spur
-#
 # SEASONLIST
 # 1	1	23
 # 2	24	46
 # 3	47	69
 # 4	70	92
-# 5	93	115
-# 6	116	139
+# 5	93	117
+# 6	118	141
 # /SEASONLIST
 #
 #SE	EP	No.	Title
@@ -97,7 +95,7 @@
 04	10	79	Kinderspiele
 04	11	80	Nicht schuldig
 04	12	81	Der Saubermann
-04	13	82	Blutsauge
+04	13	82	Blutsauger
 04	14	83	Der dritte Mann
 04	15	84	Kaltblütig
 04	16	85	Tod eines Clowns
@@ -109,51 +107,53 @@
 04	22	91	Falsches Spiel
 04	23	92	Die Chimäre
 # 05. Staffel
-05	1	93	Ausgebeutet
-05	2	94	Der sterbende Schwan
-05	3	95	Partnertausch
-05	4	96	Entwischt
-05	5	97	Hilferufe
-05	6	98	Tod im OP
-05	7	99	Hexenjagd
-05	8	100	Ein grausiger Fund
-05	9	101	Meisterdetektive
-05	10	102	Spiel mir das Lied vom Tod
-05	11	103	Schwarzes Grab
-05	12	104	Hetzjagd
-05	13	105	Baby Bruce
-05	14	106	Die Last der Liebe
-05	15	107	Zweifelhaftes Geständnis
-05	16	108	Das Wunschkind
-05	17	109	Nachtschicht
-05	18	110	Gefallener Engel
-05	19	111	Blutiger Wahn
-05	20	112	Flirt mit dem Tod
-05	21	113	Auf Eis
-05	22	114	Grabesstille (1)
-05	23	115	Grabesstille (2)
+05	1	93	Viva Las Vegas
+05	2	94	Abgründe
+05	3	95	Ausgebeutet
+05	4	96	Der sterbende Schwan
+05	5	97	Partnertausch
+05	6	98	Entwischt
+05	7	99	Hilferufe
+05	8	100	Tod im OP
+05	9	101	Hexenjagd
+05	10	102	Ein grausiger Fund
+05	11	103	Meisterdetektive
+05	12	104	Spiel mir das Lied vom Tod
+05	13	105	Schwarzes Grab
+05	14	106	Hetzjagd
+05	15	107	Baby Bruce
+05	16	108	Die Last der Liebe
+05	17	109	Zweifelhaftes Geständnis
+05	18	110	Das Wunschkind
+05	19	111	Nachtschicht
+05	20	112	Gefallener Engel
+05	21	113	Blutiger Wahn
+05	22	114	Flirt mit dem Tod
+05	23	115	Auf Eis
+05	24	116	Grabesstille 1
+05	25	117	Grabesstille 2
 # 06. Staffel
-06	1	116	Feuer und Flamme
-06	2	117	Spiel mit dem Tod
-06	3	118	Beiß Mich!
-06	4	119	Todesjünger
-06	5	120	Blutiges Gras
-06	6	121	Herr der Fliegen
-06	7	122	Im Kugelhagel
-06	8	123	Das große Fressen
-06	9	124	Vermisst
-06	10	125	Der Wolfsmann
-06	11	126	n.n.
-06	12	127	n.n.
-06	13	128	n.n.
-06	14	129	n.n.
-06	15	130	n.n.
-06	16	131	n.n.
-06	17	132	n.n.
-06	18	133	n.n.
-06	19	134	n.n.
-06	20	135	n.n.
-06	21	136	n.n.
-06	22	137	n.n.
-06	23	138	n.n.
-06	24	139	n.n.
+06	1	118	Feuer und Flamme
+06	2	119	Spiel mit dem Tod
+06	3	120	Beiß Mich!
+06	4	121	Todesjünger
+06	5	122	Blutiges Gras
+06	6	123	Herr der Fliegen
+06	7	124	Im Kugelhagel 1
+06	8	125	Im Kugelhagel 2
+06	9	126	Das grosse Fressen
+06	10	127	Vermisst
+06	11	128	Der Wolfsmann
+06	12	129	Späte Rache
+06	13	130	Der letzte Vorhang
+06	14	131	Hass verjährt nie
+06	15	132	Das kalte Grauen
+06	16	133	n.n.
+06	17	134	n.n.
+06	18	135	n.n.
+06	19	136	n.n.
+06	20	137	n.n.
+06	21	138	n.n.
+06	22	139	n.n.
+06	23	140	n.n.
+06	24	141	n.n.
