@@ -1,0 +1,105 @@
+#
+# SEASONLIST
+# 1	1	14
+# 2	15	46
+# 3	47	89
+# 4	90	91
+# /SEASONLIST
+#
+#SE	EP	No.	Title
+#
+# 01. Staffel
+01	1	1	Schwarze Witwe 1
+01	2	2	Schwarze Witwe 2
+01	3	3	Die Höllenmaschine 1
+01	4	4	Die Höllenmaschine 2
+01	5	5	Feuerstuhl 1
+01	6	6	Die Daytona Bike Week
+01	7	7	Feuerstuhl 2
+01	8	8	Klassiker 1
+01	9	9	Klassiker 2
+01	10	10	Comanche 1
+01	11	11	Comanche 2
+01	12	12	Mikes Bike 1
+01	13	13	Mikes Special
+01	14	14	Mikes Bike 2
+# 02. Staffel
+02	1	15	Tool Bike 1
+02	2	16	Tool Bike 2
+02	3	17	Santa Claus Bike
+02	4	18	NY Jets Bike
+02	5	19	Ehrensache 1
+02	6	20	Ehrensache 2
+02	7	21	Ehrensache 3
+02	8	22	Ein Bike zum Jubiläum 1
+02	9	23	Ein Bike zum Jubiläum 2
+02	10	24	Ein Bike für Jay Leno 1
+02	11	25	Ein Bike für Jay Leno 2
+02	12	26	Liberty Bike 1
+02	13	27	Liberty Bike 2
+02	14	28	Dixie Chopper 1
+02	15	29	Dixie Chopper 2
+02	16	30	Das Signature-Bike 1
+02	17	31	Das Signature-Bike 2
+02	18	32	Will Smith Bike 1
+02	19	33	Will Smith Bike 2
+02	20	34	Davis Love Bike
+02	21	35	Lance Armstrong Bike 1
+02	22	36	Lance Armstrong Bike 2
+02	23	37	Police Bike 1
+02	24	38	Police Bike 2
+02	25	39	David Mann Bike 1
+02	26	40	David Mann Bike 2
+02	27	41	Christmas-Bike
+02	28	42	Carroll Shelby Bike 1
+02	29	43	Carroll Shelby Bike 2
+02	30	44	Lincoln Bike 1
+02	31	45	Lincoln Bike 2
+02	32	46	Unbekannt - Best of - Sr. vs. Jr.
+# 03. Staffel
+03	1	47	Juniors Traummaschine 1
+03	2	48	Juniors Traummaschine 2
+03	3	49	Cat Bike 1
+03	4	50	Cat Bike 2
+03	5	51	Gillette Bike 1
+03	6	52	Gillette Bike 2
+03	7	53	NAPA Bike 1
+03	8	54	NAPA Bike 2
+03	9	55	Mikey
+03	10	56	Military Bike 1
+03	11	57	Military Bike 2
+03	12	58	Yankee Bike 1
+03	13	59	Yankee Bike 2
+03	14	60	Space Shuttle Tribute Bike 1
+03	15	61	Space Shuttle Tribute Bike 2
+03	16	62	Ricks Bike 1
+03	17	63	Ricks Bike 2
+03	18	64	Auf Europatour - Teil 1
+03	19	65	Auf Europatour - Teil 2
+03	20	66	Wie alles begann
+03	21	67	Behind the Scenes
+03	22	68	Das Make-A-Wish-Bike
+03	23	69	Fantasy Bike 1
+03	24	70	Fantasy Bike 2
+03	25	71	Fantasy Bike 3
+03	26	72	Fantasy Bike 4
+03	27	73	Das Oldtimer-Bike 1
+03	28	74	Das Oldtimer-Bike 2
+03	29	75	Outtakes
+03	30	76	Billy Joel Bike 1
+03	31	77	Billy Joel Bike 2
+03	32	78	Bike zu versteigern 1
+03	33	79	Bike zu versteigern 2
+03	34	80	Das Petro-Bike 1
+03	35	81	Das Petro-Bike 2
+03	36	82	Bill Murray Bike 1
+03	37	83	Bill Murray Bike 2
+03	38	84	OCC Roadshow
+03	39	85	Das OCC-Serien-Bike
+03	40	86	LUGZ Bike 1
+03	41	87	LUGZ Bike 2
+03	42	88	Eragon Bike 1
+03	43	89	Eragon Bike 2
+# 04. Staffel
+04	1	90	Senior gegen Junior 1
+04	2	91	Senior gegen Junior 2
