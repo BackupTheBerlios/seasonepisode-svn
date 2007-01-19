@@ -1,0 +1,79 @@
+#
+# SEASONLIST
+# 1	1	5
+# 2	6	29
+# 3	30	51
+# 4	52	65
+# /SEASONLIST
+#
+#SE	EP	No.	Title
+#
+# 01. Staffel
+01	1	1	Der mächtige Megalosaurus
+01	2	2	Paarungstanz
+01	3	3	Der Schleudertag
+01	4	4	Das große Heulen
+01	5	5	Das Duell
+# 02. Staffel
+02	1	6	Das goldene Horn
+02	2	7	Aktion Fernseher
+02	3	8	Fressen und gefressen werden
+02	4	9	Schwanzprobleme
+02	5	10	Die letzten Appetitäffchen
+02	6	11	Mitarbeiter des Monats
+02	7	12	Aufstand der Frostzone
+02	8	13	Karriereträume
+02	9	14	Der Ehe-TÜV
+02	10	15	Die erste Anmache
+02	11	16	Umtausch ausgeschlossen
+02	12	17	Das Fest der Liebe
+02	13	18	Beruf: Baumschubserin
+02	14	19	Fragen Sie Fran!
+02	15	20	Jugend forscht
+02	16	21	Was Sie schon immer über die Dinos wissen wollten
+02	17	22	Sag nein!
+02	18	23	Himmlische Oma
+02	19	24	Nuß um Nuß, Teil 1
+02	20	25	Nuß um Nuß, Teil 2
+02	21	26	Das Modediktat
+02	22	27	Was nun,Herr Richfield?
+02	23	28	Wer zuerst schlägt
+02	24	29	Die Firma hat immer recht
+# 03. Staffel
+03	1	30	Mach's richtig,Baby!
+03	2	31	Dino Dancing
+03	3	32	Smarsch
+03	4	33	Die Entdeckung
+03	5	34	Der Fernsehkönig
+03	6	35	Pangaea Werwolf
+03	7	36	Virenparty
+03	8	37	Liebeshunger
+03	9	38	Elternführerschein
+03	10	39	Die Welt ist eine Apfelsine
+03	11	40	Die Wochenend-Machos
+03	12	41	Robbie zeigt Zähne
+03	13	42	Schüleraustausch
+03	14	43	Die Scheinehe
+03	15	44	Pfannenkarriere
+03	16	45	Muskel-Robbie
+03	17	46	Mama Earl
+03	18	47	Sumpfblütenblues
+03	19	48	Mein Freund der Baum
+03	20	49	Besuch aus dem All
+03	21	50	Applaus für Charlene
+03	22	51	Das war ihr Leben
+# 04. Staffel
+04	1	52	Die Urwaldprüfung
+04	2	53	Dino-Duft
+04	3	54	Der Untermieter
+04	4	55	Immer bloß Jungs
+04	5	56	Superearl
+04	6	57	Die Kartoffel
+04	7	58	Klassentreffen
+04	8	59	Treufußland
+04	9	60	Arm,aber Becher
+04	10	61	Der goldene Fuß
+04	11	62	Earl und Pearl
+04	12	63	Alle Kinder lieben Georgie
+04	13	64	Der zweite Geburtstag
+04	14	65	Dinodämmerung

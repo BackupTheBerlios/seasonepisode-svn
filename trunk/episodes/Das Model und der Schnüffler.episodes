@@ -1,0 +1,81 @@
+#
+# SEASONLIST
+# 1	1	5
+# 2	6	23
+# 3	24	38
+# 4	39	52
+# 5	53	65
+# /SEASONLIST
+#
+#SE	EP	No.	Title
+#
+# 01. Staffel
+01	1	1	n.n.	Killer unter sich
+01	2	2	n.n.	Erst die Gedanken, dann der Film
+01	3	3	n.n.	Mord auf sanfter Welle
+01	4	4	n.n.	Tod auf Schienen
+01	5	5	n.n.	Schulden und Spione
+# 02. Staffel
+02	1	6	n.n.	Die Brueder Addison
+02	2	7	n.n.	Spaete Rache
+02	3	8	n.n.	Casino Fatal
+02	4	9	n.n.	Schatten der Vergangenheit
+02	5	10	n.n.	Ein Kinderspiel wird ernst
+02	6	11	n.n.	Eine Frau die ich kannte
+02	7	12	n.n.	Suite Irlandaise
+02	8	13	n.n.	Bilderraetsel
+02	9	14	n.n.	Nummern-Revue
+02	10	15	n.n.	Es weihnachtet schwer
+02	11	16	n.n.	Club der zweisamen Herzen
+02	12	17	n.n.	Die Stunde der Wahrheit
+02	13	18	n.n.	Begruendete Zweifel
+02	14	19	n.n.	Indiskretionen
+02	15	20	n.n.	Zeuge der Hinrichtung
+02	16	21	n.n.	Den Seinen gibt's der Herr im Schlaf
+02	17	22	n.n.	Eine Tote kehrt zurück
+02	18	23	n.n.	Es ist nicht alles Gold was glaenzt
+# 03. Staffel
+03	1	24	n.n.	Qualverwandschaften
+03	2	25	n.n.	Ueber den Tod hinaus
+03	3	26	n.n.	Sinfonie für vier Handschuhe
+03	4	27	n.n.	Mit toedlichen Gruessen
+03	5	28	n.n.	Viele sind berufen
+03	6	29	n.n.	Jugendsünde
+03	7	30	n.n.	Atomic Shakespeare
+03	8	31	n.n.	Willkommen in der Wirklichkeit
+03	9	32	n.n.	Live aus dem Atelier
+03	10	33	n.n.	Karriereknicke
+03	11	34	n.n.	Gefahr von blond
+03	12	35	n.n.	Rivalen bei Kerzenschein
+03	13	36	n.n.	Bis das ein Mord sie scheidet
+03	14	37	n.n.	Ring frei
+03	15	38	n.n.	Der Geist ist willig ...
+# 04. Staffel
+04	1	39	n.n.	Waschmaschinen und Mondschein
+04	2	40	n.n.	Heisse Liebe, kalte Fueße
+04	3	41	n.n.	Vorsicht Traualtar
+04	4	42	n.n.	Liebe auf der Flucht
+04	5	43	n.n.	David, der Moerder (1)
+04	6	44	n.n.	David, der Moerder (2)
+04	7	45	n.n.	Zwei Männer und ein Baby
+04	8	46	n.n.	Oh, mein' Mama
+04	9	47	n.n.	Eine empfaengnisvolle Affaere
+04	10	48	n.n.	Die Spur meiner Traenen
+04	11	49	n.n.	(nicht im deutschen TV gesendet)
+04	12	50	n.n.	Doppelt geheiratet haelt besser
+04	13	51	n.n.	Bogart für Arme
+04	14	52	n.n.	Die unbekannt Geliebte
+# 05. Staffel
+05	1	53	n.n.	(nicht im deutschen TV gesendet)
+05	2	54	n.n.	Aus dem Regen in die Tinte
+05	3	55	n.n.	Der verschwundene Faschingsprinz
+05	4	56	n.n.	(nicht im deutschen TV gesendet)
+05	5	57	n.n.	Der Krieg der Geschlechter
+05	6	58	n.n.	Nehmen sie meine Frau ...
+05	7	59	n.n.	Lieber Rotwein, als Totsein
+05	8	60	n.n.	Rote Lippen luegen nicht
+05	9	61	n.n.	(nicht im deutschen TV gesendet)
+05	10	62	n.n.	Der Mann meiner Freundin
+05	11	63	n.n.	Von Verliebten und Verwandten
+05	12	64	n.n.	Iren sind menschlich
+05	13	65	n.n.	Totale Mondfinsternis

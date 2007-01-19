@@ -1,0 +1,72 @@
+## 01. Staffel
+#
+# SEASONLIST
+# 1	1	24
+# 2	25	46
+# 3	47	59
+# /SEASONLIST
+#
+#SE	EP	No.	Title
+#
+# 01. Staffel
+01	1	1	Pilot - Teil 1
+01	2	2	Pilot - Teil 2
+01	3	3	Der Teufelsgraben
+01	4	4	Das versunkene Wissen
+01	5	5	Vereist in alle Ewigkeit
+01	6	6	Tiefseeflimmern
+01	7	7	Die vergessenen Kinder
+01	8	8	Tödliche Gene
+01	9	9	Das Geisterschiff
+01	10	10	SOS im Sargassomeer
+01	11	11	Der Regulator
+01	12	12	Goldrausch
+01	13	13	Kampf gegen die Welt
+01	14	14	Duell der Entdecker
+01	15	15	Gefährliches Experiment
+01	16	16	Die Schatzinsel
+01	17	17	Der Rächer der Wale
+01	18	18	Turbulenzen
+01	19	19	Der Alptraum
+01	20	20	In letzter Sekunde
+01	21	21	Die Meerjungfrau
+01	22	22	Endlose Geduld
+01	23	23	Die Schwestern vom guten Tod
+01	24	24	Das Ende der seaQuest
+# 02. Staffel
+02	1	25	seaQuest DSV II - Teil 1
+02	2	26	seaQuest DSV II - Teil 2
+02	3	27	Die Angst im Nacken
+02	4	28	Im Rausch der Tiefe
+02	5	29	Landurlaub
+02	6	30	Hilferuf aus der Zukunft
+02	7	31	Begegnung mit der Vergangenheit
+02	8	32	Schlingen des Todes
+02	9	33	Wenn Tote erwachen
+02	10	34	Familienbande
+02	11	35	Ein Mann zuviel
+02	12	36	Grüße aus der Steinzeit
+02	13	37	Auf der Suche nach Atlantis
+02	14	38	Falsche Liebe
+02	15	39	Der blinde Seher
+02	16	40	Allein
+02	17	41	Solitaire ? Die geheimnisvolle Insel
+02	18	42	Das Verbrechen in der Alpha-Basis
+02	19	43	O'Neills Entlassung
+02	20	44	Der Zukunftsmensch
+02	21	45	Der Knastbruder
+02	22	46	Ausweglose Mission
+# 03. Staffel
+03	1	47	Schöne neue Welt
+03	2	48	Das Trinkwasser Monopol
+03	3	49	Unsichtbare Piraten
+03	4	50	Endstation Peking
+03	5	51	Befehl ist Befehl
+03	6	52	Willenlos
+03	7	53	Vertrauenssache
+03	8	54	Der Fluch von Banaba Island
+03	9	55	Zeitreise
+03	10	56	Die Sklavenkolonie
+03	11	57	Krieger-Ehre
+03	12	58	Der geplante Weltuntergang
+03	13	59	Auf Leben und Tod
