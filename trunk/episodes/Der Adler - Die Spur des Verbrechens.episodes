@@ -2,6 +2,7 @@
 # SEASONLIST
 # 1	1	4
 # 2	5	8
+# 3	9	12
 # /SEASONLIST
 #
 #SE	EP	No.	Title
@@ -16,3 +17,8 @@
 02	2	6	Codename: Agamemnon
 02	3	7	Codename: Tantalus
 02	4	8	Codename: Keres
+# 03. Staffel
+03	1	9	Codename: Kalypso
+03	2	10	Codename: Thantos
+03	3	11	Codename: Minos
+03	4	12	Codename: Ithaka
