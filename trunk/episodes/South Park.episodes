@@ -7,17 +7,18 @@
 # 5	66	79
 # 6	80	96
 # 7	97	111
+# 8	111	125
 # /SEASONLIST
 #
 #SE	EP	No.	Title
 #
 # 01. Staffel
 01	1	1	Cartman und die Analsonde
-01	2	2	Wie werde ich ein Kampfkoloss
+01	2	2	Wie werde ich ein Kampfkoloss?
 01	3	3	Knall endlich den Hasen ab
 01	4	4	Ein Heim für Tiertunten
 01	5	5	Tanz der Mutanten
-01	6	6	Wer killt Opa
+01	6	6	Wer killt Opa?
 01	7	7	Her mit dem Hirn
 01	8	8	Damien
 01	9	9	Ein Fettwanst in Äthiopien
@@ -26,44 +27,44 @@
 01	12	12	Robo-Streisand
 01	13	13	Cartman's Mama ist eine Schlampe
 # 02. Staffel
-02	1	14	Terrence und Phillip zeigen: Furze ...
-02	2	15	...und noch immer ist Cartman's Mam...
+02	1	14	Terrence & Phillip zeigen: "Pupse gegen Saddam"
+02	2	15	...und noch immer ist Cartman's Mama eine Schlampe
 02	3	16	Rauf auf's Huhn
 02	4	17	Kampf um die Vorhaut
-02	5	18	Schöner wär' ne Warze
+02	5	18	Schöner wär 'ne Warze
 02	6	19	Jesus verliert Einschaltquoten
 02	7	20	Griff in die Geschichte
 02	8	21	Tote Hose
-02	9	22	Mr Hankey gegen den Mist aus Hollyw...
+02	9	22	Mr. Hankey gegen den Mist aus Hollywood
 02	10	23	Der Wind hat mir 'ne Pocke erzählt
 02	11	24	Voll das Geheimnis
-02	12	25	Streit, Scheidung und ein Happy End...
+02	12	25	Streit, Scheidung und ein Happy End in 25 Minuten
 02	13	26	Coole Kühe
 02	14	27	Kohle an den Chefkoch
 02	15	28	Böser, böser Fisch
-02	16	29	Merry Christmas Charlie Manson
+02	16	29	Merry Christmas Charlie Manson!
 02	17	30	Böse Buben bringen Beistand
-02	18	31	Wem gehört der Typ aus dem Eis
+02	18	31	Wem gehört der Typ aus dem Eis?
 # 03. Staffel
-03	1	32	Regenwald, Regenwald...Du läßt mich...
+03	1	32	Regenwald, Regenwald...Du läßt mich völlig kalt
 03	2	33	Spontane Selbstentzündung
 03	3	34	Chefkoch liebt 'nen Sukkubus
 03	4	35	Tweek gegen Craig
 03	5	36	South-Park Saurier
 03	6	37	Ich fühl' mich voll belästigt
-03	7	38	Katzenorgie (Teil 1)
-03	8	39	Wenn der Vater mit dem Vater... (Te...
-03	9	40	Beschnittene Pfadfinder (Teil 3)
+03	7	38	Katzenorgie, Teil 1
+03	8	39	Wenn der Vater mit dem Vater..., Teil 2
+03	9	40	Beschnittene Pfadfinder, Teil 3
 03	10	41	Chinpokomon
 03	11	42	Hungriger Hugo im All
-03	12	43	Korn's echt abgefahrene Geisterstor...
+03	12	43	Korn's echt abgefahrene Geisterstory
 03	13	44	Vorsicht vor dem wahren Leben
 03	14	45	Fackeln im Sturm für Arme
-03	15	46	Hellelija! Mr Hankey's klassische W...
+03	15	46	Hellelija! Mr Hankey's klassische Weihnachten
 03	16	47	Hallo Gott, hier ist Jesus
 03	17	48	Jetzt gibt's was auf die Ohren
 # 04. Staffel
-04	1	49	Die lustige Geschichte über ein Ver...
+04	1	49	Die lustige Geschichte über ein Verbrechen aus Hass
 04	2	50	Zahnfee-Mafia & Co.
 04	3	51	Opa macht die Oma tot
 04	4	52	Alle Macht den Drogen
@@ -72,14 +73,14 @@
 04	7	55	Nicht ohne meine Niere
 04	8	56	Flaggenkrieg
 04	9	57	Flutschfinger on Tour
-04	10	58	Ist die Hölle behindertengerecht?
-04	11	59	Wird wohl?
+04	10	58	Ist die Hölle behindertengerecht? Teil 1
+04	11	59	Wird wohl... Teil 2
 04	12	60	4. Klasse!
 04	13	61	Widerstand ist zwecklos!
 04	14	62	Helen Keller: Das Musical
 04	15	63	Die Krazy-Kenny Show
 04	16	64	Abenteuer Missbrauch
-04	17	65	....und keiner lacht zur Weihnachts...
+04	17	65	....und keiner lacht zur Weihnachtsnacht!
 # 05. Staffel
 05	1	66	Scott Tenorman muss sterben!
 05	2	67	Verfluchtes Fluchwort
@@ -91,30 +92,30 @@
 05	8	73	Ein bisschen kiffen?
 05	9	74	Osama hat nix in der Hose
 05	10	75	Arschgesichter
-05	11	76	Was ist es? Wann kann ich es kaufen...
-05	12	77	Will Smith bringt reiches Pack nach...
+05	11	76	Was ist es? Wann kann ich es kaufen
+05	12	77	Will Smith bringt reiches Pack nach
 05	13	78	Kennys Tod
 05	14	79	Butters: Das bin ich!
 # 06. Staffel
 06	1	80	Freak Show
 06	2	81	Jared hat Aides
-06	3	82	Skifahren ist für?n Arsch
-06	4	83	Die Russell Crowe Show: Mit Prügel ...
+06	3	82	Skifahren ist für'n Arsch
+06	4	83	Die Russell Crowe Show: Mit Prügel um die Welt!
 06	5	84	Vaginitis ohne Kalbfleisch
-06	6	85	Professor Chaos (Teil 1)
-06	7	86	Das gab?s doch schon bei den Simpso...
+06	6	85	Professor Chaos, Teil 1
+06	7	86	Das gab's doch schon bei den Simpsons!
 06	8	87	Nur körperliche Liebe im Vatikan?
-06	9	88	Größer, digitaler und umgeschnitten...
+06	9	88	Größer, digitaler und ungeschnitten!
 06	10	89	Bebes Brüste bringen Krieg
 06	11	90	Mongolen vor South Park
 06	12	91	Eine Leiter zum Himmel
-06	13	92	Die Rückkehr der Gefährten des Ring...
+06	13	92	Die Rückkehr der Gefährten des Rings zu den zwei Türmen
 06	14	93	Todescamp der Toleranz
 06	15	94	Kenny ist in Cartman drin!
 06	16	95	Mein Zukunfts-Ich und ich
 06	17	96	Weihnachten im Irak: Blut & Wunder
 # 07. Staffel
-07	1	97	South Park 100: Fehlgeburt einer Na...
+07	1	97	South Park 100: Fehlgeburt einer Nation
 07	2	98	Guter Krüppel, schlechter Krüppel
 07	3	99	Das Schweigen des Klopapiers
 07	4	100	Wird die Erde eingestellt?
@@ -127,5 +128,20 @@
 07	11	107	Casa Bonita
 07	12	108	Mormonen machen sich was vor
 07	13	109	Kippe weg!
-07	14	110	Wir sind Grufties
+07	14	110	Wir sind die Grufties
 07	15	111	Blöder die Kanadier nie klingen!
+# 08. Staffel
+08	1	112	Spiel und Spaß mit Waffen
+08	2	113	Mit der Spritze an die Spitze
+08	3	114	Die Passion des Juden
+08	4	115	Voll in den Ar*** gefickt
+08	5	116	Geilomat
+08	6	117	Die Jeffersons
+08	7	118	Immigranten aus der Zukunft
+08	8	119	Wähl oder stirb
+08	9	120	Das Böse kommt auf Wall-Marts Sohlen
+08	10	121	Vorschule
+08	11	122	Kampf um die Quoten
+08	12	123	n.n.
+08	13	124	Cartmans unglaubliche Gabe
+08	14	125	Weihnacht im Walde
