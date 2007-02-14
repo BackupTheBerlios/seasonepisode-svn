@@ -1,0 +1,114 @@
+#
+# SEASONLIST
+# 1	1	14
+# 2	15	37
+# 3	38	62
+# 4	63	85
+# 5	86	98
+# /SEASONLIST
+#
+#SE	EP	No.	Title
+#
+# 01. Staffel
+01	1	1	Verschollen in Mexico, Teil 1
+01	2	2	Verschollen in Mexico, Teil 2
+01	3	3	Fegefeuer
+01	4	4	Auf Leben und Tod
+01	5	5	Wölfe in Uniform
+01	6	6	Blutsbande
+01	7	7	Ein todsicheres System
+01	8	8	Müllaktion in Manhattan
+01	9	9	Bruchlandung
+01	10	10	Reife Melonen
+01	11	11	Ein bisschen mehr Zeit
+01	12	12	Bis dass der Tod uns scheidet
+01	13	13	Lösegeld für einen Jumbo
+01	14	14	Ärger im vierten Monat
+# 02. Staffel
+02	1	15	Diamantenfieber
+02	2	16	Der singende Golfball
+02	3	17	Zwei Nonnen zuviel
+02	4	18	Marias Mutter
+02	5	19	Wilde Mustangs
+02	6	20	Der Retter der Prärie
+02	7	21	Karambolagen
+02	8	22	Arbeitskampf
+02	9	23	Garbers letzter Fang
+02	10	24	Wasserspiele
+02	11	25	Auf Sand gebaut
+02	12	26	Gut gewählt ist halb gemordet
+02	13	27	Die Malteser Kuh
+02	14	28	Grenzschiebereien
+02	15	29	Die neue Dame
+02	16	30	Scheingefechte
+02	17	31	Schwarzbrenner
+02	18	32	Skorpione
+02	19	33	Gebrauchtwagenhandel
+02	20	34	Ein Kinderspiel
+02	21	35	Überlebenstraining
+02	22	36	Brennende Gemeinde
+02	23	37	Das Spiel ist aus
+# 03. Staffel
+03	1	38	Schatten im Sonnenparadies
+03	2	39	Die versunkene Stadt, Teil 1
+03	3	40	Die versunkene Stadt, Teil 2
+03	4	41	Feueralarm
+03	5	42	Der Herr des Waldes
+03	6	43	Der Kronzeuge
+03	7	44	Ärger auf Rädern
+03	8	45	Drogen und Krokodile
+03	9	46	Plagiatoren
+03	10	47	Die Auferstehung des toten Ingenieurs
+03	11	48	Liederzirkus
+03	12	49	Haute Couture
+03	13	50	Die 100.000-Dollar-Frau
+03	14	51	Heiße Küche
+03	15	52	Geldhaie
+03	16	53	Boxkämpfe
+03	17	54	Elfenbein aus Kenia
+03	18	55	Roulette auf Rädern
+03	19	56	Entführung auf Arabisch
+03	20	57	Ritter der Landstraße
+03	21	58	Ausgeliefert
+03	22	59	Kopfgeldjäger
+03	23	60	Original oder Fälschung
+03	24	61	Wirb oder stirb
+03	25	62	Richtig ködern will gelernt sein
+# 04. Staffel
+04	1	63	Eine Seefahrt, die ist lustig, Teil 1
+04	2	64	Eine Seefahrt, die ist lustig, Teil 2
+04	3	65	Wo ist das Monster, wenn man es braucht?
+04	4	66	Mutter in Not
+04	5	67	Der Pennbruder
+04	6	68	Hinter Gittern
+04	7	69	Das FBI ist immer dabei
+04	8	70	Blood, Sweat & Cheers
+04	9	71	Der rote Tod und seine Tochter
+04	10	72	Die lieben Nachbarn
+04	11	73	Diagnose: Größenwahn
+04	12	74	Ein Bärendienst
+04	13	75	Glücksrad
+04	14	76	Feinde unter sich
+04	15	77	Nur für Mitglieder
+04	16	78	George, der Cowboy
+04	17	79	Der Schein trügt
+04	18	80	Hannibals rettender Plan
+04	19	81	Ein Jugendfreund in Nöten
+04	20	82	Lederstrumpf reitet weiter
+04	21	83	Ärger mit Harry
+04	22	84	Der Boss ist gar nicht tot
+04	23	85	Zurück in Vietnam
+# 05. Staffel
+05	1	86	Hoffnung in Barcelona, Teil 1
+05	2	87	Helden vor Gericht, Teil 2
+05	3	88	Man stirbt nicht zweimal, Teil 3
+05	4	89	Touch Down
+05	5	90	Es lebe die Revolution
+05	6	91	Codename Brown Fox
+05	7	92	B.A.s goldener Schuss
+05	8	93	Glückstreffer
+05	9	94	Countdown in Hong Kong
+05	10	95	Unter Kannibalen
+05	11	96	Man liebt nur zweimal
+05	12	97	Landesverrat
+05	13	98	Mord à la carte

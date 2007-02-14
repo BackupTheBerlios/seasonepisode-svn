@@ -1,0 +1,159 @@
+#
+# SEASONLIST
+# 1	1	22
+# 2	23	44
+# 3	45	64
+# 4	65	83
+# 5	84	104
+# 6	105	125
+# 7	126	139
+# /SEASONLIST
+#
+#SE	EP	No.	Title
+#
+# 01. Staffel
+01	1	1	Explosion unter Tage
+01	2	2	Goldboiler MacGyver
+01	3	3	Die Diebin von Budapest
+01	4	4	Schnappschüsse mit Folgen
+01	5	5	60 Millionen Dollar an der Angel
+01	6	6	Der Ameisenkrieg
+01	7	7	Kleine Fische, große Fische
+01	8	8	Fackeln
+01	9	9	Der verlorene Sohn
+01	10	10	Zielscheibe MacGyver
+01	11	11	Sechs Stunden bis zur Ewigkeit
+01	12	12	Ein unsichtbarer Gegner
+01	13	13	Alte Freundschaften
+01	14	14	Wenn Bomben ticken
+01	15	15	Spitzel aus den eigenen Reihen
+01	16	16	Liebe kennt keine Grenzen
+01	17	17	Ein einfacher Auftrag
+01	18	18	Das hässliche Entlein
+01	19	19	Halt auf freier Strecke
+01	20	20	Die Flucht
+01	21	21	Hinter der Mauer
+01	22	22	Ein Killer mit tausend Gesichtern
+# 02. Staffel
+02	1	23	Der tödliche Computer
+02	2	24	Killer im Ruhestand
+02	3	25	Der betrogene Betrüger
+02	4	26	Das Wunschkind
+02	5	27	Der Bewährungshelfer
+02	6	28	Der Meisterlügner
+02	7	29	Ein Rosenkranz für alle Fälle
+02	8	30	Adler in Not
+02	9	31	Warnende Träume
+02	10	32	Mord an einem Cadillac
+02	11	33	Phoenix in Gefahr
+02	12	34	Familienangelegenheiten
+02	13	35	Tödliche Worte
+02	14	36	Klapperstorch auf Abwegen
+02	15	37	Piraten
+02	16	38	Wintersport ist Mord
+02	17	39	Der Spion aus dem Sarg
+02	18	40	Totgesagte leben länger
+02	19	41	Die Befreiung
+02	20	42	Erinnerungen
+02	21	43	Black-Out
+02	22	44	Gefährliche Freiheit
+# 03. Staffel
+03	1	45	Eine tödliche Liebe, Teil 1
+03	2	46	Eine tödliche Liebe, Teil 2
+03	3	47	Schatten der Vergangenheit
+03	4	48	Das Geisterschiff
+03	5	49	Wer zuletzt lacht, lacht am besten
+03	6	50	GX-1
+03	7	51	Wozu sind Freunde da
+03	8	52	Schwindelnde Höhen
+03	9	53	Hindernisse
+03	10	54	Das Attentat
+03	11	55	Gefahr aus dem Weltall
+03	12	56	Der neue Boss
+03	13	57	Riskantes Spiel
+03	14	58	Das Gangstertrio
+03	15	59	Mord auf Bestellung
+03	16	60	Giftmüllbeseitigung ganz modern
+03	17	61	Die Wolfsmaske
+03	18	62	Ein millionenschweres Baby
+03	19	63	Wilderer auf Menschenjagd
+03	20	64	Der letzte der Familie Chung
+# 04. Staffel
+04	1	65	Das Geheimnis des Hauses Parker
+04	2	66	Blutsbrüder
+04	3	67	Neue Wege
+04	4	68	Raketen für die Rebellen
+04	5	69	Sabotage auf der Rennbahn
+04	6	70	Überlebenstraining
+04	7	71	Der Mann im Hintergrund
+04	8	72	Mutter Dalton
+04	9	73	Cleo Rocks
+04	10	74	Die Fünferbande
+04	11	75	Kein Kinderspiel
+04	12	76	Druck
+04	13	77	Schuldgefühle
+04	14	78	Goldrausch
+04	15	79	Der unsichtbare Tod
+04	16	80	Die Gehirnwäsche
+04	17	81	Gelähmte Stadt
+04	18	82	Das Sicherheitsrisiko
+04	19	83	Der Skorpion
+# 05. Staffel
+05	1	84	Die Legende von der heiligen Rose, Teil 1
+05	2	85	Die Legende von der heiligen Rose, Teil 2
+05	3	86	Die schwarze Perle
+05	4	87	Waffenstillstand
+05	5	88	Der ungewollte Vater
+05	6	89	Das Tal des Todes
+05	7	90	Die Kinder vom Tienanmen-Platz
+05	8	91	Erbarmungslos
+05	9	92	n.n.
+05	10	93	Rock gegen Drogen
+05	11	94	Die Madonna
+05	12	95	Im Wilden Westen
+05	13	96	Die Schule des Lebens
+05	14	97	Kampf um den Wald
+05	15	98	Mancos Schatz
+05	16	99	Die Geldwäscher
+05	17	100	Vertrauen ist gut...
+05	18	101	Von Geigen und Ganoven
+05	19	102	Herzen aus Stahl
+05	20	103	Die Vogellady
+05	21	104	Fähre des Jenseits
+# 06. Staffel
+06	1	105	Gewalt gegen Gewalt
+06	2	106	Ein Akt der Menschlichkeit
+06	3	107	Eine Waffe mit Vergangenheit
+06	4	108	Falsche Freunde
+06	5	109	Die Mauer
+06	6	110	Die Lehre des Bösen
+06	7	111	n.n.
+06	8	112	MacGyvers Traumfrauen
+06	9	113	Im Wein liegt die Wahrheit
+06	10	114	Besuch vom anderen Stern
+06	11	115	Ein schöner Treffer
+06	12	116	Heiße Liebe
+06	13	117	Das tote Land
+06	14	118	Das Auge des Osiris
+06	15	119	Schöne Freunde
+06	16	120	Der stumme Zeuge
+06	17	121	Blindes Vertrauen
+06	18	122	Die Lecey-Sisters
+06	19	123	Geschäft ist Geschäft
+06	20	124	Der schwarze Strom
+06	21	125	Lektion in Sachen Freundschaft
+# 07. Staffel
+07	1	126	Agenten in der Karibik
+07	2	127	Mörderische Absichten
+07	3	128	Aber die Leiche fehlte!
+07	4	129	Der Feuerteufel
+07	5	130	Die Coltons
+07	6	131	Die Gärten des Todesbarons
+07	7	132	Ritter MacGyver, Teil 1
+07	8	133	Ritter MacGyver, Teil 2
+07	9	134	Tödlicher Hass
+07	10	135	Der letzte Boxkampf
+07	11	136	Der Bandenkrieg
+07	12	137	Kampf der Spekulanten
+07	13	138	Tod in China
+07	14	139	Schweres Wasser
