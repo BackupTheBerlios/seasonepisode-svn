@@ -1,4 +1,6 @@
 #
+# COMPLETE
+#
 # SEASONLIST
 # 1	1	13
 # 2	14	37
@@ -8,7 +10,9 @@
 # 6	104	111
 # /SEASONLIST
 #
-# 1. Staffel
+#SE	EP	No.	Title
+#
+# 01. Staffel
 01	1	1	Der falsche Weg
 01	2	2	Hercules und der Wächter des Weinbergs
 01	3	3	Die Reise nach Calydon
@@ -22,7 +26,7 @@
 01	11	11	Die verschwundenen Toten
 01	12	12	Eine weibliche Kampfmaschine
 01	13	13	Das befreite Herz
-# 2. Staffel
+# 02. Staffel
 02	1	14	Der König der Diebe
 02	2	15	Spiel mit dem Glück
 02	3	16	Unter falschem Namen
@@ -47,7 +51,7 @@
 02	22	35	Eine besondere Gabe
 02	23	36	Gleiches Recht für alle
 02	24	37	Die Höhle des Echos
-# 3. Staffel
+# 03. Staffel
 03	1	38	Geldgier
 03	2	39	Daedalus' großer Irrtum
 03	3	40	Ohne Liebe geht es nicht
@@ -70,7 +74,7 @@
 03	20	57	Die Faust des Tolas
 03	21	58	Späte Reue
 03	22	59	Der Untergang von Atlantis
-# 4. Staffel
+# 04. Staffel
 04	1	60	Die Hüterin der Harpyien
 04	2	61	Das Herz eines Helden
 04	3	62	Eine bittere Lektion
@@ -93,7 +97,7 @@
 04	20	79	Das Blut des ersten Krieges
 04	21	80	Das Blut des Vaters
 04	22	81	Böses Blut
-# 5. Staffel
+# 05. Staffel
 05	1	82	Gilgameschs Untergang
 05	2	83	Schiff der Untoten
 05	3	84	Morrigans Schicksal
@@ -116,7 +120,7 @@
 05	20	101	Wenn das Lied des Helden verklingt...
 05	21	102	Die Hochzeit meiner besten Freundin
 05	22	103	Die vier Reiter der Apokalypse
-# 6. Staffel
+# 06. Staffel
 06	1	104	Das Schwert der Hera
 06	2	105	Liebe auf Amazonenart
 06	3	106	Der Fluch des Ödipus

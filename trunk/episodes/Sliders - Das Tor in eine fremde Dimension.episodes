@@ -1,4 +1,6 @@
 #
+# COMPLETE
+#
 # SEASONLIST
 # 1	1	10
 # 2	11	23
@@ -7,7 +9,9 @@
 # 5	71	88
 # /SEASONLIST
 #
-# 1. Staffel
+#SE	EP	No.	Title
+#
+# 01. Staffel
 01	1	1	Pilot, Teil 1
 01	2	2	Pilot, Teil 2
 01	3	3	Der keimfreie Planet
@@ -18,7 +22,7 @@
 01	8	8	Der Spitzenkandidat
 01	9	9	König des Rock'n'Roll
 01	10	10	Paradies auf Erden
-# 2. Staffel
+# 02. Staffel
 02	1	11	Im Reich des Hexenmeisters
 02	2	12	Männermangel
 02	3	13	Der unsichtbare Quinn
@@ -32,7 +36,7 @@
 02	11	21	Im Rausch der Jugend
 02	12	22	Die Invasion
 02	13	23	Hawkings Theorie
-# 3. Staffel
+# 03. Staffel
 03	1	24	Tödliches Spiel
 03	2	25	Der doppelte Professor
 03	3	26	Der Geist aus der Flasche
@@ -58,7 +62,7 @@
 03	23	46	Rache an Rickman
 03	24	47	Gesang der Vampire
 03	25	48	Ein himmlischer Slide
-# 4. Staffel
+# 04. Staffel
 04	1	49	Woher kommst du, Quinn?
 04	2	50	Das Portal des Todes
 04	3	51	Rachsucht
@@ -81,7 +85,7 @@
 04	20	68	Der Abgrund
 04	21	69	Blick in die Zukunft
 04	22	70	Familientreffen
-# 5. Staffel
+# 05. Staffel
 05	1	71	Verloren im All
 05	2	72	Quälende Erinnerung
 05	3	73	Blutige Erde

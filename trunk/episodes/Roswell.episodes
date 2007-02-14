@@ -1,11 +1,15 @@
 #
+# COMPLETE
+#
 # SEASONLIST
 # 1	1	22
 # 2	23	43
 # 3	44	61
 # /SEASONLIST
 #
-# 1. Staffel
+#SE	EP	No.	Title
+#
+# 01. Staffel
 01	1	1	Das Geheimnis
 01	2	2	Der Schlüssel
 01	3	3	Jedem sein Monster
@@ -28,7 +32,7 @@
 01	20	20	Max Maximal
 01	21	21	Das Weiße Zimmer
 01	22	22	Ende und Anfang
-# 2. Staffel
+# 02. Staffel
 02	1	23	Haut und Knochen
 02	2	24	Fragen über Fragen
 02	3	25	Die Überraschungsparty
@@ -50,7 +54,7 @@
 02	19	41	Das Buch der Bücher
 02	20	42	Stromausfall
 02	21	43	Aufbruch
-# 3. Staffel
+# 03. Staffel
 03	1	44	Bonny & Clyde
 03	2	45	Die Rache des Michael G.
 03	3	46	Was im Leben Zählt

@@ -1,4 +1,6 @@
 #
+# COMPLETE
+#
 # SEASONLIST
 # 1	1	5
 # 2	6	17
@@ -11,13 +13,15 @@
 # 9	157	180
 # /SEASONLIST
 #
-# 1. Staffel
+#SE	EP	No.	Title
+#
+# 01. Staffel
 01	1	1	n.n.
 01	2	2	n.n.
 01	3	3	Der Einbruch
 01	4	4	Das Männerproblem
 01	5	5	Der Börsentrip
-# 2. Staffel
+# 02. Staffel
 02	1	6	Die Ex-Freunding
 02	2	7	Die "Pony"-Bemerkung
 02	3	8	Das geht auf keine Kuhhaut
@@ -30,7 +34,7 @@
 02	10	15	Die Baby-Party
 02	11	16	Im chinesischen Restaurant
 02	12	17	Der gefeuerte Kellner
-# 3. Staffel
+# 03. Staffel
 03	1	18	Zur Massage!
 03	2	19	Sag' die Wahrheit!
 03	3	20	Der Astronautenstift
@@ -54,7 +58,7 @@
 03	21	38	Der Brief
 03	22	39	Die Parklücke
 03	23	40	Die Wohnungsschlüssel
-# 4. Staffel
+# 04. Staffel
 04	1	41	Der Trip nach L.A., Teil 1
 04	2	42	Der Trip nach L.A., Teil 2
 04	3	43	Die eigene Show, Teil 1
@@ -79,7 +83,7 @@
 04	22	62	Alles wegen Drake!
 04	23	63	Die Fernsehshow, Teil 1
 04	24	64	Die Fernsehshow, Teil 2
-# 5. Staffel
+# 05. Staffel
 05	1	65	Das mit den Mangos
 05	2	66	Von Händen und Hemden
 05	3	67	Mit und ohne Brille
@@ -102,7 +106,7 @@
 05	20	84	Das Feuer
 05	21	85	Die Hamptons
 05	22	86	Das Gegenteil
-# 6. Staffel
+# 06. Staffel
 06	1	87	Der Anstandswauwau
 06	2	88	Gemischter Salat
 06	3	89	Verrückt geworden
@@ -127,7 +131,7 @@
 06	22	108	Der Diplomatenclub
 06	23	109	Ein Teufelskerl!
 06	24	110	Die Zweitbesetzung
-# 7. Staffel
+# 07. Staffel
 07	1	111	Die Verlobung
 07	2	112	Der Aufschub
 07	3	113	Der Maestro
@@ -152,7 +156,7 @@
 07	22	132	Der Michigan-Flaschenpfand-Coup, Teil 2
 07	23	133	Füreinander dasein
 07	24	134	Die Einladung
-# 8. Staffel
+# 08. Staffel
 08	1	135	Die Stiftung
 08	2	136	Der Seelenverwandte
 08	3	137	Irgendetwas stimmt nicht!
@@ -175,7 +179,7 @@
 08	20	154	Die Jahrtausendwendfeier
 08	21	155	Die Oberteile
 08	22	156	Die Frauenfehde
-# 9. Staffel
+# 09. Staffel
 09	1	157	Die Butter-Rasur
 09	2	158	Die Stimme
 09	3	159	Mehr Gelassenheit!
