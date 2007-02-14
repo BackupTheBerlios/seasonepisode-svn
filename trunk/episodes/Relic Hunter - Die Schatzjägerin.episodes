@@ -1,0 +1,76 @@
+#
+# SEASONLIST
+# 1	1	22
+# 2	23	44
+# 3	45	66
+# /SEASONLIST
+#
+# 1. Staffel
+01	1	1	Die magische Schale
+01	2	2	Auf den Spuren von Al Capone
+01	3	3	Tod am Teufelsmund
+01	4	4	Im Zeichen des Bären
+01	5	5	Mein Freund Elvis
+01	6	6	Der Millionen-Dollar-Handschuh
+01	7	7	Der Traum vom Gold
+01	8	8	Der Wikingerschatz
+01	9	9	Das Buch der Liebe
+01	10	10	Gefangen im Labyrinth
+01	11	11	Die verschollene Krone
+01	12	12	Der Sarkophag
+01	13	13	Diamantenfieber
+01	14	14	Der Fluch der Katzengöttin
+01	15	15	Ophelia
+01	16	16	Der große Brodsky
+01	17	17	Jagd auf die Kronjuwelen
+01	18	18	Der letzte Tempelritter
+01	19	19	Im Namen der Liebe
+01	20	20	Unter Vampiren
+01	21	21	Der Kelch der Wahrheit
+01	22	22	Isabels Geheimnis
+# 2. Staffel
+02	1	23	Der Fluch der Götter
+02	2	24	Die Feuer der Hölle
+02	3	25	Beschützter der Verdammten
+02	4	26	Die verlorene Welt
+02	5	27	Die Grabkammer
+02	6	28	Die Beute des Geiers
+02	7	29	Das Tal der drei Flüsse
+02	8	30	Römische Ferien
+02	9	31	Das Kreuz der Voodoo
+02	10	32	Die Knochenschale
+02	11	33	Das ägyptische Grabmal
+02	12	34	Die Entführung
+02	13	35	Kleopatra
+02	14	36	Das Licht am Ende des Tunnels
+02	15	37	Treibjagt
+02	16	38	Nostradamus
+02	17	39	Der Goldene Falke
+02	18	40	Das Zepter
+02	19	41	Die Maske des Henkers
+02	20	42	Der Ring des Königs
+02	21	43	Der Magische Handschuh
+02	22	44	Wettlauf mit dem Tod
+# 3. Staffel
+03	1	45	Das Ei des Drachen
+03	2	46	Mr. Right
+03	3	47	Die Bruderschaft
+03	4	48	Das Licht der Wahrheit
+03	5	49	Die Schatzinsel
+03	6	50	Die Tochter des Sultans
+03	7	51	Der Kuss des Vampirs
+03	8	52	Die Pyramide
+03	9	53	Der Doppelgänger
+03	10	54	Außer Kontrolle
+03	11	55	Das Amulett
+03	12	56	Flucht ohne Ausweg
+03	13	57	Feuer am Himmel
+03	14	58	Konfuzius
+03	15	59	Der Gürtel der Hippolyte
+03	16	60	Die Mumie
+03	17	61	König Arthur
+03	18	62	Die Kronjuwelen
+03	19	63	Die Büchse der Pandora
+03	20	64	Der Pferdedieb
+03	21	65	Die Quelle ewiger Jugend
+03	22	66	Der Schlüssel zur Weisheit

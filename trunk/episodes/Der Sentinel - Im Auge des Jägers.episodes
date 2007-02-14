@@ -1,0 +1,77 @@
+#
+# SEASONLIST
+# 1	1	10
+# 2	11	34
+# 3	35	57
+# 4	58	65
+# /SEASONLIST
+#
+# 1. Staffel
+01	1	1	Die Macht der Sinne
+01	2	2	Im Kriegszustand
+01	3	3	Der Killer und sein Alibi
+01	4	4	Tod zwischen den Fronten
+01	5	5	Der Psycho-Killer geht um
+01	6	6	Zwischenfälle im Nachtexpress
+01	7	7	Auf eigene Faust
+01	8	8	Zwischen Liebe und Kanonen
+01	9	9	Der pure Instinkt
+01	10	10	Einer muss der Mörder sein
+# 2. Staffel
+02	1	11	Der Flug ins Ungewisse
+02	2	12	Die Vergangenheit schlägt zurück
+02	3	13	Tiefe Wasser sind still
+02	4	14	Menschenjagd im Hotel
+02	5	15	Vergeltung um jeden Preis
+02	6	16	Die Kamera im Nacken
+02	7	17	Der "Ice Man" kommt!
+02	8	18	Hölle "North Star 5"
+02	9	19	Naomi und die Autodiebe
+02	10	20	Mayas zweite Chance
+02	11	21	Schwarz oder weiß - Leben oder Tod
+02	12	22	Sein bester Bluff
+02	13	23	Sie nannten sich "Die Crew"
+02	14	24	Bei Anruf: Feuer
+02	15	25	Das Callie-Drogen-Kartell
+02	16	26	Im Fahrstuhl des Grauens
+02	17	27	Aus einer verbotenen Stadt
+02	18	28	Alec, das Wunderkind
+02	19	29	Der Hellseher und das Mädchen
+02	20	30	Der unglaubliche Prosky-Fall
+02	21	31	Dollars fallen vom Himmel
+02	22	32	Das nackte Überleben
+02	23	33	Mord auf der Rennbahn
+02	24	34	Im Koma liegt das Geheimnis
+# 3. Staffel
+03	1	35	Das große Auge
+03	2	36	Ein mörderisches Spiel
+03	3	37	Das Mädchen aus dem Kofferraum
+03	4	38	Unter Wilderern und Piraten
+03	5	39	Im engsten Familienkreis
+03	6	40	Der unerbitterliche Rächer
+03	7	41	Die zweite Rakete
+03	8	42	Letzte Meldung: Sturmwarnung
+03	9	43	Wie rotes Eis
+03	10	44	Ein gottverlassener Ort
+03	11	45	Das geheime Labyrinth
+03	12	46	Auf der Todesliste
+03	13	47	Zeugin in Trance
+03	14	48	Ein Alptraum kehrt zurück
+03	15	49	Der fast perfekte Mordplan
+03	16	50	Das Kain-und-Abel-Motiv
+03	17	51	Der Mann mit dem Messer
+03	18	52	Das Shang-Syndikat
+03	19	53	Unternehmen Virus & Co
+03	20	54	Chaos in Cascade
+03	21	55	Todesurteil für den Zeugen
+03	22	56	Nachtschicht eines Engels
+03	23	57	Der tödliche Jaguar, Teil 1
+# 4. Staffel
+04	1	58	Der tödliche Jaguar, Teil 2
+04	2	59	Der Fall "Cyber-Detektiv"
+04	3	60	Endstation - U-Boot
+04	4	61	Das Mordmotiv und die Methode
+04	5	62	Im Wartesaal zum Tod
+04	6	63	Der Gejagte wird zum Jäger
+04	7	64	Der Beste plant den größten Coup
+04	8	65	Die Wahrheit über den Sentinel

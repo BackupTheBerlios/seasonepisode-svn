@@ -1,0 +1,202 @@
+#
+# SEASONLIST
+# 1	1	5
+# 2	6	17
+# 3	18	40
+# 4	41	64
+# 5	65	86
+# 6	87	110
+# 7	111	134
+# 8	135	156
+# 9	157	180
+# /SEASONLIST
+#
+# 1. Staffel
+01	1	1	n.n.
+01	2	2	n.n.
+01	3	3	Der Einbruch
+01	4	4	Das Männerproblem
+01	5	5	Der Börsentrip
+# 2. Staffel
+02	1	6	Die Ex-Freunding
+02	2	7	Die "Pony"-Bemerkung
+02	3	8	Das geht auf keine Kuhhaut
+02	4	9	Diese Anrufbeantworter!
+02	5	10	Wohnungsprobleme
+02	6	11	Die Statue
+02	7	12	Bittere Rache
+02	8	13	Die Herzattacke
+02	9	14	Die Abmachung
+02	10	15	Die Baby-Party
+02	11	16	Im chinesischen Restaurant
+02	12	17	Der gefeuerte Kellner
+# 3. Staffel
+03	1	18	Zur Massage!
+03	2	19	Sag' die Wahrheit!
+03	3	20	Der Astronautenstift
+03	4	21	Die Bestie
+03	5	22	Das geliehene Buch
+03	6	23	Im Parkhaus
+03	7	24	Der Intelligenztest
+03	8	25	Die Tonbandaffäre
+03	9	26	Die Nasenoperation
+03	10	27	Die Gestrandeten
+03	11	28	Auf der falschen Seite
+03	12	29	Der rote Fleck
+03	13	30	In der U-Bahn
+03	14	31	Der Pez-Spender
+03	15	32	Im Koma
+03	16	33	Die Verkupplung
+03	17	34	Der neue Freund, Teil 1
+03	18	35	Der neue Freund, Teil 2
+03	19	36	Die Limousine
+03	20	37	Der gute Samariter
+03	21	38	Der Brief
+03	22	39	Die Parklücke
+03	23	40	Die Wohnungsschlüssel
+# 4. Staffel
+04	1	41	Der Trip nach L.A., Teil 1
+04	2	42	Der Trip nach L.A., Teil 2
+04	3	43	Die eigene Show, Teil 1
+04	4	44	Die eigene Show, Teil 2
+04	5	45	Die gestohlene Brieftasche, Teil 1
+04	6	46	Wo ist die Armbanduhr?, Teil 2
+04	7	47	Schönes Wochenende
+04	8	48	Die Liebesbriefe
+04	9	49	Die Opernkarten
+04	10	50	Die Jungfrau
+04	11	51	Der Wettstreit
+04	12	52	Auf dem Flughafen
+04	13	53	Ein gewisses Etwas
+04	14	54	Im Kino
+04	15	55	Das Visum
+04	16	56	Die schönen Schuhe
+04	17	57	Das Bekenntnis
+04	18	58	Der alte Mann
+04	19	59	Das Implantat
+04	20	60	Die Pfefferminzpastille
+04	21	61	Die Geruchsbestie
+04	22	62	Alles wegen Drake!
+04	23	63	Die Fernsehshow, Teil 1
+04	24	64	Die Fernsehshow, Teil 2
+# 5. Staffel
+05	1	65	Das mit den Mangos
+05	2	66	Von Händen und Hemden
+05	3	67	Mit und ohne Brille
+05	4	68	Der schnüffelnde Steuerberater
+05	5	69	Die Beschneidung
+05	6	70	Lippenlesen
+05	7	71	Aber bitte fettfrei
+05	8	72	Der Friseur
+05	9	73	Die Masseuse
+05	10	74	Der Zigarrenladen-Indianer
+05	11	75	Der Glaubenswechsel
+05	12	76	Papiermangel
+05	13	77	Die Dinnerparty
+05	14	78	Der Meeresbiologe
+05	15	79	Der Apfelkuchen
+05	16	80	Die Einlegesohlen
+05	17	81	Meine Frau
+05	18	82	Regenmäntel, Teil 1
+05	19	83	Regenmäntel, Teil 2
+05	20	84	Das Feuer
+05	21	85	Die Hamptons
+05	22	86	Das Gegenteil
+# 6. Staffel
+06	1	87	Der Anstandswauwau
+06	2	88	Gemischter Salat
+06	3	89	Verrückt geworden
+06	4	90	Die Chinesin
+06	5	91	Die neue Couch
+06	6	92	Die Turnerin
+06	7	93	Die Suppe
+06	8	94	Der Gebißabdruck
+06	9	95	Die Sekretärin
+06	10	96	Der Wettlauf
+06	11	97	Der Reinfall
+06	12	98	Die Super-Bowl-Tickets
+06	13	99	Vortäuschung falscher Tatsachen
+06	14	100	Highlights of 100, Teil 1
+06	15	101	Highlights of 100, Teil 2
+06	16	102	Die Tarnung
+06	17	103	Das Küßchengeben
+06	18	104	Der Portier
+06	19	105	Er heißt Jimmy
+06	20	106	Der Kammerjäger
+06	21	107	Der Fussili-Jerry
+06	22	108	Der Diplomatenclub
+06	23	109	Ein Teufelskerl!
+06	24	110	Die Zweitbesetzung
+# 7. Staffel
+07	1	111	Die Verlobung
+07	2	112	Der Aufschub
+07	3	113	Der Maestro
+07	4	114	Das Zwinkern
+07	5	115	Der Marathonläufer
+07	6	116	Der Suppen-Nazi
+07	7	117	Das Kodewort
+07	8	118	Die zwei Welten
+07	9	119	Verhütung ist alles
+07	10	120	Kaugummi aus China
+07	11	121	Das Brot
+07	12	122	Das Oberteil
+07	13	123	Das Fahrrad
+07	14	124	Der Cadillac, Teil 1
+07	15	125	Der Cadillac, Teil 2
+07	16	126	Der Duschkopf
+07	17	127	Die Puppe
+07	18	128	Das Friars-Club-Jackett
+07	19	129	Der Perückenmacher
+07	20	130	Pizza Calzone
+07	21	131	Der Michigan-Flaschenpfand-Coup, Teil 1
+07	22	132	Der Michigan-Flaschenpfand-Coup, Teil 2
+07	23	133	Füreinander dasein
+07	24	134	Die Einladung
+# 8. Staffel
+08	1	135	Die Stiftung
+08	2	136	Der Seelenverwandte
+08	3	137	Irgendetwas stimmt nicht!
+08	4	138	Die Raubkopierer
+08	5	139	Das Paket
+08	6	140	Ermüdungserscheinungen
+08	7	141	Die Schecks
+08	8	142	Das Neon-Huhn
+08	9	143	Das Kein-Sex-Ding
+08	10	144	Die Andrea Doria
+08	11	145	Klein-Jerry ganz groß
+08	12	146	Das liebe Geld
+08	13	147	Die Retourkutsche
+08	14	148	Die Van Buren-Bande
+08	15	149	Der große Auftritt
+08	16	150	Das Schlagloch
+08	17	151	Der englische Patient
+08	18	152	Das Nickerchen
+08	19	153	Die Yada Yada-Sache
+08	20	154	Die Jahrtausendwendfeier
+08	21	155	Die Oberteile
+08	22	156	Die Frauenfehde
+# 9. Staffel
+09	1	157	Die Butter-Rasur
+09	2	158	Die Stimme
+09	3	159	Mehr Gelassenheit!
+09	4	160	Das Blut
+09	5	161	Der Lieferwagen
+09	6	162	Kramers Talkshow
+09	7	163	Die Wurstschneidemaschine
+09	8	164	Indien und zurück
+09	9	165	Die Entschuldigung
+09	10	166	Der Streik
+09	11	167	Beim Autohändler
+09	12	168	Der umgedrehte Spion
+09	13	169	Die Karikatur
+09	14	170	Der Tresorschlüssel
+09	15	171	Der Berechner
+09	16	172	Ein leichtes Brennen
+09	17	173	Der Buchladen
+09	18	174	Der Spielautomat
+09	19	175	Der Spitzname
+09	20	176	Tag der Puertoricaner
+09	21	177	Die Clip-Show, Teil 1
+09	22	178	Die Clip-Show, Teil 2
+09	23	179	Finale, Teil 1
+09	24	180	Finale, Teil 2

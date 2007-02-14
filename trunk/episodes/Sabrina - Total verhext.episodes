@@ -1,0 +1,181 @@
+#
+# SEASONLIST
+# 1	1	24
+# 2	25	50
+# 3	51	75
+# 4	76	97
+# 5	98	119
+# 6	120	141
+# 7	142	163
+# /SEASONLIST
+#
+# 1. Staffel
+01	1	1	Eine Hexe wird flügge
+01	2	2	Ganze Wahrheit, halbes Glück
+01	3	3	Wer hat Angst vor Rudy Kazootie?
+01	4	4	Magie liegt in der Luft
+01	5	5	Ein Double auf Abwegen
+01	6	6	Ein Mann wird gebacken
+01	7	7	Aus dem Reich der Sinne
+01	8	8	Ein wahres Wunder
+01	9	9	Streberglück
+01	10	10	Der Weg ist das Ziel
+01	11	11	Salem auf Abwegen
+01	12	12	Der tiefgekühlte Richter
+01	13	13	Träume lügen nicht
+01	14	14	Der Zauberspiegel
+01	15	15	Dritter Frühling
+01	16	16	Dr. Cyclop
+01	17	17	Der erste Kuß
+01	18	18	Auch Hexen haben's schwer
+01	19	19	Katzenjammer
+01	20	20	Besuch aus dem Jenseits
+01	21	21	Außer Rand und Band
+01	22	22	Auch Hexen machen Fehler
+01	23	23	Hexenjagd
+01	24	24	Die Schöne und der Zwerg
+# 2. Staffel
+02	1	25	Lizenz zum Zaubern, Teil 1
+02	2	26	Lizenz zum Zaubern, Teil 2
+02	3	27	Liebe und Hiebe
+02	4	28	Blind Date
+02	5	29	Ein cooler Job
+02	6	30	Sabrina hat die Hosen an
+02	7	31	Party time
+02	8	32	Der Zeitsprung
+02	9	33	Alles wie verhext
+02	10	34	Freitag der dreizehnte
+02	11	35	Verzaubert wider Willen
+02	12	36	Das Weihnachtsfräulein
+02	13	37	Die Verjüngungskur
+02	14	38	Libby geht zu Bruch
+02	15	39	Der eingebildete Kranke(aka Die eingebildete Kranke)
+02	16	40	Die moderne Hexe
+02	17	41	Ein Nivellierer namens Roland
+02	18	42	Sabrina Goes Rock
+02	19	43	Rollentausch
+02	20	44	Ein Alptraum auf vier Rädern
+02	21	45	Zauber mit Nebenwirkung
+02	22	46	Die große Prüfung
+02	23	47	Ein tierischer Ausflug
+02	24	48	Die Qual der Wahl
+02	25	49	Gerüchteküche
+02	26	50	Muttertag im anderen Reich(aka Mom vs. Magic)
+# 3. Staffel
+03	1	51	Aus Zwei mach Eins
+03	2	52	Peinlich, peinlich!
+03	3	53	Trau keinem unter Hundert
+03	4	54	Schöne Aussichten
+03	5	55	Der runde Wahnsinn
+03	6	56	Ein irres Fest
+03	7	57	Jede Wette
+03	8	58	Kaiser Larry
+03	9	59	Libby Intern
+03	10	60	Schön Häßlich!
+03	11	61	Coole Weihnachten
+03	12	62	Ich bin Du
+03	13	63	Cousine Zsa Zsa
+03	14	64	Mrs. Kraft
+03	15	65	Piraten im Haus
+03	16	66	Liebeszauber mit Folgen
+03	17	67	Salem an die Macht!
+03	18	68	Die Kunst des Schreibens
+03	19	69	Schlaf, Hexe, schlaf
+03	20	70	Gesucht wird ...
+03	21	71	Wie im richtigen Leben
+03	22	72	Vorsicht, Abkürzung!(aka Abkürzung! Vorsicht)
+03	23	73	Traumsehen
+03	24	74	Ohne Worte
+03	25	75	Hexentreffen
+# 4. Staffel
+04	1	76	Paris ruft
+04	2	77	Der Zauberlehrling
+04	3	78	Eifersucht
+04	4	79	Völlig aufgelöst
+04	5	80	Haben, haben, haben
+04	6	81	Katzenhorror
+04	7	82	Wer küsst wen?
+04	8	83	Eine Frage des Alters
+04	9	84	Altes neues Glück
+04	10	85	Eiskalt erwischt
+04	11	86	Salem und Juliette
+04	12	87	Zum Schmelzen schön
+04	13	88	Dünn, dünner, am dümmsten
+04	14	89	Lauter Helden
+04	15	90	Blüten der Liebe
+04	16	91	Fauler Zauber
+04	17	92	Salems Tochter
+04	18	93	Eine Maus namens Dreama
+04	19	94	Es lebe das Chaos
+04	20	95	Eine Cousine zuviel
+04	21	96	Sabrina mal vier
+04	22	97	Schluß mit lustig
+# 5. Staffel
+05	1	98	Ein magischer Umzug
+05	2	99	Party, Party
+05	3	100	Dating-Zauber
+05	4	101	Hexen im Doppelpack
+05	5	102	Vorurteile, Vorurteile
+05	6	103	Halloween, ein Festtag für Hexen
+05	7	104	Sekten-Falle
+05	8	105	Halbsterbliche sind nirgendwo zu Hause
+05	9	106	Wer will schon drei
+05	10	107	Ein perfektes Weihnachten
+05	11	108	Die besten Fotos
+05	12	109	Locker vom Hocker
+05	13	110	Kleiner Zeiger, große Wirkung
+05	14	111	Wahnsinns Noten
+05	15	112	Herzensbrecher
+05	16	113	Sabrina, die Muse
+05	17	114	Strandparty
+05	18	115	Die Hexenschule
+05	19	116	Sabrina legt los
+05	20	117	Siehst Du, was ich sehe?
+05	21	118	Der Hausgeist
+05	22	119	Endlich!
+# 6. Staffel
+06	1	120	Dreharbeiten mit einem Vampir
+06	2	121	Rendezvous mit dem Schicksal
+06	3	122	Job oder Liebe
+06	4	123	Mord im Halloween-Express
+06	5	124	Radio Chick-Chat
+06	6	125	Auf dünnen Eis
+06	7	126	Hex, Lügen und kein Video
+06	8	127	Bescheidenheit ist eine Zier
+06	9	128	Hexengeburtstag
+06	10	129	E-Mail mit HohlKopf-Faktor
+06	11	130	Wolke Zehn
+06	12	131	Sabrina im Wahlkampf
+06	13	132	Goofys's Liebeswünsche
+06	14	133	Hochzeitsglocken
+06	15	134	Zeitreisen von der Stange
+06	16	135	Sabrina und der Kuss
+06	17	136	Sabrina zeigt Kampfgeist
+06	18	137	Besserwisserin
+06	19	138	Schuldig
+06	20	139	Der Wachskugel-Fluch
+06	21	140	Fahrstunden
+06	22	141	In tausend Stücke, Teil 1
+# 7. Staffel
+07	1	142	Auf Jobsuche
+07	2	143	Interview mit einem Hohlkopf
+07	3	144	Was ist schon Normal?
+07	4	145	Das Biest
+07	5	146	Die Ladendiebin
+07	6	147	Sabrina unplugged
+07	7	148	Sammelleidenschaft
+07	8	149	Avril, Avril
+07	9	150	Wiedersehen in Miami
+07	10	151	Lampenfiber
+07	11	152	Lügen und Klamotten
+07	12	153	Blindes Vertrauen
+07	13	154	Sabrina im Wunderland
+07	14	155	Perfekt!
+07	15	156	Cirque Du Sabrina
+07	16	157	Cyrano und Sabrina
+07	17	158	Romanzenalarm
+07	18	159	Ein Böser Versprecher
+07	19	160	Cinderellas Märchenhochzeit
+07	20	161	Ein Fisch namens Aaron
+07	21	162	Was Hexen wünschen, Teil 1
+07	22	163	Seelenverwandte, Teil 2

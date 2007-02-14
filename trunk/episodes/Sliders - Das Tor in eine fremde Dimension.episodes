@@ -1,0 +1,102 @@
+#
+# SEASONLIST
+# 1	1	10
+# 2	11	23
+# 3	24	48
+# 4	49	70
+# 5	71	88
+# /SEASONLIST
+#
+# 1. Staffel
+01	1	1	Pilot, Teil 1
+01	2	2	Pilot, Teil 2
+01	3	3	Der keimfreie Planet
+01	4	4	Das Ende der Welt
+01	5	5	Der korrupte Sheriff
+01	6	6	Reise durch das Zeitloch
+01	7	7	Die Doppelgänger
+01	8	8	Der Spitzenkandidat
+01	9	9	König des Rock'n'Roll
+01	10	10	Paradies auf Erden
+# 2. Staffel
+02	1	11	Im Reich des Hexenmeisters
+02	2	12	Männermangel
+02	3	13	Der unsichtbare Quinn
+02	4	14	Duell in der Wall-Street
+02	5	15	Verbunden bis in den Tod
+02	6	16	Verkehrte Welten
+02	7	17	Unter Dinosauriern
+02	8	18	Endlich zuhause?
+02	9	19	Eine jahrhunderte alte Liebe
+02	10	20	Herrschaft der Mafia
+02	11	21	Im Rausch der Jugend
+02	12	22	Die Invasion
+02	13	23	Hawkings Theorie
+# 3. Staffel
+03	1	24	Tödliches Spiel
+03	2	25	Der doppelte Professor
+03	3	26	Der Geist aus der Flasche
+03	4	27	Der Schutzengel
+03	5	28	Die Traumkiller
+03	6	29	Die Wasserhexe
+03	7	30	Zaubertrank und Drachenblut
+03	8	31	Die Feuerhölle
+03	9	32	Der Königssohn
+03	10	33	Quinn unter Mordverdacht
+03	11	34	Roboter mit Seele
+03	12	35	Fröhliche Weihnachten
+03	13	36	Auf den Spuren von Jolly Jack
+03	14	37	Das Geheimnis der Pyramide
+03	15	38	Das ewige Leben
+03	16	39	Exodus, Teil 1
+03	17	40	Exodus, Teil 2
+03	18	41	Endzeit
+03	19	42	Monsterbrut
+03	20	43	Verbotene Zonen
+03	21	44	Das Böse im Nebel
+03	22	45	Giftige Fracht
+03	23	46	Rache an Rickman
+03	24	47	Gesang der Vampire
+03	25	48	Ein himmlischer Slide
+# 4. Staffel
+04	1	49	Woher kommst du, Quinn?
+04	2	50	Das Portal des Todes
+04	3	51	Rachsucht
+04	4	52	Ein virtueller Slide
+04	5	53	Die Höllenmaschine
+04	6	54	Bruder aus einer anderen Welt
+04	7	55	Land des Lächelns
+04	8	56	Frankensteins Enkel
+04	9	57	Gefangen in der Festung
+04	10	58	Quinn außer Gefecht
+04	11	59	Amerika den Amerikanern
+04	12	60	Fast ein Mensch
+04	13	61	Talkshow Total
+04	14	62	Mutter und Kind
+04	15	63	Vernetzt
+04	16	64	Perfekte Piloten
+04	17	65	Virtuelle Macht
+04	18	66	Im wilden Westen
+04	19	67	Meines Bruders Hüter
+04	20	68	Der Abgrund
+04	21	69	Blick in die Zukunft
+04	22	70	Familientreffen
+# 5. Staffel
+05	1	71	Verloren im All
+05	2	72	Quälende Erinnerung
+05	3	73	Blutige Erde
+05	4	74	Das große Werk
+05	5	75	Das Wasser des Lebens
+05	6	76	Konsumterror
+05	7	77	Eine heiße Story
+05	8	78	Gangster Blues
+05	9	79	Maggie Becketts Rückkehr
+05	10	80	Eine gefährliche Liebschaft
+05	11	81	Trennung für immer
+05	12	82	Kosmisches Kollektiv
+05	13	83	Spaß ohne Grenzen
+05	14	84	Unter Piraten
+05	15	85	Lebende Steine
+05	16	86	Im Namen der Wissenschaft
+05	17	87	Das Experiment, Teil 1
+05	18	88	Der letzte Slide, Teil 2
