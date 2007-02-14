@@ -1,0 +1,230 @@
+#
+# COMPLETE
+#
+# SEASONLIST
+# 1	1	24
+# 2	25	50
+# 3	51	74
+# 4	75	98
+# 5	99	119
+# 6	120	141
+# 7	142	163
+# 8	164	184
+# 9	185	204
+# /SEASONLIST
+#
+#SE	EP	No.	Title
+#
+# 01. Staffel
+01	1	1	Gezeichnet
+01	2	2	Die Warnung
+01	3	3	Das Nest
+01	4	4	Signale
+01	5	5	Der Teufel von Jersey
+01	6	6	Schatten
+01	7	7	Die Maschine
+01	8	8	Eis
+01	9	9	Besessen
+01	10	10	Gefallener Engel
+01	11	11	Eve
+01	12	12	Feuer
+01	13	13	Die Botschaft
+01	14	14	Verlockungen
+01	15	15	Lazarus
+01	16	16	Ewige Jugend
+01	17	17	Täuschungmanöver
+01	18	18	Der Wunderheiler
+01	19	19	Verwandlungen
+01	20	20	Der Kokon
+01	21	21	Ein neues Nest
+01	22	22	Wiedergeboren
+01	23	23	Roland
+01	24	24	Das Labor
+# 02. Staffel
+02	1	25	Kontakt
+02	2	26	Der Parasit
+02	3	27	Blut
+02	4	28	Schlaflos
+02	5	29	Unter Kontrolle
+02	6	30	Seilbahn zu den Sternen
+02	7	31	Drei
+02	8	32	An der Grenze
+02	9	33	Der Vulkan
+02	10	34	Rotes Museum
+02	11	35	Excelsis Dei
+02	12	36	Böse geboren
+02	13	37	Todestrieb
+02	14	38	Satan
+02	15	39	Frische Knochen
+02	16	40	Die Kolonie, Teil 1
+02	17	41	Die Kolonie, Teil 2
+02	18	42	Sophie
+02	19	43	Totenstille
+02	20	44	Der Zirkus
+02	21	45	Heilige Asche
+02	22	46	Verseucht
+02	23	47	Das Experiment
+02	24	48	Unsere kleine Stadt
+02	25	49	Anasazi, Teil 1
+02	26	50	Das Geheimnis der Akte X
+# 03. Staffel
+03	1	51	Das Ritual, Teil 2
+03	2	52	Verschwörung des Schweigens, Teil 3
+03	3	53	Blitzschlag
+03	4	54	Der Hellseher
+03	5	55	Die Liste
+03	6	56	Fett
+03	7	57	Der zweite Körper
+03	8	58	Parallele
+03	9	59	Die Autopsie, Teil 1
+03	10	60	Der Zug, Teil 2
+03	11	61	Offenbarung
+03	12	62	Krieg der Koprophragen
+03	13	63	Energie
+03	14	64	Grotesk
+03	15	65	Der Feind, Teil 1
+03	16	66	Der Feind, Teil 2
+03	17	67	Mein Wille ist Dein Wille
+03	18	68	Der Fluch
+03	19	69	Höllengeld
+03	20	70	Andere Wahrheiten
+03	21	71	Heimsuchung
+03	22	72	Der See
+03	23	73	Ferngesteuert
+03	24	74	Der Tag steht schon fest
+# 04. Staffel
+04	1	75	Herrenvolk
+04	2	76	Unruhe
+04	3	77	Blutschande
+04	4	78	Teliko
+04	5	79	Rückkehr der Seelen
+04	6	80	Hexensabbat
+04	7	81	Gedanken des geheimnisvollen Rauchers
+04	8	82	Die Sammlung
+04	9	83	Tunguska, Teil 1
+04	10	84	Tunguska, Teil 2
+04	11	85	Der Chupacabra
+04	12	86	Der Golem
+04	13	87	Mutterkorn
+04	14	88	Leonard Betts
+04	15	89	Memento Mori
+04	16	90	Unsichtbar
+04	17	91	Tempus fugit, Teil 1
+04	18	92	Tempus fugit, Teil 2
+04	19	93	Rückkehr aus der Zukunft
+04	20	94	Ein unbedeutender Niemand
+04	21	95	Der Pakt mit dem Teufel
+04	22	96	Todes-Omen
+04	23	97	Dämonen
+04	24	98	Gethsemane
+# 05. Staffel
+05	1	99	Die unüblichen Verdächtigen
+05	2	100	Redux, Teil 1
+05	3	101	Redux, Teil 2
+05	4	102	Vom Erdboden verschluckt
+05	5	103	Der große Mutato
+05	6	104	Emily, Teil 1
+05	7	105	Emily, Teil 2
+05	8	106	Kitsunegari
+05	9	107	Die Wurzeln des Bösen
+05	10	108	Ein Spiel
+05	11	109	Kill switch
+05	12	110	Böses Blut
+05	13	111	Cassandra, Teil 1
+05	14	112	Cassandra, Teil 2
+05	15	113	Gute Patrioten
+05	16	114	Das innere Auge
+05	17	115	Alle Seelen
+05	18	116	Die Pine-Bluff-Variante
+05	19	117	Folie a deux
+05	20	118	Das Ende
+05	21	119	AkteX - Der Film
+# 06. Staffel
+06	1	120	Der Anfang
+06	2	121	Die Fahrt
+06	3	122	Im Bermuda-Dreieck
+06	4	123	Dreamland, Teil 1
+06	5	124	Dreamland, Teil 2
+06	6	125	Zeit der Zärtlichkeit
+06	7	126	Der Regenmacher
+06	8	127	Die Geister, die ich rief
+06	9	128	Tithonus
+06	10	129	S.R. 819
+06	11	130	Zwei Väter, Teil 1
+06	12	131	Ein Sohn, Teil 2
+06	13	132	Arkadien
+06	14	133	Agua Mala
+06	15	134	Montag
+06	16	135	Alpha
+06	17	136	Trevor
+06	18	137	Milagro
+06	19	138	Suzanne
+06	20	139	Ex
+06	21	140	Sporen
+06	22	141	Artefakte, Teil 1
+# 07. Staffel
+07	1	142	Böse Zeichen, Teil 2
+07	2	143	Tausend Stimmen, Teil 3
+07	3	144	Hunger
+07	4	145	Millennium
+07	5	146	Masse mal Beschleunigung
+07	6	147	Das Glück des Henry Weems
+07	7	148	Tor zur Hölle
+07	8	149	Der unglaubliche Maleeni
+07	9	150	Schlangen
+07	10	151	Alte Seelen
+07	11	152	Sternenlicht
+07	12	153	Vollmond
+07	13	154	Game Over
+07	14	155	Zauberstab
+07	15	156	Cobra
+07	16	157	Der zerbrochene Spiegel
+07	17	158	Augenblicke
+07	18	159	Nikotin
+07	19	160	Hollywood
+07	20	161	27.000.000 : 1
+07	21	162	Drei Wünsche
+07	22	163	Alles beginnt in Oregon, Teil 1
+# 08. Staffel
+08	1	164	Verschwunden, Teil 2
+08	2	165	Gibson Praise, Teil 3
+08	3	166	Klauen und Zähne
+08	4	167	Gesteinigt
+08	5	168	Billy
+08	6	169	Rückwärts
+08	7	170	Via Negativa
+08	8	171	Fenster der Seele
+08	9	172	Schlaues Metall
+08	10	173	Hier und nicht hier
+08	11	174	Der Seelenesser
+08	12	175	Underground
+08	13	176	Frucht des Leibes
+08	14	177	Es ist zu spät, Teil 1
+08	15	178	Lebendig Tot, Teil 2
+08	16	179	Drei Worte
+08	17	180	Feuer und Asche
+08	18	181	Sie kommen
+08	19	182	Augenlicht
+08	20	183	Einer von vielen
+08	21	184	William
+# 09. Staffel
+09	1	185	Unter Wasser, Teil 1
+09	2	186	Adam und Eva, Teil 2
+09	3	187	Daemonicus
+09	4	188	4-D
+09	5	189	Der Herr der Fliegen
+09	6	190	Schattenmann
+09	7	191	Desaparecido
+09	8	192	Häutungen
+09	9	193	Drohungen, Teil 1
+09	10	194	Die Prophezeiung, Teil 2
+09	11	195	Audrey
+09	12	196	Der Mörder in mir
+09	13	197	Unter dem Bett
+09	14	198	Sechs und Neun
+09	15	199	Helden
+09	16	200	Zum wohle des Kindes
+09	17	201	Erlösung
+09	18	202	Die perfekte Famile
+09	19	203	Die Wahrheit, Teil 1
+09	20	204	Die Wahrheit, Teil 2
