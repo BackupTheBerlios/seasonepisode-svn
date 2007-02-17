@@ -3,8 +3,8 @@
 #
 # SEASONLIST
 # 1	1	8
-# 2	9	29
-# 3	30	52
+# 2	9	30
+# 3	31	52
 # 4	53	74
 # 5	75	96
 # /SEASONLIST
@@ -26,13 +26,13 @@
 02	3	11	Schatten der Vergangenheit
 02	4	12	Rache ist süß
 02	5	13	Blindes Vertrauen
-02	6	14	Rock'n'Roll Fieber
+02	6	14	Rock-n'-Roll-Fieber
 02	7	15	Schatten der Toten
 02	8	16	Eine andere Welt
 02	9	17	Einer gegen alle
 02	10	18	Erste Liebe
 02	11	19	Die Stimme aus der Tiefe
-02	12	20	Make Love Not War
+02	12	20	Make Love, Not War
 02	13	21	Die Reifeprüfung
 02	14	22	Schmutziges Spiel
 02	15	23	Zeugin im Kreuzfeuer
@@ -42,30 +42,30 @@
 02	19	27	Ohne Netz
 02	20	28	Ein Baby auf der Flucht
 02	21	29	Hochzeit auf hoher See
+02	22	30	Der letzte Tanz
 # 03. Staffel
-03	1	30	Der letzte Tanz
-03	2	31	Vietnam, Teil 1
-03	3	32	Vietnam, Teil 2
-03	4	33	Der falsche Weg
-03	5	34	Vor dem Abgrund
-03	6	35	Leibhaftige
-03	7	36	Venus mit Brusthaar
-03	8	37	Schwarz und Weiß
-03	9	38	Der große Spontini
-03	10	39	Highway zum Himmel oder zur Hölle
-03	11	40	Die Bekehrung
-03	12	41	Fluchtgedanken
-03	13	42	Zwiebeln mit Gelee
-03	14	43	Die Zeitmaschine
-03	15	44	Am Scheideweg
-03	16	45	Der Klavierspieler
-03	17	46	Doppelte Moral
-03	18	47	Masken
-03	19	48	Der Kopfgeldjäger
-03	20	49	In letzter Minute
-03	21	50	Kalter Krieg im Ring
-03	22	51	Folgen der Angst
-03	23	52	Schocktherapie
+03	1	31	Vietnam, Teil 1
+03	2	32	Vietnam, Teil 2
+03	3	33	Der falsche Weg
+03	4	34	Vor dem Abgrund
+03	5	35	Der Leibhaftige
+03	6	36	Venus mit Brusthaar
+03	7	37	Schwarz und Weiß
+03	8	38	Der große Spontini
+03	9	39	Highway zum Himmel oder zur Hölle
+03	10	40	Die Bekehrung
+03	11	41	Fluchtgedanken
+03	12	42	Zwiebeln und Gelee
+03	13	43	Die Zeitmaschine
+03	14	44	Am Scheideweg
+03	15	45	Der Klavierspieler
+03	16	46	Doppelte Moral
+03	17	47	Masken
+03	18	48	Der Kopfgeldjäger
+03	19	49	In letzter Minute (aka: Der letzte Tanz)
+03	20	50	Kalter Krieg im Ring
+03	21	51	Folgen der Angst
+03	22	52	Schocktherapie
 # 04. Staffel
 04	1	53	Vertauschte Rollen
 04	2	54	Es ist nie zu spät
@@ -76,10 +76,10 @@
 04	7	59	Affenliebe
 04	8	60	Der einzige Zeuge
 04	9	61	Regen
-04	10	62	Zweikampf
+04	10	62	Der Zweikampf
 04	11	63	Ein ungleiches Paar
 04	12	64	Ein Kampf auf Leben und Tod
-04	13	65	Das Zweite Gesicht
+04	13	65	Das zweite Gesicht
 04	14	66	Das Duell
 04	15	67	Singen um jeden Preis
 04	16	68	Die Todesfalle
@@ -97,9 +97,9 @@
 05	5	79	Die Vergeltung
 05	6	80	Heller als alle Sterne
 05	7	81	Der Sieg des Guten
-05	8	82	Das Medaillon
-05	9	83	Hexenjagd
-05	10	84	Tödliche Rache
+05	8	82	Das Medaillon, Teil 1
+05	9	83	Hexenjagd, Teil 2
+05	10	84	Tödliche Rache, Teil 3
 05	11	85	Krumme Geschäfte
 05	12	86	Doppelt hält nicht besser
 05	13	87	Schrei nach Befreiung
@@ -107,8 +107,8 @@
 05	15	89	Blutmond
 05	16	90	Die Mutprobe
 05	17	91	Verfolgt
-05	18	92	Unvergessene Marilyn
+05	18	92	Unvergessene Marilyn (aka: Goodbye, Norma Jean)
 05	19	93	Die Suche nach Bigfoot
 05	20	94	Die Ketten zerbrechen
-05	21	95	Elvis erster Hit
+05	21	95	Elvis' erster Hit
 05	22	96	Das Spiegelbild
