@@ -1,6 +1,7 @@
 #
 # SEASONLIST
 # 1	1	22
+# 2	23	44
 # /SEASONLIST
 #
 #SE	EP	No.	Title
@@ -28,3 +29,26 @@
 01	20	20	Das Serum
 01	21	21	Der verlorene Sohn
 01	22	22	Dantes Inferno
+# 02. Staffel
+02	1	23	Die Rückkehr
+02	2	24	Falsches Spiel
+02	3	25	Vater Abode
+02	4	26	Der Rohling
+02	5	27	Der Sarkopharg
+02	6	28	In letzter Minute
+02	7	29	Das Dritte Auge
+02	8	30	Die Entführung
+02	9	31	Der schmerzlose Tod
+02	10	32	Künstliche Schönheit
+02	11	33	In feindlicher Absicht
+02	12	34	Die Büchse der Pandora
+02	13	35	Trans Utopia
+02	14	36	Die Gefangene
+02	15	37	Gefährliche Leidenschaft
+02	16	38	Rivalen
+02	17	39	Zwillinge
+02	18	40	Der Massenmörder
+02	19	41	Negative Energie
+02	20	42	Das Tribunal
+02	21	43	Im Hyperraum, Teil 1
+02	22	44	Im Hyperraum, Teil 2
