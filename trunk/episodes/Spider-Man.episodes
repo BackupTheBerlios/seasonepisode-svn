@@ -1,0 +1,83 @@
+#
+# COMPLETE
+#
+# SEASONLIST
+# 1	1	13
+# 2	14	27
+# 3	28	41
+# 4	42	52
+# 5	54	65
+# /SEASONLIST
+#
+#SE	EP	No.	Title
+#
+# 01. Staffel
+01	1	1	Die Nacht der Echse
+01	2	2	Der Spinnen-Killer
+01	3	3	Die Rückkehr der Killer-Spinnen
+01	4	4	Die Spinne hoch zwei
+01	5	5	Der wahnsinnige Professor
+01	6	6	Der Skorpion
+01	7	7	Das Gegenmittel
+01	8	8	Alte Spinne in neuen Schläuchen, Teil 1
+01	9	9	Alte Spinne in neuen Schläuchen, Teil 2
+01	10	10	Alte Spinne in neuen Schläuchen, Teil 3
+01	11	11	Der Hobgoblin, Teil 1
+01	12	12	Der Hobgoblin, Teil 2
+01	13	13	Der Tag des Chamäleon
+# 02. Staffel
+02	1	14	Spinne sei wachsam
+02	2	15	Die gnadenlosen Sechs
+02	3	16	Hydroman
+02	4	17	Mutanten gegen Mutanten, Teil 1
+02	5	18	Mutanten gegen Mutanten, Teil 2
+02	6	19	Der Vampir
+02	7	20	Der Vollstrecker
+02	8	21	Duell der Jäger
+02	9	22	Die Tafel der ewigen Jugend, Teil 1
+02	10	23	Die Tafel der ewigen Jugend, Teil 2
+02	11	24	Blade, der Vampirjäger
+02	12	25	Auf ewig eine Fledermaus
+02	13	26	Der Schrei des Geiers, Teil 1
+02	14	27	Der Schrei des Geiers, Teil 2
+# 03. Staffel
+03	1	28	Der Kampf der Mächte
+03	2	29	Reise in die Vergangenheit
+03	3	30	Taina gegen Octopus
+03	4	31	Der grüne Gnom
+03	5	32	Der junge Robert
+03	6	33	Die Falle
+03	7	34	Reingelegt
+03	8	35	Der ultimative Spinnen-Killer
+03	9	36	Die Rückkehr des Tombstones
+03	10	37	Die Rückkehr des Venom
+03	11	38	Das Tor in eine andere Welt
+03	12	39	Die Zeitlöcher
+03	13	40	Krieg der Gnome
+03	14	41	Aufgeflogen
+# 04. Staffel
+04	1	42	Faule Tricks
+04	2	43	Die Katze
+04	3	44	Die schwarze Katze
+04	4	45	Gefährliches Serum
+04	5	46	Das Bündnis
+04	6	47	Das Erwachen
+04	7	48	Die Königin der Nacht
+04	8	49	Ein würdiger Nachfolger
+04	9	50	Tödliche Effekte
+04	10	51	Der Herr der Eidechsen
+04	11	52	Der Streuner
+# 05. Staffel
+05	1	53	Die Hochzeit
+05	2	54	Die sechs vergessenen Krieger, Teil 1
+05	3	55	Die sechs vergessenen Krieger, Teil 2
+05	4	56	Die sechs vergessenen Krieger, Teil 3
+05	5	57	Die sechs vergessenen Krieger, Teil 4
+05	6	58	Die sechs vergessenen Krieger, Teil 5
+05	7	59	Hydromans Rache, Teil 1
+05	8	60	Hydromans Rache, Teil 2
+05	9	61	Die Herausforderung, Teil 1
+05	10	62	Die Herausforderung, Teil 2
+05	11	63	Die Herausforderung, Teil 3
+05	12	64	Die Schlacht zwischen den Welten, Teil 1
+05	13	65	Die Schlacht zwischen den Welten, Teil 2

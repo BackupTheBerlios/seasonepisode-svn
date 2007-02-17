@@ -1,0 +1,137 @@
+#
+# SHORT Dharma und Greg
+#
+# SEASONLIST
+# 1	1	23
+# 2	24	47
+# 3	48	71
+# 4	72	95
+# 5	96	119
+# /SEASONLIST
+#
+#SE	EP	No.	Title
+#
+# 01. Staffel
+01	1	1	Liebe auf den ersten Blick
+01	2	2	Zwei Welten begegnen sich
+01	3	3	Psychologische Kriegsführung
+01	4	4	Ein unvergeßlicher Tag
+01	5	5	Akte Ex
+01	6	6	Yoga für Anfänger
+01	7	7	Cowboy und Indianer
+01	8	8	Washington ruft
+01	9	9	Larry auf der Flucht
+01	10	10	Rettet den Truthahn
+01	11	11	Dharma schlägt zurück
+01	12	12	Hausarrest
+01	13	13	Greg, König der Hamburger
+01	14	14	Der große Gelbe
+01	15	15	Alle lieben Leonard
+01	16	16	Romantik mit Hinternissen
+01	17	17	Der Vierer-Bob
+01	18	18	Chaos unter einem Dach
+01	19	19	Das große Geheimnis
+01	20	20	Katergefühle
+01	21	21	Die Göttin des Frühlings
+01	22	22	Der beste Quicky für Dicky
+01	23	23	Gefühlspoker
+# 02. Staffel
+02	1	24	Das Supermarkt-Baby 1
+02	2	25	Das Supermarkt-Baby 2
+02	3	26	Gebt dem Kind einen Namen
+02	4	27	Flatterhafte Spiesser
+02	5	28	Rettet die Enten
+02	6	29	Das Tor zur Hölle
+02	7	30	Verhängnisvolle Prahlerei
+02	8	31	Montgomery gegen Finkelstein
+02	9	32	Die Visionen der Dharma M.
+02	10	33	Wir verkaufen nichts!
+02	11	34	Dharmas Rache
+02	12	35	Der Super-Fan
+02	13	36	Eine himmliche Geige
+02	14	37	Alles für die Karriere
+02	15	38	Pferdeliebe
+02	16	39	Wählt Dharma
+02	17	40	Dharma geht in die Politik
+02	18	41	Endspurt
+02	19	42	Stein für Stein
+02	20	43	Verspekuliert
+02	21	44	Die Dessert-Schlacht
+02	22	45	Das Loch in der Wand
+02	23	46	Der Alptraum
+02	24	47	Das erste Rendezvous
+# 03. Staffel
+03	1	48	Der Sinn des Lebens
+03	2	49	Unheimliche Begegnungen
+03	3	50	Dharmas Inferno
+03	4	51	Streitgespräche
+03	5	52	Spieglein, Spieglein an der Wand
+03	6	53	Geisterbeschwörung
+03	7	54	Gregs Berufung
+03	8	55	Eine eigenwillige Hochzeit
+03	9	56	Gregs erster Fall
+03	10	57	Familienfeiern
+03	11	58	Werbestar Dharma
+03	12	59	Freunde gesucht
+03	13	60	Zum Umfallen schön
+03	14	61	Larry und die Polizei
+03	15	62	Immer ärger mit den Rockstars
+03	16	63	Eine Leiche im Garten
+03	17	64	Tennisschläger und Lügen
+03	18	65	Das erste Mal
+03	19	66	Sex nach Stundenplan
+03	20	67	Mit voller Absicht
+03	21	68	Der verlorene Sohn
+03	22	69	Eine Frage des Geschmacks
+03	23	70	Der Kampf um die Präsidentschaft
+03	24	71	Das fliegende Baby
+# 04. Staffel
+04	1	72	Fehler der Vergangenheit
+04	2	73	Larry auf Kriegspfad
+04	3	74	Schluss mit lustig
+04	4	75	Greg meldet sich an die Front
+04	5	76	Die Hebammenkrise
+04	6	77	Schlaflos in San Francisco
+04	7	78	Hände weg von meiner Sekretärin!
+04	8	79	Das Kreuzworträtsel
+04	9	80	Die Boxerin
+04	10	81	Wer rettet wen?
+04	11	82	Das Kästchen
+04	12	83	Der Fall mit der Stripperin
+04	13	84	Attraktive Nachhilfe 1
+04	14	85	Attraktive Nachhilfe 2
+04	15	86	Dharma a la Dallas
+04	16	87	Judy & Greg
+04	17	88	Die Poolkönigin
+04	18	89	Mandanten verzweifelt gesucht
+04	19	90	Geliebte Kitty
+04	20	91	Die Geschichte der K
+04	21	92	Das "kleine" Problem
+04	22	93	Intrigen im Gemeinschaftsgarten
+04	23	94	Ende der Unschuld 1
+04	24	95	Ende der Unschuld 2
+# 05. Staffel
+05	1	96	Das Heilungsprogramm
+05	2	97	Hilfe, Dharma will helfen!
+05	3	98	Radio Dharma
+05	4	99	Probleme mit Sex und Sessel
+05	5	100	übernachtung mit Frühstück
+05	6	101	Finger weg von Larry
+05	7	102	Gebrauchtes Karma
+05	8	103	Das Kunststück
+05	9	104	Hochzeit erster Klasse
+05	10	105	Ersatz für die Traumfrau
+05	11	106	Angeln in Las Vegas
+05	12	107	Kompliziertes Universum
+05	13	108	Humanistin des Jahres
+05	14	109	Warten auf den Sohn
+05	15	110	Der blonde Tornado
+05	16	111	Ich denke, also bin ich schlecht
+05	17	112	Dharma spielt mit
+05	18	113	Die Eisenhower-Mission
+05	19	114	Der Ring war nie gelungen
+05	20	115	Die Wahrheit ist irgendwo da draußen
+05	21	116	Dharma bekommt Pflegeeltern
+05	22	117	Kind zugelaufen
+05	23	118	Experiment Eltern 1
+05	24	119	Experiment Eltern 2
