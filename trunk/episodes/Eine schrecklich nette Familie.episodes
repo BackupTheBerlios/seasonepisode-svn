@@ -1,0 +1,287 @@
+#
+# SEASONLIST
+# 1	1	13
+# 2	14	35
+# 3	36	57
+# 4	58	80
+# 5	81	105
+# 6	106	131
+# 7	132	157
+# 8	158	183
+# 9	184	209
+# 10	210	235
+# 11	236	259
+# /SEASONLIST
+#
+#SE	EP	No.	Title
+#
+# 01. Staffel
+01	1	1	So hat alles angefangen
+01	2	2	Lieben macht schlank
+01	3	3	Warum hast Du meinen Hund erschossen?
+01	4	4	Billard oder Fitness
+01	5	5	Mustang '65
+01	6	6	Der Hochzeitstag
+01	7	7	Die Babysitter
+01	8	8	Der Gewinn
+01	9	9	... dann arbeite ich eben
+01	10	10	Mit Stewardessen spasst man nicht
+01	11	11	Der Alptraum
+01	12	12	Der Boss
+01	13	13	Johnnys Hamburgerbude
+# 02. Staffel
+02	1	14	Die Urlaubermörder, Teil 1
+02	2	15	Die Urlaubermörder, Teil 2
+02	3	16	Millionäre bevorzugt
+02	4	17	Die Kastration
+02	5	18	Frauen wollen auch mal Spass, Teil 1
+02	6	19	Frauen wollen auch mal Spass, Teil 2
+02	7	20	Kein Anschluss unter dieser Nummer
+02	8	21	Wer nimmt mich mit?
+02	9	22	Bundy gegen den Rest der Welt
+02	10	23	Bart oder nicht Bart?
+02	11	24	Die Tätowierung
+02	12	25	Frühstück mit Tiffany
+02	13	26	Vom Himmel hoch...
+02	14	27	Alte Zeiten
+02	15	28	Die Mausefalle
+02	16	29	Mein Hund hat Kredit
+02	17	30	Sag's endlich
+02	18	31	Wer schnarcht hier?
+02	19	32	Finger weg von meinem Auto
+02	20	33	Studioluft
+02	21	34	Bringt mir das Geld von Al Bundy
+02	22	35	Die fürchterlichen Verwandten
+# 03. Staffel
+03	1	36	Reise in die Vergangenheit
+03	2	37	Die Erscheinung
+03	3	38	Der Rekord
+03	4	39	Männerurlaub
+03	5	40	Der König der Klos
+03	6	41	Das Geburtstagsgeschenk
+03	7	42	Haar und Haar
+03	8	43	Die Wahrsagerin
+03	9	44	Warum ausgerechnet mein Friseur?
+03	10	45	Sex, Video, Al und Peggy
+03	11	46	Im 3-Sterne-Restaurant
+03	12	47	Wie werde ich eine gute Hausfrau?
+03	13	48	Die beste Schülerin
+03	14	49	Ich bin mein bester Kunde
+03	15	50	Der Verfolger
+03	16	51	Es war einmal ein Haus...
+03	17	52	Meine Frau, die Königin, Teil 1
+03	18	53	Meine Frau, die Königin, Teil 2
+03	19	54	Der Held der modernen Welt
+03	20	55	Ein Computer würde helfen...
+03	21	56	Tage am Strand
+03	22	57	Warum nicht bei mir?
+# 04. Staffel
+04	1	58	Das Barbecue
+04	2	59	Tote turnen nicht
+04	3	60	Wochenende im Wald
+04	4	61	Zahnweh
+04	5	62	Klein aber mein
+04	6	63	Her mit den kleinen Französinnen
+04	7	64	Miss Faltblatt
+04	8	65	Al wird Unternehmer
+04	9	66	Der Sparstrumpf
+04	10	67	Der Aussteiger
+04	11	68	Frohe Weihnacht, Teil 1
+04	12	69	Frohe Weihnacht, Teil 2
+04	13	70	Do it yourself
+04	14	71	Eine haarige Angelegenheit
+04	15	72	Das Model
+04	16	73	Las Vegas, Teil 1
+04	17	74	Las Vegas, Teil 2
+04	18	75	Die Freuden der Rache
+04	19	76	Wer trifft mehr?
+04	20	77	Staatlich geprüfte Hausfrau
+04	21	78	Das Wettermädchen
+04	22	79	Die Liebesnacht
+04	23	80	Ausverkauf
+# 05. Staffel
+05	1	81	Der Super-Stau
+05	2	82	Al und Kelly allein zu Hause
+05	3	83	Mein Auto - dein Auto
+05	4	84	Das Endspiel
+05	5	85	Liebe geht durch den Magen
+05	6	86	Kellys Rache
+05	7	87	Al und die Ausserirdischen
+05	8	88	Jagdsaison
+05	9	89	Der Unwiderstehliche
+05	10	90	Ein Küken verlässt das Nest
+05	11	91	Baby bringt Barschaft
+05	12	92	Schreckliches Erwachen
+05	13	93	Der Pate
+05	14	94	Schau mal, wer da bellt
+05	15	95	Mein Klo ist meine Burg
+05	16	96	Der Nachtwächter
+05	17	97	Es liegt mir auf der Zunge
+05	18	98	Ende gut, alles gut
+05	19	99	Nachwuchs
+05	20	100	Her mit den reichen Mädchen
+05	21	101	Der millionste Besucher, Teil 1
+05	22	102	Der millionste Besucher, Teil 2
+05	23	103	Goldrausch, Teil 1
+05	24	104	Goldrausch, Teil 2
+05	25	105	Buck geht in die Zucht
+# 06. Staffel
+06	1	106	Sie erwartet mein Baby, Teil 1
+06	2	107	Sie erwartet mein Baby, Teil 2
+06	3	108	Der Familienhammer
+06	4	109	Miss Käse
+06	5	110	Marcys Wickeltisch
+06	6	111	Buck hat Bauchschmerzen
+06	7	112	Die neue Brille
+06	8	113	Die himmlische Idee
+06	9	114	Fernsehmania, Teil 1
+06	10	115	Fernsehmania, Teil 2
+06	11	116	Als zweiter Job
+06	12	117	Der Schuhgroupie
+06	13	118	Meine Freundin Sandy
+06	14	119	Mutproben
+06	15	120	Der Werbespot
+06	16	121	Buds 18. Geburtstag
+06	17	122	Das Ei und ich
+06	18	123	Bud wirft eine Party
+06	19	124	Der Fluch der Madame Inga
+06	20	125	Kelly und die Genies
+06	21	126	Bud zwischen zwei Frauen
+06	22	127	Modellkarriere ade
+06	23	128	Mit Bedienung
+06	24	129	Die Reise nach England, Teil 1
+06	25	130	Die Reise nach England, Teil 2
+06	26	131	Die Reise nach England, Teil 3
+# 07. Staffel
+07	1	132	Die magische Sieben
+07	2	133	Samstagabend bei den Bundys
+07	3	134	Jeder Bundy hat einen Geburtstag
+07	4	135	Al oben-ohne
+07	5	136	Reizwäsche
+07	6	137	Buds verzweifelte Suche
+07	7	138	Für Bier gegen Wein
+07	8	139	Kellys neuer Job
+07	9	140	Altrocker
+07	10	141	Begrabt mich neben Fuzzy
+07	11	142	Buds Stipendium
+07	12	143	Waren das noch Zeiten...
+07	13	144	Wer küsst die Braut?
+07	14	145	Al fährt Angeln
+07	15	146	Wer hat Angst vorm Altwerden?
+07	16	147	Der Mann mit der leeren Hose
+07	17	148	Du bist mein Herzblatt
+07	18	149	Peggy und die Piraten
+07	19	150	Die Altenspiele
+07	20	151	Wessen Po ist das?
+07	21	152	Die Bundys im Kino
+07	22	153	Manneskraft, die Freuden schafft
+07	23	154	Wenn ich mich zur Ruhe setze...
+07	24	155	Wer klaut hier mein Auto?
+07	25	156	Die Nöte eines Ehebrechers
+07	26	157	500.000 Dollar für Al
+# 08. Staffel
+08	1	158	Der Fan
+08	2	159	Strassenkämpfe
+08	3	160	Der letzte Versuch
+08	4	161	Der Gewinner
+08	5	162	Marcy Superstar
+08	6	163	Das neue Auto
+08	7	164	Ein Mörder-Publikum
+08	8	165	Al als Arbeitgeber
+08	9	166	Der männliche Feminist
+08	10	167	Die Sport-Bar
+08	11	168	Wo ist der Hund?
+08	12	169	Weg mit dem Ding
+08	13	170	Warum sind wir nicht eingeladen?
+08	14	171	Die Couch brennt...
+08	15	172	Peg als Poster
+08	16	173	Die Grenze
+08	17	174	Verpasste Gelegenheit
+08	18	175	Die entscheidende Meile
+08	19	176	Marcys Schuss in den Ofen
+08	20	177	Der Mann im Dunkel
+08	21	178	Früher oder später
+08	22	179	Rücken wir zusammen
+08	23	180	Das Idol
+08	24	181	Der Supermarkt
+08	25	182	Die Riesenwette
+08	26	183	Die 10.000 Dollar-Frage
+# 09. Staffel
+09	1	184	Der Traum vom grossen Geld
+09	2	185	Mr. Bundy und sein Chauffeur
+09	3	186	Der Pickel muss weg
+09	4	187	Die böse Nichte
+09	5	188	Schlechte Geschäfte, Teil 1
+09	6	189	Schlechte Geschäfte, Teil 2
+09	7	190	Kein Sex vor der Ehe
+09	8	191	Schlaflos in Chicago
+09	9	192	Bundys mal zwei
+09	10	193	Sportlerstolz
+09	11	194	Der Baseball-Streik
+09	12	195	Wir wollen Psycho Dad, Teil 1
+09	13	196	Wir wollen Psycho Dad, Teil 2
+09	14	197	Die Nacktbar
+09	15	198	Kelly wagt den Schuss
+09	16	199	Schatz, ich hab den Dodge geschrumpft
+09	17	200	Buck wird alt
+09	18	201	Die Kreuzfahrt, Teil 1
+09	19	202	Die Kreuzfahrt, Teil 2
+09	20	203	Die Fernsehlegende
+09	21	204	Wie gewonnen, so zerronnen
+09	22	205	Der Schalter
+09	23	206	Regie: Al Bundy
+09	24	207	Bud schlägt zu
+09	25	208	Barfuss auf der Bowlingbahn
+09	26	209	Der geheime Verehrer
+# 10. Staffel
+10	1	210	Rat' mal, wer zum Essen kommt
+10	2	211	Schuhgeschäft mit Aussicht
+10	3	212	Trauerfeier für Buck
+10	4	213	Nichtswürden Al
+10	5	214	Das Wundermittel
+10	6	215	Der Schwächling des Jahres
+10	7	216	Bud im Ring
+10	8	217	Blond und blonder
+10	9	218	Scharf ist, was scharf macht
+10	10	219	Al sieht rot
+10	11	220	Auf Bärenjagd
+10	12	221	Am Rande des Wahnsinns
+10	13	222	Heisse Weihnachten
+10	14	223	Brüder, Väter und Mafiosi, Teil 1
+10	15	224	Brüder, Väter und Mafiosi, Teil 2
+10	16	225	Die Frau im Mann
+10	17	226	Das Geheimnis der vier Buchstaben
+10	18	227	Ab nach Florida, Teil 1
+10	19	228	Ab nach Florida, Teil 2
+10	20	229	Ein Dodge für Japan
+10	21	230	Auf den Hund gekommen
+10	22	231	Feinde
+10	23	232	Buds Fehlgriff
+10	24	233	Der Kuss der Kaffeefrau
+10	25	234	Nicht lange fackeln, Al!
+10	26	235	Der Kannibale von Chicago
+# 11. Staffel
+11	1	236	Windjammer
+11	2	237	Das Schuh-Inferno
+11	3	238	Unschuldsengel
+11	4	239	Auto am Tropf, Teil 1
+11	5	240	Auto am Tropf, Teil 2
+11	6	241	Ein Stück vom Kuchen
+11	7	242	Nie wieder Urlaub
+11	8	243	Schreckliche Weihnachten
+11	9	244	Ein pfundiger Geburtstag
+11	10	245	Al im Paradies
+11	11	246	Garys Gigolo
+11	12	247	Gnadenlos
+11	13	248	Müllomania
+11	14	249	Scheiden tut weh, Teil 1
+11	15	250	Scheiden tut weh, Teil 2
+11	16	251	Scheiden tut weh, Teil 3
+11	17	252	Schleiertanz
+11	18	253	Kelly im Fernsehland
+11	19	254	Lachfalten und Krähenfüsse
+11	20	255	Teuflisch gut
+11	21	256	Für Männerhände viel zu schade
+11	22	257	Besuch aus dem Knast
+11	23	258	Verliebt, verlobt, verratzt
+11	24	259	Kuhhandel

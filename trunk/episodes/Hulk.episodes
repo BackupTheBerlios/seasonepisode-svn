@@ -1,0 +1,99 @@
+#
+# SEASONLIST
+# 1	1	12
+# 2	13	35
+# 3	36	58
+# 4	59	76
+# 5	77	83
+# /SEASONLIST
+#
+#SE	EP	No.	Title
+#
+# 01. Staffel
+01	1	1	n.n.
+01	2	2	n.n.
+01	3	3	Rockys letzter Kampf
+01	4	4	Aufruhr im Zoo
+01	5	5	Die Schöne und die Bestie
+01	6	6	Terror am Times Square
+01	7	7	747
+01	8	8	Unruhe in Las Vegas
+01	9	9	Die tödliche Spedition
+01	10	10	Gestohlenes Leben
+01	11	11	Der gescheiterte Versuch
+01	12	12	Die Hafengang
+# 02. Staffel
+02	1	13	n.n.
+02	2	14	n.n.
+02	3	15	Horror in Antowuk
+02	4	16	Ricky
+02	5	17	Tödlicher Galopp
+02	6	18	Kind in Not
+02	7	19	Geänderte Zeiten
+02	8	20	Alice in Discoland
+02	9	21	Killerinstinkt
+02	10	22	Sauberes Essen
+02	11	23	Flucht aus Los Santos
+02	12	24	Wildfeuer
+02	13	25	Unbarmherziges Nachstellen
+02	14	26	Eltern verreist
+02	15	27	Die Schreckensmühle
+02	16	28	Mit Jack McGee unterwegs, Teil 1
+02	17	29	Mit Jack McGee unterwegs, Teil 2
+02	18	30	Auf eigene Faust
+02	19	31	Schizophrenie
+02	20	32	Jäger der Steinzeit
+02	21	33	Melbournes Enthüllungen
+02	22	34	Sanatorium des Grauens
+02	23	35	Die Wesco-Raffinerie
+# 03. Staffel
+03	1	36	Gefährliche Rhythmen
+03	2	37	Die gelbe Stahlflasche
+03	3	38	Ein kindliches Genie
+03	4	39	Sklavenjäger
+03	5	40	Tolle Tricks und fauler Zauber
+03	6	41	Der Rodeo-König
+03	7	42	Taxi in Not
+03	8	43	Heimkehr
+03	9	44	Die Todesfalle
+03	10	45	Fauler Zauber
+03	11	46	Geiselgangster
+03	12	47	Der Doppelgänger
+03	13	48	Schlagende Beweise
+03	14	49	Jahrmarkt des Schreckens
+03	15	50	Kampf der Easy Rider
+03	16	51	Gefallene Engel
+03	17	52	Der Volltreffer
+03	18	53	Horror-Visionen
+03	19	54	Das 40.000-Dollar-Ding
+03	20	55	Die Totenmaske
+03	21	56	Mörderische Maskerade
+03	22	57	Galgenfrist
+03	23	58	Der Feuerteufel
+# 04. Staffel
+04	1	59	Prometheus, Teil 1
+04	2	60	Prometheus, Teil 2
+04	3	61	Himmelsakrobaten
+04	4	62	Gefährliches Experiment
+04	5	63	Hochspannung
+04	6	64	Bringt mir den Kopf des Hulk
+04	7	65	Heiße Fracht
+04	8	66	Eine Falle für Eddie Caine
+04	9	67	Ein Schock für starke Männer
+04	10	68	Das unheimliche Wachsmuseum
+04	11	69	Goldrausch in Chinatown
+04	12	70	Unheimliche Begegnungen, Teil 1
+04	13	71	Unheimliche Begegnungen, Teil 2
+04	14	72	Gelähmt
+04	15	73	Interview mit dem Hulk
+04	16	74	Eine starke halbe Portion
+04	17	75	Danny
+04	18	76	Eine heiße Modenschau
+# 05. Staffel
+05	1	77	n.n.
+05	2	78	Die Patinnen
+05	3	79	Kriegsträume
+05	4	80	Ein streitbarer Engel
+05	5	81	Mädchenraub
+05	6	82	n.n.
+05	7	83	Ein winziges Problem

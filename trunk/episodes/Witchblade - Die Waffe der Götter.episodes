@@ -1,0 +1,33 @@
+#
+# SEASONLIST
+# 1	1	11
+# 2	12	23
+# /SEASONLIST
+#
+#SE	EP	No.	Title
+#
+# 01. Staffel
+01	1	1	Die Black Dragons
+01	2	2	Die Schlange
+01	3	3	Die Jäger von Annuvin
+01	4	4	Conchobar
+01	5	5	Besessen
+01	6	6	Die Enführung
+01	7	7	Periculum
+01	8	8	Tod eines Comic-Zeichners
+01	9	9	White Bulls
+01	10	10	Konvergenz
+01	11	11	Die Macht der Zeit
+# 02. Staffel
+02	1	12	Der Tag danach
+02	2	13	Die Lanze des Loginus
+02	3	14	Dealer
+02	4	15	Gilgamesch
+02	5	16	Stimmen
+02	6	17	Formfehler
+02	7	18	Schwarze Tränen
+02	8	19	Teufel im Leib
+02	9	20	Die Wahrheit
+02	10	21	Parabolisch
+02	11	22	Palindrom
+02	12	23	Cyberfaust

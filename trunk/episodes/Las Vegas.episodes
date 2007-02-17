@@ -1,0 +1,82 @@
+#
+# SEASONLIST
+# 1	1	23
+# 2	24	47
+# 3	48	70
+# /SEASONLIST
+#
+#SE	EP	No.	Title
+#
+# 01. Staffel
+01	1	1	Geboren in Las Vegas
+01	2	2	König Artus
+01	3	3	Falsches Spiel
+01	4	4	Eine alte Rechnung
+01	5	5	Saison-Ende
+01	6	6	Der Test
+01	7	7	Ein Mann sieht rot
+01	8	8	Tricksen erlaubt
+01	9	9	Im Jahr des Tigers
+01	10	10	Pokerface
+01	11	11	Blut und Schweiß
+01	12	12	Der Portland-Quirl
+01	13	13	Vollmond
+01	14	14	Sprung ins Glück
+01	15	15	Der Tod eines Idols
+01	16	16	Voodoo Zauber
+01	17	17	Das gibt es nur in Vegas
+01	18	18	Späte Rache
+01	19	19	Die Belohnung
+01	20	20	Amnesie
+01	21	21	Der Diamantenraub
+01	22	22	Bombenalarm
+01	23	23	Abschied von Danny
+# 02. Staffel
+02	1	24	n.n.
+02	2	25	n.n.
+02	3	26	n.n.
+02	4	27	n.n.
+02	5	28	n.n.
+02	6	29	n.n.
+02	7	30	n.n.
+02	8	31	n.n.
+02	9	32	n.n.
+02	10	33	n.n.
+02	11	34	n.n.
+02	12	35	n.n.
+02	13	36	n.n.
+02	14	37	n.n.
+02	15	38	n.n.
+02	16	39	n.n.
+02	17	40	n.n.
+02	18	41	n.n.
+02	19	42	n.n.
+02	20	43	n.n.
+02	21	44	n.n.
+02	22	45	n.n.
+02	23	46	n.n.
+02	24	47	n.n.
+# 03. Staffel
+03	1	48	n.n.
+03	2	49	n.n.
+03	3	50	n.n.
+03	4	51	n.n.
+03	5	52	n.n.
+03	6	53	n.n.
+03	7	54	n.n.
+03	8	55	n.n.
+03	9	56	n.n.
+03	10	57	n.n.
+03	11	58	n.n.
+03	12	59	n.n.
+03	13	60	n.n.
+03	14	61	n.n.
+03	15	62	n.n.
+03	16	63	n.n.
+03	17	64	n.n.
+03	18	65	n.n.
+03	19	66	n.n.
+03	20	67	n.n.
+03	21	68	n.n.
+03	22	69	n.n.
+03	23	70	n.n.

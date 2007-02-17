@@ -1,0 +1,94 @@
+#
+# SEASONLIST
+# 1	1	13
+# 2	14	26
+# 3	27	39
+# 4	40	52
+# 5	53	65
+# 6	66	76
+# /SEASONLIST
+#
+#SE	EP	No.	Title
+#
+# 01. Staffel
+01	1	1	Tony in der Krise
+01	2	2	Verwandte und andere Feinde
+01	3	3	Der Deal
+01	4	4	Tonys Schachzug
+01	5	5	Reise in die Vergangenheit
+01	6	6	Tonys Alptraum
+01	7	7	Vater und Sohn
+01	8	8	Tony rastet aus
+01	9	9	Moralisten
+01	10	10	Ein Hit ist ein Hit
+01	11	11	Wer ist die Ratte?
+01	12	12	Die schöne Isabella
+01	13	13	Hart und herzlich
+# 02. Staffel
+02	1	14	Ein Mann ging zum Psychiater
+02	2	15	Beziehung ohne Wiederbelebung
+02	3	16	Richie meldet sich zurück
+02	4	17	Bella Italia
+02	5	18	Große Mädchen weinen nicht
+02	6	19	Die große Partie
+02	7	20	Patenschaften
+02	8	21	Schenken macht freude
+02	9	22	Verflucht in alle Ewigkeit
+02	10	23	Mit dem Rücken zur Wand
+02	11	24	Hausarrest
+02	12	25	Ein schnelles Ende
+02	13	26	Ein Freund muss gehen
+# 03. Staffel
+03	1	27	Besuch vom FBI
+03	2	28	Lebe wohl, kleine Livia
+03	3	29	Immer Ärger mit dem Nachwuchs
+03	4	30	Mitarbeiter des Monats
+03	5	31	Vom Tod gezeichnet
+03	6	32	Einer von der übelsten Sorte
+03	7	33	Der Kennedy-Kult
+03	8	34	Der Aufsteiger
+03	9	35	Tony in der Schlangengrube
+03	10	36	Der Weihnachtsmann läßt grüßen
+03	11	37	Verschollen im Schnee
+03	12	38	Zwischen Glück und Gloria
+03	13	39	Kalt wie der Tod
+# 04. Staffel
+04	1	40	Schuldig bleibt schuldig
+04	2	41	Meadow kämpft - wer verliert?
+04	3	42	Christopher
+04	4	43	Gewichtsprobleme
+04	5	44	Lauf, Pie-O-My, lauf!
+04	6	45	Gewissensbisse
+04	7	46	Wenn man zuviel Fernsehen sieht
+04	8	47	Lust, Leid und Laster
+04	9	48	Täter: unbekannt
+04	10	49	Chris ist am Ende
+04	11	50	"An alle Einheiten!"
+04	12	51	Bei Eloise
+04	13	52	Whitecaps
+# 05. Staffel
+05	1	53	Zwei Tonys
+05	2	54	Rat Pack
+05	3	55	Wo ist Johnny?
+05	4	56	n.n.
+05	5	57	Gefährliche Spiele
+05	6	58	Bittere Lehren
+05	7	59	n.n.
+05	8	60	Marco Polo
+05	9	61	n.n.
+05	10	62	Kalter Aufschnitt
+05	11	63	Ein endloser Traum
+05	12	64	Nur für Langzeitparker
+05	13	65	Bei allem Respekt
+# 06. Staffel
+06	1	66	n.n.
+06	2	67	n.n.
+06	3	68	n.n.
+06	4	69	n.n.
+06	5	70	n.n.
+06	6	71	n.n.
+06	7	72	n.n.
+06	8	73	n.n.
+06	9	74	n.n.
+06	10	75	n.n.
+06	11	76	n.n.

@@ -1,0 +1,93 @@
+#
+# SEASONLIST
+# 1	1	11
+# 2	12	33
+# 3	34	55
+# 4	56	79
+# /SEASONLIST
+#
+#SE	EP	No.	Title
+#
+# 01. Staffel
+01	1	1	Airwolf
+01	2	2	Rogers Plan
+01	3	3	Mit Speck fängt man Mäuse
+01	4	4	Im Dunkel der Nacht
+01	5	5	Der große Bluff
+01	6	6	Der falsche Bruder
+01	7	7	Von der Vergangenheit eingeholt
+01	8	8	Wer zahlt schon doppeltes Lösegeld?
+01	9	9	Der Zweikampf
+01	10	10	Eine Kopie von Airwolf
+01	11	11	Dem Wolf eine Falle stellen
+# 02. Staffel
+02	1	12	Menschenjagd auf texanisch
+02	2	13	Nuklearangriff: Der Countdown läuft
+02	3	14	Fluch über Airwolf
+02	4	15	Die Wahrheit über Holly
+02	5	16	Ein falsch programmierter Computer
+02	6	17	Auf der Suche nach dem Mörder
+02	7	18	Immer Ärger mit den Frauen
+02	8	19	HX 1 - Ein Gegner für Airwolf
+02	9	20	Flug Nr. 093 wird vermisst
+02	10	21	Geheimmission Laos
+02	11	22	In der Gewalt der Mafia
+02	12	23	Insel der Verdammten
+02	13	24	Zahl oder stirb
+02	14	25	Auf der Suche nach der Nadel im Heuhaufen
+02	15	26	40 Millionen für Santini
+02	16	27	Gefangener der Vergangenheit
+02	17	28	Rache ist nie zu spät
+02	18	29	Aus heiterem Himmel
+02	19	30	Pfarrer tragen keine Waffen
+02	20	31	Ein Doppelagent in den eigenen Reihen
+02	21	32	Vulkanausbruch
+02	22	33	Der kurze Weg in die Freiheit
+# 03. Staffel
+03	1	34	Verrat in den eigenen Reihen
+03	2	35	Kampf der Giganten: Redwolf gegen Airwolf
+03	3	36	Eine doppelte Entführung
+03	4	37	Entführt und übergelaufen
+03	5	38	Flucht ins Ungewisse
+03	6	39	Die Erpresser fordern: Nuklearsprengköpfe gegen Airwolf
+03	7	40	Ein 2-Millionen-Dollar-Deal
+03	8	41	Die Laserkanone von Old City
+03	9	42	Im letzten Augenblick
+03	10	43	Blinder Hass
+03	11	44	Airwolfs härteste Probe
+03	12	45	Schmutzige Geschäfte
+03	13	46	Schnee in Texas
+03	14	47	Airwolf wird enttarnt
+03	15	48	Der Tag der Abrechnung
+03	16	49	Alte Freunde
+03	17	50	Geiselnahme auf der Queen Mary
+03	18	51	Die Jagd nach dem Mikropunkt
+03	19	52	Unschuldige hinter Gittern
+03	20	53	Ein Hindernis auf dem Weg zur Macht
+03	21	54	Der Mann aus dem Hinterhalt
+03	22	55	Paradiesvögel: Lieferung frei Haus
+# 04. Staffel
+04	1	56	Ein tödlicher Anschlag
+04	2	57	Das Frauengefängnis
+04	3	58	Eine korrupte Stadt
+04	4	59	Airwolf gegen Skorpion
+04	5	60	Gefährliche Mission
+04	6	61	Die Stimme des Blutes
+04	7	62	Der Todeszug
+04	8	63	Zum Schweigen verurteilt
+04	9	64	Störfall in Stavograd
+04	10	65	Tod aus dem Osten
+04	11	66	Der Terroristenjäger
+04	12	67	Ein tödlicher Virus
+04	13	68	Der Doppelagent
+04	14	69	Späte Rache
+04	15	70	Ein übles Komplott
+04	16	71	Der Rattenfänger
+04	17	72	Auf Messers Schneide
+04	18	73	Diamantenfieber
+04	19	74	Ein falsches Versprechen
+04	20	75	Gehirnwäsche
+04	21	76	Ein fast aussichtsloser Kampf
+04	22	77	Im Dschungel der Rauschgiftdealer
+04	23	78	Geiselnahme
+04	24	79	Insel der Drogen

@@ -1,0 +1,253 @@
+#
+# SEASONLIST
+# 1	1	22
+# 2	23	37
+# 3	38	61
+# 4	62	85
+# 5	86	110
+# 6	111	134
+# 7	135	158
+# 8	159	182
+# 9	183	205
+# 10	206	227
+# /SEASONLIST
+#
+#SE	EP	No.	Title
+#
+# 01. Staffel
+01	1	1	Tod auf dem Flugzeugträger, Teil 1
+01	2	2	Tod auf dem Flugzeugträger, Teil 2
+01	3	3	Der Torpedo
+01	4	4	Operation Sandsturm
+01	5	5	Der Offiziersmörder
+01	6	6	Flug in den Tod
+01	7	7	Der leuchtende Pfad
+01	8	8	Der Ausbruch
+01	9	9	Gefangen in Bagdad
+01	10	10	Tod einer Rekrutin
+01	11	11	Unheimliche Begegnungen
+01	12	12	Code Red
+01	13	13	Vor dem Kriegsgericht
+01	14	14	Das Virus
+01	15	15	Hemlock
+01	16	16	Der Scharfschütze
+01	17	17	Sprung in den Tod
+01	18	18	Das Versprechen
+01	19	19	Sabotage
+01	20	20	Der Gefangene
+01	21	21	Havarie auf hoher See
+01	22	22	Das Geisterschiff
+# 02. Staffel
+02	1	23	Amerika wird erpresst
+02	2	24	Die Akte Magida
+02	3	25	Der Fluch
+02	4	26	Ein Held vor Gericht
+02	5	27	Die Äquatortaufe
+02	6	28	Einsatz in Belfast
+02	7	29	Geister der Vergangenheit
+02	8	30	Die Notlandung
+02	9	31	Die Prinzessin auf der Bombe
+02	10	32	Der Herr der Drogen
+02	11	33	Harte Bandagen
+02	12	34	Der Schutzengel
+02	13	35	Terror im OP
+02	14	36	Kosaken und Cowboys
+02	15	37	Rendezvous mit dem Tod
+# 03. Staffel
+03	1	38	Das Skelett im Schiffsrumpf
+03	2	39	Sex und Disziplin
+03	3	40	Blutige Entscheidung
+03	4	41	Die Sicht der Dinge
+03	5	42	König der Flöhe
+03	6	43	Verschollen im Bermuda-Dreieck
+03	7	44	Verräter an Bord
+03	8	45	Der zweite Zeuge
+03	9	46	Tödliche Kollision
+03	10	47	Unter Mordverdacht
+03	11	48	In der Falle
+03	12	49	Mord im Hangar
+03	13	50	Die Stunde des Jägers
+03	14	51	Amok
+03	15	52	Alte Helden sterben nie
+03	16	53	Ende einer Karriere
+03	17	54	Der Verfolger
+03	18	55	Terror an Bord
+03	19	56	Dianas Geist
+03	20	57	Der Mann mit der Maske
+03	21	58	Die Rückkehr des Jimmy Blackhorse
+03	22	59	Die Hölle von Montecassino
+03	23	60	Hochzeitsblues
+03	24	61	Liebesgrüße nach Moskau, Teil 1
+# 04. Staffel
+04	1	62	Tod in der Taiga, Teil 2
+04	2	63	Im Namen des Volkes
+04	3	64	Nacht der Schande
+04	4	65	Die Entführung
+04	5	66	Der Martin-Baker-Fanclub
+04	6	67	Terroristenjagd
+04	7	68	Kein guter Tag zum Sterben
+04	8	69	Mr. Rabb geht nach Washington
+04	9	70	Bis dass der Tod euch scheidet
+04	10	71	Der schwarze Jet
+04	11	72	Chloe
+04	12	73	Alle für eine, Teil 1
+04	13	74	Sein erster Fall, Teil 2
+04	14	75	Der Maulwurf
+04	15	76	Im Namen der Rache
+04	16	77	Eiskalter Tod
+04	17	78	Namenloses Entsetzen
+04	18	79	Zwischenfall im Persischen Golf
+04	19	80	Der Überraschungszeuge
+04	20	81	Bevor du stirbst
+04	21	82	Besuch aus dem Jenseits
+04	22	83	Entführung in Rom
+04	23	84	Hallo, Baby!
+04	24	85	Lebe wohl und viel Glück!
+# 05. Staffel
+05	1	86	Den Tod im Visier, Teil 1
+05	2	87	Gegen alle Regeln, Teil 2
+05	3	88	Blinder Passagier
+05	4	89	Die Rückkehr
+05	5	90	Ein Wurf entscheidet
+05	6	91	Tödliche Visionen
+05	7	92	Bomben auf New York
+05	8	93	Drogenrazzia in Panama
+05	9	94	Verräterische Worte
+05	10	95	Tragische Landung
+05	11	96	Sein letzter Einsatz
+05	12	97	Ein alter Fall in neuem Licht
+05	13	98	Der Todeskandidat
+05	14	99	Höllenfahrt
+05	15	100	Wiedersehen macht Freude, Teil 1
+05	16	101	Wiedersehen macht Freude, Teil 2
+05	17	102	Aussage gegen Aussage
+05	18	103	Die Brücke von Kang So Ri
+05	19	104	Leere Versprechungen
+05	20	105	Tod in der Absprungzone
+05	21	106	Hexentanz
+05	22	107	Das Geheimnis von Pearl Harbor
+05	23	108	Ende eines Hochstaplers
+05	24	109	Tochter eines Mörders
+05	25	110	Grabenkämpfe
+# 06. Staffel
+06	1	111	Stich ins Wespennest, Teil 1
+06	2	112	Stich ins Wespennest, Teil 2
+06	3	113	Asyl für Reynalda
+06	4	114	Um jeden Preis
+06	5	115	Misty James
+06	6	116	Im Netz der Gesetze
+06	7	117	Phönix, Teil 1
+06	8	118	Phönix, Teil 2
+06	9	119	Aussichtslos
+06	10	120	Kein Schnee von gestern
+06	11	121	Die dritte Chance
+06	12	122	Kollision in der Ägäis
+06	13	123	Wunder
+06	14	124	Der Saubermann
+06	15	125	Der eiserne Sarg
+06	16	126	Der Deserteur von Fox Hill
+06	17	127	Heldentod
+06	18	128	Das Vermächtnis
+06	19	129	Noch mehr Wunder
+06	20	130	Hohe Wellen
+06	21	131	Jordan
+06	22	132	Die Verlobung
+06	23	133	Meuterei
+06	24	134	Schicksal, Teil 1
+# 07. Staffel
+07	1	135	Schicksal, Teil 2
+07	2	136	Mann über Bord
+07	3	137	Eine Frage des Ermessens
+07	4	138	Evakuierung in letzter Sekunde
+07	5	139	Unklare Signale
+07	6	140	Freunde
+07	7	141	Der Hinterhalt
+07	8	142	Jagathon
+07	9	143	Der Klarzieher, Teil 1
+07	10	144	Der Klarzieher, Teil 2
+07	11	145	Weihnachtsüberraschungen
+07	12	146	Mord im Park
+07	13	147	Einsatz in Afghanistan
+07	14	148	Im Zweifel für den Angeklagten
+07	15	149	Verhüllt
+07	16	150	Zwischenfall am Khaiberpass, Teil 1
+07	17	151	Versteckte Beweise, Teil 2
+07	18	152	Feuer
+07	19	153	Der Nebel des Krieges
+07	20	154	Port Chicago
+07	21	155	Das Tribunal
+07	22	156	Ein Richter vor Gericht
+07	23	157	Jagt auf Kabir, Teil 1
+07	24	158	Der Feind in der Tiefe, Teil 2
+# 08. Staffel
+08	1	159	Auf Leben und Tod
+08	2	160	Das gelobte Land
+08	3	161	Familiensache
+08	4	162	Gefährliches Spiel
+08	5	163	In Dünner Luft
+08	6	164	Unter falschem Verdacht
+08	7	165	Späte Wahrheit
+08	8	166	Das Manöver
+08	9	167	Zerreissprobe
+08	10	168	Der Killer
+08	11	169	Weihnachtsfreuden
+08	12	170	Komplikationen
+08	13	171	Der Nestbeschmutzer
+08	14	172	Die Engel von Iwo Jima
+08	15	173	Unter Beschuss
+08	16	174	Herz und Seele
+08	17	175	Torpedo vermisst
+08	18	176	Lange Schatten
+08	19	177	Ein neues Leben
+08	20	178	Eisige Zeiten, Teil 1
+08	21	179	Eisige Zeiten, Teil 2
+08	22	180	Geheimauftrag mit Mac, Teil 1
+08	23	181	Pas de Deux, Teil 2
+08	24	182	Entscheidung in Paraguay, Teil 3
+# 09. Staffel
+09	1	183	Entscheidung in Paraguay 2
+09	2	184	Sand im Wind
+09	3	185	Auftrag in Manila
+09	4	186	Die verbotene Zone
+09	5	187	Touchdown
+09	6	188	Wieder im Sattel
+09	7	189	Veteran in Not
+09	8	190	Der Preis des Glaubens
+09	9	191	Die eine Million Dollar Frage
+09	10	192	Fall oder Unfall?
+09	11	193	Das Ehrenwort
+09	12	194	Steine für die Ewigkeit
+09	13	195	Beste Absichten
+09	14	196	Unter Anklage
+09	15	197	Tragödie im Mittelmeer
+09	16	198	Der Luchs
+09	17	199	Der Held von Panama
+09	18	200	Wege des Schicksals
+09	19	201	Die ganze Wahrheit
+09	20	202	Krieg der Worte
+09	21	203	Marines Weinen nicht
+09	22	204	Das Fehlende Kilo
+09	23	205	Tage des Abschieds
+# 10. Staffel
+10	1	206	Der Falke
+10	2	207	Ein Jahr im Irak
+10	3	208	Vier Frauen
+10	4	209	Der Kandidat
+10	5	210	Im Kreuzfeuer
+10	6	211	Der Sturm
+10	7	212	Camp Delta
+10	8	213	Alte Freundinnen
+10	9	214	Der Mann auf der Brücke
+10	10	215	Vier Prozent Hoffnung
+10	11	216	Der Absturz
+10	12	217	Der sechste Geschworene
+10	13	218	Captain Jack
+10	14	219	Der leere Blick
+10	15	220	Der schmlimmste Freind
+10	16	221	Der Pirat
+10	17	222	San Diego
+10	18	223	Tod in der Moschee
+10	19	224	Der Anschlag
+10	20	225	Der unbekannte Soldat
+10	21	226	Das Dream Team
+10	22	227	Kopf oder Zahl

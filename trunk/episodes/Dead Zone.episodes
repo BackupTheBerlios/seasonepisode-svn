@@ -1,0 +1,70 @@
+#
+# SEASONLIST
+# 1	1	14
+# 2	15	33
+# 3	34	45
+# 4	46	56
+# /SEASONLIST
+#
+#SE	EP	No.	Title
+#
+# 01. Staffel
+01	1	1	n.n.
+01	2	2	Das zweite Gesicht
+01	3	3	Kaltes Herz
+01	4	4	Der Coach
+01	5	5	Enigma
+01	6	6	Der zwölfte Geschworene
+01	7	7	Das Haus
+01	8	8	Höllentrip
+01	9	9	Zwischen zwei Welten
+01	10	10	Kaleidoskop des Todes
+01	11	11	Hexenjagt
+01	12	12	Dinner mit Dana
+01	13	13	Der Schamane
+01	14	14	Des Teufels rechte Hand
+# 02. Staffel
+02	1	15	Das Wort Gottes
+02	2	16	Abstieg in den Tod
+02	3	17	Am Ende des Tunndels
+02	4	18	Der Aussenseiter
+02	5	19	Blutsbande
+02	6	20	Die Stimmen der Toten
+02	7	21	Anita
+02	8	22	Flug TCA 2413
+02	9	23	Der Mann, der nie existierte
+02	10	24	Gute Absichten
+02	11	25	Herrscher über Leben und Tod
+02	12	26	Der Prediger
+02	13	27	Der Sturm
+02	14	28	Der Unsichtbare Tod
+02	15	29	Deja Voodoo
+02	16	30	Angst und Schrecken
+02	17	31	Die Schatzsuche
+02	18	32	Die 12. Runde
+02	19	33	Mann aus der Zukunft
+# 03. Staffel
+03	1	34	Das Komplott, Teil 1
+03	2	35	Das Komplott, Teil 2
+03	3	36	Gefangen im Feuer
+03	4	37	Gnadenlose Wahrheit
+03	5	38	Totale Kontrolle
+03	6	39	Tod eines Freundes
+03	7	40	Zwillinge
+03	8	41	Die unglückliche Braut
+03	9	42	Spirale der Gewalt
+03	10	43	Zeichen und Wunder
+03	11	44	Schwarze Sekunden
+03	12	45	Apokalypse
+# 04. Staffel
+04	1	46	n.n.
+04	2	47	n.n.
+04	3	48	n.n.
+04	4	49	n.n.
+04	5	50	n.n.
+04	6	51	n.n.
+04	7	52	n.n.
+04	8	53	n.n.
+04	9	54	n.n.
+04	10	55	n.n.
+04	11	56	n.n.
