@@ -1,0 +1,173 @@
+#
+# SEASONLIST
+# 1	1	21
+# 2	22	43
+# 3	44	61
+# 4	62	87
+# 5	88	109
+# 6	110	131
+# 7	132	153
+# /SEASONLIST
+#
+#SE	EP	No.	Title
+#
+# 01. Staffel
+01	1	1	Die Sandkönige
+01	2	2	Valerie
+01	3	3	Der Virus
+01	4	4	Seelenwanderung
+01	5	5	Der kalte Tod
+01	6	6	Das Z-Chromosom
+01	7	7	Blick in die Zukunft
+01	8	8	Durch die Augen des Mörders
+01	9	9	Die Dämonen
+01	10	10	Nachts unterm Bett
+01	11	11	Das Geisterschiff
+01	12	12	Die zweite Chance
+01	13	13	Krieg der Planeten
+01	14	14	Das Experiment
+01	15	15	Mission Mars III
+01	16	16	Tödliche Liebe
+01	17	17	Die Botschaft
+01	18	18	Der Roboter
+01	19	19	Haus des Schreckens
+01	20	20	Wer bin ich?
+01	21	21	Ständige Bedrohung
+# 02. Staffel
+02	1	22	Die Zeitmaschine
+02	2	23	Die Androiden
+02	3	24	Unnatürliche Auslese
+02	4	25	Der Mann mit den seltsamen Augen
+02	5	26	Geist und Materie
+02	6	27	Jenseits der Schwelle
+02	7	28	Der Geruch des Todes
+02	8	29	Akademie des Grauens
+02	9	30	Die Feuerprobe
+02	10	31	Notruf aus der Vergangenheit
+02	11	32	Die letzte Zuflucht
+02	12	33	Der Mond scheint zu hell
+02	13	34	Die Parasiten
+02	14	35	Die Kälte aus dem All
+02	15	36	Ein Leben nach dem Tod
+02	16	37	Gehirnwäsche
+02	17	38	Der Gang Ins Licht
+02	18	39	Die Superbombe
+02	19	40	Das Gesicht im Spiegel
+02	20	41	Die vierte Dimension
+02	21	42	Spurlos verschwunden
+02	22	43	Das Urteil
+# 03. Staffel
+03	1	44	Sex und Megabytes
+03	2	45	Fremde Gedanken
+03	3	46	Embryo
+03	4	47	Die Frau mit den grünen Augen
+03	5	48	Der Strom
+03	6	49	Tödlicher Regen
+03	7	50	Das Lager
+03	8	51	Der unheilige Prediger
+03	9	52	Planet der Riesenspinnen
+03	10	53	Gespenster
+03	11	54	Das zweite Leben
+03	12	55	Genetische Botschaft
+03	13	56	Der rote Knopf
+03	14	57	Warnung aus dem All
+03	15	58	Kugel im Kopf
+03	16	59	Das Grauen ist unter uns
+03	17	60	Das Ende der Straße
+03	18	61	Sondersendung
+# 04. Staffel
+04	1	62	Mutanten
+04	2	63	Blutige Rituale
+04	3	64	Halluzination
+04	4	65	Parallele Welten
+04	5	66	Jenseits der Zeit
+04	6	67	Die Echsen
+04	7	68	Josh
+04	8	69	Die verbotene Zone
+04	9	70	Das Medium
+04	10	71	Transfer der Seelen
+04	11	72	Die letzten Überlebenden
+04	12	73	Manipulierte Ängste
+04	13	74	Die Venus-Falle
+04	14	75	Wer einmal lügt ..
+04	15	76	Mary 25
+04	16	77	Tödliches Wissen
+04	17	78	Lithia
+04	18	79	Die Kraft des Geistes
+04	19	80	Der Sarkophag
+04	20	81	Alptraum
+04	21	82	Das gelobte Land
+04	22	83	Das Gesetz der Natur
+04	23	84	Das Vermächtnis
+04	24	85	Die Macht der Furcht
+04	25	86	Black Box
+04	26	87	Aufstand der Sklaven
+# 05. Staffel
+05	1	88	Das Böse in uns
+05	2	89	Im Körper eines Fremden
+05	3	90	Seine Kinder
+05	4	91	Grell - Sklaven aus dem All
+05	5	92	Die andere Seite
+05	6	93	Flug in die Vergangenheit
+05	7	94	Der menschliche Faktor
+05	8	95	Erinnerungen
+05	9	96	Die lieben Nachbarn
+05	10	97	Das Grabtuch
+05	11	98	Der Ripper
+05	12	99	Das Tribunal
+05	13	100	Der Preis des Friedens
+05	14	101	Das Tier in uns
+05	15	102	Künstliche Intelligenz
+05	16	103	Gefangen in der Zeitschleife
+05	17	104	Die Erben
+05	18	105	Der Kodex
+05	19	106	Kevins Geheimnis
+05	20	107	Die Genie-Fabrik
+05	21	108	Trügerischer Frieden
+05	22	109	Mehr Glück das nächste Mal
+# 06. Staffel
+06	1	110	Tödlicher Virus aus dem All
+06	2	111	Die Saat der Gewalt
+06	3	112	Imagewechsel
+06	4	113	Tod vor laufender Kamera
+06	5	114	Die Macht des Schicksals
+06	6	115	Der Empfänger
+06	7	116	Saat der Vernichtung
+06	8	117	Mein Sohn, der Roboter
+06	9	118	Tiefschlaf
+06	10	119	Der Ufologenkongress
+06	11	120	Die Inneren Rivalen
+06	12	121	Die Seele des Androiden
+06	13	122	Amerikas Zukunft
+06	14	123	Abbadon - Der Todesengel
+06	15	124	Das Netzwerk
+06	16	125	Blindes Vertrauen
+06	17	126	Das Rad der Zeit
+06	18	127	Freund oder Feind
+06	19	128	Cyber-Zeit
+06	20	129	Tod im ewigen Eis
+06	21	130	Die letzte Instanz, Teil 1
+06	22	131	Die letzte Instanz, Teil 2
+# 07. Staffel
+07	1	132	Gideon 4000
+07	2	133	Patient Nr. Null
+07	3	134	Flucht ins Ungewisse
+07	4	135	Das implantierte Böse
+07	5	136	Im Körper eines anderen
+07	6	137	Mona Lisa
+07	7	138	Der Klon
+07	8	139	Fortschritt um jeden Preis
+07	9	140	Das geheimnisvolle Portemonnaie
+07	10	141	Zwischen den Dimensionen
+07	11	142	Neue Welten
+07	12	143	Violet, das Blumenmädchen
+07	13	144	Späte Rache
+07	14	145	Der PSR-Projekt
+07	15	146	Zeitreise in die Kindheit
+07	16	147	Das Ultimatum
+07	17	148	Recht für alle
+07	18	149	Die Höhle des Löwen
+07	19	150	Schöne neue Welt
+07	20	151	Kind der Dunkelheit
+07	21	152	Der Faktor Mensch
+07	22	153	Simulation
