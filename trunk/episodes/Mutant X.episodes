@@ -1,0 +1,78 @@
+#
+# SEASONLIST
+# 1	1	22
+# 2	23	44
+# 3	45	66
+# /SEASONLIST
+#
+#SE	EP	No.	Title
+#
+# 01. Staffel
+01	1	1	Genom X
+01	2	2	Unter Strom
+01	3	3	Russisches Roulette
+01	4	4	Verrückt vor Liebe
+01	5	5	Der elektrische Rebell
+01	6	6	Der Unsterbliche
+01	7	7	Geladene Stimmung
+01	8	8	Schachmatt
+01	9	9	Die Entführung
+01	10	10	Tödliches Serum
+01	11	11	Die perfekte Tarnung
+01	12	12	Die dunkle Seite
+01	13	13	Falsche Erwartungen
+01	14	14	Gut und Böse
+01	15	15	Neun Leben
+01	16	16	Lebende Hardware
+01	17	17	Verlorene Erinnerung
+01	18	18	Das Russische Ei
+01	19	19	Traumfänger
+01	20	20	Die Skorpionfrau
+01	21	21	Patient Null
+01	22	22	Tanz am Abgrund
+# 02. Staffel
+02	1	23	Die Alchemistin
+02	2	24	An die Wand gespielt
+02	3	25	Zeitreise
+02	4	26	Der Werwolf
+02	5	27	Herrscher über Leben und Tod
+02	6	28	Zwischen den Fronten
+02	7	29	Die Welt hinter der Welt
+02	8	30	Der Androide
+02	9	31	Der Körperwanderer
+02	10	32	Die Ersatzspielerin
+02	11	33	Schmutzige Geschäfte
+02	12	34	Der letzte Coup
+02	13	35	Tödliche Geheimnisse
+02	14	36	Gladiatoren
+02	15	37	Das Attentat
+02	16	38	Der Kronzeuge
+02	17	39	Das Tribunal
+02	18	40	Inferno
+02	19	41	Außer Kontrolle
+02	20	42	Das Labyrinth
+02	21	43	Begraben im ewigen Eis
+02	22	44	Der perfekte Mutant
+# 03. Staffel
+03	1	45	Der Mutant aus dem Nichts
+03	2	46	Der Lohn der Sünde
+03	3	47	Der Parasit
+03	4	48	Die Saat des Bösen
+03	5	49	Kaltes Herz
+03	6	50	Schatten der Vergangenheit
+03	7	51	Die Hand Gottes
+03	8	52	Die Heuschreckenplage
+03	9	53	Der virtuelle Mörder
+03	10	54	Das gestohlene Herz
+03	11	55	Bombenterror
+03	12	56	Die Verschwörung
+03	13	57	Die drei Gemälde
+03	14	58	Zurück im Leben
+03	15	59	Falsche Identität
+03	16	60	Der Fluch der Unsterblichkeit
+03	17	61	Der Krieg beginnt
+03	18	62	Im Inneren des Vulkans
+03	19	63	Das trojanische Pferd
+03	20	64	Die Prophezeiung
+03	21	65	Kammer der Seelen
+03	22	66	Der Schöpfer
