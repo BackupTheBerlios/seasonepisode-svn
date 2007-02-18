@@ -1,0 +1,112 @@
+#
+# SEASONLIST
+# 1	1	22
+# 2	23	44
+# 3	45	66
+# 4	67	88
+# 5	89	96
+# /SEASONLIST
+#
+#SE	EP	No.	Title
+#
+# 01. Staffel
+01	1	1	Die Prüfung
+01	2	2	Der Todesengel
+01	3	3	Tod einer Freundin
+01	4	4	Der Wohltäter
+01	5	5	Mutterliebe
+01	6	6	Giftgasanschlag
+01	7	7	Verrat
+01	8	8	Schmutziges Spiel
+01	9	9	Gefahr für Sektion 1
+01	10	10	Doppelleben
+01	11	11	Geballte Ladung
+01	12	12	Der Super-Gau
+01	13	13	Die Psychopatin
+01	14	14	Schachmatt
+01	15	15	Besessen
+01	16	16	Kein harter Kämpfer
+01	17	17	Krieg
+01	18	18	Väter und Söhne
+01	19	19	Wendepunkt
+01	20	20	Gehirnwäsche
+01	21	21	Das Urteil
+01	22	22	Gnade
+# 02. Staffel
+02	1	23	Der Maulwurf
+02	2	24	Unter Verdacht
+02	3	25	Bewährungsprobe
+02	4	26	Eine Liebe zerbricht
+02	5	27	Führungswechsel
+02	6	28	Einsame Entscheidung
+02	7	29	Zwiespalt
+02	8	30	Dunkle Kanäle
+02	9	31	Die lebende Bombe
+02	10	32	Mission ohne Mitgefühl
+02	11	33	Fahrt ins Jenseits
+02	12	34	Doppeltes Spiel
+02	13	35	Agent ohne Vergangenheit
+02	14	36	Ausgeglichene Gerechtigkeit
+02	15	37	Der Wunderknabe
+02	16	38	Alte Gewohnheiten
+02	17	39	Der schleichende Tod
+02	18	40	Agentenliebe
+02	19	41	Ausgetrickst
+02	20	42	Der Nebenbuhler
+02	21	43	Machtspiele
+02	22	44	Alles oder nichts
+# 03. Staffel
+03	1	45	Machtkampf in Sektion 1
+03	2	46	Der verlorene Vater
+03	3	47	Gefühle unerwünscht
+03	4	48	Die Pforten der Hölle
+03	5	49	Die Killer-Fabrik
+03	6	50	Eine Politische Affäre
+03	7	51	Katz und Maus
+03	8	52	Das Superhirn
+03	9	53	Der Bluff
+03	10	54	Die Peruze-Brüder
+03	11	55	Erinnerungen
+03	12	56	Schmerzgrenze
+03	13	57	Jenseits der Grenzen
+03	14	58	Gewissensfragen
+03	15	59	Sarahs letzter Auftrag
+03	16	60	Die Evakuierung
+03	17	61	Gefährliche Versuchung
+03	18	62	Degradiert
+03	19	63	Der Überläufer
+03	20	64	Intrigen
+03	21	65	Spiel mit den Feuer
+03	22	66	Gezählte Tage
+# 04. Staffel
+04	1	67	n.n.
+04	2	68	n.n.
+04	3	69	n.n.
+04	4	70	n.n.
+04	5	71	n.n.
+04	6	72	n.n.
+04	7	73	n.n.
+04	8	74	n.n.
+04	9	75	n.n.
+04	10	76	n.n.
+04	11	77	n.n.
+04	12	78	n.n.
+04	13	79	n.n.
+04	14	80	n.n.
+04	15	81	n.n.
+04	16	82	n.n.
+04	17	83	n.n.
+04	18	84	n.n.
+04	19	85	n.n.
+04	20	86	n.n.
+04	21	87	n.n.
+04	22	88	n.n.
+# 05. Staffel
+05	1	89	n.n.
+05	2	90	n.n.
+05	3	91	n.n.
+05	4	92	n.n.
+05	5	93	n.n.
+05	6	94	n.n.
+05	7	95	n.n.
+05	8	96	n.n.
