@@ -1,0 +1,93 @@
+#
+# SEASONLIST
+# 1	1	13
+# 2	14	35
+# 3	36	57
+# 4	58	79
+# /SEASONLIST
+#
+#SE	EP	No.	Title
+#
+# 01. Staffel
+01	1	1	Gehirnwäsche, Teil 1
+01	2	2	Gehirnwäsche, Teil 2
+01	3	3	Ein gefährlicher Freund
+01	4	4	Der Racheengel
+01	5	5	Die Gangsterstadt
+01	6	6	Die Kampfmaschine
+01	7	7	Tödliche Fracht
+01	8	8	Das Chamäleon
+01	9	9	Der Prototyp
+01	10	10	Die Frau aus dem Nichts
+01	11	11	Der Tarot-Killer
+01	12	12	Herzdame
+01	13	13	Das Biest
+# 02. Staffel
+02	1	14	Ein ziemlich guter Start
+02	2	15	MIG 89
+02	3	16	Condor spielt falsch
+02	4	17	Das Schandmaul
+02	5	18	Der Stolz des Bobby Finn
+02	6	19	Die Belagerung
+02	7	20	Weißes Feuer
+02	8	21	Der kleine Zeuge
+02	9	22	Sieh mir in die Augen...
+02	10	23	Schutzengel am Computer
+02	11	24	Der Teufel im Tank
+02	12	25	Jagd auf den Robotermann
+02	13	26	Der Krieg der Kinder
+02	14	27	Gehirnwäsche
+02	15	28	Der bessere Fahrer
+02	16	29	Element 116
+02	17	30	Das Geheimnis der Elizabeth Gantry
+02	18	31	Unter Dieben
+02	19	32	Die Herren der neuen Ordnung
+02	20	33	Tim, der Held
+02	21	34	Die schwarze Box
+02	22	35	Die Liste
+# 03. Staffel
+03	1	36	Dreimal falsches Spiel
+03	2	37	Unter Verdacht
+03	3	38	Traumpaare
+03	4	39	Natalia
+03	5	40	Die Überlebenskünstler
+03	6	41	Projekt Wind Storm
+03	7	42	Mama und der Geheimagent
+03	8	43	Der Club der Mafiabräute
+03	9	44	Der Unfall
+03	10	45	Tödliches Trekking
+03	11	46	Das Killervirus
+03	12	47	Das Erbe des Paten
+03	13	48	Enthüllungen
+03	14	49	Die Geldwäscher
+03	15	50	Nennen Sie mich Sherm!
+03	16	51	Operation Sundown
+03	17	52	Zweimal zwei
+03	18	53	Lieblingsfarbe: Pink
+03	19	54	Heimkehr nach Trinity
+03	20	55	Ein alter Bekannter
+03	21	56	Wo ist Westlake?
+03	22	57	Der doppelte Cole
+# 04. Staffel
+04	1	58	Joes Comeback
+04	2	59	Alte Gauner
+04	3	60	Der Schlichter
+04	4	61	Die schöne Witwe
+04	5	62	Die Kopfgeldjägerin
+04	6	63	Frankie, der Mechaniker
+04	7	64	Der ehrliche Abe
+04	8	65	Das unerwartete Erbe
+04	9	66	Zigarrenfreunde
+04	10	67	Aus einem anderen Leben
+04	11	68	Dichtung und Wahrheit
+04	12	69	Rache um jeden Preis
+04	13	70	Der amerikanische Traum
+04	14	71	Ein wahrer Gentleman
+04	15	72	Mütter und Töchter
+04	16	73	Die Wunderformel
+04	17	74	Das Medium
+04	18	75	Der heilige Junge
+04	19	76	Späte Rache
+04	20	77	Besuch aus Tokio
+04	21	78	Wer ist Joe Astor? Teil 1
+04	22	79	Wer ist Joe Astor? Teil 2
