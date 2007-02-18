@@ -1,0 +1,54 @@
+#
+# SEASONLIST
+# 1	1	10
+# 2	11	20
+# 3	21	30
+# 4	31	40
+# /SEASONLIST
+#
+#SE	EP	No.	Title
+#
+# 01. Staffel
+01	1	1	Das Hightech-Team
+01	2	2	Tödlicher Handel
+01	3	3	Der Tod fliegt mit
+01	4	4	Tiefseehacker
+01	5	5	Falsches Spiel
+01	6	6	Full Speed
+01	7	7	Verderbliche Ware
+01	8	8	Heißes Metall
+01	9	9	Doping auf Befehl
+01	10	10	Fehler im System
+# 02. Staffel
+02	1	11	Ausflug ins All, Teil 1
+02	2	12	Ausflug ins All, Teil 2
+02	3	13	Verseuchte Ernte
+02	4	14	Der tanzende Derwisch
+02	5	15	Blackout
+02	6	16	Goldrausch
+02	7	17	Schrödingers Katze
+02	8	18	Der beste Freund des Menschen
+02	9	19	Cyberax, Teil 1
+02	10	20	Cyberax, Teil 2
+# 03. Staffel
+03	1	21	Gefahr für London
+03	2	22	Rachepläne
+03	3	23	Ein brillianter Plan
+03	4	24	Der Fälscher
+03	5	25	Die Operation
+03	6	26	Die undichte Stelle
+03	7	27	... bis dass der Tod uns scheidet
+03	8	28	Der verborgene Schatz
+03	9	29	Ein neuer Boss
+03	10	30	Cyberax lebt!
+# 04. Staffel
+04	1	31	Tod aus dem Genlabor
+04	2	32	Ein heimtückischer Plan
+04	3	33	Die Totenmaske
+04	4	34	Späte Rache
+04	5	35	In letzter Sekunde
+04	6	36	Die Büchse der Pandora
+04	7	37	Der Eignungstest
+04	8	38	Genie und Wahnsinn
+04	9	39	Spinnen im Netz
+04	10	40	Ein ungebetener Gast
