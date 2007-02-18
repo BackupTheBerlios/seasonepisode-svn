@@ -1,0 +1,126 @@
+#
+# SEASONLIST
+# 1	1	22
+# 2	23	44
+# 3	45	66
+# 4	67	88
+# 5	89	110
+# /SEASONLIST
+#
+#SE	EP	No.	Title
+#
+# 01. Staffel
+01	1	1	Im Griff der Taelons
+01	2	2	Bittere Wahrheit
+01	3	3	Wunderheilung
+01	4	4	Avatar
+01	5	5	Der Feind im Bett
+01	6	6	Das Geheimnis der Schmetterlinge
+01	7	7	Palastrevolution
+01	8	8	Hinter dem Horizont
+01	9	9	Außer Kontrolle
+01	10	10	Entführt
+01	11	11	Das Geheimnis der Vogelscheuche
+01	12	12	Amoklauf
+01	13	13	Das keltische Grabmal
+01	14	14	Die Büchse der Pandora
+01	15	15	Botschaft aus vergangener Zeit
+01	16	16	Tödlicher Virus
+01	17	17	Vertrauter Feind
+01	18	18	Der Prozeß
+01	19	19	Das Zeitfenster
+01	20	20	Die Epidemie
+01	21	21	Russisches Roulette
+01	22	22	Fremdkörper
+# 02. Staffel
+02	1	23	Der erste seiner Art
+02	2	24	Atavus
+02	3	25	Die vierte Dimension
+02	4	26	Die Spiegelwelt
+02	5	27	Dem Tode geweiht
+02	6	28	Der tiefe Schlaf
+02	7	29	Parasiten
+02	8	30	Das letzte Tribunal
+02	9	31	Zwischen den Welten
+02	10	32	Selbstversuch
+02	11	33	Der Jaridian
+02	12	34	Menschmschinen
+02	13	35	Zweite Chance
+02	14	36	Späte Rache
+02	15	37	Kamikaze
+02	16	38	Die Schattenkrieger
+02	17	39	Unter Drogen
+02	18	40	Die Entführung
+02	19	41	Die Vertrauensfrage
+02	20	42	Die Wunderwaffe
+02	21	43	Kosmische Flaschenpost
+02	22	44	Der Todesstoß
+# 03. Staffel
+03	1	45	Ausnahmezustand
+03	2	46	Spurlos
+03	3	47	Das Substrat
+03	4	48	Die totale Erinnerung
+03	5	49	Das Königsgrab
+03	6	50	Blutsverwandte
+03	7	51	Die neue Generation
+03	8	52	Das Spiel
+03	9	53	Camouflage
+03	10	54	Das Kloster
+03	11	55	Showtime
+03	12	56	Liebe Deinen Feind
+03	13	57	Die Agentin
+03	14	58	Verbrannte Erde
+03	15	59	Den Tod im Leib
+03	16	60	Mit aller Macht
+03	17	61	Zeitbombe
+03	18	62	Götterdämmerung
+03	19	63	Die Erscheinung
+03	20	64	Ausser Kontrolle
+03	21	65	Der geheimnisvolle Code
+03	22	66	Notlandung
+# 04. Staffel
+04	1	67	Die Bombe tickt
+04	2	68	Illegale Geschäfte
+04	3	69	Der Klon
+04	4	70	Energieverlust
+04	5	71	Goldfieber
+04	6	72	Selbstmordkommando
+04	7	73	Die zweite Welle
+04	8	74	Gefühlstransfer
+04	9	75	Der beschützer
+04	10	76	Tödliche Träume
+04	11	77	Die Klon-Fabrik
+04	12	78	Doppelgänger
+04	13	79	Dunkle Materie
+04	14	80	Der Schlüssel zum Leben
+04	15	81	Die sechste Dimension
+04	16	82	Die Zeitfalle
+04	17	83	Der Verrat
+04	18	84	Fremdenergie
+04	19	85	Der Schattenmann
+04	20	86	Das Orakel der Kimera
+04	21	87	Die zweite Invasion
+04	22	88	Die Verschmelzung
+# 05. Staffel
+05	1	89	n.n.
+05	2	90	n.n.
+05	3	91	n.n.
+05	4	92	n.n.
+05	5	93	n.n.
+05	6	94	n.n.
+05	7	95	n.n.
+05	8	96	n.n.
+05	9	97	n.n.
+05	10	98	n.n.
+05	11	99	n.n.
+05	12	100	n.n.
+05	13	101	n.n.
+05	14	102	n.n.
+05	15	103	n.n.
+05	16	104	n.n.
+05	17	105	n.n.
+05	18	106	n.n.
+05	19	107	n.n.
+05	20	108	n.n.
+05	21	109	n.n.
+05	22	110	n.n.
