@@ -1,0 +1,155 @@
+#
+# SEASONLIST
+# 1	1	30
+# 2	31	61
+# 3	62	87
+# 4	88	113
+# 5	114	139
+# /SEASONLIST
+#
+#SE	EP	No.	Title
+#
+# 01. Staffel
+01	1	1	Die Flasche
+01	2	2	Ersteigert von Prinzessin Fatima
+01	3	3	Das Training für den Mondflug
+01	4	4	Hochzeitsreise entfällt
+01	5	5	Kein Stolz der Kompanie
+01	6	6	Frau über Bord
+01	7	7	Weltraumflug mit Hindernissen
+01	8	8	Guter Rat ist teuer
+01	9	9	Wie man kein Star wird
+01	10	10	Erfunden vor 2000 Jahren
+01	11	11	Kleine Jungs sind gefährlich
+01	12	12	Rogers große Liebe
+01	13	13	Russisches Roulette
+01	14	14	Ein seltsamer Neubau
+01	15	15	Ein Tony zuviel
+01	16	16	Zweimal Mekka und zurück
+01	17	17	Roger gehört die Welt
+01	18	18	Eine Jeannie ist genug
+01	19	19	Ein Unglück kommt selten allein
+01	20	20	Roger kommt unter's Messer
+01	21	21	Kein Glück, Charlie
+01	22	22	Einmal Millionär sein
+01	23	23	Das Golfturnier
+01	24	24	Der unerwünschte Hausgast
+01	25	25	Das Geheimnis der Kristallkugel
+01	26	26	Ein echter Rembrandt?
+01	27	27	Die Pantoffel aus Bukistan
+01	28	28	Jeannie schwört Rache
+01	29	29	Tony geht in die Luft
+01	30	30	Der Gedächtnisschwund
+# 02. Staffel
+02	1	31	Die falsche Flasche
+02	2	32	Sonntags immer
+02	3	33	Mein Meister, der Kunstsammler
+02	4	34	Der Wetterfrosch
+02	5	35	Mein Meister blickt durch
+02	6	36	Ein Hundeleben
+02	7	37	Sag's mit Schüssen
+02	8	38	Gelegenheit macht Liebe
+02	9	39	Liebe und Eifersucht
+02	10	40	Wie alt ist das Flaschenkind?, Teil 1
+02	11	41	Wie alt ist das Flaschenkind?, Teil 2
+02	12	42	Kleine Lügen erhalten die Freundschaft
+02	13	43	Einmal und nie wieder
+02	14	44	Lieben auf einen Streich
+02	15	45	Millionäre werden nicht böse
+02	16	46	Erziehung ist ein Kinderspiel
+02	17	47	Wünschen will gelernt sein
+02	18	48	An der NASA herumgeführt
+02	19	49	Liebe geht durch den Wagen
+02	20	50	Eine Jeannie und zwei Flaschen
+02	21	51	Tony, bleib bei deinen Leisten!
+02	22	52	Aller Abschied ist schwer
+02	23	53	Ein Zwilling kommt selten allein
+02	24	54	Alles für die Katz
+02	25	55	Wer will unter die Piraten?
+02	26	56	Eine Sekretärin für General Peterson
+02	27	57	Jeannie will heiraten
+02	28	58	Napoleon ist selbst dran schuld
+02	29	59	Wie soll das wietergehen?
+02	30	60	Backe, backe, Kuchen...
+02	31	61	Die Jagd-Party
+# 03. Staffel
+03	1	62	Sam
+03	2	63	Meine Schwester, das Biest!
+03	3	64	Die Diamantenbucht
+03	4	65	Der Laie wundert sich
+03	5	66	Mein Meister, der Schwächling
+03	6	67	Beat gefällig?
+03	7	68	Astronaut oder Filmstar?
+03	8	69	Sage mir, wer ich bin!
+03	9	70	Mammie go home!
+03	10	71	Konkurrenz für Jeannie
+03	11	72	Eine Frau für Tony
+03	12	73	Bankraub ohne Führerschein
+03	13	74	Hajis Sohn
+03	14	75	Wiedersehen in Honolulu
+03	15	76	Der König von Hawaii
+03	16	77	Jeannie und die Mondsafeknacker, Teil 1
+03	17	78	Jeannie und die Mondsafeknacker, Teil 2
+03	18	79	Abenteuer in Bagdad, Teil 3
+03	19	80	Jeannie und die Mondsafeknacker, Teil 4
+03	20	81	Das Ernährungs-Experiment
+03	21	82	Wem die Geisterstunde schlägt
+03	22	83	Scheidung à la Jeannie
+03	23	84	Die Probe aufs Exempel
+03	24	85	Das Parfüm
+03	25	86	Ein Paar für den Mond
+03	26	87	Ich komme mir so bekannt vor!
+# 04. Staffel
+04	1	88	Die Marsmenschen
+04	2	89	Mutters Geheimrezept
+04	3	90	Jeannie ist der Zeit voraus
+04	4	91	Abdullah
+04	5	92	Der Gebrauchtwagenhändler: ratlos
+04	6	93	Der unsichtbare Hund
+04	7	94	Tony ist der Stärkste
+04	8	95	Jeannie ist die Beste
+04	9	96	Geheimkurier Tony
+04	10	97	Die Liebesschule
+04	11	98	Der neue Psychiater
+04	12	99	Der Hippie des Generals
+04	13	100	Der doppelte Tony, Teil 1
+04	14	101	Der doppelte Tony, Teil 2
+04	15	102	Dann macht der Reiter plumps
+04	16	103	Unsichtbares Haus zu verkaufen
+04	17	104	Die Frau des Gouverneurs
+04	18	105	Wenn Flaschengeister sich verlieben
+04	19	106	Prinzessin Armina
+04	20	107	Der bissige Porzellanhund
+04	21	108	Tony vor Gericht
+04	22	109	Die verhinderte Mondfahrt
+04	23	110	Ein Weltraumschnupfen mit Folgen
+04	24	111	Jeannie im Nachtclub
+04	25	112	Kann Agnes fliegen?
+04	26	113	Der Pulizer-Preis
+# 05. Staffel
+05	1	114	Nur ein kleines rotes Klavier
+05	2	115	Das freche Hündchen
+05	3	116	Ein Königreich für Tony, Teil 1
+05	4	117	Ein Königreich für Tony, Teil 2
+05	5	118	Die Schönheitscreme
+05	6	119	Junggesellen-Party: Streng geheim!
+05	7	120	Die Braut hat grünes Blut
+05	8	121	Tony fliegt vollautomatisch
+05	9	122	Hochzeitsgeschenke
+05	10	123	Tony auf dem Prüfstand
+05	11	124	Mr. und Mrs. Tony Nelson
+05	12	125	Ein treues Mädchen
+05	13	126	Eine Braut für Roger
+05	14	127	Jeannie auf Sparkurs
+05	15	128	Ein ganz besonderer Jahrgang
+05	16	129	Drei Zimmer auf dem Dach
+05	17	130	Endlich wieder daheim!
+05	18	131	Mrs. Djinn Djinn
+05	19	132	Aladins Wunderlampe
+05	20	133	Der beste Ehemann
+05	21	134	Tony und der Billardmeister
+05	22	135	Die Jugendfreundin
+05	23	136	Die Kaschmir-Ziege
+05	24	137	Der Wirbelsturm
+05	25	138	Wer ist der Poker-Hai?
+05	26	139	Der Vetter aus Texas
