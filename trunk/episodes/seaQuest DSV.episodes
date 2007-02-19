@@ -1,4 +1,5 @@
-## 01. Staffel
+#
+# COMPLETE
 #
 # SEASONLIST
 # 1	1	24
@@ -9,8 +10,8 @@
 #SE	EP	No.	Title
 #
 # 01. Staffel
-01	1	1	Pilot - Teil 1
-01	2	2	Pilot - Teil 2
+01	1	1	Pilot, Teil 1
+01	2	2	Pilot, Teil 2
 01	3	3	Der Teufelsgraben
 01	4	4	Das versunkene Wissen
 01	5	5	Vereist in alle Ewigkeit
@@ -34,8 +35,8 @@
 01	23	23	Die Schwestern vom guten Tod
 01	24	24	Das Ende der seaQuest
 # 02. Staffel
-02	1	25	seaQuest DSV II - Teil 1
-02	2	26	seaQuest DSV II - Teil 2
+02	1	25	seaQuest DSV II, Teil 1
+02	2	26	seaQuest DSV II, Teil 2
 02	3	27	Die Angst im Nacken
 02	4	28	Im Rausch der Tiefe
 02	5	29	Landurlaub
@@ -50,7 +51,7 @@
 02	14	38	Falsche Liebe
 02	15	39	Der blinde Seher
 02	16	40	Allein
-02	17	41	Solitaire ? Die geheimnisvolle Insel
+02	17	41	Solitaire - Die geheimnisvolle Insel
 02	18	42	Das Verbrechen in der Alpha-Basis
 02	19	43	O'Neills Entlassung
 02	20	44	Der Zukunftsmensch
