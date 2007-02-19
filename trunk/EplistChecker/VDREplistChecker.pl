@@ -133,7 +133,8 @@ foreach ( @Files ) {
 
       $LineField{Subtitle} =~ s/^\s*n\.?n\.?\s*$/n\.n\./;
       $LineField{Subtitle} =~ s/ +/ /g;
-      
+      $LineField{Subtitle} =~ s/ (?:- )?\((\d)(?:\/\d)?\)$/, Teil $1/;
+
       %LastLineField = %LineField if $firstline;
 
       $alternative = 1 if ( $LineField{Miscellaneous} =~ /^\s*#\s*alternative\s*$/ );
