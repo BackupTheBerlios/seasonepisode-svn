@@ -1,0 +1,218 @@
+#
+# COMPLETE
+#
+# SEASONLIST
+# 1	1	25
+# 2	26	50
+# 3	51	75
+# 4	76	100
+# 5	101	125
+# 6	126	149
+# 7	150	171
+# 8	172	194
+# /SEASONLIST
+#
+#SE	EP	No.	Title
+#
+# 01. Staffel
+01	1	1	Trautes Heim
+01	2	2	Das Fett Muss Weg
+01	3	3	Revierkämpfe
+01	4	4	Männergespräche
+01	5	5	Ernste Absichten
+01	6	6	Die Klette
+01	7	7	Der Verlobungsring
+01	8	8	Späte Schule Für Doug
+01	9	9	Verkehrsprobleme
+01	10	10	Truthahn À La Mama
+01	11	11	Klein Aber Fein
+01	12	12	Liebe Ist ...
+01	13	13	Alte Geschichten
+01	14	14	Auf Den Hund Gekommen
+01	15	15	Alt, Dick Und Hässlich
+01	16	16	Valentinstag
+01	17	17	Die Verkaufte Frau
+01	18	18	Der Ruf Der Strasse
+01	19	19	Freundschaftsdienste
+01	20	20	Die Neue Kollegin
+01	21	21	Bärenhunger
+01	22	22	Ich Will Dich, Ich Will Dich Nicht
+01	23	23	Endlich Allein
+01	24	24	Auf Wiedersehen, Arthur
+01	25	25	Auf Eis Gelegt
+# 02. Staffel
+02	1	26	Born To Be Wild
+02	2	27	Die Beste Freundin
+02	3	28	Unwichtiges In Klammern Gesetzt
+02	4	29	Rabenpaten
+02	5	30	Späte Rache
+02	6	31	Gib Dem Affen Zucker
+02	7	32	Adam, Eva Und Apfel
+02	8	33	Schöne Aussichten
+02	9	34	Ein Heisser Typ
+02	10	35	Spence Zieht Aus
+02	11	36	Der Bowlingkrieg
+02	12	37	Aktienfieber
+02	13	38	Voll Daneben
+02	14	39	Spiele Von Gestern
+02	15	40	Heiss Und Kalt
+02	16	41	Fair Play
+02	17	42	Doug Trifft Carrie
+02	18	43	Paarweise
+02	19	44	Geburtstagskind Gesucht
+02	20	45	Lügen Haben Schlechte Karten
+02	21	46	Der Patenbruder
+02	22	47	Dumm Gelaufen
+02	23	48	Der Kapernkrieg
+02	24	49	Liebesgrüsse Aus Dem Schuhkarton
+02	25	50	Traumurlaub
+# 03. Staffel
+03	1	51	Latin Lover
+03	2	52	Der Spassvogel
+03	3	53	Die Nulldiät
+03	4	54	Der Ohrwurm
+03	5	55	Der Mit Dem Geld Tanzt
+03	6	56	Wann Ist Ein Mann Ein Mann?
+03	7	57	Trio Infernale
+03	8	58	Einmal Und Nie Wieder
+03	9	59	In Flagranti
+03	10	60	Mister April
+03	11	61	Camera Obscura
+03	12	62	Hokuspokus, Unsichtbar
+03	13	63	Die Verkaufte Schwester
+03	14	64	Kampf Der Giganten
+03	15	65	Vertreibung Aus Dem Paradies
+03	16	66	Das Liebesverbot
+03	17	67	Volles Programm
+03	18	68	Ausser Rand Und Band
+03	19	69	Die Kündigung
+03	20	70	Stille Post
+03	21	71	Familientreffen
+03	22	72	Schwimmende Nachbarn
+03	23	73	Ungeliebte Verwandtschaft
+03	24	74	Kindertheater, Teil 1
+03	25	75	Kindertheater, Teil 2
+# 04. Staffel
+04	1	76	Hundstage
+04	2	77	Blinde Kuh
+04	3	78	Der Streber
+04	4	79	Alles Nur Blech
+04	5	80	Die Sportskanone
+04	6	81	Das Geisterhaus
+04	7	82	Arthurs Geheimnis
+04	8	83	Die Reality Show
+04	9	84	Ein Zeichen Gottes
+04	10	85	Luft Und Liebe
+04	11	86	Der Experte
+04	12	87	Speedy Gonzales
+04	13	88	Die Fressaffaire
+04	14	89	Gewinner Und Verlierer
+04	15	90	Discofieber
+04	16	91	Verfolgungswahn
+04	17	92	Das Lustige Quartett
+04	18	93	The King Of Sandwich
+04	19	94	Hausarrest
+04	20	95	Happy Hour
+04	21	96	Der Liebestöter
+04	22	97	Echte Wohltäter
+04	23	98	Reich Für Einen Tag
+04	24	99	... Er Hat Doch Gebohrt!
+04	25	100	Psycho-Kisten
+# 05. Staffel
+05	1	101	Ein Seltsames Paar
+05	2	102	Des Einen Leid...
+05	3	103	Himmel Und Hölle
+05	4	104	Der Mit Dem Ball Tanzt
+05	5	105	Der Grabscher
+05	6	106	Der Mann Meiner Frau
+05	7	107	Margys Song
+05	8	108	Ein Männlein Steht Im Walde
+05	9	109	Carrie Frankenstein
+05	10	110	Die Geborgte Frau
+05	11	111	Die Stimme Aus Dem Grab
+05	12	112	Der Hexenmeister
+05	13	113	Falsch Gedacht
+05	14	114	Neid Macht Erfinderisch
+05	15	115	Pinguin Alarm!
+05	16	116	Verschimmelter Urlaub
+05	17	117	Der Gigolo
+05	18	118	Russisches Roulette
+05	19	119	Lügen Haben Dicke Beine
+05	20	120	Fahrer Aus Leidenschaft
+05	21	121	Kaufrausch
+05	22	122	Der Affenjunge
+05	23	123	Der Unsterbliche Hund
+05	24	124	Schlaraffenland
+05	25	125	Bettgeschichten
+# 06. Staffel
+06	1	126	Weniger ist mehr, Teil 1
+06	2	127	Weniger ist mehr, Teil 2
+06	3	128	King Pong
+06	4	129	Affenstress
+06	5	130	Harte Landung
+06	6	131	Die Wahrheit, und nichts als die Wahrheit...
+06	7	132	Drei Frauen und ein Arzt
+06	8	133	Die Abschiedsparty
+06	9	134	Der einäugige Bandit
+06	10	135	Carrie allein zu Haus
+06	11	136	Nur ohne meine Frau
+06	12	137	Das Kettensägetheater
+06	13	138	In Saus und Braus
+06	14	139	Verschärfte Regeln
+06	15	140	Die Nervensäge
+06	16	141	Kill Carrie
+06	17	142	Das verkaufte Grab
+06	18	143	Heffer-Tonne
+06	19	144	Urlaub in der Hölle
+06	20	145	Der Zeitreisende
+06	21	146	Bauchfreie Zone
+06	22	147	Vier Männer und eine Hochzeit
+06	23	148	Kampf der Senioren
+06	24	149	Der Bigamist
+# 07. Staffel
+07	1	150	Bonuspunkte
+07	2	151	Carrie auf dem Weg nach oben
+07	3	152	Der misshandelte Mann
+07	4	153	Der Pausenclown
+07	5	154	Schall und Rauch
+07	6	155	Auf Freiersfüßen
+07	7	156	Klein, aber gemein
+07	8	157	Einsames Paar sucht Freunde
+07	9	158	Duftnoten
+07	10	159	Spanische Dörfer
+07	11	160	Der Barkeeper
+07	12	161	Ein ganz spezielles Training
+07	13	162	Kein Mann der großen Worte
+07	14	163	Endlich wieder Schule!
+07	15	164	Zickenalarm
+07	16	165	Schwarz-Weiß-Malerei
+07	17	166	Leb wohl, St. Louis!
+07	18	167	Schlechte Karten
+07	19	168	Lausige Ratschläge
+07	20	169	Elvis und sein Friseur
+07	21	170	Alles umsonst
+07	22	171	Die Immobilienhaie
+# 08. Staffel
+08	1	172	Dancing Queen
+08	2	173	Schlimme Wörter
+08	3	174	Der geborgte Job
+08	4	175	Teuflisch nette Kollegen
+08	5	176	Gelb vor Neid
+08	6	177	Lori mit den Scherenhänden
+08	7	178	Pension des Grauens
+08	8	179	Höllische Nachbarn
+08	9	180	E-Mail für dich
+08	10	181	Wilde Bullen
+08	11	182	Backe, backe, Kuchen...
+08	12	183	Baby an Bord!
+08	13	184	Carrie Doolittle
+08	14	185	Zweites Heim, Glück allein
+08	15	186	Auf der Mauer, auf der Lauer...
+08	16	187	Auf's Knie gefallen
+08	17	188	Gemälde des Schreckens
+08	18	189	Rapunzels Perücke
+08	19	190	Krise auf Bestellung
+08	20	191	Partnertausch
+08	21	192	Ladies Night
+08	22	193	Kampf der Giganten
+08	23	194	Ene mene muh...
