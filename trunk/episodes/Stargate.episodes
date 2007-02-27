@@ -17,8 +17,8 @@
 #SE	EP	No.	Title
 #
 # 01. Staffel
-01	1	1	Das Tor zum Universum - Teil 1
-01	2	2	Das Tor zum Universum - Teil 2
+01	1	1	Das Tor zum Universum, Teil 1
+01	2	2	Das Tor zum Universum, Teil 2
 01	3	3	Der Feind in seinem Körper
 01	4	4	Verraten und verkauft
 01	5	5	Die Seuche
@@ -36,9 +36,9 @@
 01	17	17	Enigma
 01	18	18	Im ewigen Eis
 01	19	19	Übermenschen
-01	20	20	Die Invasion - Teil 1
-01	21	21	Die Invasion - Teil 2
-01	22	22	Die Invasion - Teil 3
+01	20	20	Die Invasion, Teil 1
+01	21	21	Die Invasion, Teil 2
+01	22	22	Die Invasion, Teil 3
 # 02. Staffel
 02	1	23	Die Invasion - Kampf um die Erde
 02	2	24	Freund oder Feind
@@ -50,8 +50,8 @@
 02	8	30	Der verlorene Sohn
 02	9	31	Sha'res Rückkehr
 02	10	32	Insekten des Todes
-02	11	33	Die Tok'Ra - Teil 1
-02	12	34	Die Tok'Ra - Teil 2
+02	11	33	Die Tok'Ra, Teil 1
+02	12	34	Die Tok'Ra, Teil 2
 02	13	35	Geister
 02	14	36	Das zweite Tor
 02	15	37	Die fünfte Spezies
@@ -61,9 +61,9 @@
 02	19	41	Tödliche Klänge
 02	20	42	Neue Feinde
 02	21	43	1969
-02	22	44	Die Höhle des Löwen - Teil 1
+02	22	44	Die Höhle des Löwen, Teil 1
 # 03. Staffel
-03	1	45	Die Höhle des Löwen - Teil 2
+03	1	45	Die Höhle des Löwen, Teil 2
 03	2	46	Seth
 03	3	47	Die Saat des Verrats
 03	4	48	Besessen
@@ -84,9 +84,9 @@
 03	19	63	Tödlicher Verrat
 03	20	64	Harsesis Rettung
 03	21	65	Der Kristallschädel
-03	22	66	Nemesis - Teil 1
+03	22	66	Nemesis, Teil 1
 # 04. Staffel
-04	1	67	Nemesis - Teil 2
+04	1	67	Nemesis, Teil 2
 04	2	68	Die andere Seite der Medaille
 04	3	69	Das Vermächtnis der Ataniker
 04	4	70	Shan´aucs Opfer
@@ -132,8 +132,8 @@
 05	21	109	Die Entscheidung
 05	22	110	Das Geheimnis der Asgard
 # 06. Staffel
-06	1	111	Wiedergutmachung (1)
-06	2	112	Wiedergutmachung (2)
+06	1	111	Wiedergutmachung, Teil 1
+06	2	112	Wiedergutmachung, Teil 2
 06	3	113	Notlandung
 06	4	114	Virus aus dem Eis
 06	5	115	In den Händen der Goua'Uld
@@ -142,8 +142,8 @@
 06	8	118	Wahre Helden
 06	9	119	Das Bündnis
 06	10	120	Heilung
-06	11	121	Prometheus (1)
-06	12	122	Unnatürliche Auslese (2)
+06	11	121	Prometheus, Teil 1
+06	12	122	Unnatürliche Auslese, Teil 2
 06	13	123	Die Unsichtbaren
 06	14	124	Das Machtkartell
 06	15	125	Das verlorene Paradies
@@ -155,8 +155,8 @@
 06	21	131	Jonas' Visionen
 06	22	132	Der Kreis schließt sich
 # 07. Staffel
-07	1	133	Alles auf eine Karte (1)
-07	2	134	Alles auf eine Karte (2)
+07	1	133	Alles auf eine Karte, Teil 1
+07	2	134	Alles auf eine Karte, Teil 2
 07	3	135	Der falsche Klon
 07	4	136	Orpheus
 07	5	137	Die Macht des Speichers
@@ -165,21 +165,21 @@
 07	8	140	Space-Rennen
 07	9	141	Avenger 2.0
 07	10	142	Die Hak'Tyl
-07	11	143	Evolution (1)
-07	12	144	Evolution (2)
+07	11	143	Evolution, Teil 1
+07	12	144	Evolution, Teil 2
 07	13	145	Grace
 07	14	146	Kiannas Symbiont
 07	15	147	Daniels Träume
 07	16	148	Bote des Todes
-07	17	149	Helden (1)
-07	18	150	Helden (2)
+07	17	149	Helden, Teil 1
+07	18	150	Helden, Teil 2
 07	19	151	Anna
 07	20	152	Der neue Präsident
-07	21	153	Die verlorene Stadt (1)
-07	22	154	Die verlorene Stadt (2)
+07	21	153	Die verlorene Stadt, Teil 1
+07	22	154	Die verlorene Stadt, Teil 2
 # 08. Staffel
-08	1	155	Neue Machtverhältnisse (1)
-08	2	156	Neue Machtverhältnisse (1)
+08	1	155	Neue Machtverhältnisse, Teil 1
+08	2	156	Neue Machtverhältnisse, Teil 1
 08	3	157	Colonel Vaselov
 08	4	158	Stunde der Bewährung
 08	5	159	Soren
@@ -193,14 +193,14 @@
 08	13	167	König Arkhan
 08	14	168	Konfrontation
 08	15	169	Joe
-08	16	170	Abrechnung (1)
-08	17	171	Abrechnung (2)
+08	16	170	Abrechnung, Teil 1
+08	17	171	Abrechnung, Teil 2
 08	18	172	Jim
-08	19	173	Möbius (1)
-08	20	174	Möbius (2)
+08	19	173	Möbius, Teil 1
+08	20	174	Möbius, Teil 2
 # 09. Staffel
-09	1	175	Avalon (1)
-09	2	176	Avalon (2)
+09	1	175	Avalon, Teil 1
+09	2	176	Avalon, Teil 2
 09	3	177	Das Geheimnis der Ori
 09	4	178	Unsichtbare Fesseln
 09	5	179	Machtspiele
@@ -208,8 +208,8 @@
 09	7	181	Ex Deus Machina
 09	8	182	Babylon
 09	9	183	Der Prototyp
-09	10	184	Die Rückkehr von Orlin (1)
-09	11	185	Die Rückkehr von Orlin (2)
+09	10	184	Die Rückkehr von Orlin, Teil 1
+09	11	185	Die Rückkehr von Orlin, Teil 2
 09	12	186	Kollateralschaden
 09	13	187	Parallelwelten
 09	14	188	Das Referendum

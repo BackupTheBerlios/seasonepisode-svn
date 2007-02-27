@@ -6,7 +6,9 @@
 # 4	58	65
 # /SEASONLIST
 #
-# 1. Staffel
+#SE	EP	No.	Title
+#
+# 01. Staffel
 01	1	1	Die Macht der Sinne
 01	2	2	Im Kriegszustand
 01	3	3	Der Killer und sein Alibi
@@ -17,7 +19,7 @@
 01	8	8	Zwischen Liebe und Kanonen
 01	9	9	Der pure Instinkt
 01	10	10	Einer muss der Mörder sein
-# 2. Staffel
+# 02. Staffel
 02	1	11	Der Flug ins Ungewisse
 02	2	12	Die Vergangenheit schlägt zurück
 02	3	13	Tiefe Wasser sind still
@@ -42,7 +44,7 @@
 02	22	32	Das nackte Überleben
 02	23	33	Mord auf der Rennbahn
 02	24	34	Im Koma liegt das Geheimnis
-# 3. Staffel
+# 03. Staffel
 03	1	35	Das große Auge
 03	2	36	Ein mörderisches Spiel
 03	3	37	Das Mädchen aus dem Kofferraum
@@ -66,7 +68,7 @@
 03	21	55	Todesurteil für den Zeugen
 03	22	56	Nachtschicht eines Engels
 03	23	57	Der tödliche Jaguar, Teil 1
-# 4. Staffel
+# 04. Staffel
 04	1	58	Der tödliche Jaguar, Teil 2
 04	2	59	Der Fall "Cyber-Detektiv"
 04	3	60	Endstation - U-Boot

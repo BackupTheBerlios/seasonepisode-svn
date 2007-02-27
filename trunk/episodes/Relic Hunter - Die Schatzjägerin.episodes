@@ -5,7 +5,9 @@
 # 3	45	66
 # /SEASONLIST
 #
-# 1. Staffel
+#SE	EP	No.	Title
+#
+# 01. Staffel
 01	1	1	Die magische Schale
 01	2	2	Auf den Spuren von Al Capone
 01	3	3	Tod am Teufelsmund
@@ -28,7 +30,7 @@
 01	20	20	Unter Vampiren
 01	21	21	Der Kelch der Wahrheit
 01	22	22	Isabels Geheimnis
-# 2. Staffel
+# 02. Staffel
 02	1	23	Der Fluch der Götter
 02	2	24	Die Feuer der Hölle
 02	3	25	Beschützter der Verdammten
@@ -51,7 +53,7 @@
 02	20	42	Der Ring des Königs
 02	21	43	Der Magische Handschuh
 02	22	44	Wettlauf mit dem Tod
-# 3. Staffel
+# 03. Staffel
 03	1	45	Das Ei des Drachen
 03	2	46	Mr. Right
 03	3	47	Die Bruderschaft

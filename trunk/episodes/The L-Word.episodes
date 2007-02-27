@@ -5,7 +5,9 @@
 # 3	28	39
 # /SEASONLIST
 #
-# 1. Staffel
+#SE	EP	No.	Title
+#
+# 01. Staffel
 01	1	1	Frauen, die Frauen lieben, Teil 1
 01	2	2	Auf der suche nach einem Samenspender, Teil 2
 01	3	3	Frauen, die sich trauen
@@ -20,7 +22,7 @@
 01	12	12	Coming out
 01	13	13	Fanatische Leidenschaft
 01	14	14	Provokationen
-# 2. Staffel
+# 02. Staffel
 02	1	15	n.n.
 02	2	16	n.n.
 02	3	17	n.n.
@@ -34,7 +36,7 @@
 02	11	25	n.n.
 02	12	26	n.n.
 02	13	27	n.n.
-# 3. Staffel
+# 03. Staffel
 03	1	28	n.n.
 03	2	29	n.n.
 03	3	30	n.n.

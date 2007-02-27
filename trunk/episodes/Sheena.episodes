@@ -4,7 +4,9 @@
 # 2	23	35
 # /SEASONLIST
 #
-# 1. Staffel
+#SE	EP	No.	Title
+#
+# 01. Staffel
 01	1	1	Das Darak'na
 01	2	2	Sheena zwischen den Weltmächten
 01	3	3	Die Rache der Rennmäuse
@@ -27,7 +29,7 @@
 01	20	20	Kali in den Fängen der Sklavenhändler
 01	21	21	Marabunta
 01	22	22	Tödlicher Glaube
-# 2. Staffel
+# 02. Staffel
 02	1	23	Rendezvous
 02	2	24	Unter Tieren
 02	3	25	Kali im griff des Feindes

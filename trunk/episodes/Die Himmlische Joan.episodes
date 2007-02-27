@@ -4,7 +4,9 @@
 # 2	24	45
 # /SEASONLIST
 #
-# 1. Staffel
+#SE	EP	No.	Title
+#
+# 01. Staffel
 01	1	1	Zeig mir ein Wunder
 01	2	2	Holz Brennt nicht
 01	3	3	Keine Ahnung vom Schach
@@ -28,7 +30,7 @@
 01	21	21	Schminken, Joan!
 01	22	22	Das Geschenk
 01	23	23	Ein eigenartiger Tag
-# 2. Staffel
+# 02. Staffel
 02	1	24	n.n.
 02	2	25	n.n.
 02	3	26	n.n.
