@@ -1,0 +1,241 @@
+#
+# COMPLETE
+#
+# SEASONLIST
+# 1	1	26
+# 2	27	64
+# 3	65	100
+# 4	101	136
+# 5	137	172
+# 6	173	221
+# /SEASONLIST
+#
+#SE	EP	No.	Title
+#
+# 01. Staffel
+01	1	1	Eine Chance zum Überleben
+01	2	2	Gefährliche Gerüchte
+01	3	3	Ein ungastliches Land
+01	4	4	Träume aus Sand
+01	5	5	Skandal in Coopers Crossing
+01	6	6	Sakrale Geschäfte
+01	7	7	Generationskonflikt
+01	8	8	Die Leihmutter
+01	9	9	Die London-Sydney-Rallye
+01	10	10	Stadtgespräche
+01	11	11	Verbotene Liebe
+01	12	12	Das wilde Kind
+01	13	13	Von Feinden umgeben
+01	14	14	Aufbruch
+01	15	15	Eine verlorene Generation
+01	16	16	Abschied für immer?
+01	17	17	Ein Held kehr heim
+01	18	18	Aus heiterem Himmel
+01	19	19	Gefangen in der Einsamkeit
+01	20	20	Im Angesicht des Todes
+01	21	21	Der waghalsige Pilot
+01	22	22	In der Stille der Nacht
+01	23	23	Zwischen Leben und Tod
+01	24	24	Komödianten in der Stadt
+01	25	25	Wer anderen eine Grube gräbt, Teil 1
+01	26	26	Wer anderen eine Grube gräbt, Teil 2
+# 02. Staffel
+02	1	27	Zwei Mütter und ein Baby
+02	2	28	Es gibt kein Bier in der Stadt
+02	3	29	Jugendstreiche
+02	4	30	Geld ist nicht alles
+02	5	31	Tod in der Schlucht
+02	6	32	Die Liebesheirat
+02	7	33	Haß und Liebe
+02	8	34	Die Stadtcowboys
+02	9	35	Friedenskinder
+02	10	36	Ball der einsamen Herzen
+02	11	37	Jede Minute zählt
+02	12	38	Freund oder Feind?
+02	13	39	Der Nebenbuhler
+02	14	40	Goldfieber
+02	15	41	SOS am Himmel
+02	16	42	Schatten der Vergangenheit
+02	17	43	Erben macht blind
+02	18	44	Eine starke Frau
+02	19	45	Der geheimnisvolle Alte
+02	20	46	Gefährliche Hilfe
+02	21	47	Mord am Fluß
+02	22	48	Hoffnungen und Träume
+02	23	49	Die Griechen kommen
+02	24	50	Nicht nur ein Spiel
+02	25	51	Johnnys letzter Kampf
+02	26	52	Arsen und Edelsteine
+02	27	53	Wo ist Tracy?
+02	28	54	Verrückte Tage
+02	29	55	Blau wie der Himmel
+02	30	56	Aufstand der Frauen
+02	31	57	Erfolg um jeden Preis
+02	32	58	Ein Gast aus Amerika
+02	33	59	Notoperation
+02	34	60	Irrweg einer Liebe
+02	35	61	Andy, der Ausreißer
+02	36	62	Ein erster Schritt
+02	37	63	Gastfreundschaft
+02	38	64	Die wilde Horde
+# 03. Staffel
+03	1	65	Der alte Farmer
+03	2	66	Diagnose: Stress
+03	3	67	Die Surf-Champions
+03	4	68	Unglücksfälle
+03	5	69	Die Uhr ist abgelaufen
+03	6	70	Die Verwünschung
+03	7	71	Der heiße Rolls-Royce
+03	8	72	Gerichtstag in Coopers Crossing
+03	9	73	Roxanne
+03	10	74	Unheimliche Begegnungen
+03	11	75	Kein Weg zurück
+03	12	76	Der verlorene Sohn
+03	13	77	Abenteuer im Ballon
+03	14	78	Der Wanderprediger
+03	15	79	Todds Heilung, Teil 1
+03	16	80	Todds Heilung, Teil 2
+03	17	81	Gerechte Wege
+03	18	82	Kates Abenteuer
+03	19	83	Der Fremde
+03	20	84	Der Regenmacher
+03	21	85	Zwei ungleiche Brüder, Teil 1
+03	22	86	Zwei ungleiche Brüder, Teil 2
+03	23	87	Familiengeheimnisse
+03	24	88	Achtung Ufos!
+03	25	89	Gefährliche Streiche
+03	26	90	Der Geschichtenerzähler
+03	27	91	Schicksalsentscheidungen
+03	28	92	Das Mädchen vom Himmel
+03	29	93	Mick und Julia
+03	30	94	Handel mit Gott
+03	31	95	Sucht nach Schönheit
+03	32	96	Wunschkonzert
+03	33	97	Wechselfälle
+03	34	98	Ein Kind ist geboren...
+03	35	99	Das Leben geht weiter
+03	36	100	Beziehungskisten
+# 04. Staffel
+04	1	101	Über das Leben hinaus
+04	2	102	Hoffen auf ein Wunder
+04	3	103	Hilfe, die Malarvys kommen
+04	4	104	Reise ins Paradies
+04	5	105	Haß macht krank
+04	6	106	Eine alte Rechnung
+04	7	107	Rickys Chance
+04	8	108	Die Funk-Hochzeit
+04	9	109	Giftmüll
+04	10	110	Drogen im Camp
+04	11	111	Die Wege des Herrn
+04	12	112	Unter Mordverdacht
+04	13	113	Dr. Callaghans Rückkehr
+04	14	114	Das letzte Rodeo
+04	15	115	Ein Stückchen Hoffnung
+04	16	116	Der Täter kehrt zurück
+04	17	117	Überraschender Befund
+04	18	118	Der Schutzengel
+04	19	119	Gefährliche Eifersucht
+04	20	120	Ohne Mitleid
+04	21	121	Selbsthilfe
+04	22	122	Judys Baby
+04	23	123	Ein Unfall mit Folgen
+04	24	124	Die Erbkrankheit
+04	25	125	Geheimnis um Mickey
+04	26	126	Mut zum Leben
+04	27	127	Flugzeug vermißt
+04	28	128	Die Notlüge
+04	29	129	Mißtrauen
+04	30	130	Ein guter Verlierer
+04	31	131	Auf der Suche
+04	32	132	Gefährliche Spiele
+04	33	133	In letzter Minute
+04	34	134	Es gibt kein Zurück
+04	35	135	Leidensgenossen
+04	36	136	Ein trauriger Abschied
+# 05. Staffel
+05	1	137	Der Aufsteiger
+05	2	138	Den Tod vor Augen
+05	3	139	Die Braut muß warten
+05	4	140	Gespenstische Nacht
+05	5	141	Am Ende des Regenbogens
+05	6	142	Gefährliche Last
+05	7	143	Der Junge im Kofferraum
+05	8	144	Ein Hund und eine Tochter
+05	9	145	Ruhe in Frieden
+05	10	146	Lebenslinien
+05	11	147	Der neue Pilot
+05	12	148	Kein Tag wie jeder andere
+05	13	149	Alles für das Baby
+05	14	150	Ein schwaches Herz
+05	15	151	Das unerzogene Kind
+05	16	152	Familienbande
+05	17	153	Meines Bruders Hüter?
+05	18	154	Flucht in die Wildnis
+05	19	155	Valentinstag
+05	20	156	Nur wenig Zärtlichkeit
+05	21	157	Drei arme Poeten
+05	22	158	Die Bank kennt kein Erbarmen
+05	23	159	Fernweh
+05	24	160	Stacy und Terry
+05	25	161	Comeback im Outback
+05	26	162	Nicht immer heilen Kräuter
+05	27	163	David und Goliath
+05	28	164	Der letzte Jahrmarkt
+05	29	165	Schmerz, Angst und Entsetzen
+05	30	166	Busch-Weihnachten
+05	31	167	Was für ein Mann
+05	32	168	Hetzen und Petzen
+05	33	169	Das Wunschkind
+05	34	170	Ein verwirrendes Fieber
+05	35	171	David will gehen
+05	36	172	Wider die Blindheit
+# 06. Staffel
+06	1	173	Der todkranke Lebensretter
+06	2	174	Mutter und Sohn
+06	3	175	Klipp und klar
+06	4	176	Zählen wir denn nicht?
+06	5	177	Ein kleines Wunder
+06	6	178	Fiona bekommt einen Vater
+06	7	179	Das Geheimnis der Wangarang-Höhle
+06	8	180	In letzter Sekunde
+06	9	181	Absturz in die Liebe
+06	10	182	Eile mit Weile
+06	11	183	Ein Mädchen wie aus Glas
+06	12	184	Blick nach vorn!
+06	13	185	Geliebte Tyrannin
+06	14	186	Doppelleben
+06	15	187	Rendezvous mit Guy
+06	16	188	Scarlett Louisa
+06	17	189	Positiv
+06	18	190	Offene Worte
+06	19	191	Abschied und Heimkehr
+06	20	192	Romeo und Julia
+06	21	193	Nymphen und Alpträume
+06	22	194	Ein einziger Tag
+06	23	195	Der letzte Tanz
+06	24	196	Die Entscheidung
+06	25	197	Das kleine Geheimnis
+06	26	198	Die Stunde der Wahrheit
+06	27	199	Der Fremde
+06	28	200	Die Taufe
+06	29	201	Das Tagebuch
+06	30	202	Eric und Cameron
+06	31	203	Die doppelte Cynthia
+06	32	204	Zwei Welten
+06	33	205	Das Männerspiel
+06	34	206	Aus der Haft entlassen
+06	35	207	Die Hinterlassenschaft
+06	36	208	Der Notruf
+06	37	209	Das Eheversprechen
+06	38	210	Besuch aus Japan
+06	39	211	Die Fernsehreporterin
+06	40	212	Schmutzige Wäsche
+06	41	213	Der Goldsucher und der Fischer
+06	42	214	Vergebene Liebesmüh
+06	43	215	Herzstillstand
+06	44	216	Streithähne
+06	45	217	Der Racheengel
+06	46	218	Blinde Leidenschaft
+06	47	219	Mit harten Bandagen
+06	48	220	Sallys Entscheidung
+06	49	221	Die Regeln des Lebens
