@@ -1,0 +1,173 @@
+#
+# COMPLETE
+#
+# SEASONLIST
+# 1	1	22
+# 2	23	44
+# 3	45	66
+# 4	67	87
+# 5	88	110
+# 6	111	132
+# 7	133	151
+# /SEASONLIST
+#
+#SE	EP	No.	Title
+#
+# 01. Staffel
+01	1	1	Der Neue
+01	2	2	Liebe ist keine Einbahnstraße
+01	3	3	Der erträumte Vater
+01	4	4	Vietnam-Syndrom
+01	5	5	Alles nur Vorurteile
+01	6	6	Ein Geschenk bringt Probleme
+01	7	7	Geliebte Schwester
+01	8	8	Radioaktiver Unfall
+01	9	9	Wofür sind Freunde da?
+01	10	10	Überfordert und unglücklich
+01	11	11	In der Präsidentensuite
+01	12	12	Ein Geiseldrama
+01	13	13	Jubiläum mit Bombe
+01	14	14	Schlagzeile gesucht
+01	15	15	Späte Einsicht
+01	16	16	Zwei Einzelgänger finden sich
+01	17	17	Letzter Wille einer alten Dame
+01	18	18	Noch einmal davongekommen
+01	19	19	Streik
+01	20	20	Scheinbar gleiche Chancen
+01	21	21	Quarantäne
+01	22	22	Notrufanschluß
+# 02. Staffel
+02	1	23	Verlockendes Angebot
+02	2	24	Trappers aparte Oberschwester
+02	3	25	Schlank, schlanker, tot
+02	4	26	Vom Satan verfolgt
+02	5	27	Unter falschem Verdacht
+02	6	28	Der Fall Joey Santori
+02	7	29	Die Erde bebt
+02	8	30	Flüchtlingsprobleme
+02	9	31	Das Mauerblümchen
+02	10	32	Wer ist der glückliche Vater?
+02	11	33	Die liebe Familie
+02	12	34	Das lebendige Maskottchen
+02	13	35	Vom Gewissen geplagt
+02	14	36	Sorgen mit Großen und Kleinen
+02	15	37	Ein kurzes Glück
+02	16	38	So long, Dad!
+02	17	39	Die kleine Wildkatze
+02	18	40	Das Wunderkind
+02	19	41	Ein Experiment
+02	20	42	Keine Verantwortung für den Bruder
+02	21	43	Der Nebenbuhler
+02	22	44	Ein Baby zuviel
+# 03. Staffel
+03	1	45	Vom Haß überrollt
+03	2	46	Selbsterfahrung
+03	3	47	Medizinische Betreuung hinter Gittern
+03	4	48	Hektik vor dem Fest
+03	5	49	Am Muttertag
+03	6	50	Von Visionen geplagt
+03	7	51	Herkunft unbekannt
+03	8	52	Selbstverteidigung
+03	9	53	Verfehlter Glaube
+03	10	54	Danny
+03	11	55	Ein Rachefeldzug
+03	12	56	Mutter ist an allem schuld
+03	13	57	Ein Hochstapler schleicht sich ein
+03	14	58	Es könnte doch sein ...
+03	15	59	Liebe und Hochzeit
+03	16	60	Der erfolgreiche Kollege
+03	17	61	Doktoren und sonstige Leute
+03	18	62	Der Traum vom großen Geschäft
+03	19	63	Ein interessanter Fall
+03	20	64	Patient mit neuer Identität
+03	21	65	Durch Gehirnwäsche krank
+03	22	66	Die liebe Schwiegermutter
+# 04. Staffel
+04	1	67	Für was ist der Doktor da?
+04	2	68	Waffen statt Wein
+04	3	69	Wo bleibt der Trauzeuge?
+04	4	70	Hellseherin und Simulant
+04	5	71	Pfennigfuchser und Nackedeis
+04	6	72	Erntedankfest
+04	7	73	Ein hoher Preis
+04	8	74	Der ideale Urlaub
+04	9	75	Ein talentierter Kollege
+04	10	76	Ein diplomatischer Patient
+04	11	77	Der Junge ist ein Mädchen
+04	12	78	Die grausame Wahrheit
+04	13	79	Ein schwieriges Kind
+04	14	80	Die Schwester hat ein Problem
+04	15	81	Ein Kunstfehler
+04	16	82	Unheilbar krank
+04	17	83	Eine Jugendsünde taucht auf
+04	18	84	Mutter auf Abwegen
+04	19	85	Synthetische Viren
+04	20	86	Freundschaft bedroht
+04	21	87	Aus eigener Kraft
+# 05. Staffel
+05	1	88	Das Eis schmilzt
+05	2	89	Eine Geburtstagsneurose
+05	3	90	Der Pensionsanspruch
+05	4	91	So machen es die Frauen
+05	5	92	Aus der Gerüchteküche
+05	6	93	Der Tod läßt auf sich warten
+05	7	94	Drei sind zuviel
+05	8	95	Ohne Komplikation
+05	9	96	Bay City Marathon
+05	10	97	Eine erfreuliche Enttäuschung
+05	11	98	Der Aufstieg
+05	12	99	Entscheidung mit Risiko
+05	13	100	Mit Gefühl geht alles besser
+05	14	101	Klein, aber oho!
+05	15	102	Kinder sind sein Leben
+05	16	103	Wo ein Wille, da ein Weg
+05	17	104	Es war so gut gemeint
+05	18	105	Sein Verdacht bestätigt sich
+05	19	106	Ein Patient ermittelt
+05	20	107	Über Heirat reden wir später
+05	21	108	Reise in die Vergangenheit
+05	22	109	Die totale Überwachung im Krankenhaus
+05	23	110	Hausbesuche sind nicht erlaubt
+# 06. Staffel
+06	1	111	Herzspender gesucht
+06	2	112	Mein Sohn,der Doktor
+06	3	113	Buckaroo, der alte Western-Held
+06	4	114	Schwester auf der Spur des Täters
+06	5	115	Hundert Jahre Tradition
+06	6	116	Junger Arzt mit Gewissenskonflikt
+06	7	117	Versprechen nicht brechen
+06	8	118	Der Chef fällt aus
+06	9	119	Der Patient ist ein Vampir
+06	10	120	Krankhaftes Lachen
+06	11	121	Unbewältigte Vergangenheit
+06	12	122	Geldgeber gesucht
+06	13	123	Liebe deinen Nachbarn
+06	14	124	Drogenprobleme
+06	15	125	Ein Kind wird entführt
+06	16	126	Falsche Vermutung
+06	17	127	Ungewöhnliche Ereignisse
+06	18	128	Doping-Methoden
+06	19	129	Verschiedene Ansichten
+06	20	130	Auf Konfrontation aus
+06	21	131	Die Braut ist krank
+06	22	132	Die Bigamistin
+# 07. Staffel
+07	1	133	Spiel der Herzen, Teil 1
+07	2	134	Spiel der Herzen, Teil 2
+07	3	135	In Deutschland nicht ausgestrahlt
+07	4	136	Sparmaßnahmen
+07	5	137	Die Unschuld wird bewiesen
+07	6	138	Schicksal im Rollstuhl
+07	7	139	Die neue Krankheit
+07	8	140	Der heimliche Verehrer
+07	9	141	Mit Leib und Seele
+07	10	142	Giftmüll-Skandal
+07	11	143	Die Kraft der Liebe
+07	12	144	Der Tod gehört zum Leben
+07	13	145	Unerlaubte Tierversuche
+07	14	146	Kehrseite der Zivilisation
+07	15	147	Mit Würde sterben
+07	16	148	Gefährlicher Schmetterling
+07	17	149	Der Übervater
+07	18	150	Der zweite Anlauf
+07	19	151	Eine mobile Krankenstation
