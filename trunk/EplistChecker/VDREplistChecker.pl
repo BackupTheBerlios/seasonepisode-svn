@@ -141,14 +141,14 @@ foreach ( @Files ) {
 
       $alternative = 1 if ( $LineField{Miscellaneous} =~ /^\s*#\s*alternative\s*$/ );
 
-      $i++ if (! $alternative );
+      $i++ if ! $alternative;
 
       if ( ($LineField{Season} + 0) != $tmp && $tmp > -1 ) {
         push(@SeasonList, "# ".($tmp + 0)."\t".($i - $Stop)."\t".($i - 1));
         $tmp = $LineField{Season};
         $Stop = 1;
       } else {
-        $tmp = $LineField{Season} if ( $tmp == -1);
+        $tmp = $LineField{Season} if $tmp == -1;
         $Stop++;
       }
 
