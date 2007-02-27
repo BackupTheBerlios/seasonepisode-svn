@@ -3,9 +3,9 @@
 ##########################################################################
 #
 #
-$Version = "0.1.10";
+$Version = "0.1.11";
 #
-# Date:    2007-01-16
+# Date:    2007-02-27
 #
 # Author: Mike Constabel <vejoun @ vdrportal . de>
 #                        <vejoun @ toppoint . de>
