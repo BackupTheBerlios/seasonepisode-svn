@@ -149,7 +149,7 @@ foreach ( @Files ) {
         $Stop = 1;
       } else {
         $tmp = $LineField{Season} if $tmp == -1;
-        $Stop++;
+        $Stop++ if ! $alternative;
       }
 
       if ( ( $LineField{Season} > $LastLineField{Season} && $LineField{Episode} == 1 ) ||
