@@ -1,0 +1,94 @@
+#
+# SHORT X-Men
+#
+# SEASONLIST
+# 1	1	13
+# 2	14	26
+# 3	27	46
+# 4	47	63
+# 5	64	76
+# /SEASONLIST
+#
+#SE	EP	No.	Title
+#
+# 01. Staffel
+01	1	1	Jagd auf Mutante, Teil 1
+01	2	2	Jagd auf Mutante, Teil 2
+01	3	3	Zwei Freunde
+01	4	4	Die Rivalen
+01	5	5	Die Ausgestoßenen
+01	6	6	Eiskalte Rache
+01	7	7	Die Sklaveninsel
+01	8	8	Der böse Bruder
+01	9	9	Der Wunderdoktor
+01	10	10	Schöne neue Welt
+01	11	11	Das Attenta, Teil 1
+01	12	12	Das Attenta, Teil 2
+01	13	13	Die Entscheidung
+# 02. Staffel
+02	1	14	Ein Toter kehrt zurüc, Teil 1
+02	2	15	Ein Toter kehrt zurüc, Teil 2
+02	3	16	Storms Sohn
+02	4	17	In den Fänger der Krake
+02	5	18	Der einsame Wolf
+02	6	19	Notruf aus der Vergangenheit
+02	7	20	Die Seuch, Teil 1
+02	8	21	Die Seuch, Teil 2
+02	9	22	Kampf um Rogue
+02	10	23	Der Mutantenhasser
+02	11	24	Stars wider Willen
+02	12	25	Der neue Meiste, Teil 1
+02	13	26	Der neue Meiste, Teil 2
+# 03. Staffel
+03	1	27	Rache ist bitte, Teil 1
+03	2	28	Rache ist bitte, Teil 2
+03	3	29	Die Phoenix Sag, Teil 1
+03	4	30	Die Phoenix Sag, Teil 2
+03	5	31	Die Phoenix Sag, Teil 3
+03	6	32	Die Phoenix Sag, Teil 4
+03	7	33	Die Phoenix Sag, Teil 5
+03	8	34	der Waisenknabe
+03	9	35	Apocalypses Rückkehr
+03	10	36	Der Mann aus Eis
+03	11	37	Im Land der Dinosaurie, Teil 1
+03	12	38	Im Land der Dinosaurie, Teil 2
+03	13	39	Unberechenbare Phoeni, Teil 1
+03	14	40	Unberechenbare Phoeni, Teil 2
+03	15	41	Unberechenbare Phoeni, Teil 3
+03	16	42	Unberechenbare Phoeni, Teil 4
+03	17	43	Vater und Sohn
+03	18	44	Bruderzwist im Hauptquartier
+03	19	45	Dämon mit Herz
+03	20	46	Wolverins Alpträume
+# 04. Staffel
+04	1	47	Die Wächter
+04	2	48	Die Suche nach dem Vate, Teil 1
+04	3	49	Die Suche nach dem Vate, Teil 2
+04	4	50	Der Mutantenplane, Teil 1
+04	5	51	Der Mutantenplane, Teil 2
+04	6	52	Herrscher über Gut und Bös, Teil 1
+04	7	53	Herrscher über Gut und Bös, Teil 2
+04	8	54	Herrscher über Gut und Bös, Teil 3
+04	9	55	Herrscher über Gut und Bös, Teil 4
+04	10	56	Wir müssen die Welt rette, Teil 1
+04	11	57	Wir müssen die Welt rette, Teil 2
+04	12	58	Weihnachten bei den X-Men
+04	13	59	Fernöstliche Lebensart
+04	14	60	Opfer aus Liebe
+04	15	61	Die Mutantenstadt
+04	16	62	Xavier erinnert sich
+04	17	63	Späte Reue
+# 05. Staffel
+05	1	64	The Phalanx Convenant, Part 1
+05	2	65	The Phalanx Convenant, Part 2
+05	3	66	Die lebende Waffe
+05	4	67	Longshot
+05	5	68	Das Familientreffen
+05	6	69	Storm Front, Part 1
+05	7	70	Storm Front, Part 2
+05	8	71	Jubilee's Fairy Tale Theatre
+05	9	72	Fifth Horseman
+05	10	73	Old Soldiers
+05	11	74	Hidden Agenda
+05	12	75	Descent
+05	13	76	Graduation Day
