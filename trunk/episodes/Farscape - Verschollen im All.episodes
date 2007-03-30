@@ -1,4 +1,6 @@
 #
+# SHORT Farscape
+#
 # SEASONLIST
 # 1	1	22
 # 2	23	44
@@ -14,7 +16,7 @@
 01	3	3	Das Leben soll nicht enden
 01	4	4	Der rote Kristall
 01	5	5	Gefährliche Besucher an Bord
-01	6	6	n.n.
+01	6	6	Begegnung auf der Zelbinion
 01	7	7	Begegnung auf der Zelbinion
 01	8	8	Der Magier und die Gladiatoren
 01	9	9	Der DNS-verrückte Wissenschaftler
@@ -28,8 +30,8 @@
 01	17	17	Ein Jenseits von Raum und Zeit?
 01	18	18	Die Jagd nach dem Flucht-Virus
 01	19	19	In den Tiefen des Bewußtseins
-01	20	20	n.n.
-01	21	21	n.n.
+01	20	20	Scorpius und der Aurorastuhl
+01	21	21	Flora und diese Fleisch fressenden Wesen
 01	22	22	Täuschungsmanöver ohne Ende
 # 02. Staffel
 02	1	23	Verfolgt von Angst und Furcht
@@ -45,7 +47,7 @@
 02	11	33	Intrigen, Macht und Mörder, Teil 2
 02	12	34	Intrigen, Macht und Mörder, Teil 3
 02	13	35	Meine drei Crichtons
-02	14	36	n.n.
+02	14	36	Vorsicht, bissiger Parasit
 02	15	37	Nochmal fall' ich nicht drauf rein
 02	16	38	Das Bild in deinem Medaillon
 02	17	39	Die Wahrheit und der Sündenbock
@@ -57,7 +59,7 @@
 # 03. Staffel
 03	1	45	Die Phase der Tode
 03	2	46	Unter den Zwillingssonnen von Qell
-03	3	47	n.n.
+03	3	47	Die selbst beigebrachten Wunden, Teil 1
 03	4	48	Die selbst beigebrachten Wunden, Teil 2
 03	5	49	Ein Riß in der Zeit
 03	6	50	Friß mich oder stirb
@@ -67,21 +69,21 @@
 03	10	54	Rätsel der Relativität
 03	11	55	Inkubator - Ort seiner Herkunft
 03	12	56	In der Korona des Sirenensterns
-03	13	57	n.n.
-03	14	58	n.n.
-03	15	59	n.n.
-03	16	60	Die Geschichte mit dem Racheengel
+03	13	57	Der unglaubliche Abenteuertrip
+03	14	58	Kampf um unbegrenzte Möglichkeiten, Teil 1
+03	15	59	Kampf um unbegrenzte Möglichkeiten, Teil 2
+03	16	60	Der Racheengel
 03	17	61	Dort unten auf Valldon
 03	18	62	Crichton ist tot - Es lebe Crichton
 03	19	63	Der Anfang vom Ende
-03	20	64	n.n.
-03	21	65	n.n.
+03	20	64	Ein infernalischer Plan, Teil 1
+03	21	65	Ein infernalischer Plan, Teil 2
 03	22	66	Norantis Zukunftsvision
 03	23	67	n.n.
 # 04. Staffel
-04	1	68	n.n.
-04	2	69	n.n.
-04	3	70	n.n.
+04	1	68	Crichton Kicks
+04	2	69	What Was Lost 1. Sacrifice
+04	3	70	What Was Lost 2. Resurrection
 04	4	71	n.n.
 04	5	72	n.n.
 04	6	73	n.n.
