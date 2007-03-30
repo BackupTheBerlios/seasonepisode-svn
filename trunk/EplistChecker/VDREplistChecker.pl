@@ -3,9 +3,9 @@
 ##########################################################################
 #
 #
-$Version = "0.1.11";
+$Version = "0.1.12";
 #
-# Date:    2007-02-27
+# Date:    2007-03-30
 #
 # Author: Mike Constabel <vejoun @ vdrportal . de>
 #                        <vejoun @ toppoint . de>
@@ -136,6 +136,7 @@ foreach ( @Files ) {
       $LineField{Subtitle} =~ s/ +/ /g;
       $LineField{Subtitle} =~ s/ (?:- )?\((\d)(?:\/\d)?\)$/, Teil $1/;
       $LineField{Subtitle} =~ s/ - Teil (\d)$/, Teil $1/;
+      $LineField{Subtitle} =~ s/\w Teil (\d)$/, Teil $1/;
 
       %LastLineField = %LineField if $firstline;
 
