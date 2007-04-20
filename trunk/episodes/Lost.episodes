@@ -2,7 +2,7 @@
 # SEASONLIST
 # 1	1	25
 # 2	26	49
-# 3	44	67
+# 3	50	73
 # /SEASONLIST
 #
 #SE	EP	No.	Title
@@ -65,10 +65,10 @@
 03	4	53	Jeder für sich
 03	5	54	Der Preis des Lebens
 03	6	55	Ja, ich will
-03	7	56	n.n.
-03	8	57	n.n.
-03	9	58	n.n.
-03	10	59	n.n.
+03	7	56	Nicht in Portland
+03	8	57	Erinnerungsfetzen
+03	9	58	Fremd in fremden Land
+03	10	59	Tricia Tanaka ist tot
 03	11	60	n.n.
 03	12	61	n.n.
 03	13	62	n.n.
@@ -77,3 +77,9 @@
 03	16	65	n.n.
 03	17	66	n.n.
 03	18	67	n.n.
+03	19	68	n.n.
+03	20	69	n.n.
+03	21	70	n.n.
+03	22	71	n.n.
+03	23	72	n.n.
+03	24	73	n.n.
