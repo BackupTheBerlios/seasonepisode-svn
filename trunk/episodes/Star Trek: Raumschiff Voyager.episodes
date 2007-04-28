@@ -16,8 +16,8 @@
 #SE	EP	No.	Title
 #
 # 01. Staffel
-01	1	1	Der Fürsorger Teil 1
-01	2	2	Der Fürsorger Teil 2
+01	1	1	Der Fürsorger, Teil 1
+01	2	2	Der Fürsorger, Teil 2
 01	3	3	Die Parallaxe *
 01	4	4	Subraumspalten
 01	5	5	Transplantationen
@@ -87,15 +87,15 @@
 03	25	67	Rebellion Alpha
 03	26	68	Skorpion, Teil 1
 # 04. Staffel
-04	1	69	Skorpion Teil 2
+04	1	69	Skorpion, Teil 2
 04	2	70	Die Gabe
 04	3	71	Tag der Ehre
 04	4	72	Nemesis
 04	5	73	Der Isomorph
 04	6	74	Der schwarze Vogel
 04	7	75	Verwerfliche Experimente
-04	8	76	Ein Jahr Hölle (Teil 1)
-04	9	77	Ein Jahr Hölle (Teil 2)
+04	8	76	Ein Jahr Hölle, Teil 1
+04	9	77	Ein Jahr Hölle, Teil 2
 04	10	78	Gewalttätige Gedanken
 04	11	79	Apropos Fliegen
 04	12	80	Leben nach dem Tod
@@ -104,8 +104,8 @@
 04	15	83	Jaeger
 04	16	84	Die Beute
 04	17	85	Im Rückblick
-04	18	86	Das Tötungsspiel (Teil 1)
-04	19	87	Das Tötungsspiel (Teil 2)
+04	18	86	Das Tötungsspiel, Teil 1
+04	19	87	Das Tötungsspiel, Teil 2
 04	20	88	Vis a Vis
 04	21	89	Die Omega Direktive
 04	22	90	Unvergessen
@@ -128,8 +128,8 @@
 05	12	106	Chaoticas Braut
 05	13	107	Schwere
 05	14	108	Euphorie
-05	15	109	Das Ungewisse Dunkel (Teil 1)
-05	16	110	Das Ungewisse Dunkel (Teil 2)
+05	15	109	Das Ungewisse Dunkel, Teil 1
+05	16	110	Das Ungewisse Dunkel, Teil 2
 05	17	111	Das Generationenschiff
 05	18	112	Endstation-Vergessenheit
 05	19	113	Der Kampf
@@ -139,9 +139,9 @@
 05	23	117	2359
 05	24	118	Zeitschiff Relativity
 05	25	119	Geheimnisvolle Intelligenz
-05	26	120	Equinox (Teil 1)
+05	26	120	Equinox, Teil 1
 # 06. Staffel
-06	1	121	Equinox (Teil 2)
+06	1	121	Equinox, Teil 2
 06	2	122	Ueberlebensinstinkt
 06	3	123	Die Barke der Toten
 06	4	124	Dame, Doktor, Ass, Spion
@@ -166,9 +166,9 @@
 06	23	143	Voller Wut
 06	24	144	Rettungsanker
 06	25	145	Der Spuk von Deck Zwölf
-06	26	146	Unimatrix Zero Teil 1
+06	26	146	Unimatrix Zero, Teil 1
 # 07. Staffel
-07	1	147	Unimatrix Zero Teil 2
+07	1	147	Unimatrix Zero, Teil 2
 07	2	148	Unvollkommenheit
 07	3	149	Das Rennen
 07	4	150	Verdrängung
@@ -176,15 +176,15 @@
 07	6	152	Eingeschleust
 07	7	153	Körper und Seele
 07	8	154	Nightingale
-07	9	155	Fleisch und Blut Teil 1
-07	10	156	Fleisch und Blut Teil 2
+07	9	155	Fleisch und Blut, Teil 1
+07	10	156	Fleisch und Blut, Teil 2
 07	11	157	Zersplittert
 07	12	158	Abstammung
 07	13	159	Reue
 07	14	160	Die Prophezeiung
 07	15	161	Die Leere
-07	16	162	Arbeiterschaft Teil 1
-07	17	163	Arbeiterschaft Teil 2
+07	16	162	Arbeiterschaft, Teil 1
+07	17	163	Arbeiterschaft, Teil 2
 07	18	164	Menschliche Fehler
 07	19	165	Q2
 07	20	166	Author - Author
@@ -192,5 +192,5 @@
 07	22	168	Ein natürliches Gesetz
 07	23	169	Eine Heimstätte
 07	24	170	Renaissancemensch
-07	25	171	Endspiel Teil 1
-07	26	172	Endspiel Teil 2
+07	25	171	Endspiel, Teil 1
+07	26	172	Endspiel, Teil 2
