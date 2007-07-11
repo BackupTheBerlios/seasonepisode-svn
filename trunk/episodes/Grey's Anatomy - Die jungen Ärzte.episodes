@@ -4,7 +4,7 @@
 # SEASONLIST
 # 1	1	9
 # 2	10	36
-# 3	37	59
+# 3	39	61
 # /SEASONLIST
 #
 #SE	EP	No.	Title
@@ -55,13 +55,13 @@
 03	5	41	Schuldgefühle
 03	6	42	Von Schweinen und Hühnern
 03	7	43	Unter Männern
-03	8	44	n.n.
-03	9	45	n.n.
-03	10	46	n.n.
-03	11	47	n.n.
-03	12	48	n.n.
-03	13	49	n.n.
-03	14	50	n.n.
+03	8	44	Der blinde Fleck
+03	9	45	Verrat
+03	10	46	Die richtige Distanz
+03	11	47	Das Vater Syndrom
+03	12	48	Die große Stille
+03	13	49	Hohe Erwartungen
+03	14	50	Toxisch
 03	15	51	n.n.
 03	16	52	n.n.
 03	17	53	n.n.
@@ -71,3 +71,5 @@
 03	21	57	n.n.
 03	22	58	n.n.
 03	23	59	n.n.
+03	24	60	n.n.
+03	25	61	n.n.

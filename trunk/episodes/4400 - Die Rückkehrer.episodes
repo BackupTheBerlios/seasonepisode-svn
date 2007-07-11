@@ -1,0 +1,46 @@
+#
+# SHORT 4400
+#
+# SEASONLIST
+# 1	1	6
+# 2	7	19
+# 3	20	32
+# /SEASONLIST
+#
+#SE	EP	No.	Title
+#
+# 01. Staffel
+01	1	1	n.n.
+01	2	2	n.n.
+01	3	3	n.n.
+01	4	4	n.n.
+01	5	5	n.n.
+01	6	6	n.n.
+# 02. Staffel
+02	1	7	Der Weckruf, Teil 1
+02	2	8	Der Weckruf, Teil 2
+02	3	9	Das zweite Gesicht
+02	4	10	Bis auf die Knochen
+02	5	11	Alles für die Kinder
+02	6	12	Wer erschoss J.C.
+02	7	13	Die Tür
+02	8	14	Todesengel
+02	9	15	Wiedergeburt
+02	10	16	Verborgen
+02	11	17	Aggressionen
+02	12	18	Quarantäne
+02	13	19	Das Serum
+# 03. Staffel
+03	1	20	Die neue Welt, Teil 1
+03	2	21	Die neue Welt, Teil 2
+03	3	22	Wer ist Tom Baldwin
+03	4	23	Verschwunden, Teil 1
+03	5	24	Verschwunden, Teil 2
+03	6	25	Isabelles Rache
+03	7	26	Verrat
+03	8	27	Das Halluzinogen
+03	9	28	Der Rockstar
+03	10	29	Die Starzl Mutation
+03	11	30	Der Prediger
+03	12	31	Der Verdacht
+03	13	32	Auf des Messers Schneide

@@ -1,9 +1,11 @@
 #
+# SHORT Cold Case
+#
 # SEASONLIST
 # 1	1	23
 # 2	24	46
 # 3	47	69
-# 4	70	92
+# 4	70	93
 # /SEASONLIST
 #
 #SE	EP	No.	Title
@@ -87,13 +89,13 @@
 04	4	73	Baby Blues
 04	5	74	Plan B
 04	6	75	Rock'n'Roll
-04	7	76	n.n.
-04	8	77	n.n.
-04	9	78	n.n.
-04	10	79	n.n.
-04	11	80	n.n.
-04	12	81	n.n.
-04	13	82	n.n.
+04	7	76	Der Schlüssel
+04	8	77	Glühwürmchen
+04	9	78	Einsame Herzen
+04	10	79	Einmal Cop, immer Cop
+04	11	80	Die Sugar Boys
+04	12	81	Fight Club
+04	13	82	Blackout
 04	14	83	n.n.
 04	15	84	n.n.
 04	16	85	n.n.
@@ -104,3 +106,4 @@
 04	21	90	n.n.
 04	22	91	n.n.
 04	23	92	n.n.
+04	24	93	n.n.

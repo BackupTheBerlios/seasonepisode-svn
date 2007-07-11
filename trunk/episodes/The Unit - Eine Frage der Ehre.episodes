@@ -1,6 +1,9 @@
 #
+# SHORT The Unit
+#
 # SEASONLIST
 # 1	1	13
+# 2	14	36
 # /SEASONLIST
 #
 #SE	EP	No.	Title
@@ -15,7 +18,31 @@
 01	7	7	Harte Landung
 01	8	8	Drei Tage
 01	9	9	Das Leben der Kinder
-01	10	10	n.n.
-01	11	11	n.n.
-01	12	12	n.n.
-01	13	13	n.n.
+01	10	10	Unauffindbar
+01	11	11	Die schöne Witwe
+01	12	12	Die Bombe
+01	13	13	Der Kriegsverbrecher
+# 02. Staffel
+02	1	14	Die Versetzung
+02	2	15	Ein unmögliches Attentat
+02	3	16	Schüsse aus dem Hinterhalt
+02	4	17	Gefährliche Fracht
+02	5	18	Höhere Gewalt
+02	6	19	Diamanten
+02	7	20	n.n.
+02	8	21	n.n.
+02	9	22	n.n.
+02	10	23	n.n.
+02	11	24	n.n.
+02	12	25	n.n.
+02	13	26	n.n.
+02	14	27	n.n.
+02	15	28	n.n.
+02	16	29	n.n.
+02	17	30	n.n.
+02	18	31	n.n.
+02	19	32	n.n.
+02	20	33	n.n.
+02	21	34	n.n.
+02	22	35	n.n.
+02	23	36	n.n.

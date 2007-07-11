@@ -1,0 +1,69 @@
+#
+# SEASONLIST
+# 0	1	1
+# 1	2	9
+# 2	10	17
+# 3	18	25
+# 4	26	33
+# 5	34	41
+# 6	42	49
+# /SEASONLIST
+#
+#SE	EP	No.	Title
+#
+# 00. Staffel
+00	1	1	Du stirbst wie ich es will
+# 01. Staffel
+01	1	2	Der Polizeifan
+01	2	3	Mutterglück
+01	3	4	Schach der Dame
+01	4	5	Die Ikone
+01	5	6	Mörderkind
+01	6	7	Der Drache
+01	7	8	Gier
+01	8	9	Die Schneekönigin
+# 02. Staffel
+02	1	10	Das Spukhaus
+02	2	11	Der Rosenkavalier
+02	3	12	Der Fetischist
+02	4	13	Die Jagd
+02	5	14	Killer im Netz
+02	6	15	Der Lebensretter
+02	7	16	Spiegelbilder
+02	8	17	Das letzte Kapitel
+# 03. Staffel
+03	1	18	Jungfrauenschnaps
+03	2	19	Die Abrechnung
+03	3	20	Der Todesengel
+03	4	21	Der Vampir
+03	5	22	Phönix aus der Asche
+03	6	23	Stuttgart Rot
+03	7	24	Der Messias
+03	8	25	Sorgen einer Mutter
+# 04. Staffel
+04	1	26	Arzt und Dämon
+04	2	27	Im Namen der Liebe
+04	3	28	Der Neurotiker
+04	4	29	Zwillinge
+04	5	30	Göttin, Teil 1
+04	6	31	Göttin, Teil 2
+04	7	32	Gespräch mit einem Toten
+04	8	33	Reine Welt
+# 05. Staffel
+05	1	34	Blutsbande
+05	2	35	Engelchen flieg
+05	3	36	Todesspiel
+05	4	37	Born und die Frauen
+05	5	38	Herbstkinder
+05	6	39	Alle meine Lieben
+05	7	40	Blut und Wasser, Teil 1
+05	8	41	Blut und Wasser, Teil 2
+# 06. Staffel
+06	1	42	Auf der Flucht
+06	2	43	Killer im Kopf
+06	3	44	Der Kannibale
+06	4	45	Das Geheimnis der Wölfe
+06	5	46	Kinder, Teil 1
+06	6	47	Kinder, Teil 2
+06	7	48	Die Cellistin
+06	8	49	Der Todeskuss

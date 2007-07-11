@@ -5,7 +5,7 @@
 # 3	46	66
 # 4	67	89
 # 5	90	111
-# 6	112	121
+# 6	112	133
 # /SEASONLIST
 #
 #SE	EP	No.	Title
@@ -123,9 +123,9 @@
 05	17	106	Der Brooklyn-Mord
 05	18	107	Voodoo
 05	19	108	Kreuzfahrt in den Tod
-05	20	109	Blackout
+05	20	109	Blutsbrüder
 05	21	110	Im Kreuzfeuer
-05	22	111	Blutsbrüder
+05	22	111	Blackout
 # 06. Staffel
 06	1	112	n.n.
 06	2	113	n.n.
@@ -137,3 +137,15 @@
 06	8	119	n.n.
 06	9	120	n.n.
 06	10	121	n.n.
+06	11	122	n.n.
+06	12	123	n.n.
+06	13	124	n.n.
+06	14	125	n.n.
+06	15	126	n.n.
+06	16	127	n.n.
+06	17	128	n.n.
+06	18	129	n.n.
+06	19	130	n.n.
+06	20	131	n.n.
+06	21	132	n.n.
+06	22	133	n.n.
