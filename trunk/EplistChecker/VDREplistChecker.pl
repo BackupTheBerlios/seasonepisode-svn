@@ -3,9 +3,9 @@
 ##########################################################################
 #
 #
-$Version = "0.1.12";
+$Version = "0.1.14";
 #
-# Date:    2007-03-30
+# Date:    2007-08-10
 #
 # Author: Mike Constabel <vejoun @ vdrportal . de>
 #                        <vejoun @ toppoint . de>
@@ -136,7 +136,8 @@ foreach ( @Files ) {
       $LineField{Subtitle} =~ s/ +/ /g;
       $LineField{Subtitle} =~ s/ (?:- )?\((\d)(?:\/\d)?\)$/, Teil $1/;
       $LineField{Subtitle} =~ s/ - Teil (\d)$/, Teil $1/;
-      $LineField{Subtitle} =~ s/\w Teil (\d)$/, Teil $1/;
+      $LineField{Subtitle} =~ s/(\w) Teil (\d)$/$1, Teil $2/;
+      $LineField{Subtitle} =~ s/(\w) \(Teil (\d)\)$/$1, Teil $2/;
 
       %LastLineField = %LineField if $firstline;
 
@@ -164,7 +165,7 @@ foreach ( @Files ) {
           push(@Data, "#");
         }
         if ( $LineField{Season} > $LastLineField{Season} || $firstline ) {
-          push(@Data, sprintf("# %02i. Staffel", $LineField{Season}));
+          push(@Data, sprintf("# %02i. Season", $LineField{Season}));
         }
         $firstline = 0 if $firstline;
         $LineField{Miscellaneous} = "\t".$LineField{Miscellaneous} if ( $LineField{Miscellaneous} );
@@ -188,7 +189,7 @@ foreach ( @Files ) {
     } elsif ( $Line =~ /^#\s*SE\s*EP/ ) {
       $infos++ if ! $Config{quiet};
       push(@Msg, sprintf ("%s:%i: Info: Skipping not needed line.\n", $InFile, $linenumber)) if ! $Config{quiet};
-    } elsif ( $Line =~ /^#\s*(\d+.*staffel|staffel.*\d+)\s*\S*$/i ) {
+    } elsif ( $Line =~ /^#\s*(\d+.*(?:staffel|season)|staffel.*\d+)\s*\S*$/i ) {
       $infos++ if ! $Config{quiet};
       push(@Msg, sprintf ("%s:%i: Info: Skipping not needed line.\n", $InFile, $linenumber)) if ! $Config{quiet};
     } elsif ( $Line =~ /^#.+/ && ! $i ) {
